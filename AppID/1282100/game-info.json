@@ -425,7 +425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/a93d360d5938529e6696ed881b20c930bafc1883.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "96.1"
+      "percent": "96.2"
     },
     "DLC3_Obtain_Redeemer": {
       "name": "The Master Builder",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/018bdffbe7a348a2b8721abd8dd07ca91d4132f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "Upgrade_Weapon_Mutator": {
       "name": "Transmutate",

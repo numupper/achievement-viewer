@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/432fde6aff6be1ef71df1be530e8acd89893d7de.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "Mystery_Step01": {
       "name": "Amateur Detective",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/61f9ea52245e2bea9683c9b4f7a26cf47f8e31a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "VacationsAtTheLake": {
       "name": "Ever After",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/8a79669222568c70b9e20a813fedc80680d42c28.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "63.7"
+      "percent": "63.6"
     },
     "WeaponMaxUpgrade_AllWeapons_Once": {
       "name": "Good Vibrations",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/d1b89e6eb95450b15ba98593bd6847ff2f4f8eab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "75.9"
+      "percent": "75.8"
     },
     "ItemPlacements": {
       "name": "Keymaster",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/a5a74855c7f93fc10e252787f3277c42b9cd5849.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "Haze_Kill_Tier01": {
       "name": "Rise and Phol",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/8ac84bb7ebc962b6382da044c05bae586f5179c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "39.2"
+      "percent": "39.1"
     },
     "Research_CivilWar_AllItems": {
       "name": "War Correspondent",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/16e7171daf4ee7d8bf150ebd9f4a76f9cadbf42f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "Visit_AllMaps": {
       "name": "Well-Travelled",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/909d18092c3235d274ff100addb7f07c0461c49e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "20.2"
+      "percent": "20.1"
     }
   },
   "platform": null,

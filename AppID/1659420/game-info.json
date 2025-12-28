@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b39904f1eb436be579c059e9e157ed66e3b5aa56.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/da737c7ad99e7d5b5aa6aa588b3903388321c2a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/27d4e235219d0748b1738b72def2c9d341948ed3.jpg",
       "hidden": false,
-      "percent": "1.7"
+      "percent": "1.6"
     },
     "TROPHY_NAME_BEAT_GAME": {
       "name": "Legacy Found!",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/dc9aaeb3ff043870a71a3a5848139780b807e52a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b29dc1af4a98161d103bdfdef8ee8f612bbd7301.jpg",
       "hidden": true,
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "TROPHY_NAME_DOLPHINS": {
       "name": "On Porpoise",
@@ -697,7 +697,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4591782ce087652d0453ffe006a8c4afa70bb8d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a8517f92833d9655f5ed85bc80020c0e38068866.jpg",
       "hidden": false,
-      "percent": "63.3"
+      "percent": "63.2"
     },
     "TROPHY_NAME_DAMAGE_VARIETY": {
       "name": "The Sampler",
@@ -729,7 +729,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/6cb316c3b2e65001b6057ba3724f7f72735bfbaa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/bc8438c94e58395350e9a9d46e3a9f2bb136e4f5.jpg",
       "hidden": true,
-      "percent": "32.8"
+      "percent": "32.7"
     },
     "TROPHY_NAME_TREASURE_50": {
       "name": "Treasure Hunter",
@@ -753,7 +753,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/2daf76bbf0d823df891a8f75669fa89978d9b5af.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/525f1516de89236489f9763e7616c988b064812d.jpg",
       "hidden": true,
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "TROPHY_NAME_NO_DEATH_100_KILLS": {
       "name": "Unstoppable!",
@@ -769,7 +769,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/34f08b4e3f906b4edd55fba2d5eda6abfdea1f45.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/fd56bdf6c945532d0acb9b9af5cf9868b10c0603.jpg",
       "hidden": true,
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "TROPHY_NAME_COMBO_BUDDY_TAKEDOWN": {
       "name": "Wingman",

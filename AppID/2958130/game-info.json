@@ -1,7 +1,7 @@
 {
   "appid": "2958130",
-  "name": "Jurassic World Evolution 3",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/df39f8c59232633e8e01ab63313b095402bdd0d5/header.jpg?t=1765290696",
+  "name": "Game 2958130",
+  "icon": "",
   "achievements": {
     "JWDatabase100": {
       "name": "...You Could Predict Anything",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/9057e84279fa118a00b5acaa262453cb2448d328.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
       "hidden": false,
-      "percent": "40.9"
+      "percent": "40.8"
     },
     "BuildLagoon": {
       "name": "Include That In The Brochure",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/16a6708256976fba68f165469d2fc444120647fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
