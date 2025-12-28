@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/8bf5ed14bab95b4a584bfd38ff98227823000d07.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/acb0b8bfccd8e19e138063a7f764634c51f1ed8d.jpg",
       "hidden": false,
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "Isles_Citizen": {
       "name": "Citizen, Shivering Isles",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e676f7b538d095513b91a7ec06c63d0925f81950.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/20c02fec92222a4c231e47c4d5db0a5a9a5867da.jpg",
       "hidden": false,
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "Main_EscapedTheImperialSewers": {
       "name": "Escaped the Imperial Sewers",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/6ffc4e50b9cd3f9512580974496ae6bb14b4e829.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/3a0a5b6d4bd33f25d23730c9d42f4b906ad00d7f.jpg",
       "hidden": false,
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "Thief_Guildmaster": {
       "name": "Guildmaster, Thieves Guild",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/46abab8d779ebaaaa1d5dd5f1df5cc2830890c44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/57870b8d927dddddd74553845c2f74e27b057eb7.jpg",
       "hidden": false,
-      "percent": "23.1"
+      "percent": "23.0"
     },
     "Arena_Myrmidon": {
       "name": "Myrmidon, Arena",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/3f413de49f9770d538b22b649052976e6cc6f653.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/5de6ad85f93332dc25939db95cb7a783886a3213.jpg",
       "hidden": false,
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "Arena_PitDog": {
       "name": "Pit Dog, Arena",
@@ -473,7 +473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/182c0b695ab9ce79664004352c3668f9faddb998.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/4881ace8da55ba54009bf40b4294f148d067ea40.jpg",
       "hidden": false,
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "Mage_Wizard": {
       "name": "Wizard, Mages Guild",

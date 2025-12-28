@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ef2b59ebcbd0aa1585a304bff5bfbfa390d76d05.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2a03672c72341cf1f4d14eaaf647313b31869565.jpg",
       "hidden": false,
-      "percent": "24.2"
+      "percent": "24.1"
     },
     "ACH_DRIFT_DISTANCE_1": {
       "name": "#DriftStarter",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/6d9e5f0181c5bd86781d81ed14f34b0cb077a154.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c4c1f1e8549481c0dc01c13960b8b5cfb4fb4453.jpg",
       "hidden": false,
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "ACH_CLUB_PYTHONS": {
       "name": "#Pythons",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/177611499c2080116a7b628df0ac8697e2f3ebca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c86239c2ef44ae99c68aeff9f391691f771dd39c.jpg",
       "hidden": false,
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ACH_CLUB_ROAD_RUNNER": {
       "name": "#Road Runner",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/32101f38d3d4e4ab71c1d4b19f70c083c9c79c9f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c17b3733778e0636277da68ebca3b1936a6a489b.jpg",
       "hidden": false,
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "ACH_LEADERBOARD_500": {
       "name": "Ambitious Beginner",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/63d7bb04463465c708d8bad3d2f13e42e456bc57.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/19a9d60440d6d1e054ade61709333e2041910b33.jpg",
       "hidden": false,
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "ACH_DUEL_1": {
       "name": "Dueling Beginner",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/35c8bcc67b981709dd40351efdebf36d07554674.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ed2889a752796e0476ebcd227c812078d2d08bd4.jpg",
       "hidden": false,
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "ACH_LEADERBOARD_100": {
       "name": "Elite Racer",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/1476eaab0d4c65bf24882b36138d0e6ac7b8c863.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fc2933b9302273ee100b19bc74b36a4df6f038c3.jpg",
       "hidden": false,
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "ACH_JDUN": {
       "name": "Finally!",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a1d69d9daa63634d5477cf3d18b128270b338751.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/78a6fadb7e29432118dc5732190075ad35e25ddc.jpg",
       "hidden": false,
-      "percent": "15.7"
+      "percent": "15.6"
     },
     "ACH_AIR_TIME_1": {
       "name": "Height Lover",

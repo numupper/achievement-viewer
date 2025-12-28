@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/7508f8edd3f391115aacd0c78e0c0127fe2b93b5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4af6d18bc8a9f6bb632c6a42450017e5e5f08e2c.jpg",
       "hidden": false,
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "TROPHY_NAME_HEAD_CHAIN": {
       "name": "10 Up, 10 Down",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/d18e83016ebf9c9f0f5ef7a1252bf5429c26d893.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/cba45e5ed0fec3ec4e556a2873c15d6871a480de.jpg",
       "hidden": false,
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "TROPHY_NAME_GOLD_WEAPONS": {
       "name": "Bring in the Big Guns",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/e31fae7bcda4af86e060ca9cf514acd2ca24114f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/cd30031e8443d5a1763bca658b6d83cb6464cd05.jpg",
       "hidden": false,
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "TROPHY_NAME_FINISH_EASY": {
       "name": "Charted! - Light",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/f9ad09b04f96e4b487da796f0d5beb07b97d249c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a36a159f97c560fb56c7f8a3aeba7f67780dfcaa.jpg",
       "hidden": false,
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "TROPHY_NAME_FINISH_NORMAL": {
       "name": "Charted! - Moderate",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/0c88ebd67fe6056b925a02ccffddfcef6dd03883.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/2cf3befa44da3f2ce6b12d85db7bf80176a1dced.jpg",
       "hidden": false,
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "TROPHY_NAME_PUZZLE_NO_DAMAGE": {
       "name": "Flawless Gauntlet",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/26f52246341ac95ca8c682bd9810836f3f5050c1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/464f691ece04659b217215795073a36383d65cac.jpg",
       "hidden": true,
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "TROPHY_NAME_SULLY_PHOTO": {
       "name": "Glamour Shot",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4f0d88b37d6874f3b5132af2054f05dcbcfac681.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/6e24c19d7186c5cd0759ea3052160dd837bdc421.jpg",
       "hidden": true,
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "TROPHY_NAME_FROM_THE_HIP": {
       "name": "Itchy Trigger Finger",
@@ -473,7 +473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/838dde91f3ad12e11195d268180062ae8050ee54.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b148c4938a66fed0634203df3624d436b0d89323.jpg",
       "hidden": true,
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "TROPHY_NAME_KNOCK_ROCKS_DOWN": {
       "name": "Not a Cairn in the World",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/dc9aaeb3ff043870a71a3a5848139780b807e52a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b29dc1af4a98161d103bdfdef8ee8f612bbd7301.jpg",
       "hidden": true,
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "TROPHY_NAME_DOLPHINS": {
       "name": "On Porpoise",
@@ -609,7 +609,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/512c787327419d71eb1727c27df09a079ae94818.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/fa91f2215f8b479e0b54c909dee5f714bde1d2f9.jpg",
       "hidden": true,
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "TROPHY_NAME_RELIC_FINDER": {
       "name": "Shake For Your Fortune",
@@ -633,7 +633,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/c6aeb8e1cffc9a8e73059813e1fc1f2a75b1bc51.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/7609872741ac8070c62f33410cc1e7a9ddc30e78.jpg",
       "hidden": false,
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "TROPHY_NAME_ALL_WEAPONS": {
       "name": "Si Vis Pacem Para Bellum",
@@ -697,7 +697,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4591782ce087652d0453ffe006a8c4afa70bb8d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a8517f92833d9655f5ed85bc80020c0e38068866.jpg",
       "hidden": false,
-      "percent": "63.2"
+      "percent": "63.3"
     },
     "TROPHY_NAME_DAMAGE_VARIETY": {
       "name": "The Sampler",
@@ -753,7 +753,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/2daf76bbf0d823df891a8f75669fa89978d9b5af.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/525f1516de89236489f9763e7616c988b064812d.jpg",
       "hidden": true,
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "TROPHY_NAME_NO_DEATH_100_KILLS": {
       "name": "Unstoppable!",
@@ -801,7 +801,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/7a76215d6a2a499c1c1368682f0bb21958f72d31.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b063e4193fd9892c320971cf8e7729d8ba1c08f6.jpg",
       "hidden": false,
-      "percent": "58.7"
+      "percent": "58.8"
     },
     "TROPHY_NAME_TOWER_YOGA": {
       "name": "Your Prize",

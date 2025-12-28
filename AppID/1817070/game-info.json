@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/53107e0e95f8c2eeb4efe116fae4600639bae576.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/9806f76e4582df79777d46dcd6e80ce4c4b08a4c.jpg",
       "hidden": true,
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "asuitforallseasons": {
       "name": "A Suit For All Seasons",
@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/2c406174ce4ab0bed9b411b260f40c691c77efa7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4d4676e3c0a3a2f9b4e979b0db3d87494e4b36ab.jpg",
       "hidden": false,
-      "percent": "59.9"
+      "percent": "59.8"
     },
     "alltheking_smen": {
       "name": "All the King's Men",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/1d7d99780f66b93a331038b4bd7321900714b06f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/3129dacdd4e5bfb42a99802161c0efdd48a2f23a.jpg",
       "hidden": false,
-      "percent": "56.4"
+      "percent": "56.3"
     },
     "andstaydown!": {
       "name": "And Stay Down!",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/c678a539a4e708d5fe2057a770b6990d239e74d1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5bdec246510f2f38a48406e7b77997b1da85485a.jpg",
       "hidden": false,
-      "percent": "70.1"
+      "percent": "70.0"
     },
     "arachnophobia": {
       "name": "Arachnophobia",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5271e35ad43586155fab91ae987234f70e1ac1ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/3427ae99cfdfc58ad24760b96565fc7ea3e07cd8.jpg",
       "hidden": false,
-      "percent": "61.7"
+      "percent": "61.6"
     },
     "backintheslammer": {
       "name": "Back in the Slammer",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/04ab6a2dc0777d31b1dd0709f517be090fa572af.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/3bf50f6660de336049cebdc74be0101b430b34c5.jpg",
       "hidden": false,
-      "percent": "43.9"
+      "percent": "43.8"
     },
     "byefelicia": {
       "name": "Bye Felicia",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/e622ad181ff0a30d69b053f96710aa1b023fb2b8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/fe4090a163e070bdc4f89b6c205cdfbf2487ce54.jpg",
       "hidden": true,
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "demonsemerge": {
       "name": "Demons Emerge",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5aa07aab3a2704e5405161a6cdafff35ea863551.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/e6d45686d1b5fa6e38e054c0ecf314f6318d75ea.jpg",
       "hidden": true,
-      "percent": "48.3"
+      "percent": "48.2"
     },
     "fistsoffury": {
       "name": "Fists of Fury",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/b1229e3a7719a4362b2042f2c12aa2f57b787e05.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/c4d255503926658e1d156ff894a200525c32fadd.jpg",
       "hidden": true,
-      "percent": "42.7"
+      "percent": "42.6"
     },
     "frenemies": {
       "name": "Frenemies",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/dce1ef80ac8efb17e91631e5c1b77dbe556add7c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/ec2619bc46ac722e12eb792a95e4aff0b3ad44db.jpg",
       "hidden": true,
-      "percent": "52.2"
+      "percent": "52.1"
     },
     "herekittykitty": {
       "name": "Here Kitty-Kitty",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/693a4037d3752841aa4d93de7538b24c49a1c2dc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4162226f9bad466618244635f3b379aedc88000d.jpg",
       "hidden": true,
-      "percent": "28.8"
+      "percent": "28.7"
     },
     "heroforhigher": {
       "name": "Hero for Higher",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/371ea9a32a7c2b485a219ea0c6107fd0de8db779.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/a9247fafd150c3a4e794f6b3a856c5c779d5d41a.jpg",
       "hidden": false,
-      "percent": "37.7"
+      "percent": "37.6"
     },
     "hugitout": {
       "name": "Hug It Out",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/919e55103b52a500c65740ba35ca9daf3723eed7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/a9302c2f1ca2ab3076d09c9715d76f58ced36286.jpg",
       "hidden": false,
-      "percent": "75.5"
+      "percent": "75.4"
     },
     "masterofmasters": {
       "name": "Master of Masters",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/923df3538d3813f5999334968ad061b841c01a6e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5dadb1987d3b5b6d7f7b817cc1e9829bc17ec046.jpg",
       "hidden": true,
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "master_seducation": {
       "name": "Master's Education",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/2da4a0498aabe6d4fcf43db75d6d8441899df164.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/c546a12fb50a6ec011c2b76cb69beaeba3fea87e.jpg",
       "hidden": false,
-      "percent": "39.5"
+      "percent": "39.4"
     },
     "mercenarytactics": {
       "name": "Mercenary Tactics",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/a717887782206570eca071212f32981fe7e35b93.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/74f0119191915800f33df70eeca9188813cbab16.jpg",
       "hidden": true,
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "onemoretime": {
       "name": "One More Time",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/2425ecefff3b8991c386477505aa115e07f72a71.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/3a88a17da8a3ec9e577ef9f6d61eab414ed9c45b.jpg",
       "hidden": false,
-      "percent": "43.3"
+      "percent": "43.2"
     },
     "pigeonhunter": {
       "name": "Pigeon Hunter",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/dff7143ce5647acc51695eae9de7dd1624456cf4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4d039961de4b2a4d4637cf2a8db0f39ea5c5af26.jpg",
       "hidden": true,
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "pullingthetrigger": {
       "name": "Pulling the Trigger",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/08e2a42646a7bf71b9f2a8b374cf946018ac79fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/25758bcf2cbccf0b411753fcd6c612ccef398e77.jpg",
       "hidden": true,
-      "percent": "28.2"
+      "percent": "28.1"
     },
     "scienceftw!": {
       "name": "Science FTW!",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/61d4645865ee81d88b6eab262e6f9012ba296930.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/76cf5b1453addfbe50700e88840d5740429bd314.jpg",
       "hidden": false,
-      "percent": "42.4"
+      "percent": "42.3"
     },
     "screwballed": {
       "name": "Screwballed",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/6c34f3fc08ef21e4c037570868f5aa458ec80d5b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/cd920d2badf6729de8e410443b5821f8a2ac6dee.jpg",
       "hidden": true,
-      "percent": "71.7"
+      "percent": "71.6"
     },
     "shortfuse": {
       "name": "Short Fuse",
@@ -425,7 +425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/1ca8e59f5dca03c4c9e115ccdf42d3e0e9ff6962.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/39a9756cd9acf55a165419a39eb65605c27b7e90.jpg",
       "hidden": true,
-      "percent": "63.2"
+      "percent": "63.1"
     },
     "somanyhits": {
       "name": "So Many Hits...",
@@ -449,7 +449,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/d9e620a5388df5be7f524b93b280a1fdf929c27d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/bafc1715fe35530c559629921322e5c8137b4c19.jpg",
       "hidden": false,
-      "percent": "75.7"
+      "percent": "75.6"
     },
     "spyhunter": {
       "name": "Spy Hunter",
@@ -465,7 +465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/0817366677ca970cc34131c2c0d9c51955d4ef77.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/6bac82b021c5256578929290aa8b391c7e0e7952.jpg",
       "hidden": true,
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "steelskull,glassjaw": {
       "name": "Steel Skull, Glass Jaw",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/a985f4e98faf13e33a39236688682453f85b253d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/170ce96a5efc9e40599d1d949dc914ff2b7292d5.jpg",
       "hidden": true,
-      "percent": "50.3"
+      "percent": "50.2"
     },
     "superiorspiderman": {
       "name": "Superior Spider-Man",
@@ -497,7 +497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5b4727325d1f7d46c6fbd2c5bbd8f4f59ec6c361.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/641a64fe768fa6182317e0e8ce01a21f260d7efb.jpg",
       "hidden": false,
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "terminated": {
       "name": "Terminated",
@@ -521,7 +521,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5cbcae9bbb151ecf4a6154b70ce06f05b3ce1f39.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/f08ae6ec4f45677c99b07980583faf084c0a85d1.jpg",
       "hidden": false,
-      "percent": "13.6"
+      "percent": "13.5"
     },
     "thecitysleeps": {
       "name": "The City Sleeps",
@@ -553,7 +553,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/12d5903749459a1be9b7afa23d7b0ce84f87e1da.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/fa392e8a76071248c29ac2111363fbc003209534.jpg",
       "hidden": false,
-      "percent": "67.7"
+      "percent": "67.6"
     },
     "thesixassemble": {
       "name": "The Six Assemble",
@@ -625,7 +625,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/22855e49f1bdae939bdef2044272a876c8897299.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/c75cb683e32867e87aeacef9d68155b25ba96c2d.jpg",
       "hidden": true,
-      "percent": "11.3"
+      "percent": "11.2"
     }
   },
   "platform": null,
