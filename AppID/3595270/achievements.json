@@ -1,0 +1,236 @@
+{
+  "jup_mp_thefirststep": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_ob_andsoitbegins": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_ob_backfromthedead": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_ob_conqueror": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_ob_gravestone": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "jup_ob_helpfulstranger": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_ob_hiredgun": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "jup_ob_oneagainstall": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_ob_perkaholic": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_ob_seeingred": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_ob_slaughterhouse": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50000,
+    "progress": 0
+  },
+  "jup_ob_theend": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_ob_writeoff": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 500,
+    "progress": 0
+  },
+  "jup_ob_youcanpetthedog": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_141ready": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_boundandmagged": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 12,
+    "progress": 8
+  },
+  "jup_sp_cccollateral": {
+    "earned": true,
+    "earned_time": 1755511448,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_deathpenalty": {
+    "earned": true,
+    "earned_time": 1755266600,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_driveby": {
+    "earned": true,
+    "earned_time": 1755419874,
+    "max_progress": 10,
+    "progress": 9
+  },
+  "jup_sp_engineeringdegree": {
+    "earned": true,
+    "earned_time": 1755420631,
+    "max_progress": 5,
+    "progress": 4
+  },
+  "jup_sp_enjoythelittlethings": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_fightorflight": {
+    "earned": true,
+    "earned_time": 1755267723,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_frequentflier": {
+    "earned": true,
+    "earned_time": 1755334038,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_fullsweep": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_haveyoutriedturningitoff": {
+    "earned": true,
+    "earned_time": 1755420703,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_heycatch": {
+    "earned": true,
+    "earned_time": 1755419408,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_hitchhiker": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_hushhush": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_iliketopretendihaveaplan": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 60,
+    "progress": 20
+  },
+  "jup_sp_jackofallweapons": {
+    "earned": true,
+    "earned_time": 1755423493,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_oldhabitsdiehard": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_partyfavors": {
+    "earned": true,
+    "earned_time": 1755333823,
+    "max_progress": 5,
+    "progress": 4
+  },
+  "jup_sp_professionalhoarder": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_shotblocked": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_suit_up": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_thatsonewaytodoit": {
+    "earned": true,
+    "earned_time": 1755425203,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_timeforanewplan": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_whatthehellkindofnameis": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "jup_sp_yourtaxdollarsatwork": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  }
+}

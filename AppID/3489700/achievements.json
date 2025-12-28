@@ -1,0 +1,226 @@
+{
+  "01_Platinum": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "02_Activate_FirstCamp": {
+    "earned": true,
+    "earned_time": 1751101393
+  },
+  "03_KillCharacter_Opener": {
+    "earned": true,
+    "earned_time": 1751112965
+  },
+  "04_KillCharacter_GrubShooter": {
+    "earned": true,
+    "earned_time": 1751186245
+  },
+  "05_KillCharacter_Gigas_Kill": {
+    "earned": true,
+    "earned_time": 1751357349
+  },
+  "06_KillCharacter_Brute": {
+    "earned": true,
+    "earned_time": 1751903749
+  },
+  "07_CompleteLevel_AltesLabor": {
+    "earned": true,
+    "earned_time": 1751533302
+  },
+  "08_KillCharacter_Stalker_Kill": {
+    "earned": true,
+    "earned_time": 1752237456
+  },
+  "09_KillCharacter_Juggernaut_Kill": {
+    "earned": true,
+    "earned_time": 1752243504
+  },
+  "10_KillCharacter_Tachy_Kill": {
+    "earned": true,
+    "earned_time": 1752246486
+  },
+  "11_KillCharacter_Behemoth": {
+    "earned": true,
+    "earned_time": 1753106477
+  },
+  "12_CompleteLevel_AbyssLabor": {
+    "earned": true,
+    "earned_time": 1752586667
+  },
+  "13_KillCharacter_Belial_A_Kill": {
+    "earned": true,
+    "earned_time": 1753367510
+  },
+  "14_KillCharacter_Marionette_Kill": {
+    "earned": true,
+    "earned_time": 1753372323
+  },
+  "15_KillCharacter_Gorgon_Kill": {
+    "earned": true,
+    "earned_time": 1753374743
+  },
+  "16_KillCharacter_Raven_Kill": {
+    "earned": true,
+    "earned_time": 1753449445
+  },
+  "17_Ending_Colony": {
+    "earned": true,
+    "earned_time": 1753451748
+  },
+  "18_Ending_LostMemory": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "19_Ending_NewMemory": {
+    "earned": true,
+    "earned_time": 1753454359
+  },
+  "20_Acquire_AllCan": {
+    "earned": true,
+    "earned_time": 1753370035,
+    "max_progress": 49,
+    "progress": 48
+  },
+  "21_Acquire_AllNanoSuit": {
+    "earned": true,
+    "earned_time": 1752913479,
+    "max_progress": 30,
+    "progress": 29
+  },
+  "22_Acquire_AllRecords": {
+    "earned": true,
+    "earned_time": 1752753856,
+    "max_progress": 200,
+    "progress": 199
+  },
+  "23_Album_AllFish": {
+    "earned": true,
+    "earned_time": 1752765755,
+    "max_progress": 20,
+    "progress": 19
+  },
+  "24_Open_AllBox": {
+    "earned": true,
+    "earned_time": 1753194222,
+    "max_progress": 200,
+    "progress": 199
+  },
+  "25_KillCharacter_AllNative": {
+    "earned": true,
+    "earned_time": 1753451748,
+    "max_progress": 67,
+    "progress": 64
+  },
+  "26_Activate_AllCamp": {
+    "earned": true,
+    "earned_time": 1753449662,
+    "max_progress": 89,
+    "progress": 88
+  },
+  "27_LevelUpMax_AllExoSpine": {
+    "earned": true,
+    "earned_time": 1753196294,
+    "max_progress": 10,
+    "progress": 9
+  },
+  "28_WeaponMaxUpgrade": {
+    "earned": true,
+    "earned_time": 1753438243,
+    "max_progress": 15,
+    "progress": 14
+  },
+  "29_TumblerMaxUpgrade": {
+    "earned": true,
+    "earned_time": 1753367039,
+    "max_progress": 5,
+    "progress": 4
+  },
+  "30_BodyMaxUpgrade": {
+    "earned": true,
+    "earned_time": 1753443569,
+    "max_progress": 6,
+    "progress": 5
+  },
+  "31_BetaMaxUpgrade": {
+    "earned": true,
+    "earned_time": 1753446115,
+    "max_progress": 6,
+    "progress": 5
+  },
+  "32_Acquire_AllSkill": {
+    "earned": true,
+    "earned_time": 1753375010,
+    "max_progress": 96,
+    "progress": 95
+  },
+  "33_CompleteQuest_Enya": {
+    "earned": true,
+    "earned_time": 1753109658
+  },
+  "34_CompleteQuest_Kaya": {
+    "earned": true,
+    "earned_time": 1753106656
+  },
+  "35_CompleteQuest_Digger": {
+    "earned": true,
+    "earned_time": 1753108450
+  },
+  "36_JustEvade": {
+    "earned": true,
+    "earned_time": 1752486738,
+    "max_progress": 200,
+    "progress": 199
+  },
+  "37_JustParry": {
+    "earned": true,
+    "earned_time": 1752236026,
+    "max_progress": 300,
+    "progress": 299
+  },
+  "38_CharKill_AssassinationSkills": {
+    "earned": true,
+    "earned_time": 1752482975,
+    "max_progress": 50,
+    "progress": 49
+  },
+  "39_CharKill_BetaSkill": {
+    "earned": true,
+    "earned_time": 1751900462,
+    "max_progress": 100,
+    "progress": 99
+  },
+  "40_CharKill_BurstSkill": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 40
+  },
+  "41_CharKill_TachySkill": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 26
+  },
+  "42_CharKill_RangeSkill": {
+    "earned": true,
+    "earned_time": 1752584903,
+    "max_progress": 150,
+    "progress": 148
+  },
+  "43_KillCharacter": {
+    "earned": true,
+    "earned_time": 1752912526,
+    "max_progress": 1500,
+    "progress": 1499
+  },
+  "44_Complete_NewGamePlus": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "45_Acquire_AllSkill_NewGamePlus": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 12,
+    "progress": 0
+  }
+}
