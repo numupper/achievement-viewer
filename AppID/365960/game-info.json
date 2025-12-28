@@ -1,0 +1,210 @@
+{
+  "appid": "365960",
+  "name": "rFactor 2",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/header.jpg?t=1727871590",
+  "achievements": {
+    "1KilometerDrivenInPractice": {
+      "name": "1 kilometer driven in practice",
+      "description": "You've driven 1 kilometer in practice sessions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "76.4"
+    },
+    "10KilometersDrivenInPractice": {
+      "name": "10 kilometers driven in practice",
+      "description": "You've driven 10 kilometers in practice sessions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "66.7"
+    },
+    "100KilometersDrivenInPractice": {
+      "name": "100 kilometers driven in practice",
+      "description": "You've driven 100 kilometers in practice sessions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "41.5"
+    },
+    "100KilometersDrivenInRace": {
+      "name": "100 kilometers driven in race",
+      "description": "You've driven 100 kilometers in races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "25.8"
+    },
+    "100KMHInPractice": {
+      "name": "100 km/h in practice",
+      "description": "You've reached 100 km/h in a practice session.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "76.0"
+    },
+    "1000KilometersDrivenInPractice": {
+      "name": "1000 kilometers driven in practice",
+      "description": "You've driven 1000 kilometers in practice sessions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "16.4"
+    },
+    "1000KilometersDrivenInRace": {
+      "name": "1000 kilometers driven in race",
+      "description": "You've driven 1000 kilometers in races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "10.4"
+    },
+    "150KMHInPractice": {
+      "name": "150 km/h in practice",
+      "description": "You've reached 150 km/h in a practice session.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "73.9"
+    },
+    "200KilometersDrivenInPractice": {
+      "name": "200 kilometers driven in practice",
+      "description": "You've driven 200 kilometers in practice sessions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "33.0"
+    },
+    "200KMHInPractice": {
+      "name": "200 km/h in practice",
+      "description": "You've reached 200 km/h in a practice session.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "70.4"
+    },
+    "2000KilometersDrivenInPractice": {
+      "name": "2000 kilometers driven in practice",
+      "description": "You've driven 2000 kilometers in practice sessions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "11.2"
+    },
+    "2000KilometersDrivenInRace": {
+      "name": "2000 kilometers driven in race",
+      "description": "You've driven 2000 kilometers in races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "7.0"
+    },
+    "250KMHInPractice": {
+      "name": "250 km/h in practice",
+      "description": "You've reached 250 km/h in a practice session.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "57.5"
+    },
+    "300KMHInPractice": {
+      "name": "300 km/h in practice",
+      "description": "You've reached 300 km/h in a practice session.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "35.3"
+    },
+    "500KilometersDrivenInPractice": {
+      "name": "500 kilometers driven in practice",
+      "description": "You've driven 500 kilometers in practice sessions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "22.9"
+    },
+    "500KilometersDrivenInRace": {
+      "name": "500 kilometers driven in race",
+      "description": "You've driven 500 kilometers in races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "14.5"
+    },
+    "BehindTheWheel": {
+      "name": "behind the wheel",
+      "description": "You've sat behind the wheel of a car.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "83.0"
+    },
+    "FirstPitstopInPractice": {
+      "name": "first pitstop in practice",
+      "description": "You've made your first pitstop in a practice session.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "8.9"
+    },
+    "FirstPitstopInRace": {
+      "name": "first pitstop in race",
+      "description": "You've made your first pitstop in a race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "5.6"
+    },
+    "RacingAtDawn": {
+      "name": "racing at dawn",
+      "description": "You're racing at dawn.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "RacingAtDusk": {
+      "name": "racing at dusk",
+      "description": "You're racing at dusk.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "8.2"
+    },
+    "RacingAtMidnight": {
+      "name": "racing at midnight",
+      "description": "You're racing at midnight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "4.0"
+    },
+    "RacingAtNoon": {
+      "name": "racing at noon",
+      "description": "You're racing at noon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "14.4"
+    },
+    "PolePositionRolling": {
+      "name": "rolling start from pole position",
+      "description": "Your first rolling start from pole position.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "17.4"
+    },
+    "PolePositionStanding": {
+      "name": "standing start from pole position",
+      "description": "Your first standing start from pole position.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
+      "hidden": false,
+      "percent": "23.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
