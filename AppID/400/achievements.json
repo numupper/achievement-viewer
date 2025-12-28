@@ -1,0 +1,62 @@
+{
+  "PORTAL_BEAT_2ADVANCEDMAPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_BEAT_4ADVANCEDMAPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_BEAT_6ADVANCEDMAPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_BEAT_GAME": {
+    "earned": true,
+    "earned_time": 1647176725
+  },
+  "PORTAL_DETACH_ALL_CAMERAS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_ESCAPE_TESTCHAMBERS": {
+    "earned": true,
+    "earned_time": 1647161261
+  },
+  "PORTAL_GET_ALLBRONZE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_GET_ALLGOLD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_GET_ALLSILVER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_GET_PORTALGUNS": {
+    "earned": true,
+    "earned_time": 1645650017
+  },
+  "PORTAL_HIT_TURRET_WITH_TURRET": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_INFINITEFALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_KILL_COMPANIONCUBE": {
+    "earned": true,
+    "earned_time": 1646493077
+  },
+  "PORTAL_LONGJUMP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_TRANSMISSION_RECEIVED": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
