@@ -1,0 +1,110 @@
+{
+  "AppleOnHead": {
+    "earned": true,
+    "earned_time": 1714301095
+  },
+  "BeatTheGame": {
+    "earned": true,
+    "earned_time": 1714317615
+  },
+  "BeatTheGame30Minutes": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BeatTheGame60Minutes": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BreakSodaCan": {
+    "earned": true,
+    "earned_time": 1723047310
+  },
+  "ChallengeModeComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ClickAllBlueprints": {
+    "earned": true,
+    "earned_time": 1723215749
+  },
+  "ClickAllFireExtinguishers": {
+    "earned": true,
+    "earned_time": 1723215692
+  },
+  "CloneAlot": {
+    "earned": true,
+    "earned_time": 1723218168
+  },
+  "CollectAllChessPieces": {
+    "earned": true,
+    "earned_time": 1723216986
+  },
+  "CompleteConstellations": {
+    "earned": true,
+    "earned_time": 1723216120
+  },
+  "DevCommComplete": {
+    "earned": true,
+    "earned_time": 1723218826
+  },
+  "DrinkAllSodas": {
+    "earned": true,
+    "earned_time": 1723104781
+  },
+  "GrabTrophy": {
+    "earned": true,
+    "earned_time": 1723217716
+  },
+  "ImportObject": {
+    "earned": true,
+    "earned_time": 1723220493
+  },
+  "OpticalNook": {
+    "earned": true,
+    "earned_time": 1723049735
+  },
+  "PlayDream": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PullAllAlarms": {
+    "earned": true,
+    "earned_time": 1723215684
+  },
+  "PullOneFireAlarm": {
+    "earned": true,
+    "earned_time": 1714147781
+  },
+  "PullXFireAlarms": {
+    "earned": true,
+    "earned_time": 1714149486
+  },
+  "SodaInRecycling": {
+    "earned": true,
+    "earned_time": 1714214393
+  },
+  "SodaInTrash": {
+    "earned": true,
+    "earned_time": 1714214397
+  },
+  "TrashCanReject": {
+    "earned": true,
+    "earned_time": 1723050063
+  },
+  "UploadDream": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UploadObject": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VaguelyActivated": {
+    "earned": true,
+    "earned_time": 1723104308
+  },
+  "WinChessGame": {
+    "earned": true,
+    "earned_time": 1723217874
+  }
+}

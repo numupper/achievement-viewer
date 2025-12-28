@@ -1,0 +1,186 @@
+{
+  "Act01_Complete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Act02_Complete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Act03_Complete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BaseballCaps": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Conversation_Part02": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DefensiveGearMaxUpgrade_Any": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DroneSkills_All": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 8,
+    "progress": 3
+  },
+  "GoodDeeds_Step01": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GoodDeeds_Step02": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 26,
+    "progress": 0
+  },
+  "GoodDeeds_TimeloopClosing": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Haze_KillAll_Ecstasy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Haze_KillAll_Grief": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Haze_KillAll_Rage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Haze_KillAll_Terror": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Haze_Kill_Tier01": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 40,
+    "progress": 30
+  },
+  "Haze_Kill_Tier02": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 40,
+    "progress": 0
+  },
+  "Haze_Kill_Tier03": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 40,
+    "progress": 0
+  },
+  "HollowWalkers_KillAll": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ItemPlacements": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 25,
+    "progress": 3
+  },
+  "KillAllEnemies": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LoadoutMaxGrade": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LymbicSkills_All_AllSpheres": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 25,
+    "progress": 6
+  },
+  "LymbicSkills_One_AllSpheres": {
+    "earned": true,
+    "earned_time": 1757177763,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "Mystery_Step01": {
+    "earned": true,
+    "earned_time": 1756909921
+  },
+  "Mystery_Step02": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 43,
+    "progress": 3
+  },
+  "Relics_Part01": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "Relics_Part02": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 29,
+    "progress": 0
+  },
+  "Research_AllCategories_AllItems": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Research_CivilWar_AllItems": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Research_Conspiracy_AllItems": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Research_Hadea_AllItems": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Research_LymbicInvasions_AllItem": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Research_OrderOfTheEye_AllItems": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Research_Vigil_AllItems": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheAPC": {
+    "earned": true,
+    "earned_time": 1756988914
+  },
+  "TheCorridor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VOFK_Opened_Part02": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VacationsAtTheLake": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Visit_AllMaps": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WeaponMaxUpgrade_AllWeapons_Once": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 4,
+    "progress": 0
+  }
+}

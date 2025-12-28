@@ -1,0 +1,254 @@
+{
+  "ALCHEMIST": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ARCHEOLOGIST": {
+    "earned": true,
+    "earned_time": 1713082883,
+    "max_progress": 25,
+    "progress": 0
+  },
+  "BOOKWORM": {
+    "earned": true,
+    "earned_time": 1740223695,
+    "max_progress": 61,
+    "progress": 61
+  },
+  "BROKEN_FRIENDSHIP": {
+    "earned": true,
+    "earned_time": 1679176219,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "CALM_WATERS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "CATALOGER": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 11,
+    "progress": 0
+  },
+  "CUISSES_DE_GRENOUILLE": {
+    "earned": true,
+    "earned_time": 1740219491,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "DIY_DEFENSE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ENLIGHTENED": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "FILM_FESTIVAL": {
+    "earned": true,
+    "earned_time": 1724683731,
+    "max_progress": 10,
+    "progress": 9
+  },
+  "FRIENDLY_FIRE": {
+    "earned": true,
+    "earned_time": 1679179187,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "FROM_GLOOM_TO_GLORY": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "GLOOM_HUNTER": {
+    "earned": true,
+    "earned_time": 1713251176,
+    "max_progress": 35,
+    "progress": 0
+  },
+  "HISTORIAN": {
+    "earned": true,
+    "earned_time": 1724681665,
+    "max_progress": 45,
+    "progress": 44
+  },
+  "ICARUS": {
+    "earned": true,
+    "earned_time": 1707150729,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "LIGHTNING_ROD": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "LIGHT_AT_THE_END_OF_THE_TUNNEL": {
+    "earned": true,
+    "earned_time": 1679174429,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "MAGISTER_SCIENTIAE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "OVERCHARGED": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "PRISMIC_FOCUS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 23
+  },
+  "PURGE_THE_HERETICS": {
+    "earned": true,
+    "earned_time": 1724683194,
+    "max_progress": 40,
+    "progress": 39
+  },
+  "RAW_VEGANISM": {
+    "earned": true,
+    "earned_time": 1679181344,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "RESOURCEFUL": {
+    "earned": true,
+    "earned_time": 1679068225,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ROOTED_IN_REALITY": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 13
+  },
+  "ROOT_CANAL": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "SAVIOR": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "SCAVENGER": {
+    "earned": true,
+    "earned_time": 1679181080,
+    "max_progress": 15,
+    "progress": 0
+  },
+  "SELF_HELP": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "SHH": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "SPELUNKER": {
+    "earned": true,
+    "earned_time": 1679177209,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "STALWART_PSYCHOSIS": {
+    "earned": true,
+    "earned_time": 1707149253,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "SUMMER_SOLSTICE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "SUPERNOVA": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "THAUMATURGY": {
+    "earned": true,
+    "earned_time": 1724683337,
+    "max_progress": 30,
+    "progress": 29
+  },
+  "THE_COMMENCEMENT": {
+    "earned": true,
+    "earned_time": 1679173693,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "THE_GREAT_ESCAPE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "THE_HOWLING_DARK": {
+    "earned": true,
+    "earned_time": 1740227107,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "THE_RITUAL": {
+    "earned": true,
+    "earned_time": 1713253290,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "TOOLS_OF_CONSECRATION": {
+    "earned": true,
+    "earned_time": 1707148167,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "UNMASKED": {
+    "earned": true,
+    "earned_time": 1724686581,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "YOUR_WEEKEND_RETREAT_BEGINS": {
+    "earned": true,
+    "earned_time": 1679173810,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "YOU_HAVE_CHOSEN_WISELY": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  }
+}

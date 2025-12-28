@@ -1,0 +1,82 @@
+{
+  "BREAK_EGGS": {
+    "earned": true,
+    "earned_time": 1715184482
+  },
+  "BUY_GAMER_FUEL": {
+    "earned": true,
+    "earned_time": 1715183863
+  },
+  "CATAPULT_COMPLETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COLLECT_RADIO_LAST": {
+    "earned": true,
+    "earned_time": 1715183616
+  },
+  "COMPLETE_TRASHOPEDIA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DESTROY_DONUT_SHOP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DESTROY_MONITOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DESTROY_MONUMENT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DESTROY_RACCOON_LAGOON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIND_AIRSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FLAWLESS_BOSS_FIGHT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FLY_THROUGH_DONUT_HOLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HACK_HQ": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LOSE_BOSS_FIGHT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAKE_SECRET_SOUP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "QUACK_100_TIMES": {
+    "earned": true,
+    "earned_time": 1714319418
+  },
+  "RELEASE_HOT_AIR_BALLOON": {
+    "earned": true,
+    "earned_time": 1714320238
+  },
+  "SET_TRAILER_ON_FIRE": {
+    "earned": true,
+    "earned_time": 1714321767
+  },
+  "UNLOCK_HQ_VAULT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WIN_BOSS_FIGHT": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

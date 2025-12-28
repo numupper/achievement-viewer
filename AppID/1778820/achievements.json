@@ -1,0 +1,190 @@
+{
+  "AQClear": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AQWinAway": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AQWinGhost": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AQWinHome": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AllClear": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ArcadeBattleClear": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BattleCombo70": {
+    "earned": true,
+    "earned_time": 1706547871
+  },
+  "BattleGreat": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BattlePerfect": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BattleRageArts": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BattleTornado": {
+    "earned": true,
+    "earned_time": 1706547755
+  },
+  "Customize": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EpisodeClear10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EpisodeClear5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FightMoney": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FloorBlast": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FloorBreak": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GroupMatchWin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HeatBurst": {
+    "earned": true,
+    "earned_time": 1706546978
+  },
+  "HeatDash": {
+    "earned": true,
+    "earned_time": 1706547921
+  },
+  "HeatSmash": {
+    "earned": true,
+    "earned_time": 1707573601
+  },
+  "HeatTechnique": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Hit30Chain": {
+    "earned": true,
+    "earned_time": 1707574975
+  },
+  "MagicBall": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MyReplayTips": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "OnlineBattle10wins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PlayerMatchWin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PracticeCombo": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Practicedamage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Promote1st": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Promote2nd": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Promote3rd": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RageDamage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RankMatchWin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "StoryModeClearACT1": {
+    "earned": true,
+    "earned_time": 1706355900
+  },
+  "StoryModeClearACT12": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "StoryModeClearACT7": {
+    "earned": true,
+    "earned_time": 1707573981
+  },
+  "StoryModeClearJIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "StoryModeClearKazuya": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TresureHunt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WallBlast": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WallBound": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WallBreak": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WinDiscGhost": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WinDiscGhostBoss": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WinGhostPlayer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "recoverygauge": {
+    "earned": true,
+    "earned_time": 1707573716
+  }
+}

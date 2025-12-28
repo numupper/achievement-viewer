@@ -1,0 +1,428 @@
+{
+  "ACH_AIR_TIME": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 3,
+    "progress": 0
+  },
+  "ACH_AIR_TIME_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 8,
+    "progress": 0
+  },
+  "ACH_AIR_TIME_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 0
+  },
+  "ACH_AIR_TIME_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "ACH_CHASE_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CHASE_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACH_CHASE_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 0
+  },
+  "ACH_CHASE_4": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACH_CHASE_5": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_21TRIBE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_BLACK_LOTUS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_BURNOUT": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_DRIFT_UNITED": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_FALCON": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_HUNTERS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_KANJO": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_PYTHONS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_ROAD_RUNNER": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_SAVAGE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_SPEEDLINE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_UNION_UNDER": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_WESTERN_SIERRA": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_CLUB_WILD_JUNIORS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_DRIFT_DISTANCE_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 150,
+    "progress": 11
+  },
+  "ACH_DRIFT_DISTANCE_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 300,
+    "progress": 11
+  },
+  "ACH_DRIFT_DISTANCE_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 800,
+    "progress": 11
+  },
+  "ACH_DUEL_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_DUEL_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 0
+  },
+  "ACH_DUEL_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 0
+  },
+  "ACH_DUEL_4": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 0
+  },
+  "ACH_ELITE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_ELITE_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "ACH_ELITE_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "ACH_ELITE_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 60,
+    "progress": 0
+  },
+  "ACH_ELITE_4": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "ACH_FARM_RACE_1": {
+    "earned": true,
+    "earned_time": 1725033421,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_FARM_RACE_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACH_FARM_RACE_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACH_FARM_RACE_4": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "ACH_FEEl_TRAVELED_1500": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1500,
+    "progress": 42
+  },
+  "ACH_FEEl_TRAVELED_3000": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 3000,
+    "progress": 42
+  },
+  "ACH_FEEl_TRAVELED_7000": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 7000,
+    "progress": 42
+  },
+  "ACH_JDUN": {
+    "earned": true,
+    "earned_time": 1725012390,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_LEADERBOARD": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_LEADERBOARD_10": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_LEADERBOARD_100": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_LEADERBOARD_250": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_LEADERBOARD_50": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_LEADERBOARD_500": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_PURCHASE_CAR": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "ACH_PURCHASE_CAR_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 0
+  },
+  "ACH_PURCHASE_CAR_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "ACH_PURCHASE_CAR_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 0
+  },
+  "ACH_PURCHASE_CAR_4": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 70,
+    "progress": 0
+  },
+  "ACH_RACER_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 3
+  },
+  "ACH_RACER_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 3
+  },
+  "ACH_RACER_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 120,
+    "progress": 3
+  },
+  "ACH_SPEED": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 200,
+    "progress": 196
+  },
+  "ACH_SPEED_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 300,
+    "progress": 196
+  },
+  "ACH_SPEED_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 400,
+    "progress": 196
+  },
+  "ACH_SPEED_LEAGUE_BETS_10": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACH_SPEED_LEAGUE_BETS_30": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "ACH_SPEED_LEAGUE_BETS_50": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 0
+  },
+  "ACH_SPEED_LEAGUE_LOST_CARS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_SPEED_LEAGUE_WIN_CARS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_TOTAL_POINTS_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50000,
+    "progress": 16012
+  },
+  "ACH_TOTAL_POINTS_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 80000,
+    "progress": 16012
+  },
+  "ACH_TOTAL_POINTS_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100000,
+    "progress": 16012
+  },
+  "ACH_TUNING_MASTER_1": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_TUNING_MASTER_2": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "ACH_TUNING_MASTER_3": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  }
+}

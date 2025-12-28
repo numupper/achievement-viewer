@@ -1,0 +1,166 @@
+{
+  "Altruist": {
+    "earned": true,
+    "earned_time": 1673965722
+  },
+  "Amnesiac": {
+    "earned": true,
+    "earned_time": 1651229278
+  },
+  "Archivist": {
+    "earned": true,
+    "earned_time": 1673188648
+  },
+  "Canopener": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Caregiver": {
+    "earned": true,
+    "earned_time": 1667302485
+  },
+  "Castaway": {
+    "earned": true,
+    "earned_time": 1673972245
+  },
+  "Communicator": {
+    "earned": true,
+    "earned_time": 1654775507
+  },
+  "Crewmember": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Curator": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Diagnostician": {
+    "earned": true,
+    "earned_time": 1673197337
+  },
+  "Dreamer": {
+    "earned": true,
+    "earned_time": 1651232194
+  },
+  "EscapeArtist": {
+    "earned": true,
+    "earned_time": 1667301152
+  },
+  "Follower": {
+    "earned": true,
+    "earned_time": 1651231096
+  },
+  "Fugitive": {
+    "earned": true,
+    "earned_time": 1667313575
+  },
+  "Gunner": {
+    "earned": true,
+    "earned_time": 1667301685
+  },
+  "Harvester": {
+    "earned": true,
+    "earned_time": 1673977970
+  },
+  "Historian": {
+    "earned": true,
+    "earned_time": 1654773629
+  },
+  "Iconoclast": {
+    "earned": true,
+    "earned_time": 1673978744
+  },
+  "Lightbringer": {
+    "earned": true,
+    "earned_time": 1673193465
+  },
+  "Mother": {
+    "earned": true,
+    "earned_time": 1673973853
+  },
+  "Murderer": {
+    "earned": true,
+    "earned_time": 1673191581
+  },
+  "Narcissist": {
+    "earned": true,
+    "earned_time": 1654770682
+  },
+  "Nomad": {
+    "earned": true,
+    "earned_time": 1667310584
+  },
+  "NopeMerci": {
+    "earned": true,
+    "earned_time": 1651229637
+  },
+  "Overlooked": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Pathfinder": {
+    "earned": true,
+    "earned_time": 1667308234
+  },
+  "Pilgrim": {
+    "earned": true,
+    "earned_time": 1654770263
+  },
+  "Provider": {
+    "earned": true,
+    "earned_time": 1673977471
+  },
+  "Reborn": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Refugee": {
+    "earned": true,
+    "earned_time": 1673973362
+  },
+  "Somnambulist": {
+    "earned": true,
+    "earned_time": 1667312149
+  },
+  "Speedster": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Stoic": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Tasi": {
+    "earned": true,
+    "earned_time": 1673977471
+  },
+  "Tinkerer": {
+    "earned": true,
+    "earned_time": 1673187359
+  },
+  "Torturer": {
+    "earned": true,
+    "earned_time": 1673967728
+  },
+  "Translocator": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Traveller": {
+    "earned": true,
+    "earned_time": 1673194312
+  },
+  "Trawler": {
+    "earned": true,
+    "earned_time": 1667308530
+  },
+  "Vandal": {
+    "earned": true,
+    "earned_time": 1654774059
+  },
+  "Widow": {
+    "earned": true,
+    "earned_time": 1651232916
+  }
+}
