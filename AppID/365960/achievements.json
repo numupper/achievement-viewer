@@ -1,0 +1,102 @@
+{
+  "1000KilometersDrivenInPractice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1000KilometersDrivenInRace": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "100KMHInPractice": {
+    "earned": true,
+    "earned_time": 1700931345
+  },
+  "100KilometersDrivenInPractice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "100KilometersDrivenInRace": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "10KilometersDrivenInPractice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "150KMHInPractice": {
+    "earned": true,
+    "earned_time": 1700931346
+  },
+  "1KilometerDrivenInPractice": {
+    "earned": true,
+    "earned_time": 1700931403
+  },
+  "2000KilometersDrivenInPractice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "2000KilometersDrivenInRace": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "200KMHInPractice": {
+    "earned": true,
+    "earned_time": 1700931348
+  },
+  "200KilometersDrivenInPractice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "250KMHInPractice": {
+    "earned": true,
+    "earned_time": 1700931350
+  },
+  "300KMHInPractice": {
+    "earned": true,
+    "earned_time": 1700931504
+  },
+  "500KilometersDrivenInPractice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "500KilometersDrivenInRace": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BehindTheWheel": {
+    "earned": true,
+    "earned_time": 1700931307
+  },
+  "FirstPitstopInPractice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FirstPitstopInRace": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PolePositionRolling": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PolePositionStanding": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RacingAtDawn": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RacingAtDusk": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RacingAtMidnight": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RacingAtNoon": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

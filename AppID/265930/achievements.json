@@ -1,0 +1,510 @@
+{
+  "ACH_ALIEN_OR_EGG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALLTRAMPOLINES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_COLLECTIBLES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_COLLECTIBLES_LEVEL_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_COLLECTIBLES_MMO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_COLLECTIBLES_ZOMBIE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_COLLECTIBLE_HEIST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_MMO_ZONES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_PRANKS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ANGELGOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASAMU_ELEVATOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_A_NEW_CHALLENGER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BAAHLIONAIRE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BACON_MARAUDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BFF": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BIG_IN_JAPAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BLACKJACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BOATRIDE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BOOST_FLYING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BOULDER_OF_DEATH": {
+    "earned": true,
+    "earned_time": 1660233387
+  },
+  "ACH_BUILDER_GOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BULLETDIVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BUTTSLAM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CABLE_TIE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CAMEL_DANCERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CANVAS_WORLD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CAPTAIN_INDUSTRY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHARM_COW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CRAFTALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CRAFTALLWEAPONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CRASH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CREW_BIO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CREW_LICK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEADGOA7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEMOGOAT": {
+    "earned": true,
+    "earned_time": 1660235470
+  },
+  "ACH_DEVILGOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DODGE_THIS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DOLPH_LIFT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ELFSTREETBOYS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EXCALIGOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FEDORABLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINALLY": {
+    "earned": true,
+    "earned_time": 1660233274
+  },
+  "ACH_FLAPPY_GOAT_TEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FUND_THIS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GOATA_GET_EM_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GOATFALL": {
+    "earned": true,
+    "earned_time": 1660235678
+  },
+  "ACH_GOATHENGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GOATPAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GOAT_BUILT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GOAT_OF_THE_HILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GOAT_QUEEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GRAVITYGOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GRILL_PREP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GTA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HAT_SIMULATOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HITCHHIKER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HYDRAULIC_CARS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_IMPRISON_POLICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_INFLATEKNEE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ISLAND_IN_THE_AIR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ITS_WORKING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_I_AM_BREAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_I_AM_GOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_JACKPOT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_JEDI_SITH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_JOHNNY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_JOUST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KICK_BACKFLIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KILLZOMBIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LEVEL_101": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LIMITED_EDITION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LOOKATIT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MAGE_FAVO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MAGICIAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MASKS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MASTER_CHEF": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MATTRESS_MADNESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MAX_MLG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MERMAID": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MILE_HIGH_CLUB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MINER_INCONVENIENCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MINIGUN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MY_LITTLE_BRONY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NECKBEARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NERD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NOSTARVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NOT_AFRIGHT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NPC_TRAIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NPC_TREADMILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_OLDGOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ONE_BALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PAN_FLUTE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PARACHUTE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_POWERHOOF": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PUKE_MACHINE": {
+    "earned": true,
+    "earned_time": 1665588653
+  },
+  "ACH_REPULSIVE_GOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RIPPED_GOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ROLLER_COASTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RULER_OF_SKIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RYMDSKEPP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SANCTUMSACRIFICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SHATTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPEND_TO_MAKE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPLISH_SPLASH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_STEVES_QUEST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SUGAR_LORD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SURVIVELIFE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SWEET_COLLECTION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TEN_FLIPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TESTAHOLIC": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TONYGOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TORNADO_GOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TO_THE_MOON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TRAPAGAIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TROLL_GEISER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TURDLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNCLEGOAT": {
+    "earned": true,
+    "earned_time": 1660234804
+  },
+  "ACH_UNNECESSARYJOURNEY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_VALKYRIE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_VOLUNTARYQA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WALKER_S1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WALKER_S2": {
+    "earned": true,
+    "earned_time": 1660234053
+  },
+  "ACH_WARM_BATH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WHEELGOAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WITCHBURN": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

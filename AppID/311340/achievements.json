@@ -1,0 +1,66 @@
+{
+  "TROPHY_CHALLENGE_ACHIEVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_CHALLENGE_CONTACT_CHICO_PAZ": {
+    "earned": true,
+    "earned_time": 1688026169
+  },
+  "TROPHY_CLEAR_ALL_FLASH_BACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_CLEAR_ALL_MISSION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_CLEAR_JAMAIS_VU": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_CLEAR_NO_KILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_CLEAR_ON_TRUCK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_CLEAR_PAZ_RESCUE": {
+    "earned": true,
+    "earned_time": 1688032227
+  },
+  "TROPHY_CLEAR_RANKS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_CLEAR_RANKS_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_CLEAR_SIDE_OPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_OBTAIN_ALL_TAPES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_OBTAIN_ALL_XOF": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_RESCUE_ALL_HOSTAGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_RESCUE_EXECUTED_HOSTAGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_RESCUE_TWO_VIP": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

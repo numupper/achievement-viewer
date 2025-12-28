@@ -1,0 +1,78 @@
+{
+  "FT01_FinishedLake": {
+    "earned": true,
+    "earned_time": 1652734188
+  },
+  "FT01_FinishedOcean": {
+    "earned": true,
+    "earned_time": 1652649649
+  },
+  "FT01_FinishedRiver": {
+    "earned": true,
+    "earned_time": 1652651552
+  },
+  "FT01_Insights_All": {
+    "earned": true,
+    "earned_time": 1652734611
+  },
+  "FinishedChapter00": {
+    "earned": true,
+    "earned_time": 1652121890
+  },
+  "FinishedChapter01": {
+    "earned": true,
+    "earned_time": 1652122939
+  },
+  "FinishedChapter02": {
+    "earned": true,
+    "earned_time": 1652125784
+  },
+  "FinishedChapter03a": {
+    "earned": true,
+    "earned_time": 1652127405
+  },
+  "FinishedChapter03b": {
+    "earned": true,
+    "earned_time": 1652211599
+  },
+  "FinishedChapter04": {
+    "earned": true,
+    "earned_time": 1652213762
+  },
+  "FinishedChapter05": {
+    "earned": true,
+    "earned_time": 1652217826
+  },
+  "FinishedChapter07": {
+    "earned": true,
+    "earned_time": 1652298876
+  },
+  "Insights_All": {
+    "earned": true,
+    "earned_time": 1652298816
+  },
+  "Insights_Coastal": {
+    "earned": true,
+    "earned_time": 1652212757
+  },
+  "Insights_Forest": {
+    "earned": true,
+    "earned_time": 1652217729
+  },
+  "Insights_IceFloes": {
+    "earned": true,
+    "earned_time": 1652128300
+  },
+  "Insights_Tundra": {
+    "earned": true,
+    "earned_time": 1652122706
+  },
+  "Insights_TundraVillage": {
+    "earned": true,
+    "earned_time": 1652125067
+  },
+  "Insights_Whale": {
+    "earned": true,
+    "earned_time": 1652211383
+  }
+}

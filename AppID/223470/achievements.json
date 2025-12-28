@@ -1,0 +1,358 @@
+{
+  "AngerManagement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ArodWho": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BandCamp": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BootToTheHead": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BovineProstateInspector": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BystandersKilledWhileGimpedAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CarsDestroyedAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CatHoarder": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CatSilencer": {
+    "earned": true,
+    "earned_time": 1663336285
+  },
+  "ChokedOnPiss": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CopBribery": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DogHelper": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DogKillsAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DogsKickedAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DogsKilledWithCatgunAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DontTazeMeAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DonutsEatenAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DoorKick": {
+    "earned": true,
+    "earned_time": 1650533345
+  },
+  "EqualOpportunityKiller": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Fabulous": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FearAndLoathing": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FireExtinguisher": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FireKillsAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Fishy": {
+    "earned": true,
+    "earned_time": 1663333200
+  },
+  "FridayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GameComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GaryVsKrotchy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GoodMorningVietnam": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HeadFetch": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HerePiggyPiggy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HestonworldEnding": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "IveSeenBiggerAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Jailbird": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "JesusEnding": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "June2016Mall": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KickSeveredHead": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KilledBookBurners": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KilledKrotchy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KilledRWSProtestors": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MondayComplete": {
+    "earned": true,
+    "earned_time": 1663332847
+  },
+  "MonsterKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NPCsGoPostal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Newspaper": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NightmareEnding": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NoWayPinko": {
+    "earned": true,
+    "earned_time": 1663333603
+  },
+  "PLBitchCake": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLBuyTP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLCash4Cats": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLCollectMoney": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLDualWieldAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLFridayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLJesusRun": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLKillZack": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLKrotchySkip": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLMondayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLMonkeysSurvived": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLNutshotAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLPOSTALRun": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLPisstraps": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLSnowmanAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLSpeedRun": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLThursdayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLTuesdayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLVendingMachines": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLWednesdayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PeopleKilledAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PeopleScythedAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PetitionKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PissInFace": {
+    "earned": true,
+    "earned_time": 1663335093
+  },
+  "RWSStaffKills": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Resurrection": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReversePsychology": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RunningWithScissorsAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RussianPostal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SaturdayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SecretBankExit": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ShovelEnding": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SledgeFaceshotsAchievement": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SpeedrunEnding": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Stumped": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SuicideBomber": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SundayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ThursdayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ToraBora": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TrollToll": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TuesdayComplete": {
+    "earned": true,
+    "earned_time": 1663337556
+  },
+  "WantedLevel": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WednesdayComplete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ZombiesBeheadedAchievement": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

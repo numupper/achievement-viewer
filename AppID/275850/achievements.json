@@ -1,0 +1,110 @@
+{
+  "ALMOSTTHERE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ARCHIVIST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ATTENBORG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BABELFISH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CLASSIFIER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CONFUSED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CRADLE": {
+    "earned": true,
+    "earned_time": 1665415055
+  },
+  "DISCOVERER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENCYCLOPAEDIA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GENOCIDAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GETTINGON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LIMITEDFUNDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "METHUSELAH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NATURALIST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NAVIGATORS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PIONEER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PIONEER2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "REUNION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SHIPPINGMAGNATE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPACETRUCKER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TAKEADEEPBREATH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TAXONOMIST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "THEEVERLASTING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "THUG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TOLIVEFOREVER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRAILBLAZER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WARCRIME": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
