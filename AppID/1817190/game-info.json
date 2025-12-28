@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/7b2cfc1c8cdfed01715acfb02e61171ac6d98528.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b2fec75e1993fb72e73454818b6a52a68f74432b.jpg",
       "hidden": true,
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "dodginglight": {
       "name": "Dodging Light",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/03ce8f8a3a26e445f64505c7e594432425e8b318.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/f773344dea523071a64870816eadfa22278f3f7f.jpg",
       "hidden": true,
-      "percent": "44.8"
+      "percent": "44.7"
     },
     "explodingbulldozer": {
       "name": "Exploding Bulldozer",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c596dabb2627a93210acd021e109160f0b998884.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/547a766faac2aa1c24b95c669c758380412e1a49.jpg",
       "hidden": true,
-      "percent": "63.7"
+      "percent": "63.6"
     },
     "familydrama": {
       "name": "Family Drama",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a8831eaf4d3cccd225fb03773b5c934833476e22.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/18c849f4541cd1cb3d0947547f1d520ecdc123a7.jpg",
       "hidden": true,
-      "percent": "62.3"
+      "percent": "62.2"
     },
     "fivestarreview": {
       "name": "Five Star Review",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/8e2a23cd213fe1f7800faa8776a74cc07b2ec979.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/cd99c545197ec17d5136863335f88ccaf9d439b4.jpg",
       "hidden": false,
-      "percent": "37.0"
+      "percent": "36.9"
     },
     "fromdowntown": {
       "name": "From Downtown",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/6eb8a7f7da4670ac98a897cd730a448d27aeb062.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5e8c1c142329f9385f500380d863d596bde094b4.jpg",
       "hidden": false,
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "fromtherafters": {
       "name": "From the Rafters",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/59d4bf967a2ec49dd30729fae73866173826242f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5b41be28bd09d28dc3b3eec844dbf5ba5b8ce66b.jpg",
       "hidden": false,
-      "percent": "36.0"
+      "percent": "35.9"
     },
     "invisiblespider": {
       "name": "Invisible Spider",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/29a152933e1d2e48fa3defc78dc0cbd3e7d77e6e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/08203351530a4211835169584b919fe6f8093c23.jpg",
       "hidden": false,
-      "percent": "42.3"
+      "percent": "42.2"
     },
     "jjjwouldbeproud": {
       "name": "JJJ Would Be Proud",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/651a7c953fa8cf6f6af290d06f4ef4a7c7e5ed77.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/cb392d7ea12110ed8248ead3a13c0ae18f5f5256.jpg",
       "hidden": false,
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "justthebeginning": {
       "name": "Just the Beginning",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c2e79fbf2306e20b724c98a6c7867f0d05470e6c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5636339680825e78302a2e2e79e79ae311464b14.jpg",
       "hidden": false,
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "launch,swinganddive": {
       "name": "Launch, Swing and Dive",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/744404b652551ae47fee3db84c85dadc4536c524.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/9be8c5cfc0924746ac67c07f603b6f492355c713.jpg",
       "hidden": true,
-      "percent": "52.3"
+      "percent": "52.2"
     },
     "likearhinoinachinashop": {
       "name": "Like a Rhino in a China Shop",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/3c8989687f4365bd2beffddb19c8b00e3e5464fc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/20e9fc9762851c23f2658f79ee1fdb2dc5b3b575.jpg",
       "hidden": false,
-      "percent": "23.1"
+      "percent": "23.0"
     },
     "nowheretohide": {
       "name": "Nowhere to Hide",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/533f9b5cd919260a401f2bb6141a3b8206810ab5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/eb237d4cbbd5e24c6886d7eb15ae51d343bec9a9.jpg",
       "hidden": false,
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "punchingpixels": {
       "name": "Punching Pixels",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/20599ea75dbff97f0131f162937b286a04ff6093.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/7d364964379fddef1ef27c26be452f4f2a907ac9.jpg",
       "hidden": true,
-      "percent": "60.2"
+      "percent": "60.1"
     },
     "sociallyacceptable": {
       "name": "Socially Acceptable",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/4aa095176e7af18a4acce420ca8ac86b565a1691.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5ad9fc3ad5d1c9824a2818906e485de4e13b76f0.jpg",
       "hidden": true,
-      "percent": "34.5"
+      "percent": "34.4"
     },
     "thecoreoftheproblem": {
       "name": "The Core of the Problem",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/1355bced15c379389daed7e011f1cbceec4fb5c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/7fb98d271cb865140ed9b8831f77e1ef2225e723.jpg",
       "hidden": true,
-      "percent": "73.7"
+      "percent": "73.6"
     },
     "theharlemexpress": {
       "name": "The Harlem Express",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/128c1fb666f4f4e0dc93c6b1e97af3f1f3f272d7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/55a51a78de1666a97790e8a11f23717999180db4.jpg",
       "hidden": false,
-      "percent": "24.7"
+      "percent": "24.6"
     },
     "truedeception": {
       "name": "True Deception",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a820abbe0852112d13a00123c6d48147d20630f9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/412ecab116dc58b281aeeed08b47037d286b3a0f.jpg",
       "hidden": true,
-      "percent": "37.3"
+      "percent": "37.2"
     },
     "upandover": {
       "name": "Up and Over",

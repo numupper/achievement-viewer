@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/432fde6aff6be1ef71df1be530e8acd89893d7de.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "Mystery_Step01": {
       "name": "Amateur Detective",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/4f2e9431b8265730199b2f6b123fb0e568661db5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "Research_LymbicInvasions_AllItem": {
       "name": "Demonologist",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/61f9ea52245e2bea9683c9b4f7a26cf47f8e31a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "VacationsAtTheLake": {
       "name": "Ever After",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/8a79669222568c70b9e20a813fedc80680d42c28.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "63.6"
+      "percent": "63.7"
     },
     "WeaponMaxUpgrade_AllWeapons_Once": {
       "name": "Good Vibrations",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/a5a74855c7f93fc10e252787f3277c42b9cd5849.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "Haze_Kill_Tier01": {
       "name": "Rise and Phol",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/94864bb3fa9e5ac531ac5d7aa00c7f50293127f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "LoadoutMaxGrade": {
       "name": "To the Teeth",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/909d18092c3235d274ff100addb7f07c0461c49e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "20.1"
+      "percent": "20.2"
     }
   },
   "platform": null,
