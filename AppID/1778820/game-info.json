@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/c2763945f8705de1b9e2be38e9207359d150d39b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/cdf47558c9fb4ca707331cdad69628d974f55875.jpg",
       "hidden": false,
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "OnlineBattle10wins": {
       "name": "Excellent!",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/d5a13a325d3b2fb67e21f2acccd51a06f129c5c1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0aaf72f21b2fcdf0137e78c2f8709a40229e06b5.jpg",
       "hidden": false,
-      "percent": "73.4"
+      "percent": "73.5"
     },
     "AQClear": {
       "name": "Get ready for the next battle!",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/aeb98bf5e3499eeb0ebdaffacbcd2e28af6e84f2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/5e8a8b827216f64b45a51102f1c1c12956a5ec75.jpg",
       "hidden": false,
-      "percent": "71.5"
+      "percent": "71.6"
     }
   },
   "platform": null,

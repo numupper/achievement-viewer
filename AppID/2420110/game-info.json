@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/5489c2d37afeb9d5456f72cd75bf0a6b5817e71a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/98db50ef55ac41fe34a1140b15460d024dd4fbcb.jpg",
       "hidden": true,
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "Trophy029": {
       "name": "All Recon Machines Killed",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/569bccafdf7e85239f14c4c4c9da1499fdf60db4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ac3aca7e7d2ae4808aa98aa31f26225677d6904a.jpg",
       "hidden": false,
-      "percent": "50.8"
+      "percent": "50.9"
     },
     "Trophy021": {
       "name": "All Tallnecks Overridden",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/66a254975bbe5770b7d57e20808cd7c1d251164a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c05cf1bcd358ccf1428fb8648f320c20fe18b100.jpg",
       "hidden": false,
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "Trophy006": {
       "name": "Attended the Embassy",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c6db39c32f43c0199ba6b75235d8cd0da528ae91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/fdee585002a44975bc3843507dc4676709dc1802.jpg",
       "hidden": true,
-      "percent": "72.6"
+      "percent": "72.7"
     },
     "Trophy072": {
       "name": "Cauldron THETA Core Overridden",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/4395f8d1bc72b78ddefb5a944218893f4bd058e6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ae43ccb77881dcf76e23e989ac20f3d98bbb1345.jpg",
       "hidden": true,
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "Trophy015": {
       "name": "Chose a Desert Commander",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/03e4f9b5cd8d559f19051214afb9ff0de92a102a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c2c851ab7d1412e46f7a90d6df57ef5c3896bc10.jpg",
       "hidden": true,
-      "percent": "49.6"
+      "percent": "49.7"
     },
     "Trophy040": {
       "name": "Completed Arena Challenge Set",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/a9420aabcd37a9baa208ccdf248ef1f0a201a351.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6eeeaa800f2bbeffe96a1d9261e837df3ba3b67b.jpg",
       "hidden": true,
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "Trophy014": {
       "name": "Discovered Nemesis",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/dabba5c5c240d370110703ee14cc678819ae792e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2dceef597dc30f6e38688aebeb510f764ca1c72b.jpg",
       "hidden": true,
-      "percent": "39.8"
+      "percent": "39.9"
     },
     "Trophy063": {
       "name": "Discovered the Ascension",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/741e99c1a88cb613073e2dc319a6a19ee940fe2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7274c42a592010ec6161147148cc31cbbf0b9646.jpg",
       "hidden": true,
-      "percent": "62.7"
+      "percent": "62.8"
     },
     "Trophy024": {
       "name": "First Core Overridden",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8e9f824f8e39465bbb652b24fbf7c3065f23c947.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/19a614b8b458131a2336f8d375ae7328b488da2a.jpg",
       "hidden": true,
-      "percent": "67.5"
+      "percent": "67.6"
     },
     "Trophy013": {
       "name": "Flew on the Wings of the Ten",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/962ce7428584968ed72328a42d355d9a60ed3952.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/fa319935778d112a8cb5953f540739b1aa35c05e.jpg",
       "hidden": true,
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "Trophy050": {
       "name": "Fully Upgraded a Valor Surge",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/415a9462bf3e301083c240aeedd6655de3d9ec6a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c55818d5fc49964ec6ba25ba30f6f33bad7f6934.jpg",
       "hidden": true,
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "Trophy079": {
       "name": "Killed Bileguts and Stingspawn",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/3c426f590df40b7803f4e250b0a09d095a2fa820.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6c1ac8838c154ae87dad6e7cb1b7deaf99a9d6a8.jpg",
       "hidden": false,
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "Trophy047": {
       "name": "Picked up 5 Heavy Weapons",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/45ffb7062dc32454949d9118445d8a48f0bec283.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8418af25ca2ac4724cc5cc5eacece5f84d0f6ec0.jpg",
       "hidden": false,
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "Trophy001": {
       "name": "Reached Level 20",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/77e33757ae8a6f1137dd15c24a98d83fcb8d628c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/1d0eae53efdd71f2848a5a405520a437ab6a4883.jpg",
       "hidden": false,
-      "percent": "59.7"
+      "percent": "59.8"
     },
     "Trophy002": {
       "name": "Reached Level 30",
@@ -465,7 +465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/178d0f08e6e80ef195b51589cecb5728706a1e6c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/3f33b3d0e809fd8621bf176e2c96c36806280005.jpg",
       "hidden": true,
-      "percent": "54.4"
+      "percent": "54.5"
     },
     "Trophy076": {
       "name": "Recovered All Aerial Captures",
@@ -481,7 +481,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/a54bb4917014a6565611e2fd0c35f95e05dde0e3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/d1eb47d2ef8b06017def6be750efef20cfeb39af.jpg",
       "hidden": true,
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "Trophy011": {
       "name": "Recovered Beta",
@@ -529,7 +529,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ba984a39c0a2c710694621e9663a54f8cfa7ba16.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6f83b77897bfaa2089484c2abb1abdfe4e67c279.jpg",
       "hidden": true,
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "Trophy005": {
       "name": "Secured Passage to the Embassy",
@@ -537,7 +537,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/9eb836854444f43950dfa84a176f543de7d75824.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/0efbedf5722fbb3bd4411ab9aac44e13293880f9.jpg",
       "hidden": true,
-      "percent": "75.3"
+      "percent": "75.4"
     },
     "Trophy056": {
       "name": "Skill Tree Learned",
@@ -553,7 +553,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/64abd940719f98a304e037710a3157325e61b99f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7d1982b0f994d8efe0da7d490206c9d32e269162.jpg",
       "hidden": true,
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "Trophy045": {
       "name": "Stealth Killed 10 Machines",
@@ -561,7 +561,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/fe22d4e86400a1d49e8fd34d7055954da1c2cfb7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/cfa29ef9ccda1b9373cc0b669d3fd0dd8050b54e.jpg",
       "hidden": false,
-      "percent": "74.9"
+      "percent": "75.0"
     },
     "Trophy046": {
       "name": "Tore off 100 Components",
@@ -569,7 +569,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ee476b1699d64ae4fe8971f1d1470d46751cd22e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2ea37993d9f694ffc102437c6b9a03a3cf86e213.jpg",
       "hidden": false,
-      "percent": "62.1"
+      "percent": "62.2"
     },
     "Trophy055": {
       "name": "Unlocked 3 Weapon Techniques",
@@ -577,7 +577,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2ba3ef8e371e5b1b3f3c5c7ab1ff4d3d9e8235d0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/e144e5379ad0e783735619d9357e95bb055cab19.jpg",
       "hidden": true,
-      "percent": "54.5"
+      "percent": "54.6"
     },
     "Trophy052": {
       "name": "Upgraded 3 Outfits",
@@ -593,7 +593,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f302b49e65cfb61bea92b1458d67c83319d2acc6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/75de4ac30bae5b316c3af8cd7ecc840ac1c8e5d0.jpg",
       "hidden": false,
-      "percent": "58.1"
+      "percent": "58.2"
     },
     "Trophy053": {
       "name": "Upgraded Every Pouch Type",
@@ -633,7 +633,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7b6da31d0b0b9b239c70b5a6dce25621d20f7f52.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/39425957e7246b738088337cbb45b2d477ba9b65.jpg",
       "hidden": false,
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "Trophy036": {
       "name": "Won 2 Gauntlet Runs",

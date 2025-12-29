@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4ffbd30a2bb86811d3abbe2247e2dd39f05f6c02.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/897e475dc990d9de85e63c332a343c2ac0550811.jpg",
       "hidden": false,
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "23": {
       "name": "Burglar",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/a4861ec423e8f6d28a67d4efac89a151bb3b0cf1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/e080280b101315c080b0679d1026c60a27605ceb.jpg",
       "hidden": false,
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "1": {
       "name": "Knife Basics",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/d4d240507a00fd9796da900b6a151105afd5cbe6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/2ca60e702c129dc72a78df8a85607946575ce097.jpg",
       "hidden": true,
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "30": {
       "name": "Proficient Agent",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/6ae33bd366d1f40365e00589719fd7cbf9f45b4a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/510f85293d1c9b76ba582aa743f0fd582583ac83.jpg",
       "hidden": false,
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "28": {
       "name": "Promising Agent",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/dc0343d892ab6efddd0bfa37a5f9eb55e9b8e015.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/33e542b6f5f7d8d339f6c01f9d1451fcb401e85b.jpg",
       "hidden": false,
-      "percent": "69.4"
+      "percent": "69.3"
     },
     "27": {
       "name": "Revolution Wind-up",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/9f0afa8057595b34574919f47356059f3991a030.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/b79ae7178e4dfd0c9405c574f8f3994f074cdd7d.jpg",
       "hidden": false,
-      "percent": "47.7"
+      "percent": "47.6"
     },
     "36": {
       "name": "Silent Stranger",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/ea226e9fc667a574d56dd7eb58aaee72ce49a7c9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/715fcbe8b71b2893dafdd0dfa50695404125f134.jpg",
       "hidden": false,
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "5": {
       "name": "Talk About Near-Death Experience!",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/b0a72be2c265bd33aca5655ac586c206ccd680ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4f7fa87c538c5295236a33b911928af0aa541b60.jpg",
       "hidden": true,
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "11": {
       "name": "You Used to Be a Good Guy",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/6ee35145f69b77da3573351f23eeed5dd0dfaf99.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/34361b84692bd9579ea603e6c1315a1975f3535e.jpg",
       "hidden": true,
-      "percent": "61.6"
+      "percent": "61.5"
     },
     "12": {
       "name": "You're Small Time!",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/100bcde134514ce3a46a1c8f813f0cd665e930c3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/76f67106f522273ff371462cb5da97747b003137.jpg",
       "hidden": true,
-      "percent": "60.7"
+      "percent": "60.6"
     }
   },
   "platform": null,

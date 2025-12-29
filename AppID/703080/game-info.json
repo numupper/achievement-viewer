@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/ffc57ce56dab43d1bd01cf9b0b30df36aaf5e5f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/38b01c9af76f0aa2a56ebc56c88fc63fcace29dd.jpg",
       "hidden": false,
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "Game_BarrierLength": {
       "name": "Barrier Builder",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/c3b3eb8f36054dc17ca8898d0e7d89b70746077d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/4aa8cc11d8c5fbcb1893cc7e132aa5c2715232c7.jpg",
       "hidden": false,
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "Campaign_AnyBronze": {
       "name": "Bronze Award",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/86b4fb306f4bf8b0c0a9aedf846500a3e82c8f7e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/95fde6ca906d49f2d57482cb9096c9fe526d9538.jpg",
       "hidden": false,
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "Franchise_ManyFranchise": {
       "name": "Global Zoo",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/8030c1d226af2e35f2b657725142d347e2dd9b2b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/52bd229637430547ce3112fd9ae70f7c33ed742e.jpg",
       "hidden": false,
-      "percent": "48.6"
+      "percent": "48.5"
     },
     "Franchise_Loans": {
       "name": "Loaner",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/77faa20e6fb99c8e63e41c4cdbd11a4511d86c06.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/cd2e459e0571c90a6ebfbaa20a3cf06a2aacb34d.jpg",
       "hidden": false,
-      "percent": "20.2"
+      "percent": "20.1"
     }
   },
   "platform": null,
