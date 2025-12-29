@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/07bae88f1ee9b856ddfc1d8e28ae7eedd4bcde95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/cea97617b65ab7d42f37cbb9a77c7290775c789a.jpg",
       "hidden": true,
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "EP2_4": {
       "name": "A Knight to Remember",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/9e07c312af37292c5901eb2d8fa9cd5dca1dedf3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/1cfd10175bc03c480eda35d210ab9190745bd9d6.jpg",
       "hidden": true,
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "EP2_13": {
       "name": "David and Golyat",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/652e39d4e750183a390a4e9f2f99018c1b335a20.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/70ea4796b6417e7789792f8a94cc22072a9a9a3f.jpg",
       "hidden": true,
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "OVERKILL": {
       "name": "Overkill",
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/5d71ca10e0422dee6e1cf69ea9bd94609b22e085.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/97a340c08bc669b8e6a19c427ee6e700b27064b9.jpg",
       "hidden": false,
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "EP2_6": {
       "name": "Playing House",
@@ -473,7 +473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/cba4abe872ecb92a755cbc9cf1ffa708b7aef42e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/11d3dfdd398ce5f603b2aafb8f25abbebe253251.jpg",
       "hidden": false,
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "EP1_7": {
       "name": "Return to Sender",
@@ -545,7 +545,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/53e0820b82445eeafe38f4991b947ed6ef64406d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/67f5b9e4908b0f9dc3e4d49832977e79b874d632.jpg",
       "hidden": true,
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "EP2_1": {
       "name": "The Witcher's Gone South",
@@ -553,7 +553,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/d8374b28d93ef6b6feca2e82bcedd6b715679681.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/b503d4fdfd91cdb1d53d29f9c511c1a86a20cead.jpg",
       "hidden": false,
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "TRIPLE_THREAT": {
       "name": "Triple Threat",
@@ -569,7 +569,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/0e352549ec74cc3012d20266ffecf67ba7d3daa7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/7042c0b079712b2c73907344e1b747c16096f41f.jpg",
       "hidden": false,
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "WALKED_THE_PATH": {
       "name": "Walked the Path",
@@ -609,7 +609,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/f1e4073f57743bb8dfc4d60817edd44eb03de8e1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/c8f22cf375f3837272f85ddd30ffb83dc46f0e20.jpg",
       "hidden": true,
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "WOODLAND_SPIRIT": {
       "name": "Woodland Spirit",

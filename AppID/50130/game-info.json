@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/73f3632543268be7f5e03816fabbbefdad4e526c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "61.1"
+      "percent": "61.0"
     },
     "MDL_TIME_WELL_SPENT": {
       "name": "Time Well Spent",
@@ -497,7 +497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/0493c03090d07ebf9e436e0982ae5dc9605c9f55.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "64.2"
+      "percent": "64.1"
     },
     "MDL_TOUGH_NUT": {
       "name": "Tough Nut",
@@ -513,7 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/57688a03d91c9eaf08c3c0aaa7cc001e87f9c416.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "70.6"
+      "percent": "70.5"
     },
     "MDL_VIVA_LA_RESISTANCE": {
       "name": "Viva la Resistenza!",
@@ -529,7 +529,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/98e4f387eb69f37efa03614b9ab78410a208121c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "MDL_DLC_JA_WHAT_WITNESS": {
       "name": "What Witness?",

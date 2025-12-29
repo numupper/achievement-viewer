@@ -1,7 +1,7 @@
 {
   "appid": "2958130",
-  "name": "Game 2958130",
-  "icon": "",
+  "name": "Jurassic World Evolution 3",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/df39f8c59232633e8e01ab63313b095402bdd0d5/header.jpg?t=1765290696",
   "achievements": {
     "JWDatabase100": {
       "name": "...You Could Predict Anything",
@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/6165c169102f8cd740bb7218b498ebfeed5f9dda.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/2794824db0b41d53a5dc1fbc937a8273dc8e0307.jpg",
       "hidden": false,
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "5StarAllParks": {
       "name": "A Golden Bust of Cabot Finch",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/1fa46413a830ee9db658c0b76452e4304fef8255.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/9057e84279fa118a00b5acaa262453cb2448d328.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
       "hidden": false,
-      "percent": "40.8"
+      "percent": "40.9"
     },
     "BuildLagoon": {
       "name": "Include That In The Brochure",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/7f7de6d9af3eb1df8f8b8df7915cc7f02f05317a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/21d40d99ab6fa8ef1e481c9afdba74f968e5d278.jpg",
       "hidden": false,
-      "percent": "51.8"
+      "percent": "51.9"
     },
     "JurassicDiffNusaTenggara": {
       "name": "Indonesian Legend",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c3c746c93c4407f76709936ea66a9698f7e9b73b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/7a4d5d8017fbc5430e3bfd8fcaf2c42f4cecbb61.jpg",
       "hidden": true,
-      "percent": "83.3"
+      "percent": "83.4"
     },
     "JurassicDiffKuaii": {
       "name": "Picture Perfect",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/16a6708256976fba68f165469d2fc444120647fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
-      "percent": "34.9"
+      "percent": "35.0"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
