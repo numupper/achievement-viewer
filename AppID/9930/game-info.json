@@ -1,7 +1,7 @@
 {
   "appid": "9930",
-  "name": "Game 9930",
-  "icon": "",
+  "name": "Test Drive Unlimited 2",
+  "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9930/header.jpg",
   "achievements": {
     "ACHV_CASINO_DLC_ONE_OUT_OF_38": {
       "name": "1-in-38 Chance",
