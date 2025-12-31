@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/be32e1233adf2c6a44447d3ded0849d388237452.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/453b9c7ce7ffc2be36fecc6c4463bc888572bd3d.jpg",
       "hidden": false,
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACHIEVEMENTS_24": {
       "name": "Fast Learner",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/a66f40d3521c70c1bdcff082552a5a9e2684a7a8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/fd570f77a3e9ea7d76f83a13757aa182195d7413.jpg",
       "hidden": false,
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ACHIEVEMENTS_32": {
       "name": "Fighting Spirit",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/25e06c5ae98df9e6603a3e53fd1fd4ea596706cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/58bb92345388b4e05f4dc7651581c29d64398b90.jpg",
       "hidden": false,
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "ACHIEVEMENTS_02": {
       "name": "First Victory",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/bed5e11291f19aaf348f4e10fd6de662e5547fb2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/3b6b7a67edea029f956e462f33e20fcb0714b98b.jpg",
       "hidden": false,
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "ACHIEVEMENTS_31": {
       "name": "Force of Nature",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/bc631ec923fd964b5528fe9bb02e21be1af7514b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/396f80d20b1b06b7a574e3efe34d38068b6c8a56.jpg",
       "hidden": false,
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "ACHIEVEMENTS_44": {
       "name": "Gold Medallist",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/10ddd3f1e779e7bb6a839749eb69ba468c3fdd45.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/436785846b7ef6c9e84e01f08f06ca0e42320d51.jpg",
       "hidden": false,
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "ACHIEVEMENTS_09": {
       "name": "Like a Boss",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/7c33f9130219a4135aff64ea3af4a967c9701755.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/85521e0c4a6abb645ef5fad916c32e5a66aa8e2a.jpg",
       "hidden": false,
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "ACHIEVEMENTS_03": {
       "name": "Professional Driver",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/cf1faa75abef8cbed505bf6eff3f7961374b23fe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/51389f389143543b8a242692aadc53f2bdd1cb3d.jpg",
       "hidden": false,
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "ACHIEVEMENTS_29": {
       "name": "Spooked",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/e789038ef18141554eb6b258db7bc7b177469894.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/127df4afff2a782788acae1cd53bed013a20affc.jpg",
       "hidden": false,
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "ACHIEVEMENTS_45": {
       "name": "Unforgettable",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/d505bd9156642aa07f0f4a431844a573255d5d7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/0d9ab4195151be6ce9a8a8b4456aab5cda233800.jpg",
       "hidden": false,
-      "percent": "63.8"
+      "percent": "63.9"
     },
     "ACHIEVEMENTS_14": {
       "name": "Winner in Croatia",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/1d64d4cd7e54fb37aeba9d9b1e7102428d18ce90.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/9235c75e6cc047ed337b922d0ce651075c540410.jpg",
       "hidden": false,
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "ACHIEVEMENTS_17": {
       "name": "Winner in Estonia",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/22f9e1ab1878c3effdb04437e33b7511c0bae27c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/23110e50744ce309dbd9c1ab4506d75e8c4cd50d.jpg",
       "hidden": false,
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "ACHIEVEMENTS_18": {
       "name": "Winner in Finland",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/0b9b31c384e5a3e152e88dba54f93ac14cb80e75.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/50ace0342b438677eb21e13e0903de94f08e56f4.jpg",
       "hidden": false,
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "ACHIEVEMENTS_11": {
       "name": "Winner in Monte Carlo",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/9fb9b300c2b145acf4c0c4f089bad521511aa56f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/41edb0a4cb04f602c2aa47735dbddcd27f4484da.jpg",
       "hidden": false,
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "ACHIEVEMENTS_16": {
       "name": "Winner in Sardinia",

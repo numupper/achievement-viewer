@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/d9314c97361b2059a6f3ccfe80f2d842753c2c12.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "81.1"
+      "percent": "81.2"
     },
     "Relics_Part02": {
       "name": "Antiquarian",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/e371b83d3c26ac1ee7905a7fb1c143ee320610a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "Haze_KillAll_Ecstasy": {
       "name": "Buzz Killer",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/4f2e9431b8265730199b2f6b123fb0e568661db5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "Research_LymbicInvasions_AllItem": {
       "name": "Demonologist",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/d563610c0580ce827a3cb5562a399cc9af3da139.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "Research_OrderOfTheEye_AllItems": {
       "name": "Gentleman Scholar",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/ec7c3416d55ea34a9867c0b723974bd2e17c468f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "GoodDeeds_Step01": {
       "name": "Good Samaritan",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/8a79669222568c70b9e20a813fedc80680d42c28.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "WeaponMaxUpgrade_AllWeapons_Once": {
       "name": "Good Vibrations",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/d1b89e6eb95450b15ba98593bd6847ff2f4f8eab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "75.7"
+      "percent": "75.8"
     },
     "ItemPlacements": {
       "name": "Keymaster",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/cd743649122ecb45d82026ddaa31d754e6298eb8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "KillAllEnemies": {
       "name": "Legend of the Phol",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/a5a74855c7f93fc10e252787f3277c42b9cd5849.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "Haze_Kill_Tier01": {
       "name": "Rise and Phol",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/c2854b17b741abf1817cea503a1bacd009094c4c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "49.9"
+      "percent": "50.0"
     },
     "Act01_Complete": {
       "name": "So It Begins",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/c698e233aa6c39312b93745d4fdbcba8bf84cbde.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "Mystery_Step02": {
       "name": "Super-Sleuth",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/f0d2c7a4ade27eaf4e4bec517173bcb927277ef5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "Haze_Kill_Tier03": {
       "name": "The Harder They Phol",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/94864bb3fa9e5ac531ac5d7aa00c7f50293127f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "LoadoutMaxGrade": {
       "name": "To the Teeth",

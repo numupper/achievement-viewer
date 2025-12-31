@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/c0755ac72396ac578bab022709e0e6fa7ccff2a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/00724e9374dd6a5f4363fb9366a56ec9500b1c1b.jpg",
       "hidden": false,
-      "percent": "74.9"
+      "percent": "75.0"
     },
     "WallBreak": {
       "name": "Come on, just try and kill me.",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/148208cb0bcea49535a9cb3664e4f8fc285d5ecd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/4c92de877e980bb69a1ed2590c609cbb5e3b4d28.jpg",
       "hidden": true,
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "StoryModeClearKazuya": {
       "name": "Despair",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/606822da8fc128a020bd975ce2e2d827137d7187.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/47fedbe562a104e2b2edbb8f5bcd27e3c4adc570.jpg",
       "hidden": true,
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "PracticeCombo": {
       "name": "Do you want to learn Marshall Arts?",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/c0c52914a8c69638743d0f5540ddddadd272c922.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/78d61596ac6181803dd40017d7d970011e22580e.jpg",
       "hidden": false,
-      "percent": "69.2"
+      "percent": "69.3"
     },
     "HeatSmash": {
       "name": "Fear my wrath.",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/17a6a7661d8c37adb06bd9ea14989ac6e8299da9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/4b86643ffe00d9f036ade567d3f5a40ccb8fb845.jpg",
       "hidden": true,
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "StoryModeClearJIN": {
       "name": "Hope",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/d2328bb8b26b7eeb65f6d6d1c8ce1c5c1b460342.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/bd170fa4d156201b380173d0c592e0bb1f550924.jpg",
       "hidden": false,
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "Promote1st": {
       "name": "I aspire to greater heights!",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/f9d0fdeef40bc4aea05e044e14272ca9f3098b3f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/7ec7c67a0933fe19f96866d7f8a2562c34768261.jpg",
       "hidden": false,
-      "percent": "87.2"
+      "percent": "87.3"
     },
     "MagicBall": {
       "name": "My moves are way faster than yours.",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/fdcc25966c2f8a23ed4fa0318ebfcda28b889e59.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/f070deb2d94ce93a563b82e172c022a590b44cf4.jpg",
       "hidden": false,
-      "percent": "77.7"
+      "percent": "77.8"
     },
     "BattleGreat": {
       "name": "Outstanding!",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/c096742d9ae6951e8e67e28f15a4d001faef56a7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/5cd6143b03c8e76e8e72d6174c2c6f8634f36134.jpg",
       "hidden": false,
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "WallBlast": {
       "name": "Resuming mission.",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/11a577d862188490032229977c912f2e215f2ae9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/eef0bdca57bb220adbefefdda7200933488384f5.jpg",
       "hidden": false,
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "WallBound": {
       "name": "Sorry for getting rough back there.",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/695a9a31c1303aecfeb9cfdd2c0ba4216cebe35b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/daeb42bdfe1fb6472951cd10d8aa89eb89e21763.jpg",
       "hidden": false,
-      "percent": "62.0"
+      "percent": "62.1"
     },
     "BattlePerfect": {
       "name": "That was too easy!",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/4f1a10a50999290e271075065a7bbf5a3497b011.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/73b07759a629e7d3ac756d657a5de13d7367cb5c.jpg",
       "hidden": false,
-      "percent": "80.8"
+      "percent": "80.9"
     },
     "AQWinGhost": {
       "name": "The fists reveal the fighter.",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a097872fdf432792c47ac065cb79d02446f9fced.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/7f31562645e15508cbc32b7923384dbdd5f08ce3.jpg",
       "hidden": false,
-      "percent": "83.0"
+      "percent": "83.1"
     },
     "HeatBurst": {
       "name": "What a rush!",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/30be5ee1ce0ff98c76ed9f71fd00f582effa0689.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/4bbc29e9ab29075a6f843c0f3d3502b086665201.jpg",
       "hidden": false,
-      "percent": "88.4"
+      "percent": "88.5"
     },
     "StoryModeClearACT7": {
       "name": "You aren't alone anymore.",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/e120bebd029dc9181f3cbcd6ef5b0a9065a01e87.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0b3e3519eafa309e6240ef573e03069b964bb4d9.jpg",
       "hidden": false,
-      "percent": "64.3"
+      "percent": "64.4"
     },
     "HeatTechnique": {
       "name": "Your fate is already decided.",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a7c2b02ae827f819ac97e5695171e8d301d6b623.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/6a509141201cb0148b5d3db5f8543651b1e2b9ce.jpg",
       "hidden": false,
-      "percent": "85.3"
+      "percent": "85.4"
     },
     "FightMoney": {
       "name": "Your money is my money! ",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/4d8b1f8c55d19292b1b3996c1ebf8a3b959999d6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/c89440d4418906fc944e5c7d71cbd7673fb8024d.jpg",
       "hidden": false,
-      "percent": "61.8"
+      "percent": "61.9"
     },
     "Customize": {
       "name": "You're in for it now!",

@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/b6f96178a207ff26098b32f0a0a758eef44f4b82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/cec1aeff665f973a419f3df1acb5cb661a00b236.jpg",
       "hidden": false,
-      "percent": "62.4"
+      "percent": "62.3"
     },
     "ACHIEVEMENT_76": {
       "name": "Beach Bomb",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/c44db4569590edbda90e44109a9a96b93877ca5c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/5784b8d6bc54fb7adf56ac7eb7c903196c13b310.jpg",
       "hidden": false,
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "ACHIEVEMENT_104": {
       "name": "Better Together",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/c83d4c077d753a1ce728ff76892f5c4dd3423463.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/dd33b08784199e3c14c41e6553582ad4d729cea9.jpg",
       "hidden": false,
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "ACHIEVEMENT_56": {
       "name": "Front Runner",
@@ -481,7 +481,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/1b13c3fd70268939626f25a527f1adbecf406909.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/24b5c07affabb65b58aeb253cf9523df13943bea.jpg",
       "hidden": false,
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "ACHIEVEMENT_130": {
       "name": "Hi Five",
@@ -649,7 +649,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/146080a4117e62df5c6193dbe879b1569ae1cf74.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/8d18e6c3065bbc5e29e0fd9179fede96c3df931a.jpg",
       "hidden": false,
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ACHIEVEMENT_111": {
       "name": "Keep Calm And Rally On",
@@ -913,7 +913,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/555746c02eaccce7820b7fc40ec922d520a8ac60.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/e439b7e459fb504e4db333ebd87e71a91fe6042c.jpg",
       "hidden": false,
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "ACHIEVEMENT_82": {
       "name": "Points Mean Prizes",
@@ -1017,7 +1017,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/96d6619ad0f10b311e74df9791b4cb9950f8d981.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/827f9c899612a5ca4cd283002a0202225d35b87c.jpg",
       "hidden": false,
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "ACHIEVEMENT_79": {
       "name": "Shaken Not Third",
@@ -1121,7 +1121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/dc52366d8b1dd74611da1bfa2556888fabdeaf91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/48b0e1887c9a6683e143b0a670e5be9ead69fc56.jpg",
       "hidden": false,
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "ACHIEVEMENT_144": {
       "name": "The Hidden",
@@ -1137,7 +1137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/1fd606c1c81f20a27e9beaf39b3cf95a29cf2cea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/ff090edff7018417fbb45c57b17df930d93da1b4.jpg",
       "hidden": false,
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "ACHIEVEMENT_13": {
       "name": "There’s Always Money in the Baja Stand",
@@ -1145,7 +1145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/4d2eb2d8c9d9e389a52b1fda61de187d159f3d19.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/1bb4c90d50225ac70f2126c058d0d950ad1709c3.jpg",
       "hidden": false,
-      "percent": "33.8"
+      "percent": "33.9"
     },
     "ACHIEVEMENT_7": {
       "name": "This Is The Way",
@@ -1177,7 +1177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/3f75dee3e145780dc530fd20fe4570aba1fe10ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/f617c7d324a7a9b94e8667a82b3cd45e0beb140c.jpg",
       "hidden": false,
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ACHIEVEMENT_20": {
       "name": "Tourist Attraction",
@@ -1201,7 +1201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/c44e7d6f8c7a87b126cecda02e74bd9bebd1f1c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/bfe6dc5874081f5236c21b1f9e5b54e23b706489.jpg",
       "hidden": false,
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACHIEVEMENT_38": {
       "name": "Unlimited Prowess!",
@@ -1289,7 +1289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/161332703f573286195a170dde903068e08c9966.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/eb848f4b0c7ccfd3f1498cc284a55df508529631.jpg",
       "hidden": false,
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "ACHIEVEMENT_162": {
       "name": "You Might Need a Map",
@@ -1313,7 +1313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/59f4e44bb33ea55feec7c8d42ba80e9c7dea27a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/e20f429cbfe0bcd4cf702e99d571a936ab90f3b0.jpg",
       "hidden": false,
-      "percent": "9.4"
+      "percent": "9.5"
     }
   },
   "platform": null,

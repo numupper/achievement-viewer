@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/04ab6a2dc0777d31b1dd0709f517be090fa572af.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/3bf50f6660de336049cebdc74be0101b430b34c5.jpg",
       "hidden": false,
-      "percent": "43.8"
+      "percent": "43.7"
     },
     "byefelicia": {
       "name": "Bye Felicia",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4cd755599f13020b706c43b758fe08d33b58a049.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4c6204b919965e27329d62879e1ddbd238ab3687.jpg",
       "hidden": false,
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "endgame": {
       "name": "End Game",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/d7b155b443dfda20238798dbb8fc217d7c0867a3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4f614094fbaf7e837a525092d6e60fc06a5991f4.jpg",
       "hidden": true,
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "r&d": {
       "name": "R&D",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/61d4645865ee81d88b6eab262e6f9012ba296930.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/76cf5b1453addfbe50700e88840d5740429bd314.jpg",
       "hidden": false,
-      "percent": "42.3"
+      "percent": "42.2"
     },
     "screwballed": {
       "name": "Screwballed",
@@ -497,7 +497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5b4727325d1f7d46c6fbd2c5bbd8f4f59ec6c361.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/641a64fe768fa6182317e0e8ce01a21f260d7efb.jpg",
       "hidden": false,
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "terminated": {
       "name": "Terminated",
@@ -505,7 +505,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/cbe40164c4987add94abd996ba43c5d2e21a50fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/1bb8693f4935ff666066b813be7ded43a304875a.jpg",
       "hidden": true,
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "thecatcameback": {
       "name": "The Cat Came Back",
