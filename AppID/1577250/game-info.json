@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/9278c4ed9ea3d1ba9c11d00df54c0f6d6ddc7dac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/4890515d7d332efbf0f030072b90fb5822041895.jpg",
       "hidden": false,
-      "percent": "59.0"
+      "percent": "58.9"
     },
     "CALM_WATERS": {
       "name": "Calm Waters",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/a50b508e27ffe6a27f4a6567856d4faff6a81fa1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/1f228c311bca3993de1782dbe672e95dfd8e7ff4.jpg",
       "hidden": true,
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "CATALOGER": {
       "name": "Cataloger",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6f3fdcc76e31c06d5bccd3f9b9890cc052dd7317.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/8c9553d28f2281af498bf662fa620ce912a02c52.jpg",
       "hidden": false,
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "FRIENDLY_FIRE": {
       "name": "Friendly Fire",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/821f23336f37b8ef6b9444c37a65981db505db06.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/5b7a9d75fc25f53776af77263d8fc5d897b48f4b.jpg",
       "hidden": false,
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "HISTORIAN": {
       "name": "Historian",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/724556966e77c1ecd5b3f99405c816543e1f5b07.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6fc264d045fa3d5fcf523ea67d1d5696ec1fe2fb.jpg",
       "hidden": false,
-      "percent": "68.5"
+      "percent": "68.4"
     },
     "LIGHTNING_ROD": {
       "name": "Lightning Rod ",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/a175aee1cb6d1d35457b83131df033605ee88ded.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/a13bbbd5a0cc47f72c0652c267979c60dd7b7739.jpg",
       "hidden": false,
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "RAW_VEGANISM": {
       "name": "Raw Veganism",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/af1e9904ffc85faf0191be17b7a66b610f350beb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/902f60c6a0b2832749e1fe92c94768b02b20fb5a.jpg",
       "hidden": false,
-      "percent": "36.3"
+      "percent": "36.2"
     },
     "RESOURCEFUL": {
       "name": "Resourceful",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/dbf34228a02eec215f58ed188b8a07a6d291dd4c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/1f6a7b91a8bcfe0d0ae372078937053e074b3033.jpg",
       "hidden": false,
-      "percent": "82.7"
+      "percent": "82.6"
     },
     "ROOT_CANAL": {
       "name": "Root Canal ",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/14fa331751c2b20bf87b4ec0dcf0a8553a242074.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/9ce630a08846865f8db20cca4c6af3f5ee926287.jpg",
       "hidden": false,
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "SAVIOR": {
       "name": "Savior",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/04f148a20e5979aaf58c7641558abd6d0c9de7c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/8950cfceca46ace582e8feb7baf64b169b3c06aa.jpg",
       "hidden": false,
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "SELF_HELP": {
       "name": "Self-help",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/f6894d55d3e07223221d0228b4fac6737b3b47c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/cff5dd78632a88df303d0e28d7f3db7e97607236.jpg",
       "hidden": false,
-      "percent": "53.7"
+      "percent": "53.6"
     },
     "STALWART_PSYCHOSIS": {
       "name": "Stalwart Psychosis",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/7baf24fa7c7be0b9b264f828ef44135b3e9ed13b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/1f4cc6082f5e37b61d10e1e91f8f99b9a62e8702.jpg",
       "hidden": false,
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "SUMMER_SOLSTICE": {
       "name": "Summer Solstice",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/4e32ff6f71ca50d3bfd978c8360d60866033376e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/066d3b7bc3b17fbc6f684b010fb4e60f39e8f4b7.jpg",
       "hidden": false,
-      "percent": "73.5"
+      "percent": "73.4"
     },
     "THE_GREAT_ESCAPE": {
       "name": "The Great Escape",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/f02d8f968b30f8d410283521f8a2a90c77e55e75.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/c9aa1599dffbf5ad3a23d3fa3753b98a544a9943.jpg",
       "hidden": false,
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "TOOLS_OF_CONSECRATION": {
       "name": "Tools of Consecration",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/98426d30826beab7647e08f1e7292d67dd29786d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/68746103539a618ebf896e5a5aa9d363485460a3.jpg",
       "hidden": false,
-      "percent": "30.1"
+      "percent": "30.0"
     },
     "YOU_HAVE_CHOSEN_WISELY": {
       "name": "You have chosen... Wisely",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/94b32a744f91965b850430e876a2c614b9701010.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/494be3553c3a9fd7c8ed8e15ba6cd1731ba6d286.jpg",
       "hidden": false,
-      "percent": "71.1"
+      "percent": "71.0"
     }
   },
   "platform": null,

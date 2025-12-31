@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/0d5487bae0fbbe3ddcea3053b8f9e6b69abd39ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/89d01c1872fb3dc7a54f3069afab58931ba275e1.jpg",
       "hidden": false,
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "CINE01": {
       "name": "Cleaning Out the Closet",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/9a6600996c8f75bd43de898df851ed7d463205bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/e64d00a8dfff30ba7ca8928b5cc2b8e37930eb48.jpg",
       "hidden": false,
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "CINE05": {
       "name": "Death Blooms",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/72fc951bb18ad2863f1cd4bb65227459f6e8706d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/3baf64df139812c73f6311628ea9363d0b8240c1.jpg",
       "hidden": false,
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "RPG15": {
       "name": "Forces In Motion",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/adf1bc4f4cbabad113c255451aa7abb9082f40fe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/01e375dabaaf63b339c62ac997c8278406afa54d.jpg",
       "hidden": false,
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "CINE02": {
       "name": "Hitting The Fan",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/b3771da0f564d2ccc2a17373fec6d56f68540755.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/b5b85bbdc69abe845758b1c09fb276f5f96a6405.jpg",
       "hidden": false,
-      "percent": "39.4"
+      "percent": "39.3"
     },
     "BRANCH04": {
       "name": "Managing People",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/a06b987fc3e1bc6ad9cb78e6f761d41b462b1a9d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/bff87d2a6ee5eb7f3f66dba0eea9e52c14e39829.jpg",
       "hidden": false,
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "RPG06": {
       "name": "The Chosen One",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/710a3608264438a23a607467dd74ca4111e3c32d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/87840187fd2938bd0c14f68cb7d468811a41d901.jpg",
       "hidden": false,
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "RPG07": {
       "name": "Trial by Blood",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/f1aeacf273e426871619f07706cf37375b3b98cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/994bb54de878ed0a3594fcd818256c85b4ed34da.jpg",
       "hidden": false,
-      "percent": "79.0"
+      "percent": "78.9"
     },
     "RIDDLER01": {
       "name": "Turn and Turn Again",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/984ea6c9bbf0f9837c853c62c65a596d5a645b3b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/7444bec75a253f35a0ef6760ab468f773a11d699.jpg",
       "hidden": true,
-      "percent": "45.3"
+      "percent": "45.2"
     },
     "BRANCH02": {
       "name": "War Machine",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/1542e57ad92f05a5f95e9f023ec1895c0c7bc3e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/a36754204739f31d089bb6c514b7df86a63e3c37.jpg",
       "hidden": true,
-      "percent": "15.1"
+      "percent": "15.0"
     }
   },
   "platform": null,

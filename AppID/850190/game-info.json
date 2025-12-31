@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/60effdcef190f24297c914278449aeff9f9b8614.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/400cf4a6206334b6c85c36230837fdf9a0d8d1b7.jpg",
       "hidden": true,
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "AchievementINirvanaID": {
       "name": "Beauty, Mindfulness and Meditation",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/700dcb8bca44ae4fb719b8fb6d92dca29913657e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/23383422bb8a46535dfcdcb92f3a81ae50094008.jpg",
       "hidden": true,
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "AchievementBananaLickerID": {
       "name": "Cannibanana",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/d223276279a6222dee6b48df6febc1bfacf3c5a5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/fda8f0b1bf8e77679088f64db4ae1d83c997adb3.jpg",
       "hidden": true,
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "AchievementApocCompactCarID": {
       "name": "Dude, where's my square car?",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e34880e30aad5249c111a1b0e495a9bb03b60ca9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8644945b453160b7752e6c56a70e17d0d864d4ba.jpg",
       "hidden": false,
-      "percent": "39.0"
+      "percent": "39.1"
     },
     "AchievementMultiverseCharonsBoatID": {
       "name": "Hell of a Ride",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/d09be8654a327555c2fbedd72d71d5897882d50d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/0fa112808a97bc4be326b59c1a6980fde21676e1.jpg",
       "hidden": false,
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "AchievementRedecorationID": {
       "name": "Move! That! Bus!",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/3314cd1ab8f74892ffe9ff5e0d279c5e5189bc54.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/1fb55ca4e56eb89831f2763779dd8a22008599c2.jpg",
       "hidden": true,
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "AchievementBecomeHumanID": {
       "name": "San Angora: Become Human",
@@ -393,7 +393,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/25dae2daa49ed3a8832dac9382d316b95694e737.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
       "hidden": false,
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "AchievementMultiverseIntroCartID": {
       "name": "This Took Half My Life",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/29c73316ff2534d90c229a4cdb15947fed50507c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/40e969fb4dec43e36a900cb2e78a45352c355a95.jpg",
       "hidden": true,
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "AchievementTrinketID": {
       "name": "Try Hard 2",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ba74bcb3449a36378617320e73c7f700986bada3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/18da52443fa36755e99f8f67a21fc219fd17d747.jpg",
       "hidden": false,
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "AchievementApocOpenVaultID": {
       "name": "Vault 55",
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9e2d7dca957fbb1859943afaead1196033f01857.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a4454b4b3c22a7dfccc515db8bc20c6473ae7b2e.jpg",
       "hidden": false,
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "AchievementAliensID": {
       "name": "Welcome to Earth",
@@ -457,7 +457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/281304d33907d1d660a1d8610ca661f65ac82044.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f419fb069a2150e1355f1d02ea03f452155d94c2.jpg",
       "hidden": true,
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "AchievementApocVehicleCollectiblesID": {
       "name": "Wheels of Fortune",
@@ -513,7 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/acd8e0b9bdade33bb63378fae153322f6aae2959.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a0ae89f7c6f574fbcda55c083f823a877d7c8ed7.jpg",
       "hidden": false,
-      "percent": "2.1"
+      "percent": "2.2"
     }
   },
   "platform": null,

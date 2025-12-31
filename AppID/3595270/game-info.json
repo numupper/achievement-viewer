@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/cd758ce1a8fc954cac3c4f2717dd07d99335b8ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/e14c24d4c3ac2da4e0f8e0ddc95f6c9915157487.jpg",
       "hidden": false,
-      "percent": "45.5"
+      "percent": "45.3"
     },
     "jup_ob_backfromthedead": {
       "name": "Back From The Dead",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/b52b65ca465990cb55b9c0b714c37970aaea1965.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/d717720bc13ddfba41db57611e8adfa86a43e172.jpg",
       "hidden": false,
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "jup_sp_deathpenalty": {
       "name": "Death Row",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/33021fe2fedef9ed064f4e92f7c2b9313ade273e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/945422387abd6a75d4d3cce45e061a4355a0c0c4.jpg",
       "hidden": false,
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "jup_sp_timeforanewplan": {
       "name": "Dialed In",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/9f0eb68a5f0d1cc106edae14f18242e46db92bcb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a853db347e1c26456fb076e05aa4072d0e31fc9c.jpg",
       "hidden": false,
-      "percent": "2.5"
+      "percent": "2.4"
     },
     "jup_sp_fightorflight": {
       "name": "Floater",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/f9ac8a63e9d029608fee519a669af4a2b35a950e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/f944bbd37eac63ca4910e8af94a14e53d27a6a2e.jpg",
       "hidden": false,
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "jup_sp_heycatch": {
       "name": "Hey, Catch!",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/f626d5789022342cc6b247026ac5372d828af6dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/ae2e400cb7c5cb637e089d817cdf92500c4d63ed.jpg",
       "hidden": false,
-      "percent": "30.1"
+      "percent": "30.0"
     },
     "jup_sp_hitchhiker": {
       "name": "Hitchhiker",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/657b81de66547fd223a58cad8c16e69940be67e6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/47d4891e60b5bac32575daca42dcdd146048c426.jpg",
       "hidden": false,
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "jup_sp_partyfavors": {
       "name": "Sample Platter",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/90d89f5e71b665a404d8a455fd94ad81ce2b115a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/20a0f6a0f9c884e487c49a0bcacf03f14c0cd13d.jpg",
       "hidden": false,
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "jup_sp_shotblocked": {
       "name": "Shot Blocked",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/c42b5f9a6dc0a74d83f6932901da8dd1a602390c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a281d5dc2e794b83dd8f5eac8b6134df3e07b3d4.jpg",
       "hidden": false,
-      "percent": "70.8"
+      "percent": "70.6"
     },
     "jup_sp_enjoythelittlethings": {
       "name": "Think She'll Notice?",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/b743532bbfc4e64d217744a8584d1edbaf8eab43.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/cbcb9ac70c09cd35d9558bd4770a93906eb4e552.jpg",
       "hidden": false,
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "jup_ob_youcanpetthedog": {
       "name": "You Can Pet The Dog",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/90ef6bf260ded82a52b88b0e29b16686fbb582a8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/44a82e1078c17d36d24bb43868d36ef6e15bb294.jpg",
       "hidden": true,
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "jup_sp_yourtaxdollarsatwork": {
       "name": "Your tax dollars at work",

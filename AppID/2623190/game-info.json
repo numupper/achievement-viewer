@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/da18a4c882ff9d5052eefe8d5e2e5d362397d5e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/94d93d1e4c8db93805a155251c28d6e8db2cec6f.jpg",
       "hidden": false,
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "Fighter_Associate": {
       "name": "Associate, Fighters Guild",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e0f05eba4e0babb0fc9f36a12abe5f29161b6089.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/679e3a40f82df9ee57669d4668c078345186e6e8.jpg",
       "hidden": false,
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "Thief_Bandit": {
       "name": "Bandit, Thieves Guild",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/b05efe82edf2f774734d5d13eead155e2e9ec7b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e97b8bd419a9f8fe8ea55cc7774d97469f650efc.jpg",
       "hidden": false,
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "Thief_CatBurglar": {
       "name": "Cat Burglar, Thieves Guild",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/8bf5ed14bab95b4a584bfd38ff98227823000d07.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/acb0b8bfccd8e19e138063a7f764634c51f1ed8d.jpg",
       "hidden": false,
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "Isles_Citizen": {
       "name": "Citizen, Shivering Isles",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e676f7b538d095513b91a7ec06c63d0925f81950.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/20c02fec92222a4c231e47c4d5db0a5a9a5867da.jpg",
       "hidden": false,
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "Main_EscapedTheImperialSewers": {
       "name": "Escaped the Imperial Sewers",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/6ffc4e50b9cd3f9512580974496ae6bb14b4e829.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/3a0a5b6d4bd33f25d23730c9d42f4b906ad00d7f.jpg",
       "hidden": false,
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "Thief_Guildmaster": {
       "name": "Guildmaster, Thieves Guild",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/947ea132af09414ea96e5fcc3d5b895ee14964c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/633fd2bd7c2b892f6e0afc01949b2a51a9c61d1b.jpg",
       "hidden": false,
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "Arena_Hero": {
       "name": "Hero, Arena",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/644dd64ad8449a72a481a0318cb9bc2df0a17319.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/4220a4ad6d410e43ac38ad79b0eafcc82beb2187.jpg",
       "hidden": false,
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "Isles_HonoredMadman": {
       "name": "Honored Madman, Shivering Isles",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/46abab8d779ebaaaa1d5dd5f1df5cc2830890c44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/57870b8d927dddddd74553845c2f74e27b057eb7.jpg",
       "hidden": false,
-      "percent": "23.1"
+      "percent": "23.0"
     },
     "Arena_Myrmidon": {
       "name": "Myrmidon, Arena",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/f094dc85c25b844863fae0f78b9b65ca478a8163.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/98cf2084aa42b6de96748cf25b2ae0f87e48924d.jpg",
       "hidden": false,
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "Thief_Pickpocket": {
       "name": "Pickpocket, Thieves Guild",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/3f413de49f9770d538b22b649052976e6cc6f653.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/5de6ad85f93332dc25939db95cb7a783886a3213.jpg",
       "hidden": false,
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "Arena_PitDog": {
       "name": "Pit Dog, Arena",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e1b38044e8c0267117b5f8836a887b532d8e1aa0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/0a4d4a11d1b820bcc4c07fc88b0a636b566a21e6.jpg",
       "hidden": false,
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "Fighter_Protector": {
       "name": "Protector, Fighters Guild",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/8a1d9127cd7891127ec6314cf8d1406664d43ed2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/bbef4bd08a398d8d8b9de093d506d24a53028b7e.jpg",
       "hidden": false,
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "Thief_Prowler": {
       "name": "Prowler, Thieves Guild",
@@ -393,7 +393,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/0de0e13ed9feeaf49ccbefb578009b76e601dbc8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/c2f8c32e9b4dd4f5c96175dffaacccbcdde3bc00.jpg",
       "hidden": false,
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "Isles_Regent": {
       "name": "Regent, Shivering Isles",
@@ -473,7 +473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/182c0b695ab9ce79664004352c3668f9faddb998.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/4881ace8da55ba54009bf40b4294f148d067ea40.jpg",
       "hidden": false,
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "Mage_Wizard": {
       "name": "Wizard, Mages Guild",
