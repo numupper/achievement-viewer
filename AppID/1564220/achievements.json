@@ -42,5 +42,21 @@
   "ACH_Sector6": {
     "earned": true,
     "earned_time": 1710177127
+  },
+  "ACH_Sector7": {
+    "earned": true,
+    "earned_time": 1711477751
+  },
+  "ACH_CollectAll": {
+    "earned": true,
+    "earned_time": 1711477751
+  },
+  "ACH_Finale": {
+    "earned": true,
+    "earned_time": 1711477751
+  },
+  "ACH_S8MasterRoom": {
+    "earned": true,
+    "earned_time": 1730822453
   }
 }
