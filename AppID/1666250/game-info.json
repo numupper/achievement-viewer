@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/282dec73e36d32f891f1eb894006b9f5d9279c33.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/94b9606c71fe8643f1af0af36afc7c8c8b95d24b.jpg",
       "hidden": false,
-      "percent": "4.2"
+      "percent": "4.1"
     },
     "ACHIEVEMENT_43": {
       "name": "Amazing!",
@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/7897626f7bbfc8699d69a12e5ec094164fa5e0da.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/663267ba797b6463eb4ffe8f1b4a0a34e5e54969.jpg",
       "hidden": false,
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ACHIEVEMENT_13": {
       "name": "Bar Brawler",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/ecec5937823e2d810e5a4db45af97a6ec45a2683.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/59d9071b5275940cd5d539af55239842ff24f993.jpg",
       "hidden": false,
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "ACHIEVEMENT_08": {
       "name": "Built in a Day",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/400886a997b6b9b2d92af093503a95b33d9b018a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/4862a1f0c18ceadf2839c4305c2f7b13fca6ac58.jpg",
       "hidden": false,
-      "percent": "4.3"
+      "percent": "4.2"
     }
   },
   "platform": null,
