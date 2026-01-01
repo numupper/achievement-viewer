@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/070b1bc153f2b7cdc50a43c95418a977c3a95ae4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/de8488bba86dc6ad0f6432f4df6913791fe90ed0.jpg",
       "hidden": false,
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "jup_sp_fightorflight": {
       "name": "Floater",
@@ -769,7 +769,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/d3e91840443eec60c384c666de2ac06f80153699.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/ac94d639a3757eda81b0cd3784c096a86e52edd1.jpg",
       "hidden": false,
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "threestarbadsit": {
       "name": "Night Fight",

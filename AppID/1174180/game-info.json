@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/3f5b6b4295a58d39b7619e5723f94b8f475dd81e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/568f85f53b033f055842013c775ed57d813e3c8f.jpg",
       "hidden": true,
-      "percent": "72.4"
+      "percent": "72.5"
     },
     "Achievement12": {
       "name": "Best in the West",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/1e5b34e1120f9d7c05d5d3b30ff4404174297350.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/568f85f53b033f055842013c775ed57d813e3c8f.jpg",
       "hidden": false,
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "Achievement35": {
       "name": "Breakout",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/335e01c93fa8589cb324512f6cd512f9c7158aa6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/568f85f53b033f055842013c775ed57d813e3c8f.jpg",
       "hidden": false,
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "Achievement19": {
       "name": "Give to the Poor",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/1d0bdc25d376a74b0ee37355ee32f9eb308dd90c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/568f85f53b033f055842013c775ed57d813e3c8f.jpg",
       "hidden": true,
-      "percent": "85.2"
+      "percent": "85.3"
     },
     "Achievement11": {
       "name": "Lending a Hand",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/d7c4bb70fadf697ce7a0293a5cbb04c82e4715fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/568f85f53b033f055842013c775ed57d813e3c8f.jpg",
       "hidden": false,
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "Achievement6": {
       "name": "No Traitors",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/1ecb9a2efacd9822676a57221e770e294176bcb8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/568f85f53b033f055842013c775ed57d813e3c8f.jpg",
       "hidden": false,
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "Achievement40": {
       "name": "The Real Deal",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/cede247d21de983c4d0d8aed8b75d1324cac9bf3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/568f85f53b033f055842013c775ed57d813e3c8f.jpg",
       "hidden": true,
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "Achievement34": {
       "name": "Trusty Steed",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/e968b36e4c3fba5addab9f4d4a31ddf935cb2804.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1174180/568f85f53b033f055842013c775ed57d813e3c8f.jpg",
       "hidden": false,
-      "percent": "50.6"
+      "percent": "50.7"
     },
     "Achievement5": {
       "name": "Washed Ashore",

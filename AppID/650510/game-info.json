@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/2b4b892d5e6903c118d44af0656515f0fd621e63.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/868fa3bd637560556e2e12a59f4bfeb57b580620.jpg",
       "hidden": false,
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "ACHIEVEMENT_DERAILED": {
       "name": "Derailed",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/f71926b0d96b9eae83aa071182e4a9bf055ed6d0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/cd0f9c136a781ac8f8eaeaf42f7d6aef4ce39cc2.jpg",
       "hidden": false,
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "ACHIEVEMENT_DIGITALDOJO": {
       "name": "Digital Dojo",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/ac6e26c0d4a15242a0ef3d65b027a6435bec5574.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/3cff9c77e7125e57ed6123ade2ff80ce932f9d79.jpg",
       "hidden": true,
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "ACHIEVEMENT_ISITHOTINHERE": {
       "name": "Is It Hot In Here?",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/0969623d6fa0fdab914591b817255e2efa533557.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/64c0c1a243a755b83b1afa3b46969b6bfc03969c.jpg",
       "hidden": true,
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "ACHIEVEMENT_ITSOVERFORREAL": {
       "name": "It's Over, For Real!",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/030e2125d1b1623a24e157edf896d1f13acc93e5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/15beb0110ad5ad7f6b03b4fe093ce56978dda1f7.jpg",
       "hidden": true,
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "ACHIEVEMENT_IMPRESSIVE": {
       "name": "The Egret Has Landed",

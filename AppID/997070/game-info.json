@@ -1,6 +1,6 @@
 {
   "appid": "997070",
-  "name": "Marvel's Avengers - The Definitive Edition",
+  "name": "Marvel’s Avengers |《漫威复仇者》终极版",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997070/header.jpg?t=1696093345",
   "achievements": {
     "ALittleBitBroken": {
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/997070/230bc119dee844d388d722171426bb353ccfa323.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/997070/d3f5be17ecc3d866a2f26d7aecf8bbdd736e8315.jpg",
       "hidden": false,
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "HoneycombHideout": {
       "name": "Honeycomb Hideout",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/997070/c4b60fd13bdd82590f7bfe033889a25e50ba8141.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/997070/04d7ffa913f98fbb0d796ac8a528dec396757180.jpg",
       "hidden": false,
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "ItsyBitsy": {
       "name": "Itsy Bitsy",

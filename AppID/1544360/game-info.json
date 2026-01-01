@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/ec90138e65cd19d834ea86733101b9677180c354.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/b0e0a5c5f24d0b831baac3d7b14fd35598ee4343.jpg",
       "hidden": true,
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "ACH_FTUE": {
       "name": "Builder",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/3ef5a24326e6dea20f0b755493570d7d380736c4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/fd39f9ddc72dce6e510bfbc4cab9c8c77ec77ea4.jpg",
       "hidden": true,
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "ACH_ARTHOUSE_04": {
       "name": "Challenger",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/5bfa5efc033e65f25a77fcd8329f092bfa6c38fa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/771ee0224eae25ae45f0e1a6f1fd020dcae9642b.jpg",
       "hidden": true,
-      "percent": "44.9"
+      "percent": "44.8"
     },
     "ACH_ARTHOUSE_08": {
       "name": "Creator",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/0c3c60da635ae6492b3aaebee497490cff2f2abd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/7b83bfc20e418557cfde6a46c928b1c25615c33a.jpg",
       "hidden": true,
-      "percent": "37.0"
+      "percent": "36.9"
     },
     "ACH_ARTHOUSE_19": {
       "name": "Inspector",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/29850e4d66fa0ab47503604af6206a10a89c3977.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/1ac902cade69f44d3677b8738f7709ecf4d00be0.jpg",
       "hidden": true,
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "ACH_ARTHOUSE_05": {
       "name": "Loner",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/fb4be6d535469976c07b16cb0ca9c96498144d17.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/3f406e96cb081e72552944856c05b17eaf8e828e.jpg",
       "hidden": true,
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "ACH_ARTHOUSE_18": {
       "name": "Rescuer",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/93198bf0605ee30efa4d853a27631768e566baf4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/27e3242eb580be553c2217dad9d77645305e02ee.jpg",
       "hidden": true,
-      "percent": "28.9"
+      "percent": "28.8"
     }
   },
   "platform": null,

@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/16c6ea27b91e9323d78fc33a8c055da6031b5511.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/7c4fe842d83bfc0e130ecff68d34167c8e00177d.jpg",
       "hidden": false,
-      "percent": "67.7"
+      "percent": "67.6"
     },
     "BOOKREAD": {
       "name": "Book worm",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/da137c7c0244a415e11204d79b550ca13453b9f6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/e6949f86af7af8b61086ec3c678556c24624b12e.jpg",
       "hidden": false,
-      "percent": "50.6"
+      "percent": "50.5"
     },
     "BEATBUTCHER": {
       "name": "Butcher",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/77c6b3f9f6a669d30e2ef003c8ad8b0e6691585d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/6db2374d3b5be14a769a6050de1974be1bfc7a69.jpg",
       "hidden": true,
-      "percent": "74.6"
+      "percent": "74.5"
     },
     "COLLECTOR": {
       "name": "Collector",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/8f2d9c2732f2e176074fdb7e0a5e59861f666539.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/43e05e674c00b0cef82030bed681f12b86b25382.jpg",
       "hidden": true,
-      "percent": "58.0"
+      "percent": "57.9"
     },
     "FINDCROWANDAHFIG": {
       "name": "Kärrhäxan Figurine",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/1fc5f17078fca8e822f8b42d6d76c49ae8562e85.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/a0d828203700b42b43a00e2ca161fe6d35ee898f.jpg",
       "hidden": false,
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "FINDNILSFIG": {
       "name": "King Nils Figurine",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/01bf462682322210c4bd98820d4d1a18f14f3d98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/34d5bd36f6f14bd8f000b63191927b5acd10d481.jpg",
       "hidden": false,
-      "percent": "44.7"
+      "percent": "44.6"
     },
     "FINDLEMUSFIG": {
       "name": "Lemus Figurine",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/d7aab810c5d07c7f2b665f6238fbbbb7c020bb7b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/bdcfcfd53007ad2e1d13bbb886f251a9d0106848.jpg",
       "hidden": false,
-      "percent": "37.7"
+      "percent": "37.6"
     },
     "SKOGSRA100STABS": {
       "name": "Murderer",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/ec8d91927a898349983be70dbc973ce5c6abe1e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/5acde00b8d346c2b958212652f76e254587a9ee9.jpg",
       "hidden": true,
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "FINDPESTAFIG": {
       "name": "Pesta Figurine",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/d61d170ec41ff3d062ba63cde81ecc257e41ecc4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/0f695cd892eb09db998c2646250a05fdde33e1f2.jpg",
       "hidden": true,
-      "percent": "45.4"
+      "percent": "45.3"
     },
     "SAVEDALLGNOMES": {
       "name": "Savior",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/622ab9dba0cf7d14d7e0db2b8bf2b18d02730f38.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/73c41cee9abc5f0da35fdbd05d473a442261b392.jpg",
       "hidden": true,
-      "percent": "55.0"
+      "percent": "54.9"
     },
     "FINDSKOGSRAFIG": {
       "name": "Skogsrået Figurine",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/2e6ef0161c9e54365f0370cbeb2fa16e3395b470.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/c871a1b1fce06d8636afd17fc2a57d7fd711357d.jpg",
       "hidden": false,
-      "percent": "31.8"
+      "percent": "31.7"
     },
     "IRONMAN": {
       "name": "Survivor",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/7285e0ffa5b1dde42e476a6eceef55c9574ee170.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/15687ba2e1550f68eab0974a211173a0d29c280a.jpg",
       "hidden": true,
-      "percent": "48.9"
+      "percent": "48.8"
     },
     "FINDTRICKSTERFIG": {
       "name": "Troll Figurine",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/039ef74aa26ae5ff52b328e819eb188539d00f39.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/ff146d6127e8c9e4b6d0d1c623001a991278c296.jpg",
       "hidden": false,
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "FINDTUVAFIG": {
       "name": "Tuva Figurine",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/8f1136d6578efcaeeff47fdcaeb0679cd3586437.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/734e4d281e31645b410cccea0f636301479baf4e.jpg",
       "hidden": false,
-      "percent": "59.1"
+      "percent": "59.0"
     }
   },
   "platform": null,

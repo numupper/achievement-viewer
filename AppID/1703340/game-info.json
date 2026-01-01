@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/f92650ce714a49cb8aae1e1d3f92eca12b68ea56.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/3b3bf4913081e9c42bca02ed3cb0192fb5156c1a.jpg",
       "hidden": false,
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "beatgame": {
       "name": "Beat the game",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/7d80dfe1d459b2a4834c83ebc1b25f17ef8ef691.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/4c1a30e691df953cabb00ca410f63d31f4869faf.jpg",
       "hidden": false,
-      "percent": "93.9"
+      "percent": "93.8"
     },
     "settingsworldchamp": {
       "name": "Settings World Champion",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/840471429bd2bff485c03340f4bf164238b770fe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/a933c619968cab388c0aa6d3f296b1f7f6ccc578.jpg",
       "hidden": false,
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "welcomeback": {
       "name": "Welcome back!",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/7f3bf43e3637bd677569562584f88581b005cb7e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/5936f812a14912779532a8664cdba12835b7a641.jpg",
       "hidden": false,
-      "percent": "68.6"
+      "percent": "68.5"
     },
     "nojump": {
       "name": "You can't jump",
