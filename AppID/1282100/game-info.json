@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/fcb971d391918b19d951d9bdb755dde93b96d6d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "Defeat_Nightweaver": {
       "name": "Dark Designs",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/04e0d5f208a1fae06d5189328830682f6dd1b480.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "46.3"
+      "percent": "46.4"
     },
     "Obtain_Archetype_Dual": {
       "name": "Duality",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/829db512c461c3f6f0790112b1eaebe69ca0bef5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "53.5"
+      "percent": "53.6"
     },
     "Craft_Weapon_Mod_A": {
       "name": "Expanding Horizons",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/4f34d4fd53d9dcde1726f9c753426ea335ae1890.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "67.1"
+      "percent": "67.2"
     },
     "Upgrade_Standard_Weapon_A": {
       "name": "Good, but Could be Better!",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e2b52e79c7ecec15299e717a27ac2069492028e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "Upgrade_Traits_B": {
       "name": "Maxed Out!",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e1a73bd3edd455a40663c8d512b4e870a318e7be.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "Upgrade_Standard_Weapon_B": {
       "name": "No One Should Have All That Power",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/3e77257f4c735b70e97eecfce93daf3a3250f199.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "Meet_Custodian": {
       "name": "Not a Janitor",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/458536322448821d4e020b460ec76e3f8d8f3a3e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "54.5"
+      "percent": "54.6"
     },
     "Obtain_Traits_A": {
       "name": "Not Your Average Trait",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/6b15b9ccb5f2b5a26a5aec4c24faacf2e098ecf9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "43.1"
+      "percent": "43.2"
     },
     "Obtain_Traits_C": {
       "name": "Proving Grounds",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/a8a3cbed240acd6affcfeb75fda9eae12ddbc29e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "DLC1_Defeat_OneTrueKing": {
       "name": "Regicide",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/4e64d617fe5f42e91d4c769b0d66824b1951b41b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "DLC2_Meet_Walt": {
       "name": "Thank You For Being a Friend",
@@ -393,7 +393,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/9230b54f4765eb6b3c72192216a2283b76413b13.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "DLC2_Upgrade_Item": {
       "name": "The Burden Hardest to Bear",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/357168989717fc374238b8c0ff9c8c1d3bca8ca8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "Defeat_Many_Faces": {
       "name": "The God Gambit",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/25745324ecbddbe9bc3ed979f83fa1bcbae83147.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "Defeat_Mantis": {
       "name": "The Killing Jar",
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/f3ed2cddbccf702337d3ced11235db1d753925f7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "DLC3_Complete": {
       "name": "The Ultimate Doom",

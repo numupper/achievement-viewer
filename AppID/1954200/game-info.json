@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/f3ef70c6a9373e1c597445a0c8b963033943d47a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": false,
-      "percent": "76.2"
+      "percent": "76.3"
     },
     "ACH_ABILITY_BOMB": {
       "name": "Harness Your Power",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/a0e620e946a2e6aecd5adf1427859a254a7ea2e4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "ACH_CHALLENGE_MAGE_BOMB": {
       "name": "Return to Sender",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/0fe2d33279a5df5e3e4bd47fd697f68eb3bddc1e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
-      "percent": "40.2"
+      "percent": "40.3"
     },
     "ACH_MAIL_ALL": {
       "name": "The Last Stop",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/add54b0f2deefdab3588f5df6730d8624aa69a0c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": false,
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "ACH_LOCATION_FARM": {
       "name": "The Open Range",

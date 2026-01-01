@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/f9d40ae315063b26ef1e5765b00a39f8acd46765.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "TROPHY_025": {
       "name": "All That Glitters",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/38b23e9c3f39a7aa6e0eaf6e5d1aaf446b4f615d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
-      "percent": "69.6"
+      "percent": "69.7"
     },
     "TROPHY_018": {
       "name": "Annihilator of Evil",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b4b3cd97d9bc631f2946980d31257457fb5d4708.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TROPHY_050": {
       "name": "Ascension",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/1cf7e834978ceb533131dfc080ad990cc6e4b002.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "TROPHY_001": {
       "name": "At Fifteen I Joined the Army",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/c2d2395bfed3d8b7f0e4620e61e6a8f26f44bf56.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "TROPHY_008": {
       "name": "Awakening of the Unscrupulous Hero",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/0ebc63218848640d4801721f33da9b2a2132e06c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
-      "percent": "74.1"
+      "percent": "74.2"
     },
     "TROPHY_DLC_002": {
       "name": "Death of Elai",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/f5b749b98702c0a2887fec59942bc869f81593ad.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "TROPHY_026": {
       "name": "Decor Maketh the Man",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/922747d2338265d5b3f2039428e694538b450bcc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
-      "percent": "69.9"
+      "percent": "70.0"
     },
     "TROPHY_037": {
       "name": "Fly It High",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/04bfbb5d8bc19561fa72604c9afcd17339cfec1e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "TROPHY_007": {
       "name": "Guardian of Peace",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/30cf073dbacdcd728d16d7b411d8ed93c8f710e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
-      "percent": "56.7"
+      "percent": "56.8"
     },
     "TROPHY_DLC3_10": {
       "name": "Heroes Gather",
@@ -529,7 +529,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/52350473647fd406fbe92f6f5d5382f55e9cb027.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
-      "percent": "52.5"
+      "percent": "52.6"
     },
     "TROPHY_047": {
       "name": "Staunching Heresy",
@@ -569,7 +569,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b6a2b1a54ca16d9692d976099521cd5cf7a71d93.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "TROPHY_DLC3_02": {
       "name": "The Forlorn Swordsman",
@@ -665,7 +665,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/165dc078699ffe8537ded23f0b28a137a635a893.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
-      "percent": "73.9"
+      "percent": "74.0"
     },
     "TROPHY_DLC2_13": {
       "name": "Watchful Tiger",
@@ -721,7 +721,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/809f034545c1620276fab841b0b283ffc6192613.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
-      "percent": "7.0"
+      "percent": "7.1"
     }
   },
   "platform": null,

@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/f8ed6c5dba5bcecc0464491f7a6a55b9b98afc51.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/d02e120a1f5ea72c59cc59f94a5505c2d5a1e53f.jpg",
       "hidden": true,
-      "percent": "44.7"
+      "percent": "44.8"
     },
     "BeastOfLegend": {
       "name": "Beast of Legend",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/b9c5d3d1606fabf204c41d129005902a805a0b48.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/c6eb81df7c480fd22735ff51a537eb66421ba922.jpg",
       "hidden": false,
-      "percent": "59.4"
+      "percent": "59.5"
     },
     "FirstSteps": {
       "name": "First Steps",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/14ac87ae1e17a8d2697fffb6d329263a0e92f5db.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/27c22f6453f2305816502871416e651db8f3a2f2.jpg",
       "hidden": true,
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "InTheMoment": {
       "name": "In the Moment",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/db2fcbd1bd313230d8467ea25f60283b95ad5cfc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/be703b15c68e15b785375486ffa6ac007dc106c8.jpg",
       "hidden": false,
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "LeapingLizards": {
       "name": "Leaping Lizards",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/62bd2a8a75a321c3c76c41a20363efb801ef5811.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/c4b0e1e4272bdbac555cd06f09086216bd9fc911.jpg",
       "hidden": false,
-      "percent": "68.6"
+      "percent": "68.7"
     },
     "MadeToEndure": {
       "name": "Made to Endure",
@@ -393,7 +393,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/b2b2a7b9fa41488387fed2419328f3b5530d4dee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/23679392bc420ee914c20b5e675781efdc3f834d.jpg",
       "hidden": false,
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "Marksman": {
       "name": "Marksman",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/f8e0795f2e42f2f3877cc29d334cd07bfadf8c9b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/0f33bfbc9c5cdd6dfc0de115609457daea22607e.jpg",
       "hidden": false,
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "PointofInterest": {
       "name": "Point of Interest",
@@ -633,7 +633,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/68ca9d80741b249c55b035762ace456d04c70166.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/09e1d352c88e2807ff40388ee83655e0ecd963c2.jpg",
       "hidden": true,
-      "percent": "72.6"
+      "percent": "72.7"
     },
     "TurnTables": {
       "name": "Tables Turned",
@@ -657,7 +657,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/65a3714767b0233f41320822cc30997691e0b0c1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/e228060ade5357a00657e362e841d335b411dc1d.jpg",
       "hidden": true,
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "FirstBlood": {
       "name": "That's a Knife!",
@@ -673,7 +673,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/004d8260d4cb6c8565e7852f08c4de6eadfb915d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/f202ef49d9a1aea5550ca76f3934ac93eea51420.jpg",
       "hidden": true,
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "TheHiddenCity": {
       "name": "The Hidden City",
@@ -713,7 +713,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/288206c1aaaeb098c83713085da1617d42dc1e9f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/d9789967531ae838305d7f1d055d178cef1bca7f.jpg",
       "hidden": false,
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "Teamkill": {
       "name": "Total Party Kill",
@@ -753,7 +753,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/b31ec784e34460673d0057543bdf0323dcf65fa1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/760cdf540c57ce0d473c64d2c4d1ab5025e4141a.jpg",
       "hidden": false,
-      "percent": "52.7"
+      "percent": "52.8"
     },
     "UnwantedTenants": {
       "name": "Unwelcome Guests",

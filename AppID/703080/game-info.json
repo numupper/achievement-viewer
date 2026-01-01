@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/c3b3eb8f36054dc17ca8898d0e7d89b70746077d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/4aa8cc11d8c5fbcb1893cc7e132aa5c2715232c7.jpg",
       "hidden": false,
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "Campaign_AnyBronze": {
       "name": "Bronze Award",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/a199ef6c2423d172879a091a3a13c1423f4f7c95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/38e4e6c4f55962f333fe947c1500c4c256a7563a.jpg",
       "hidden": false,
-      "percent": "50.5"
+      "percent": "50.4"
     },
     "Campaign_AnySilver": {
       "name": "Silver Award",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/4a23d3364a64945b0abefa9e731eee53e8d4cd66.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/bbe85cedc888d28ad9d92f7f1aea1435df3070aa.jpg",
       "hidden": false,
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "Game_TrackLength": {
       "name": "Tour Guide",

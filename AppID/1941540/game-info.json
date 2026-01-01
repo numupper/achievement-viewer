@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/298734021121cc4f0fe405107a4df1fb072ba3a2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
       "hidden": false,
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "Achievement_42_Id": {
       "name": "Cold-Blooded",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/9e3eca8d4aab30caaef8b9cd0b71eb15ab401c97.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
-      "percent": "75.2"
+      "percent": "75.1"
     },
     "Achievement_48_Id": {
       "name": "Daredevil",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/1bcf7848bdc6c7d46e1114f2d60b0bffcba7a62d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
       "hidden": false,
-      "percent": "0.5"
+      "percent": "0.4"
     },
     "Achievement_28_Id": {
       "name": "Driving in Style",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/4f7cfae2e3ac6bf4fdc54538d33d62c2535768c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "61.2"
+      "percent": "61.1"
     },
     "Achievement_8_Id": {
       "name": "Everything’s Golden",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/39cae4239f7fc438f0bcbd912032a8cf7bc4d3df.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
       "hidden": false,
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "Achievement_3_Id": {
       "name": "Forza San Celeste",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/cc004477e0fa6cff0526a733465229e709906020.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "74.2"
+      "percent": "74.1"
     },
     "Achievement_32_Id": {
       "name": "Live by the Blade",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/4670d827cb3023db525d4db9da08dc3480634952.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "59.4"
+      "percent": "59.3"
     },
     "Achievement_33_Id": {
       "name": "Protected",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/21d1c92f967698d51519ff801f2903a67af08606.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "Achievement_16_Id": {
       "name": "Rare Weapons Expert: Praecisione",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/6db87c6ceb863f7afb9397eb94ad65d55db8df7d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
-      "percent": "53.8"
+      "percent": "53.7"
     },
     "Achievement_43_Id": {
       "name": "Rare Weapons Expert: Repeater",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/a4f0b217d30a9137c63b03c2a66045d32fbed380.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
-      "percent": "80.2"
+      "percent": "80.1"
     },
     "Achievement_30_Id": {
       "name": "Riding in Style",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/81a393b3228c59c7cdeb6ade7da6520dd8dd71be.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
-      "percent": "42.0"
+      "percent": "42.1"
     },
     "Achievement_44_Id": {
       "name": "Salvatore's Apprentice",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/804439e334569ce726db5a0a36bb99e7b97af1ea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
       "hidden": false,
-      "percent": "0.5"
+      "percent": "0.4"
     },
     "Achievement_1_Id": {
       "name": "The Carusu",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/4fda75cddecaa79197e9bff4fc6667a4bdbae8f7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
-      "percent": "59.4"
+      "percent": "59.3"
     },
     "Achievement_37_Id": {
       "name": "The Old Ways",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/d958286812ad267a03a08060fdc18633d708f47c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "77.6"
+      "percent": "77.5"
     },
     "Achievement_10_Id": {
       "name": "Total Shutdown",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/dc2d6dc1e4ad6c1e205d06e12160493c4d235351.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "66.5"
+      "percent": "66.4"
     },
     "Achievement_21_Id": {
       "name": "Trail of Destruction",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/ff2aa68a9ca71ec451e6024c743a1e16730d565a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "62.3"
+      "percent": "62.2"
     },
     "Achievement_18_Id": {
       "name": "True Soldato",

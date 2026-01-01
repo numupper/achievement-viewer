@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/6397eac90440bb471dc184fdf3c861df0a9d601b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0f72003f0c4729d770815aab2ce6bfc07ba540e9.jpg",
       "hidden": false,
-      "percent": "63.8"
+      "percent": "63.9"
     },
     "MyReplayTips": {
       "name": "(This one's in the bag!)",
@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/f2b0a74545d703efee9994efaae5c1cd210e026b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/fa904f588516ff7baf30a01615d11b9393898cbb.jpg",
       "hidden": false,
-      "percent": "21.9"
+      "percent": "22.0"
     },
     "FloorBlast": {
       "name": "(You never learn.)",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/03bd3237b317dc300e9e3336be20813323961df4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a4d942a68e2a2aa88d2c4254b9ea67fcaa199f20.jpg",
       "hidden": false,
-      "percent": "62.6"
+      "percent": "62.7"
     },
     "FloorBreak": {
       "name": "...",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/7462bb089913773f59f3f38eba4a725475132506.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/9242252153a6ac942eb36ccb1b098e6392e98a46.jpg",
       "hidden": false,
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "AllClear": {
       "name": "A fight is about survival.",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/bb847d9380bc3183d02b5a58035502a34f5a7b44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a8434cf6a44193958ad4d9058c9c08dc4c807340.jpg",
       "hidden": false,
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "StoryModeClearACT1": {
       "name": "Come, humanity! Unleash the dogs of war! ",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/c2763945f8705de1b9e2be38e9207359d150d39b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/cdf47558c9fb4ca707331cdad69628d974f55875.jpg",
       "hidden": false,
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "OnlineBattle10wins": {
       "name": "Excellent!",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/d888257332acb615c015d64db74a944bccdde91b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/56c8a31a1cbca88f48fc91e0f131b33586d1b58c.jpg",
       "hidden": true,
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "WinDiscGhostBoss": {
       "name": "Godfather",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/5088eb682247d44fe69785ecab93daf1d0849988.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/92d7717dbb5f63c9a3058f25b36500f188f9ca7e.jpg",
       "hidden": true,
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "TresureHunt": {
       "name": "How do you take your coffee?",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/9fece08c2183ef645ad24e533ec810513c682703.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/26df242d1f86d428706b947c2e86be28ac4848e3.jpg",
       "hidden": false,
-      "percent": "57.7"
+      "percent": "57.8"
     },
     "Hit30Chain": {
       "name": "I would do well to follow your example.",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/2adc43c452ec5f70acc91c4acebd6d9c1f9d73db.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/78c4cf59eb0bc01bed92ed8a373b5fbca0e18a67.jpg",
       "hidden": true,
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "PlayerMatchWin": {
       "name": "I'll give you a rematch anytime, guv.",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b4db2a3baf22bbce5ec793f1a695ab6960fb7428.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/e26bcdedac88a31f113412a8245955595973ab86.jpg",
       "hidden": false,
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "StoryModeClearACT12": {
       "name": "I'll live on, together with my sins.",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/7e130c1ed418bdc91cb9d54f2a39c072c64d40e6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/428158d78b9c066a0b2f3ec0a9a5147c29cfdcdd.jpg",
       "hidden": false,
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "RankMatchWin": {
       "name": "Just relax. You can do it.",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/13496fa07c18cf082098cf6c7270b593ac2ab3da.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/469b79a29c81d05a5db83cbbfe7e32a35e5af63a.jpg",
       "hidden": false,
-      "percent": "62.0"
+      "percent": "62.1"
     },
     "BattleTornado": {
       "name": "Let the blistering sands consume you.",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/ab305afff98e530b548c852385405217b11933f0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b8d64231d9671f273f569a5efaf1a9ba3ae02aa8.jpg",
       "hidden": false,
-      "percent": "83.5"
+      "percent": "83.6"
     },
     "RageDamage": {
       "name": "Now it's time to destroy you.",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a306e2c585123a4cb3b00aabbaf779207e22fb99.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/67b53f8a13147ea97259bd4ce03c9c85046044f3.jpg",
       "hidden": false,
-      "percent": "78.0"
+      "percent": "78.1"
     },
     "GroupMatchWin": {
       "name": "Please don't tell my father.",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/f0f5c2db964eae807c1bbb12236985b7a8da6248.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b5f598ee6653e1586db8daacd3bab72c52e46979.jpg",
       "hidden": false,
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "EpisodeClear5": {
       "name": "This should be fun.",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/aeb98bf5e3499eeb0ebdaffacbcd2e28af6e84f2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/5e8a8b827216f64b45a51102f1c1c12956a5ec75.jpg",
       "hidden": false,
-      "percent": "71.4"
+      "percent": "71.5"
     }
   },
   "platform": null,

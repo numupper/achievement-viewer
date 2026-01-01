@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/85d39453201b471b83f75990922cf6b27f3288f2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/83e680e6b560cd8201cced524b5d0d7538e3d812.jpg",
       "hidden": true,
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "PFA_30": {
       "name": "A Talent for Spending",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/ed7b5ee36cf2e68864ada25dcfa3ab0f3038ae03.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/458644244e2f0ebe5289599279e5c91106f7afba.jpg",
       "hidden": false,
-      "percent": "39.7"
+      "percent": "39.6"
     },
     "PFA_39": {
       "name": "Coasting Along",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/a5ded477f34d9d3df22224e988fc388552f8faa8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/5f09e979c3509ad591f73fb246907e8ad98f03f1.jpg",
       "hidden": true,
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "PFA_22": {
       "name": "Collector's Edition",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/989612efdbfe175089826f4e83819d8e8449d660.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/ff9a9dc74765c54f0d6b0763b425204ead97d9a0.jpg",
       "hidden": false,
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "PFA_28": {
       "name": "Put Down Roots",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/862757b287f9430989c4c5f27e71b0053966f3b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/47adf0df129b5f89653bb0dca1e20b02128ba988.jpg",
       "hidden": true,
-      "percent": "56.6"
+      "percent": "56.5"
     },
     "PFA_3": {
       "name": "The Auror's Apprentice",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/48dfa8d8b060fd39aeef81c8c06b6333da6c59a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/093c6bdc6a16e489e1d5a95737583d018337443d.jpg",
       "hidden": true,
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "PFA_12": {
       "name": "The Hallowed Hero",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/5c9e26c4941ae4fc98c6eaf3c023e3a18dc2df51.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/70b3c64e9777c9e92c2f142c588fbb06f0866047.jpg",
       "hidden": true,
-      "percent": "78.5"
+      "percent": "78.4"
     }
   },
   "platform": null,

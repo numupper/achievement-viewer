@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/f093ae771a87ed18df7a15ecf6b41dae0de2a44e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
-      "percent": "61.5"
+      "percent": "61.6"
     },
     "antibiotic": {
       "name": "Antibiotic",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/965ab39aed09da5db26c40ab25df3a4892ca69c2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
-      "percent": "42.4"
+      "percent": "42.5"
     },
     "max": {
       "name": "Cheers!",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/fed8eb9bed1bec9b3ad8d7786501f547bfacd479.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "redemption": {
       "name": "Redemption",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/7d65a479163e6e2f7f3d11c9b2d624a6060fef6b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "testcomplete": {
       "name": "Test Complete",
