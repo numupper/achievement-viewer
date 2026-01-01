@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/ace88242efcb801942affdedb0dbb3177243410a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bc234b1c5750086ff758695d573d6f4efe22de33.jpg",
       "hidden": false,
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "ML_ACHIEVEMENT_40": {
       "name": "A little nest egg",
@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b5ab424cb1fb5cc0bbb798002da0176d4000dbde.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e3eb786fae89a6fb4117e51b00c12049b5c51521.jpg",
       "hidden": false,
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "ML_ACHIEVEMENT_02": {
       "name": "Acrobat",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/62a103a67adbb12c7ba5738a2b2a9496140f25ca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/a67ec65aaa7b96e9e51532981f945b938fcc9f6c.jpg",
       "hidden": false,
-      "percent": "44.1"
+      "percent": "44.0"
     },
     "ML_ACHIEVEMENT_28": {
       "name": "Can you keep a secret?",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4a9d42e583d9f2361db1a81d6d3f6fb071a3b6d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/891d69b0d2a5859768739301f3942ae0f1fbdccb.jpg",
       "hidden": false,
-      "percent": "35.7"
+      "percent": "35.6"
     },
     "ML_ACHIEVEMENT_10": {
       "name": "Drift champ",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/44691f90f898e4608e945472f36c4d72f1001de2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2213ac5db7ed794baffad8d722d413703d027515.jpg",
       "hidden": false,
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "ML_ACHIEVEMENT_27": {
       "name": "Extreme conditions",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/32c415c9e036feb00a7874a2bd514fd4fa54c03c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d8d8d8e60054ca98e872cd3b84fa4bed0ade0131.jpg",
       "hidden": false,
-      "percent": "53.4"
+      "percent": "53.3"
     },
     "ML_ACHIEVEMENT_55": {
       "name": "I want to believe",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/734593c72a56cc7b3c6e683a133801e5ab305af6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d769195ea8c1b86ff38b604604db5dd96b28ded9.jpg",
       "hidden": false,
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "ML_ACHIEVEMENT_12": {
       "name": "Immortal",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e154d619dec60dee77b5d55312311edab8dc8e5d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/fac610824e0e9fae1fd5263a85f3d6ba61611fe9.jpg",
       "hidden": false,
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "ML_ACHIEVEMENT_18": {
       "name": "International license",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d6b7aeefb1c9da7cf7ec8f7b4d149fbe6791dad6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/ec02f440b0d99906c197d3e81427c5d28327da1a.jpg",
       "hidden": false,
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "ML_ACHIEVEMENT_11": {
       "name": "It's me you have to beat",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c67a2d0807fb932f84b3d714ce436cf7f34c213c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c456ccc62cd9cd9686a155b7ccbe40597b7214c9.jpg",
       "hidden": false,
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "ML_ACHIEVEMENT_42": {
       "name": "Magic trick",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b06e9416ce1809a780095c56aceb2e2b30cfa2d8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/20947d0126afe5da2eb10493db03b214c0403511.jpg",
       "hidden": false,
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "ML_ACHIEVEMENT_43": {
       "name": "Mission complete",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/955516d44f2fb6499a9b8bdf569b2f2e185e33dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/918abd54ee6b4e71135c4886dda09f7c75706ed0.jpg",
       "hidden": false,
-      "percent": "76.0"
+      "percent": "75.9"
     },
     "ML_ACHIEVEMENT_06": {
       "name": "Now try online",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/3842f92c53b641cda3a59b317002383fd29db152.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/34ae2c067fa2249cd58243c68cbb5588c7fa465c.jpg",
       "hidden": false,
-      "percent": "9.7"
+      "percent": "9.6"
     },
     "ML_ACHIEVEMENT_03": {
       "name": "Out of control",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/024ab262ab105e399b3d3792a35fbd416fedfaff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/aa58a2e778950e4f52eeded7f264393cb621dac5.jpg",
       "hidden": false,
-      "percent": "36.0"
+      "percent": "35.9"
     },
     "ML_ACHIEVEMENT_49": {
       "name": "Pizza, pasta, and engines",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f43e4fd019cec852dede7417e08af6fe06499217.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/6699da481cd669d7356a990a4f5c832f0f48e490.jpg",
       "hidden": false,
-      "percent": "56.9"
+      "percent": "56.8"
     },
     "ML_ACHIEVEMENT_17": {
       "name": "Solo",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d4755b715a995a216bd40d767eada8fd9d3d0733.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/22dc1720ab88b8d6d2cae3802008f067ebcd75b3.jpg",
       "hidden": false,
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "ML_ACHIEVEMENT_32": {
       "name": "Spendthrift",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/794e11fdb03d89cd5e14328610a4564e96846b42.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/69336cb06d28d6b122ac337d96959c5d00465ffe.jpg",
       "hidden": false,
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "ML_ACHIEVEMENT_33": {
       "name": "Spin the wheel",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/7706b3d6faaea373b9cf4d345022ee4b4ee8642d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/5d0f42d9492b659fd8efe04ad7a3469c9c337b8f.jpg",
       "hidden": false,
-      "percent": "59.3"
+      "percent": "59.2"
     },
     "ML_ACHIEVEMENT_38": {
       "name": "Spoiled for choice",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/70e0da20e2a97e1acc18198bf5f0f0bcad2de9fa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/5f3cc4fd7700e98ed3edb6ec66fb023370d396b0.jpg",
       "hidden": false,
-      "percent": "4.4"
+      "percent": "4.3"
     },
     "ML_ACHIEVEMENT_26": {
       "name": "The Nitro Bot",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0ebab6a69344d2f4a9eae2552041cd4727a94801.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d0508b348517e2c8157e34fd30b58827dcaab8ef.jpg",
       "hidden": false,
-      "percent": "41.7"
+      "percent": "41.5"
     },
     "ML_ACHIEVEMENT_23": {
       "name": "The Scorpion",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/71060f898fdf99a176476cf36e68bd808c5c2f7e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f46af22ccb261f9287da0357e40d70a62075407f.jpg",
       "hidden": false,
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "ML_ACHIEVEMENT_45": {
       "name": "The Speed of Silence",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/ce32124a642356a9d69ccdc4a1d36bd79b1e72ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/714a266c884a52eb618391de90e3dddb8df3e96b.jpg",
       "hidden": false,
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "ML_ACHIEVEMENT_46": {
       "name": "The Ultimate Race",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b520ae39df79666d3fddbc4eee5f69ad746dd7fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/081565b85466b80a7224e816d4b053e779ced02f.jpg",
       "hidden": false,
-      "percent": "10.8"
+      "percent": "10.7"
     },
     "ML_ACHIEVEMENT_53": {
       "name": "They're among us",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/a670951e8e9d3922bb6b744dbd1611859eb85a61.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/8276d5eae4a6eb2e5cbbb54c22675160eed7e761.jpg",
       "hidden": false,
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "ML_ACHIEVEMENT_08": {
       "name": "Versatile riding",
@@ -425,7 +425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0aa2ecfddd9225d86cc10ba298acd2b545ddeb8f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/cc76129caf45395873d5fb74c28146fb5a362cd4.jpg",
       "hidden": false,
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "ML_ACHIEVEMENT_19": {
       "name": "Well begun…",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/a8da43fe31fe2d3e3bf975ed6fba907d35952e72.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bcccbbdd8bbcc3eb1cf9a35d8410e5b30f452da6.jpg",
       "hidden": false,
-      "percent": "66.8"
+      "percent": "66.7"
     },
     "ML_ACHIEVEMENT_41": {
       "name": "You're good at this!",

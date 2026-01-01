@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ba498e32ee53f47ad7b726ce0fd4f48700b12003.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/52a6e2c9738f21c1017104f06c373e02bd0f4263.jpg",
       "hidden": true,
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "Trophy000": {
       "name": "All Achievements Obtained",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/d7a3875c33270ac7c4225d29095ddc45243e8ee5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ada9e8b08c9c564d9087b682d4ff63ea2c0ee5af.jpg",
       "hidden": false,
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "Trophy030": {
       "name": "All Combat Machines Killed",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/95f8ba59eb0a776d35e43e170e43f4fe17d92a66.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/805b9ecadd4a54be21c29caa226dd3045ba0a12e.jpg",
       "hidden": false,
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "Trophy067": {
       "name": "All New Skills Learned",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c1178ce30fd29a774a01e548d6b7829e1acb9f2c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f1cb1fa6ad34b73fcd64e4d2490937e0925d9eeb.jpg",
       "hidden": true,
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "Trophy038": {
       "name": "Completed 4 Rebel Outposts",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ed9388294ba4568267fd8271f444dda0acd6f8b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c443faa32c265383309c9607a02eec44d5039c7b.jpg",
       "hidden": false,
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "Trophy070": {
       "name": "Equipped an Elite Coil or Weave",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/b92b1127420c24f76c1c5ce472e4e119a5683792.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/54ec565f21fdf7f10b6af6c522ff462cb1bf527b.jpg",
       "hidden": true,
-      "percent": "59.4"
+      "percent": "59.5"
     },
     "Trophy020": {
       "name": "First Tallneck Overridden",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8e9f824f8e39465bbb652b24fbf7c3065f23c947.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/19a614b8b458131a2336f8d375ae7328b488da2a.jpg",
       "hidden": true,
-      "percent": "67.4"
+      "percent": "67.5"
     },
     "Trophy013": {
       "name": "Flew on the Wings of the Ten",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8571126d1b28b3ccf620c94c0beed5d59597d3ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/173165a51c39b91420e894e210816af9a2e40fdd.jpg",
       "hidden": true,
-      "percent": "52.4"
+      "percent": "52.5"
     },
     "Trophy018": {
       "name": "Healed the Land-gods",
@@ -393,7 +393,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/e8f78509532814deeca94f656788d7c56357d75d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8b7a0dd555c32c549610fa9fdf7934c374a207d6.jpg",
       "hidden": false,
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "Trophy044": {
       "name": "Performed 3 Melee Combos",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f73ffd8ea0c683487fd0dd80a80d81bb567c9a87.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/96315c38c0f7efdc01df0898210312296f06b825.jpg",
       "hidden": false,
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "Trophy068": {
       "name": "Reached Level 60",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/51dd1790ec1f721342e84dafda758807deae3c69.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/52cfbafd41f279de09904ecc02166b1f4590ad59.jpg",
       "hidden": true,
-      "percent": "54.8"
+      "percent": "54.9"
     },
     "Trophy010": {
       "name": "Recovered DEMETER",
@@ -529,7 +529,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ba984a39c0a2c710694621e9663a54f8cfa7ba16.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6f83b77897bfaa2089484c2abb1abdfe4e67c279.jpg",
       "hidden": true,
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "Trophy005": {
       "name": "Secured Passage to the Embassy",
@@ -561,7 +561,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/fe22d4e86400a1d49e8fd34d7055954da1c2cfb7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/cfa29ef9ccda1b9373cc0b669d3fd0dd8050b54e.jpg",
       "hidden": false,
-      "percent": "74.8"
+      "percent": "74.9"
     },
     "Trophy046": {
       "name": "Tore off 100 Components",

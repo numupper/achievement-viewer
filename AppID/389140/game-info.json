@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389140/e16c23e36c74e13feee95cb2693a0f79f27b444b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389140/786c40288f39e8f3ac2e120edffc1c9df69efe7c.jpg",
       "hidden": false,
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "FinishWorldTour": {
       "name": "Round the Globe",
@@ -388,7 +388,7 @@
       "percent": "2.8"
     }
   },
-  "platform": null,
+  "platform": "Epic Games",
   "blacklist": [],
   "uses_db": false
 }

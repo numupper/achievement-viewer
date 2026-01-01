@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/036951ce04aa6d8b3f4b95f775bacf34dc94dd41.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": false,
-      "percent": "77.6"
+      "percent": "77.5"
     },
     "ACH_ID_09": {
       "name": "A Moment's Respite",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/92278aac3f78bb4087d1c9fdc2477ae54c1fe698.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "75.7"
+      "percent": "75.6"
     },
     "ACH_ID_14": {
       "name": "A Token of Peace",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/d8b81e2567e64d2fa83ccbaf27027da50229efb2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "ACH_ID_21": {
       "name": "Action Figures FTW",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/dba163be92b6e622bc77c4780e3027f792c55e2b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "51.6"
+      "percent": "51.5"
     },
     "ACH_ID_24": {
       "name": "Aegiomon's Vow",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/54928c3ed30d2af831c5fe4c9839158967a9b7a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "60.8"
+      "percent": "60.7"
     },
     "ACH_ID_35": {
       "name": "Beyond Digivolution",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/fa12e22cb7171da31f7b831affd88b29845e95ce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": false,
-      "percent": "69.4"
+      "percent": "69.3"
     },
     "ACH_ID_19": {
       "name": "Central Town Reclaimed!",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/b30a281129a29000bc9ef863cd109d62be9358f7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "53.7"
+      "percent": "53.6"
     },
     "ACH_ID_34": {
       "name": "Darkness Awakens",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/fd5809b7b159d2e49a1b108222ae996b93739ce0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": false,
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "ACH_ID_20": {
       "name": "Historical Truths",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f44529604724fc0c2e8e2259f7233903ca9d3269.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "52.8"
+      "percent": "52.7"
     },
     "ACH_ID_29": {
       "name": "Initial Digivolution",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/eca0515c738a704a57638ce46cb9b59c9398bbda.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "ACH_ID_15": {
       "name": "Peace on the High Seas",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/814c4a50f59d2de78f6db72744b779396480d257.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "72.0"
+      "percent": "71.9"
     },
     "ACH_ID_45": {
       "name": "Problem Solver",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/79cbbcbc92a8ebc6183f499fac3e04987aa1e382.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "55.4"
+      "percent": "55.3"
     },
     "ACH_ID_03": {
       "name": "Signs of an Anomaly",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/6485700c635f5be5b03c78555d149cbd889bf2fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "62.3"
+      "percent": "62.2"
     },
     "ACH_ID_44": {
       "name": "The In-Between Explorer",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/fe03c2ff111966419e5605f9706d10cd33e44fb2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": false,
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "ACH_ID_11": {
       "name": "The Lonely Warrior",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/342b8dc8578e2bb5ddfd0f3f7a52e902561a5886.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "67.0"
+      "percent": "66.9"
     },
     "ACH_ID_26": {
       "name": "The Pinnacle of Existence",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/ec31a2c4fe8d965bbad5e07d873be01b32e59fb5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "91.2"
+      "percent": "91.1"
     },
     "ACH_ID_08": {
       "name": "The World Where Digimon Live",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/8a3494609999e3c1b756546948ec87c0a8b5c335.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
-      "percent": "80.1"
+      "percent": "80.0"
     },
     "ACH_ID_25": {
       "name": "To a World Far, Far Away",

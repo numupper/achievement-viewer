@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/4f2e9431b8265730199b2f6b123fb0e568661db5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "Research_LymbicInvasions_AllItem": {
       "name": "Demonologist",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/d1b89e6eb95450b15ba98593bd6847ff2f4f8eab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "75.8"
+      "percent": "75.9"
     },
     "ItemPlacements": {
       "name": "Keymaster",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/94864bb3fa9e5ac531ac5d7aa00c7f50293127f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "LoadoutMaxGrade": {
       "name": "To the Teeth",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/8ac84bb7ebc962b6382da044c05bae586f5179c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "Research_CivilWar_AllItems": {
       "name": "War Correspondent",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/16e7171daf4ee7d8bf150ebd9f4a76f9cadbf42f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "Visit_AllMaps": {
       "name": "Well-Travelled",

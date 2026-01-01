@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/21294c71f0590f98cb259827e450bdfdf09b0f28.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/5919865e1752f7864207d43afba582973544199f.jpg",
       "hidden": true,
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "LOSE_BOSS_FIGHT": {
       "name": "Game Over",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/b435b3332dc5d36b744e0b1b4efeacfb1ed51e9e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/0b1d55088bc24f6b3dd23a0a9baa9b0de73a1226.jpg",
       "hidden": false,
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "COMPLETE_TRASHOPEDIA": {
       "name": "Nerd",

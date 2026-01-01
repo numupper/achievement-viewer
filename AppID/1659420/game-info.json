@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/f3fed3107bea30fd8fb21b4621ebfc1c090cbc28.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a4d02d01f2f27d842f744401835b4ac25fc51b5b.jpg",
       "hidden": false,
-      "percent": "34.7"
+      "percent": "34.6"
     },
     "TROPHY_NAME_FINISH_UHARD": {
       "name": "Charted! - Crushing",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8b62cf28c0f09a5a9ac4dd12b0528d3293860819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8a0b66fa4efb358f0c73af1180731ca9a0226f4c.jpg",
       "hidden": true,
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "TROPHY_NAME_TLL_PLATINUM": {
       "name": "Don't Ruin The Moment",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/1adee914d9956d0fe264f1d08497d495e2650f04.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4e5fd129fb6efcd1ed8ef6e4ed6fbcaf8a312d65.jpg",
       "hidden": true,
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "TROPHY_NAME_FAST_LOCKPICK": {
       "name": "Fingersmith",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/0304f367ae80007d77f282227baefc392a571bfa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/615592a7a276d0979f3f39c4aefdcee934ac8177.jpg",
       "hidden": false,
-      "percent": "5.4"
+      "percent": "5.3"
     },
     "TROPHY_NAME_OPTIONAL_CONVO": {
       "name": "Getting to Know You",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/ca3efc7bcd5b69c8078d16106e3417e694cff839.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/d19a75b3a69c27d83fec1ab04f25f91d8b6b9c28.jpg",
       "hidden": false,
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "TROPHY_NAME_JOURNAL_NOTE_ALL": {
       "name": "Lost History",

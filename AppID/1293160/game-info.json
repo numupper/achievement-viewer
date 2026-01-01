@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/c432fdfb483ea329ac24ee8a491f567513435039.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "CantAlwaysSaveEveryone": {
       "name": "Can't Always Save Everyone",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4be3503827fa4f71dbbdef763885d744b902dfcc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
-      "percent": "74.8"
+      "percent": "74.9"
     },
     "Conduit": {
       "name": "Conduit",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/c88bb5a6c2760706eb0d59ffd6ab06bb91631be8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
-      "percent": "78.7"
+      "percent": "78.8"
     },
     "CuttheCrap": {
       "name": "Cut the Crap",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/f24186dbe6f7461554b63545ae2f2cbd37df0f0f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "DevouringDarkness": {
       "name": "Devouring Darkness",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/60e7bfaa4134c02fc174f4263afedbabf898c340.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "DualDetective": {
       "name": "Dual Detective",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/670dceb365ec9f3b6ba4716bc5cd00f6bace2ed3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
-      "percent": "73.1"
+      "percent": "73.2"
     },
     "EdgeofSanity": {
       "name": "Edge of Sanity",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/66a03f159a9efff8ab021a70547f6eb8a67e0a20.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
-      "percent": "64.5"
+      "percent": "64.6"
     },
     "FamishedFeline": {
       "name": "Famished Feline",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/b9050394322ad5f4c90241f8a09332b44c58efd5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
-      "percent": "81.6"
+      "percent": "81.7"
     },
     "GuidingLight": {
       "name": "Guiding Light",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/acc506dcd0b81f46bcd0a8b1f2494e95b1e8c8ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "IKnowthePiecesFit": {
       "name": "I Know the Pieces Fit",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/f7118a6b1bf98c2045d74a4f490de7b17ae0280e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
-      "percent": "63.3"
+      "percent": "63.4"
     },
     "MirrorMirrorontheWall": {
       "name": "Mirror, Mirror on the Wall",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/1e62a99f0e0c8667ad354e58e3f1ba9e252243f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "RunningSim": {
       "name": "Running Sim",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/d0dbce4e0260f50c73f778b2d6a474b0c3efe12a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "SpiritWalking": {
       "name": "Spirit Walking",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/fdd0f8e1c8e94708266dc0314f2089ddcba01441.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
-      "percent": "71.6"
+      "percent": "71.7"
     },
     "TheChildeater": {
       "name": "The Childeater",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/9cde37af5a898826edad10273cb48598f1097607.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "Thunderstruck": {
       "name": "Thunderstruck",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/aa96764daa868114d072a9018e2d98ab2b6fa1b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "Unrepentant": {
       "name": "Unrepentant",

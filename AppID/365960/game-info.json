@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "100KilometersDrivenInRace": {
       "name": "100 kilometers driven in race",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "100KMHInPractice": {
       "name": "100 km/h in practice",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "150KMHInPractice": {
       "name": "150 km/h in practice",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
-      "percent": "70.4"
+      "percent": "70.3"
     },
     "2000KilometersDrivenInPractice": {
       "name": "2000 kilometers driven in practice",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "2000KilometersDrivenInRace": {
       "name": "2000 kilometers driven in race",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/76a2f7995086cde0775e166f06b086e8f2d24719.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
-      "percent": "23.6"
+      "percent": "23.5"
     }
   },
   "platform": null,

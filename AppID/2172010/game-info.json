@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "TRP_CARNIVAL": {
       "name": "Carnival of Solitude",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "TRP_SAW": {
       "name": "Saw That Coming",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "TRP_TALETWO": {
       "name": "The Tale of The Two Sisters",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/93122ba37a60ee184f206ff0d184ad0a8370cb73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "TRP_ALLLIVE": {
       "name": "They All Live",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/93122ba37a60ee184f206ff0d184ad0a8370cb73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "TRP_THEEND": {
       "name": "This Is THE End",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "TRP_WRONGONE": {
       "name": "You Let The Wrong One In!",
