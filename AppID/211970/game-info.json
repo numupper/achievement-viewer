@@ -1,7 +1,7 @@
 {
   "appid": "211970",
   "name": "Test Drive®: Ferrari Racing Legends",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/211970/header.jpg?",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/211970/header.jpg",
   "achievements": {
   "A_Good_Foundation": {
     "name": "A Good Foundation",
@@ -369,3 +369,4 @@
   "uses_db": false
 
 }
+
