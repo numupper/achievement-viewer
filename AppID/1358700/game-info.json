@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/fc44e38a3909ba4ee00c4d1e432c97694b35e835.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "51.2"
     },
     "TROPHY_PLATINUM": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/f92f65d25cc78abef1bb1ac8471844c0e03f0b9e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.6"
     },
     "TROPHY_FIRST_ARTIFACT": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6cac6de1a6ac738ce1cf471b1f5eba4470ca9c36.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "26.0"
     },
     "TROPHY_DLC1_TALKED_TO_BAHAMUT": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/d996e9ecf002eb4f38107d19afe604c3a10f8d2b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "17.5"
     },
     "TROPHY_DLC3_MISSION_SUPREME_ILLUSIONS": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/3ba5d52de5115b1b3cd03b559d2e387b13fb9ddb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.9"
     },
     "TROPHY_DLC2_MISSION_BIG_BRIDGE": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/e678317aab05643eb4aff6cfe9e51fc80b7966b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "5.7"
     },
     "TROPHY_DLC1_UNLOCKED_ENTIRETY_OF_EVOCATION_OR_ULTIMA_TREE": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/5d6060ba6e692f2cc0b50a476eb80366a7f068d2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "10.1"
     },
     "TROPHY_DLC2_CLEAR_RAID_DUNGEON": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/1a139f3a35d29ca76db5511833edeadd5820fd95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.4"
     },
     "TROPHY_DLC1_MISSION_CORNELIAS_HOPE": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6a85b2ebae3741d46c15cd52d709471383275d6c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "12.1"
     },
     "TROPHY_DLC1_UNLOCKED_CLASS_TREE": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/05affccb27c7fb25685b52b78f62fe3c721e97cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "15.6"
     },
     "TROPHY_USE_JOB_CREST": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/87b73617fa8d1e1b36de9e8cc55f517963d69f69.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "9.1"
     },
     "TROPHY_CLEAR_LEVEL200_ON_CHAOS": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/9879bf0664f4378868876329d069fbb319c933cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "20.6"
     },
     "TROPHY_UNLOCKED_ADVANCED_JOB": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/2839cd1ef9ec5416c2ac7ac4fa5b75590662fa7d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "61.6"
     },
     "TROPHY_DLC1_EQUIPPED_FOUR_OR_BETTER_RANK_ACCESSORY": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/d89ca5412ad9b0c8ba29d65371b49e6affd00356.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "21.3"
     },
     "TROPHY_DLC2_CLEAR_LEVEL30_ON_RAID": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/84ccd42198a3494a5abb65d8bc016093f7814f67.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.6"
     },
     "TROPHY_MISSION_NATURAL_DISTORTION": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/bb759fa4c66bfe7056dab46d8ee79f36e60975c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "55.3"
     },
     "TROPHY_MISSION_REMEMBERING_HOME": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/f4ae2096070d9b2136dca5da82a408e26a9007ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "33.2"
     },
     "TROPHY_DLC2_GAVE_MAGICPOT_ELIXIR": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6676e3f1b8110738bb1036c9807e165b33ffb37b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.9"
     },
     "TROPHY_DLC2_UGIL_GIVE_ME_ACCESSORY": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/2b761c57c91c87fa3086f418925208f2e77d3fb5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.1"
     },
     "TROPHY_DLC2_MAX_INTIMACY_SMITH_UTON": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/bdb8be12b8a1d9efc62dcd98fd1e311a9fd4332a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "4.0"
     },
     "TROPHY_UNLOCKED_CYCLIC_WARRIOR": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/1fab2f80d1833d05c0fce4ee426dbf9d301c6ec0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "31.1"
     },
     "TROPHY_DLC1_MISION_EBON_MEMORIES": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/a5f64e2863eae437f26f461ac8269d1dac7fd174.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.9"
     },
     "TROPHY_MISSION_ILLUSION": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/4a5bc95000b4bbdcbe4de544b468c7f8c0d57542.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "74.3"
     },
     "TROPHY_DLC2_MAX_INTIMACY_UAST": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/13ecd7fb29275774571a54f272dfaa1d2e740235.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.5"
     },
     "TROPHY_FIRST_WEAPON_ABILITY": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/962b3e86aa0356ac53b0d4478abb298aafe2d572.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "42.4"
     },
     "TROPHY_DLC2_DEFEAT_UGUA": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/82d0d770812e8e6a5e998eb6aa8bd1ca3cc85883.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "8.9"
     },
     "TROPHY_UNLOCKED_ALL_JOB": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/e5acad9a11c25128bf7e31053bf86ba339ad1534.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "19.9"
     },
     "TROPHY_ACHIEVED_MASTER_FOUR_RANK_JOB": {
@@ -225,7 +252,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/e2479ff14bdf5435a1a8055d048665c14b7285ef.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
-      "percent": "12.3"
+      "group": "Base Game",
+      "percent": "12.2"
     },
     "TROPHY_DEFEAT_UTON": {
       "name": "Lantern Smasher",
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/0b25bb127faff32f8616aad9b5555e561506c30a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "70.5"
     },
     "TROPHY_MISSION_SUFFERING_OF_FOOL": {
@@ -241,7 +270,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/8ffd1ecb7081d6c85048556eb2bc9165399b4360.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
-      "percent": "32.0"
+      "group": "Base Game",
+      "percent": "31.9"
     },
     "TROPHY_DLC3_DEFEAT_MANIKIN": {
       "name": "Life Imitated",
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/5a6fe8a5e474f40e6c364dc7c44c661e170f2746.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.9"
     },
     "TROPHY_DLC1_MISSION_LIGHT_OF_POSSIBILLITY": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/d2e2a8236e3414d86ad7f8e26f6d78c94a94d426.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.9"
     },
     "TROPHY_MISSION_PAST_SCHEME": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/4f135651ee6e429a756935cc850f246359db4eff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "34.4"
     },
     "TROPHY_FIRST_SOUL_BURST": {
@@ -273,7 +306,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/cf1f5016f1318a1f27dd7b9ba06a7a5a2ed5208f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
-      "percent": "96.2"
+      "group": "Base Game",
+      "percent": "96.3"
     },
     "TROPHY_USED_MASTER_POINT": {
       "name": "Master's Awakening",
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6829777659e43b87f3b7ddfc603f5944c63ca724.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "24.8"
     },
     "TROPHY_CLEAR_SUB_MISSION": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/86064bbc7ee534def37669e471e21f7a7ac0ec49.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "59.6"
     },
     "TROPHY_DLC2_SUMMON_MONSTER": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/438ecfd55aa950ae0f766ff711e0158916951b32.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.5"
     },
     "TROPHY_DEFEAT_USAB": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/3e8ca6665bb7587f698ca308dab7e486a8b1094a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "79.1"
     },
     "TROPHY_DLC3_UNLOCKED_HUNTER": {
@@ -313,7 +351,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/524a6e80eca5a0eba2bf423d6c70341cbde4e0dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
-      "percent": "26.3"
+      "group": "Base Game",
+      "percent": "26.4"
     },
     "TROPHY_DLC3_DEFEAT_LIGHT_OF_ORDER": {
       "name": "On the Way to a Brighter Future",
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/0391c948bb977a12fad560013c411ab3adbdbaf0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "6.7"
     },
     "TROPHY_CLEAR_CHAOS_DIFFICULTY": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/90f665f533c4b0b423ae29c9d29a0c8d5ad8172c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "22.3"
     },
     "TROPHY_UNLOCKED_ASSASSIN": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/ec161ac5d4e838098006ad33cf40c38cbb8b94d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "28.8"
     },
     "TROPHY_DLC2_UNLOCKED_BLUE_MAGE": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/dbafc1b26dee1dafd0947dcea7b070b04f9c5f4b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.4"
     },
     "TROPHY_UNLOCKED_BREAKER": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/5b59c0e71fa3d9bf350b5b8b74a1c3e9f72bb473.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "33.4"
     },
     "TROPHY_UNLOCKED_DARK_KNIGHT": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/05dbb611167f77090621e80f8dbf70066fd587b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "33.2"
     },
     "TROPHY_DLC1_UNLOCKED_EVOKER": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/0ac8f91ce0a30aa624c3b50d7701fc026a671b75.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "28.6"
     },
     "TROPHY_UNLOCKED_LIBERATOR": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/a8c42b8a833a49cb396510c2205337c886252d70.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "31.2"
     },
     "TROPHY_UNLOCKED_NINJA": {
@@ -385,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/9256ff27393fd2eb3ac9ec760c1ef0744e66ef47.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
-      "percent": "29.5"
+      "group": "Base Game",
+      "percent": "29.4"
     },
     "TROPHY_UNLOCKED_PALADIN": {
       "name": "Path of the Paladin",
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/c61b3d3f82846d828c791b61616acb9e674d181d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "32.6"
     },
     "TROPHY_UNLOCKED_SAGE": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/1addf7537e933552514c0286ccd47e1889b16526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "34.4"
     },
     "TROPHY_DLC1_EQUIPPED_STAFF": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/356940e3fe193424908dd98ee163f3b4b90adfe5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "36.0"
     },
     "TROPHY_DLC1_UNLOCKED_SUMMONER": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/0f9112ab7791002a35ca11d396eff59c1d246142.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.7"
     },
     "TROPHY_UNLOCKED_TYRANT": {
@@ -425,7 +477,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/988f9f98a6e6eb8b7fd37c4080b5cb1e8fc1b82f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
-      "percent": "30.3"
+      "group": "Base Game",
+      "percent": "30.2"
     },
     "TROPHY_UNLOCKED_VOID_KNIGHT": {
       "name": "Path of the Void Knight",
@@ -433,7 +486,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/c2e8bc3053e2da5ddc25db650e6f82929a25d73e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
-      "percent": "30.5"
+      "group": "Base Game",
+      "percent": "30.4"
     },
     "TROPHY_DLC3_DEFEAT_HELL_RISEN": {
       "name": "Path to a Different Future",
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/e5a162ffbaa7bf3686435481a0ce305758cccb9a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.1"
     },
     "TROPHY_DLC3_DEFEAT_TRANSCENDANT": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/c47b62da760d0122f513a625c9b741a5d1273b05.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.5"
     },
     "TROPHY_DLC3_UNLOCK_ALL_MARKSMAN_TREE": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/29b4b64bd7e9279f19b08515a6bad07d2a401371.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.8"
     },
     "TROPHY_MISSION_PAST_PHANTOM": {
@@ -465,6 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/d4b058416f55ffedabf7a5d286a496d0697d5e6a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "42.2"
     },
     "TROPHY_UNLOCK_ALL_JOB_BONUS": {
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/ee597195fade085ae61f7fb9fcf467465079e318.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.6"
     },
     "TROPHY_DLC3_ACQUIRED_GUN": {
@@ -481,6 +540,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/23887c67a2805a7676b52bb5ebd51ea95452a4f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "37.1"
     },
     "TROPHY_DLC1_GET_RAT_TAIL": {
@@ -489,6 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/654bc85d47054499a936dcc6889c56e24182ff9a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "15.8"
     },
     "TROPHY_COMPLETE_JOB_TREE": {
@@ -497,6 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6fc3dd1f43966134568a861d3c0ee6ade7f87912.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "54.7"
     },
     "TROPHY_FIRST_ANIMA_FRAGMENT": {
@@ -505,7 +567,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/85512bb8d0a50a9094d5b1b83c80409c7f13b9e1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
-      "percent": "77.7"
+      "group": "Base Game",
+      "percent": "77.8"
     },
     "TROPHY_FIRST_ANIMA_CRYSTAL": {
       "name": "Seeker of Ultimate Power",
@@ -513,6 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/dbbd58f4692765daba89fca0ae466d4769fdecc6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "24.8"
     },
     "TROPHY_MISSION_REMEMBER": {
@@ -521,6 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/cd8f17fe514a2c76ba2adee64c78903d36ea9370.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "38.3"
     },
     "TROPHY_COMPLETE_SUB_MISSION": {
@@ -529,6 +594,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/7204fd6d90e10491759eb152ca270788bdcb950f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.6"
     },
     "TROPHY_DLC3_ACQUIRED_GARLAND_ARMOR": {
@@ -537,6 +603,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/356e01eb58c9c3ab65db20463b2d1297cafebd47.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.6"
     },
     "TROPHY_DLC3_UNLOCKED_GAMBLER": {
@@ -545,6 +612,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/3af30df56930c3901e46dbeaf08c6e635b10967c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "22.1"
     },
     "TROPHY_MISSION_FRAUGHT_JOURNEY": {
@@ -553,6 +621,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/77fd5075301cd2b7c678d06a018bfd575589d7cc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "30.8"
     },
     "TROPHY_DLC2_GET_ALL_MYTHICAL_BEAST": {
@@ -561,6 +630,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/b84ee89de43d3618dc5b13b39b34062514dcf05e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "6.6"
     },
     "TROPHY_DLC2_ENCOUNTERED_RAID_CHAOS_EVENT": {
@@ -569,6 +639,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/e96109f084ca3d80fd8ca546f4fffd70aaab0f5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.4"
     },
     "TROPHY_DLC3_DEFEAT_JACK_GARLAND": {
@@ -577,6 +648,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/e401ea5317240222a7beecd8ec519405abf7f9cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "6.6"
     },
     "TROPHY_MISSION_EARTH_MEMORIES": {
@@ -585,7 +657,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/0cd90848e5e086cb718fd25b2eefe2eef522f63a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
-      "percent": "40.9"
+      "group": "Base Game",
+      "percent": "40.8"
     },
     "TROPHY_MISSION_FIRE_MEMORIES": {
       "name": "The Fire's Light",
@@ -593,6 +666,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/b60b3ebff6c71faca71e19e54c5bc314fed21d1f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "42.6"
     },
     "TROPHY_MISSION_DARK_ELF": {
@@ -601,6 +675,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/aae1ca029615493d9b769d33fb04be7c5dbb64d7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "59.6"
     },
     "TROPHY_DLC2_USED_DIMENSION_BRINGER": {
@@ -609,6 +684,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/b26d4b1daada5abedeb47ddfca0f4d70a7241c9f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "5.5"
     },
     "TROPHY_MISSION_JOURNEY_BEGIN": {
@@ -617,6 +693,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/f4b196191a710ba3a7b9f9a702da2b86a51d610f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "65.0"
     },
     "TROPHY_DLC3_USE_REPLICATION": {
@@ -625,6 +702,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/d12cd9d74991215b12f867122c7e2124d507dd47.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.5"
     },
     "TROPHY_DLC1_CLEAR_TRIALS_OF_THE_DRAGON_KING": {
@@ -633,6 +711,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/28ee408cab872df7f56d1d169049a70b60ae643f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "14.8"
     },
     "TROPHY_MISSION_WATER_MEMORIES": {
@@ -641,6 +720,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/514f360bf60d8e74886a986076f2ac5341f3e955.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "36.5"
     },
     "TROPHY_MISSION_WIND_MEMORIES": {
@@ -649,6 +729,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/21719f2f5dcbdd115063e31479593f5179415d03.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "48.0"
     },
     "TROPHY_FULL_UPGRADE_SPECIAL_EFFECT": {
@@ -657,6 +738,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/1fd9ef8bcb8bb501f8b19f2716d8a06663cfea9c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "21.4"
     },
     "TROPHY_MISSION_POISON_MEMORIES": {
@@ -665,6 +747,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/c10c3be3ab8e30138e8fda109621cd3ecd4aa857.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "44.1"
     }
   },

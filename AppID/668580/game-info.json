@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d08c0540dca0062625991379c4cc9adf7d1b65.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d08c0540dca0062625991379c4cc9adf7d1b65.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
       "percent": "7.2"
     },
     "battleFightAgainstDrunkenness": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dbbca6d9a3a42101584184c9ba1fd2580a034b10.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dbbca6d9a3a42101584184c9ba1fd2580a034b10.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.8"
     },
     "EndOfDLC3": {
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a62565c7a5573cb81ade405b86c3fb140265bb9d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a62565c7a5573cb81ade405b86c3fb140265bb9d.jpg",
       "hidden": false,
-      "percent": "5.0"
+      "group": "Atomic Heart - Enchantment Under the Sea",
+      "percent": "5.1"
     },
     "collectAllApples": {
       "name": "Apple Pie",
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/bea5e382f855ec4a204ba393bf45b0668789411c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/bea5e382f855ec4a204ba393bf45b0668789411c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.8"
     },
     "appleSurfer": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49d9d0b92aac3d21dd1c7460330b6e0b9360020b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49d9d0b92aac3d21dd1c7460330b6e0b9360020b.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "2.4"
     },
     "craftFirstWeapon": {
@@ -49,7 +54,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ddd064d5a662630f0318af3ea63362f7ade60b95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ddd064d5a662630f0318af3ea63362f7ade60b95.jpg",
       "hidden": false,
-      "percent": "68.8"
+      "group": "Base Game",
+      "percent": "68.7"
     },
     "battleAssimilationIsIncomplete": {
       "name": "Assimilation Procedure Interrupted",
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/48393b6ba2b93c7f373d691b008ee34d50a288a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/48393b6ba2b93c7f373d691b008ee34d50a288a9.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "41.6"
     },
     "playthroughAllGameHardcore": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6cc72dc555ed2cfb82a2db52455b65cf462ce820.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6cc72dc555ed2cfb82a2db52455b65cf462ce820.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.6"
     },
     "battleAvatar": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3872a1524f172fe988ac2e2b3166edffd094f1fe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3872a1524f172fe988ac2e2b3166edffd094f1fe.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "19.2"
     },
     "researchAnimalDialogue": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49cc1caa18f1a628bdadbb8e4ff266c7fa78d3a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49cc1caa18f1a628bdadbb8e4ff266c7fa78d3a9.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.1"
     },
     "battleBelowZero": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/21a6b723cd467bfb0571329bdf5f812eec953e20.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/21a6b723cd467bfb0571329bdf5f812eec953e20.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.2"
     },
     "battleBullsEye": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7b53927f24a0017ff1b3111421cc72427ed7c2a6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7b53927f24a0017ff1b3111421cc72427ed7c2a6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.2"
     },
     "researchCollectAllAudioDiary": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/5781ecad425e3fdb7e123e610cdfffde491dd585.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/5781ecad425e3fdb7e123e610cdfffde491dd585.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.1"
     },
     "craftAllConsumable": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7a2eeccc9bfb203aa7b91bffd122cfa75981539b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7a2eeccc9bfb203aa7b91bffd122cfa75981539b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.0"
     },
     "killBelyashWithoutShoot": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d42942c906ef9e7f5c112803b90f3f03fa19a4c5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d42942c906ef9e7f5c112803b90f3f03fa19a4c5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.6"
     },
     "researchCompleteAllTestSites": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c18bf20edd105dee909c20a2b4d73d17e1aebf24.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c18bf20edd105dee909c20a2b4d73d17e1aebf24.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.1"
     },
     "conquerorOfAnnapurna": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6fb26fe7cbb73851ae62b52b6042b079afffbc65.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6fb26fe7cbb73851ae62b52b6042b079afffbc65.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "0.7"
     },
     "conquerorOfChomolungma": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c59759f2ecf6bf444d099bb49259c995a96805dc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c59759f2ecf6bf444d099bb49259c995a96805dc.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "0.7"
     },
     "defenderOfNature": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4cfb6261ea421dc90d9049e0e25ec9153efcff88.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4cfb6261ea421dc90d9049e0e25ec9153efcff88.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "0.8"
     },
     "playthroughTheater": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/301e8a355e5f815b11a8d574b79afb2cf40be9b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/301e8a355e5f815b11a8d574b79afb2cf40be9b1.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "30.4"
     },
     "limboSurfer": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1fe938d4927ffa0f6e5e07cfcedba9b08c06ae63.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1fe938d4927ffa0f6e5e07cfcedba9b08c06ae63.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "0.8"
     },
     "DemonstrationOfViolence": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dd5507a4761e5f2c042565d5a26f9418cf054051.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dd5507a4761e5f2c042565d5a26f9418cf054051.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
       "percent": "6.0"
     },
     "killDew": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/57e247a2c2b174361ffbb7b6d488f4fc9fd60450.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/57e247a2c2b174361ffbb7b6d488f4fc9fd60450.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "29.7"
     },
     "battleDivideEtImpera": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/747aab16f7934b56502ad4efaf6faa7c1ac6d242.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/747aab16f7934b56502ad4efaf6faa7c1ac6d242.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
       "percent": "6.1"
     },
     "easyWalk": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/67c1d34901744ddf7c7f76e4b1fa76b73486af6c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/67c1d34901744ddf7c7f76e4b1fa76b73486af6c.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "0.6"
     },
     "researchFindAllTestSites": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/179d2eaf61e5428ff80972170fc869b5994e2f70.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/179d2eaf61e5428ff80972170fc869b5994e2f70.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.3"
     },
     "playthroughPavlov": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/05e6d133dc6e396be5605d4337afcf8e3d67ca66.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/05e6d133dc6e396be5605d4337afcf8e3d67ca66.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "28.3"
     },
     "goldenFever": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/996c54a4828e7df0df851f0b03e195e07b23a4f1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/996c54a4828e7df0df851f0b03e195e07b23a4f1.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "0.7"
     },
     "battleKillByCar": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/b4d44000f370bc4379e9a1beb8e2b150800ce28d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/b4d44000f370bc4379e9a1beb8e2b150800ce28d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.9"
     },
     "playthroughChelomey": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/726306928d59a5cb2d9bc2801226037b4154f770.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/726306928d59a5cb2d9bc2801226037b4154f770.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "92.7"
     },
     "Beyond": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1129d4f569c4082c25c6f177cb52356bf384e8e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1129d4f569c4082c25c6f177cb52356bf384e8e8.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
       "percent": "0.9"
     },
     "battleDaredevil": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1d913bd4654ed196791c8537a65f4aa18922045e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1d913bd4654ed196791c8537a65f4aa18922045e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "21.3"
     },
     "researchHelloPhone": {
@@ -265,7 +297,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6bb9211420662282241f4c50bee988c34c74a83e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6bb9211420662282241f4c50bee988c34c74a83e.jpg",
       "hidden": false,
-      "percent": "9.6"
+      "group": "Base Game",
+      "percent": "9.5"
     },
     "FirstTalkDLC3": {
       "name": "I'm here if you need to talk",
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7781095148a0bfa7b95d03685ffba1b7cc9469a5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7781095148a0bfa7b95d03685ffba1b7cc9469a5.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
       "percent": "5.9"
     },
     "battleJohnSilversCrew": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
       "percent": "8.9"
     },
     "playthroughAcademy": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6654e907221eec612667ee084a78f2c59ec29fca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6654e907221eec612667ee084a78f2c59ec29fca.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.5"
     },
     "craftUpgradeSkillCategory": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6d90d7b7417809b6df238a953e0acb600a105283.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6d90d7b7417809b6df238a953e0acb600a105283.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "37.9"
     },
     "playthroughLordOfTheFlies": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2265b5fb1621b42254d2c5f8c735602c712b5f37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2265b5fb1621b42254d2c5f8c735602c712b5f37.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
       "percent": "7.2"
     },
     "collectAllWeapons": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f0e73e43e33e2b727bf3d8d70bdca4090b6714ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f0e73e43e33e2b727bf3d8d70bdca4090b6714ed.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.9"
     },
     "killEziha": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/52be52eb0a3afdba8c9d3a9d9f9f94b3e63ef032.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/52be52eb0a3afdba8c9d3a9d9f9f94b3e63ef032.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "44.3"
     },
     "SurvivalMaster": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7694f1ca7620088d5547272ac6ed0cb0a0045a0b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7694f1ca7620088d5547272ac6ed0cb0a0045a0b.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
       "percent": "1.1"
     },
     "craftMaximumStrength": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c706e9f8006fcb1e1d40a5649bab2a9bb66ba8fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c706e9f8006fcb1e1d40a5649bab2a9bb66ba8fb.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
       "percent": "3.1"
     },
     "playthroughHospital": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a7c6440e7c51ae4281677db4414208eda25e18cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a7c6440e7c51ae4281677db4414208eda25e18cf.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "29.5"
     },
     "killBelyash": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78e905f4a79e0bf297dbab8fc5ad9b71ad326e06.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78e905f4a79e0bf297dbab8fc5ad9b71ad326e06.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "34.2"
     },
     "MobiDik": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2d9721a9615b06a0996e2f69de3dca803353d686.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2d9721a9615b06a0996e2f69de3dca803353d686.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
       "percent": "0.6"
     },
     "researchLootboy": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/af858829cd4338e5d44f4683382737adb1397f5c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/af858829cd4338e5d44f4683382737adb1397f5c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.6"
     },
     "killTwins": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/364f7dda5e07c9bc4a36e6c48f290baa6f9c5f88.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/364f7dda5e07c9bc4a36e6c48f290baa6f9c5f88.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "28.1"
     },
     "overKill": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6083c773fd28e3190c002547660844add6c52b6b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6083c773fd28e3190c002547660844add6c52b6b.jpg",
       "hidden": true,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "0.6"
     },
     "playthroughVavilov": {
@@ -393,7 +441,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/61d209294e6c83debaa37a9deb70bd8ac6e73dc1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/61d209294e6c83debaa37a9deb70bd8ac6e73dc1.jpg",
       "hidden": false,
-      "percent": "53.0"
+      "group": "Base Game",
+      "percent": "52.9"
     },
     "killIvy": {
       "name": "Plyusch Rush",
@@ -401,7 +450,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ad02fc2e7d0214bd46ad881a4e6c6c85899a672.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ad02fc2e7d0214bd46ad881a4e6c6c85899a672.jpg",
       "hidden": false,
-      "percent": "39.7"
+      "group": "Base Game",
+      "percent": "39.6"
     },
     "collectAllJelly": {
       "name": "Polymerization",
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f5166fec3a0b6161cd78b32ed7c22b308c05dcb6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f5166fec3a0b6161cd78b32ed7c22b308c05dcb6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "67.9"
     },
     "playthroughVDNH": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0cd98726ed64df630e0b60f93fdc590163a86d9a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0cd98726ed64df630e0b60f93fdc590163a86d9a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "38.2"
     },
     "playthroughReturnToUtopia": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/9418419b30ed56acb4a4ee3d08306065348649ae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/9418419b30ed56acb4a4ee3d08306065348649ae.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
       "percent": "7.0"
     },
     "researchAnalyzAllMobs": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ab3cde9af8f5ad256f152dc525481e05341593ab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ab3cde9af8f5ad256f152dc525481e05341593ab.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.0"
     },
     "killNatasha": {
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3b35e833a718bfbbd6d9c86f598886885e9d9c2d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3b35e833a718bfbbd6d9c86f598886885e9d9c2d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.4"
     },
     "cuttingThroughTheWavesOfLimbo": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f512ccffdf712c5ff30507b378b340a962e10bca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f512ccffdf712c5ff30507b378b340a962e10bca.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "0.7"
     },
     "killEzhihaWithoutDamage": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c17fec1e8c4127fff03e587cb7454ee98d0e1cbb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c17fec1e8c4127fff03e587cb7454ee98d0e1cbb.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.3"
     },
     "iLoveThisCasino": {
@@ -465,6 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fc545da647ee4d662a8fd2480c7d38fe387bd265.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fc545da647ee4d662a8fd2480c7d38fe387bd265.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
       "percent": "1.3"
     },
     "craftUpgradeWeapons": {
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cd46a1c29ffef5a51562851059c339c23c53eb18.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cd46a1c29ffef5a51562851059c339c23c53eb18.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "23.1"
     },
     "progress100": {
@@ -481,6 +540,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fbf6ef189b6beb1e0828e3a4909e6a460543e64b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fbf6ef189b6beb1e0828e3a4909e6a460543e64b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.4"
     },
     "researchCorpseDialogue": {
@@ -489,6 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3fe7322374cb80d7880bbcfdd07409da8d5e3d48.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3fe7322374cb80d7880bbcfdd07409da8d5e3d48.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.5"
     },
     "playthroughLesnaya": {
@@ -497,6 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cf322399dd21a288d540a66aa42a5cdade1e484e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cf322399dd21a288d540a66aa42a5cdade1e484e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "46.5"
     },
     "battleBoxInBottle": {
@@ -505,6 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4fe54810441720d9260bb6d812c6383752de6f3d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4fe54810441720d9260bb6d812c6383752de6f3d.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
       "percent": "7.4"
     },
     "battleTriplePenetration": {
@@ -513,6 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/be79c3da6147567431d3a033edf2ba9a0d37a467.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/be79c3da6147567431d3a033edf2ba9a0d37a467.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.7"
     },
     "battleRedOctober": {
@@ -521,6 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d80bfffcd4d44e09d2e3439be92d5c6c83887003.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d80bfffcd4d44e09d2e3439be92d5c6c83887003.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
       "percent": "11.0"
     },
     "WaterSports": {
@@ -529,6 +594,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7560aad4ef3bbe7923c9da8990d1e1dcb68d3494.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7560aad4ef3bbe7923c9da8990d1e1dcb68d3494.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
       "percent": "2.0"
     },
     "craftFiveUniqueWeapons": {
@@ -537,6 +603,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e54d2f9d5b713d50852fcd6a2a2db7df657ec0a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e54d2f9d5b713d50852fcd6a2a2db7df657ec0a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "30.4"
     },
     "playthroughWeirdScience": {
@@ -545,6 +612,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/77c5348598b946982a1fd3bd4de3678045e58250.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/77c5348598b946982a1fd3bd4de3678045e58250.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
       "percent": "9.1"
     },
     "YouReadTheInstructions": {
@@ -553,6 +621,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
       "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
       "percent": "6.1"
     }
   },

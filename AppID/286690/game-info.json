@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/9ab9949c908b669ecdec318dd9303f2d8c3f2314.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.8"
     },
     "2033_published_33": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/fc6cf0e015ddfb9dc5e8be31ccbb7c0c312d8557.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.7"
     },
     "2033_cowboy": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/2f7144c02e268dc4484e36ef57589613c3eae1d8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.5"
     },
     "2033_demolitionist": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/a8bd74299f1258a740d6312371f3688e0826478a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "46.9"
     },
     "2033_dj_artyom": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/1cd813946b7f4f5af93cae2bc8dbe4684548cb97.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.6"
     },
     "2033_enlightened": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/17579f8966c1134be440650912f5d2b1bad6d633.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.7"
     },
     "2033_fireinthehole": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/6f5dd91e0a779b7bbb0b9ef1da092b857be470cc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.5"
     },
     "2033_flame_grenade": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/e67398b68e28543ecdd6170b9c6851517ff9db34.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.5"
     },
     "2033_generous": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/0c5da07b0418e57f63357ee10dec42e792f01867.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.8"
     },
     "2033_gunman": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/b913eed408ad804cb3c87fcf30b4ddf39ea89fb2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "36.4"
     },
     "2033_heavy_reader": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/7a6bcc63b569f0d34cc87db51f6d6d7207eb8690.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "25.1"
     },
     "2033_hedge_hopper": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/4722a6523f9509a2de17d8e9240eca8706cdb367.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.8"
     },
     "2033_hunter": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/bc8abf848cdc8ced11ac0b2f8c4323a229712e7e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "37.0"
     },
     "2033_true_ranger": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/6d668bd9ece2006f26c39cc46e2ffd4bb0b11fca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.2"
     },
     "2033_inquisitor": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/23decef7644d80d814a4611856e864916d8d71c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "26.8"
     },
     "2033_invisible_man": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/ab0287a6c3a9e52481d551c60ac96adb53d26357.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.2"
     },
     "2033_ka_boom": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/c915f64d7a118ff7d0f51e7ee871e339de7dd88c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.6"
     },
     "2033_manhattan_project": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/5c799a306ffd57777fc96fb3123aa2085180404f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.0"
     },
     "2033_marksman": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/c27b0ec1943ba06b4d76af01b34eb45d73208206.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "17.9"
     },
     "2033_merciful": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/48cdb92d069380446f3448f6abf522c94c1463b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.1"
     },
     "2033_metro_trader": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/a200dbd2382efc2918fa5dd4682e6d8fe8daccca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.1"
     },
     "2033_ninja_33": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/a5351742110d3141c47130fde8d557bd0bc852ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.0"
     },
     "2033_nosalis_hunter": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/ba21a21443a6cbc2fe65f15ab2162959d492d546.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "40.4"
     },
     "2033_pathoanatomist": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/90897d71528541c8b5745db08dafef3b59a4ae79.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.2"
     },
     "2033_pyro": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/f7cfee9571424414bf12644385d72a391cab53bd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.9"
     },
     "2033_quick_draw": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/654202af688c0d0ae0d40de19ef6f2bbf654cb2f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.8"
     },
     "2033_raider": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/b9297b6f848f5440d357ef90b2b4128f7aad8148.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.7"
     },
     "2033_ranger": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/7b01351e57e6eea757a8f6cdab2eb4751dc34328.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.8"
     },
     "2033_rescue_ranger": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/f6147527fcf454cbb8361b44c2aab85f241c54d1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "29.1"
     },
     "2033_scrooge": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/7774fd86bbacdad37d4691a27bd7365ede7dc60a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.1"
     },
     "2033_shocking": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/7a98136efeb83ce897a216e86cb0feb1e030ea28.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.8"
     },
     "2033_slice_dice": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/8843ba059e9a196a70a3b7bdf409c4f80bdb0eea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.3"
     },
     "2033_snake": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/11d06e25df91fada50fcaa373f9f31e80e0bcbdc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "19.7"
     },
     "2033_sniper_33": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/fef13865245745781e4a038a22ecd3722de525d7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "42.1"
     },
     "2033_soft_touch": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/3d2ebd2902cad3b72cac305819454abbca6be6ae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "15.1"
     },
     "2033_spartan": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/ca0315fee28ac51c247c90c27affe3af9a9a9efa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.2"
     },
     "2033_spider_hunter": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/e9b622508d42eb728c454bc1d225bc8e1f6bc75e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.0"
     },
     "2033_stun_melee": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/c118e8036129aa04f2753dd534a80f7ef16f80cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.5"
     },
     "2033_survival": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/20199771d4ccc26990f194ff0fa552ab47252109.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "22.9"
     },
     "2033_tank": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/50734cf2a4c4900a0b95f21600232a48b14a1dfb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "47.2"
     },
     "2033_safecracker_33": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/f4947e93c56d5ba1f640cad8061fd79b33db3fb1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.0"
     },
     "2033_max_33": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/25e753d8e69314c9b87de200bf018b085271298b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "5.5"
     },
     "2033_tonic_man": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/dfdccdd537a9cf4dbd95d57cb74a6b3ce3de29e6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.6"
     },
     "2033_mashine_gun": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/913be80689668dcb2d061910b8a80552f8865065.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "37.4"
     },
     "2033_warior": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/602146079e62c02d625735fe50e613b190e8eda8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "43.5"
     },
     "2033_watchman_hunter": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/76bd60a98eca07d4ba672853cff149ba82f40326.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "38.1"
     },
     "2033_weaponsmith": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/cd1a9ab767196bfcdb071d7f0cdc96c2b0d9916e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.2"
     },
     "2033_wheeler_dealer": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/4b58419737438837904ff90354fd6ca964482553.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.2"
     },
     "2033_who_goes_there": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/3943e01e7e7918115e567ffea3de873da01ddfc9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.8"
     }
   },

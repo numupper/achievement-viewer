@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/da14e53816d0f74cfccfe7809c6fb2e2cfbdb28b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.3"
     },
     "TRP_SURVIVOR": {
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
-      "percent": "40.5"
+      "group": "Base Game",
+      "percent": "40.6"
     },
     "TRP_OMEN": {
       "name": "An Omen?",
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/93122ba37a60ee184f206ff0d184ad0a8370cb73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.6"
     },
     "TRP_BLACKWOOD": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.9"
     },
     "TRP_CARNIVAL": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "20.5"
     },
     "TRP_DRAG": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "23.9"
     },
     "TRP_FATAL": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "6.8"
     },
     "TRP_LASTYEAR": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "88.4"
     },
     "TRP_SHINING": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.5"
     },
     "TRP_BREATHE": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "16.3"
     },
     "TRP_LODGE": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "62.2"
     },
     "TRP_ASH": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "8.0"
     },
     "TRP_SELFIE": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "29.7"
     },
     "TRP_OTHERS": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "2.8"
     },
     "TRP_HOST": {
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
-      "percent": "56.1"
+      "group": "Base Game",
+      "percent": "56.2"
     },
     "TRP_SEMATARY": {
       "name": "Patient Sematary",
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "40.6"
     },
     "TRP_SAW": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "8.8"
     },
     "TRP_TALKTOEM": {
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
-      "percent": "40.4"
+      "group": "Base Game",
+      "percent": "40.5"
     },
     "TRP_CABIN": {
       "name": "The Cabin in the Blackwoods",
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
-      "percent": "50.8"
+      "group": "Base Game",
+      "percent": "50.9"
     },
     "TRP_FATEFUL": {
       "name": "The Fateful Descent",
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/93122ba37a60ee184f206ff0d184ad0a8370cb73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.3"
     },
     "TRP_PSYCHOPATH": {
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
-      "percent": "48.9"
+      "group": "Base Game",
+      "percent": "49.0"
     },
     "TRP_WOLFMAN": {
       "name": "The Skillful Wolf Man",
@@ -177,7 +198,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
-      "percent": "38.0"
+      "group": "Base Game",
+      "percent": "38.1"
     },
     "TRP_TALETWO": {
       "name": "The Tale of The Two Sisters",
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/93122ba37a60ee184f206ff0d184ad0a8370cb73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.6"
     },
     "TRP_ALLLIVE": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/93122ba37a60ee184f206ff0d184ad0a8370cb73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "15.3"
     },
     "TRP_THEEND": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/93122ba37a60ee184f206ff0d184ad0a8370cb73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.8"
     },
     "TRP_JOSH": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "8.1"
     },
     "TRP_CALLS": {
@@ -217,7 +243,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/af07b263a6f81bb2b4e86464ff67a88e61012ed8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
-      "percent": "29.6"
+      "group": "Base Game",
+      "percent": "29.7"
     },
     "TRP_WRONGONE": {
       "name": "You Let The Wrong One In!",
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/4413fe239e8491bbf1c4955cc03186e28c3e50b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "14.7"
     },
     "TRP_OPENED": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/93122ba37a60ee184f206ff0d184ad0a8370cb73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.7"
     }
   },

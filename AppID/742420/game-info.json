@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7ecf8f5387dd1fb2e358caf32b156bb071e8e8e0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7ecf8f5387dd1fb2e358caf32b156bb071e8e8e0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.2"
     },
     "empire_tier_5": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/80e74ceb0bd57eec3abbbd0367e4c9b5e97d923b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.9"
     },
     "empire_tier_2": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/cf1430bc6c101a31578f258de5cd42c46697390c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/cf1430bc6c101a31578f258de5cd42c46697390c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "28.4"
     },
     "whole_map_purple": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/91e9161ac30b8c00f47a89cf5e1abde8ec219463.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/91e9161ac30b8c00f47a89cf5e1abde8ec219463.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.4"
     },
     "complete_all_side_hustles": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3241644d53d61c4fb72ca25960481334a5317566.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3241644d53d61c4fb72ca25960481334a5317566.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.1"
     },
     "kill_tank_driver_with_rail": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/e0886bb2d5cb1fe51f0c8e4aa4aa030f01a8b191.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/e0886bb2d5cb1fe51f0c8e4aa4aa030f01a8b191.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "dustfaire_complete_mission_1": {
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/489d844f72b990f4559f281181488023727290c4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/489d844f72b990f4559f281181488023727290c4.jpg",
       "hidden": false,
-      "percent": "8.9"
+      "group": "Saints Row - A song of Ice and Dust",
+      "percent": "8.8"
     },
     "destroy_car_with_fist_cannon": {
       "name": "Bonus Round",
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/6d70253cdcb9ff7515ecfe095c22dd6a39d65177.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/6d70253cdcb9ff7515ecfe095c22dd6a39d65177.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.4"
     },
     "complete_challenge_packs": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/6cda5a4fb0f437c2aec7b70f308c9567001721b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/6cda5a4fb0f437c2aec7b70f308c9567001721b9.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.6"
     },
     "defeat_the_collective": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/e7c4cc7a8df48b643f177bb8a0d3a8602d8c0d8f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/e7c4cc7a8df48b643f177bb8a0d3a8602d8c0d8f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.2"
     },
     "own_100_pieces_of_clothing": {
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/92b5ccb8ad27090945d51ee7387a26ef0b092492.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/92b5ccb8ad27090945d51ee7387a26ef0b092492.jpg",
       "hidden": false,
-      "percent": "9.5"
+      "group": "Base Game",
+      "percent": "9.4"
     },
     "two_thirds_purple": {
       "name": "Community Outreach",
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/26e4753abb85524bc6e938c81d377b071814c372.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/26e4753abb85524bc6e938c81d377b071814c372.jpg",
       "hidden": false,
-      "percent": "5.1"
+      "group": "Base Game",
+      "percent": "5.0"
     },
     "dustfaire_complete_mission_2": {
       "name": "DustFaire Champion",
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/174aabcdf9292d0e80dd03d56f79fd817a703c3c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/174aabcdf9292d0e80dd03d56f79fd817a703c3c.jpg",
       "hidden": false,
+      "group": "Saints Row - A song of Ice and Dust",
       "percent": "8.2"
     },
     "dustfaire_complete_mission_5": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/834f367fa9489d998cea96ce2aff52fbbf8be9e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/834f367fa9489d998cea96ce2aff52fbbf8be9e7.jpg",
       "hidden": false,
+      "group": "Saints Row - A song of Ice and Dust",
       "percent": "7.6"
     },
     "get_betrayed": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f580c44b99268f0fee017ba4c10f77ca3f36cac0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "19.7"
     },
     "bfhj_complete_mission_2_collectible": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/2402ffce6258483149535b4e51c9741f2da86829.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Saints Row - The Heist and the Hazardous",
       "percent": "12.8"
     },
     "use_pinata_stick_on_pinata_bomb": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/eb80394ad0bfdecda894b232e51e68f0500eca0d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/eb80394ad0bfdecda894b232e51e68f0500eca0d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.3"
     },
     "collect_low_amount_hero_props": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/5229f39fa0150c745f9829a7783fb88096b5a686.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/5229f39fa0150c745f9829a7783fb88096b5a686.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "29.2"
     },
     "complete_mission_1": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4376fee358a75972dc043ae31b9f836507a942a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4376fee358a75972dc043ae31b9f836507a942a9.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "87.8"
     },
     "staggered_by_vending_machine": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/5c68525b2e6985b6a491f895355dad79b38f436f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/5c68525b2e6985b6a491f895355dad79b38f436f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "38.3"
     },
     "dustfaire_complete_mission_4": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/cd68e44532381e293d4997025de28ad252b22fbe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/cd68e44532381e293d4997025de28ad252b22fbe.jpg",
       "hidden": false,
+      "group": "Saints Row - A song of Ice and Dust",
       "percent": "7.7"
     },
     "infinite_boost_refill": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/878bf28f50579702128cc02b7900b81709bc5e29.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/878bf28f50579702128cc02b7900b81709bc5e29.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.4"
     },
     "everybody_to_level_5": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f7adfadf840fb6e340c5f4c8537836d736b15aaf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f7adfadf840fb6e340c5f4c8537836d736b15aaf.jpg",
       "hidden": false,
+      "group": "Saints Row - Doc Ketchums Murder Circus",
       "percent": "2.6"
     },
     "vigilante_finale": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/eb3a39d78b9ad3edf0615da32de47622dee4e7ab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Saints Row - Doc Ketchums Murder Circus",
       "percent": "2.8"
     },
     "bfhj_complete_mission_3_collectible": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/1e65eeaf114b427ed2216da97aa78c3733c45408.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Saints Row - The Heist and the Hazardous",
       "percent": "12.2"
     },
     "unlock_all_vehicle_specials": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/22f9ee1639e3ab89e4fd05446c5689100cd70acc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/22f9ee1639e3ab89e4fd05446c5689100cd70acc.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.7"
     },
     "car_jacked_by_a_ped": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/915f1dc4ace0312d6fa1dd79bf97baf1f7c53e4d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/915f1dc4ace0312d6fa1dd79bf97baf1f7c53e4d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "15.5"
     },
     "beat_all_wingsuit_challenges": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ccabe4ff32122be376f39c69cb8d2f5004d9a1d0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ccabe4ff32122be376f39c69cb8d2f5004d9a1d0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.6"
     },
     "aquire_every_perk": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/9d0d9ca06999d31444d6e8d3d2a38bd69d408d94.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/9d0d9ca06999d31444d6e8d3d2a38bd69d408d94.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.9"
     },
     "groin_shot_genki": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/691bf42cb8cc636caf05a4703761644f47ee8b9f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Saints Row - Doc Ketchums Murder Circus",
       "percent": "1.9"
     },
     "fully_upgrade_a_weapon": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f7ade00487d6ca39a690847d7976a36e8a969190.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f7ade00487d6ca39a690847d7976a36e8a969190.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.3"
     },
     "first_building_placed": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/2fe9be47ca4711e6a9c6537a71720d8b3107fcfe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/2fe9be47ca4711e6a9c6537a71720d8b3107fcfe.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "40.3"
     },
     "tourist_finale": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/c50b0e2166c04f1b00444e0f22786eb48369393e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Saints Row - Doc Ketchums Murder Circus",
       "percent": "2.6"
     },
     "name_the_saints": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f56616c20ce1c6982158f1a8707924c3779fa31f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "44.2"
     },
     "empire_tier_4": {
@@ -281,7 +315,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/c7eb58db16b60035f36a0739d72f695e179a6777.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/c7eb58db16b60035f36a0739d72f695e179a6777.jpg",
       "hidden": false,
-      "percent": "12.9"
+      "group": "Base Game",
+      "percent": "12.8"
     },
     "genki_finale": {
       "name": "Most Dangerous Game",
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/abdfcbb933ed961026f697ad00c9d1f2afd5d660.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Saints Row - Doc Ketchums Murder Circus",
       "percent": "2.6"
     },
     "one_third_purple": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f94fc691ceece197c24edb3428929be32d1b3f38.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f94fc691ceece197c24edb3428929be32d1b3f38.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.9"
     },
     "customize_a_weapon": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/29ae622c1769ab69b4404d6131c2332de08f3cad.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/29ae622c1769ab69b4404d6131c2332de08f3cad.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "51.1"
     },
     "get_fired": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f8a9ebdd44b4a0393a84ce3f6dec1a617f69355e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "47.5"
     },
     "kill_each_faction_miniboss": {
@@ -321,7 +360,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4279c9cc2182674111774b200deb0805b422233f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4279c9cc2182674111774b200deb0805b422233f.jpg",
       "hidden": false,
-      "percent": "23.4"
+      "group": "Base Game",
+      "percent": "23.3"
     },
     "empire_tier_3": {
       "name": "Power Players",
@@ -329,7 +369,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/a4c102d10566e154a539fb791a2af8ee69886b71.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/a4c102d10566e154a539fb791a2af8ee69886b71.jpg",
       "hidden": false,
-      "percent": "21.5"
+      "group": "Base Game",
+      "percent": "21.4"
     },
     "prank_coop_partner": {
       "name": "Prankster",
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/abd21c50fe04fedf2128553680de695048c9758c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/abd21c50fe04fedf2128553680de695048c9758c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.3"
     },
     "bfhj_complete_mission_1_collectible": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4be53f8572af28e6be4d3000e23649a9781ecb16.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Saints Row - The Heist and the Hazardous",
       "percent": "13.8"
     },
     "beat_loyalty_missions": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/e3de71a78069c8ed160e29c75190b28416bc65cc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "19.4"
     },
     "dustfaire_complete_mission_3": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7c9d0b6589346cb3c15eeaa159ef7df0536bddec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7c9d0b6589346cb3c15eeaa159ef7df0536bddec.jpg",
       "hidden": false,
+      "group": "Saints Row - A song of Ice and Dust",
       "percent": "7.9"
     },
     "buy_1_thing_from_every_store": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/60d0e5f5baf99aba2b346040fe2e53beec57fc73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/60d0e5f5baf99aba2b346040fe2e53beec57fc73.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.4"
     },
     "complete_final_mission": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/9f41b50a93bc4234016483ba2de36881727b5dbd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/9f41b50a93bc4234016483ba2de36881727b5dbd.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "19.4"
     },
     "purchase_2_emotes": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/15d8bf5f68ec3c3fc24e70f5cd240e78324dabe6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/15d8bf5f68ec3c3fc24e70f5cd240e78324dabe6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.6"
     },
     "cutting_edge_materials": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/367d978d3e90cc95e8abcd3b935f566389b63521.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/367d978d3e90cc95e8abcd3b935f566389b63521.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.4"
     },
     "collect_high_amount_hero_props": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7083bc942d99fd9c9160fd491d10ccde1d58bd59.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7083bc942d99fd9c9160fd491d10ccde1d58bd59.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.3"
     },
     "fully_upgrade_1_vehicle": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4d4a236f7e6e09728bed5dad0c0429e876a42c70.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4d4a236f7e6e09728bed5dad0c0429e876a42c70.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.9"
     },
     "complete_all_of_wanted": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/b07c5f795a9a24b2ae78392e806fb98a60e712db.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/b07c5f795a9a24b2ae78392e806fb98a60e712db.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.9"
     },
     "complete_first_side_hustle": {
@@ -425,7 +477,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/617b168ff8786a951ee86c3c6b96fa11f0ec29d8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/617b168ff8786a951ee86c3c6b96fa11f0ec29d8.jpg",
       "hidden": false,
-      "percent": "41.3"
+      "group": "Base Game",
+      "percent": "41.2"
     },
     "do_a_barrel_roll": {
       "name": "The Spins",
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3a8c029d4eca35e98cfbcb3090750dd0e8e0cea8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3a8c029d4eca35e98cfbcb3090750dd0e8e0cea8.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.9"
     },
     "use_profile_app": {
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7010d8816dc9932252de27a14044bb521267c9f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7010d8816dc9932252de27a14044bb521267c9f8.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "68.6"
     },
     "hit_max_level": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/daa0891c196968d38ac0a873d56fb6e960cf19c5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/daa0891c196968d38ac0a873d56fb6e960cf19c5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.9"
     },
     "route_66_attractions": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/da7228b6e407b215748464d7cc3318b0a607244f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/da7228b6e407b215748464d7cc3318b0a607244f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.6"
     },
     "customize_a_vehicle": {
@@ -465,7 +522,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3232157eea26b27ce1e3cc8221d567df63b23ee3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3232157eea26b27ce1e3cc8221d567df63b23ee3.jpg",
       "hidden": false,
-      "percent": "41.8"
+      "group": "Base Game",
+      "percent": "41.7"
     },
     "disorganized_crime_instaces": {
       "name": "Untouchable",
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/882aaf87c98351cc034518e78479723417e3cac2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/882aaf87c98351cc034518e78479723417e3cac2.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.2"
     },
     "consuela_finale": {
@@ -481,6 +540,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/31f36b837aac1720ddfec84ee73aeed45e259ad3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Saints Row - Doc Ketchums Murder Circus",
       "percent": "2.6"
     },
     "complet_epilogue_mission": {
@@ -489,6 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/c21a4988ca4de46c1fa8edcb768140857d7446fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.9"
     },
     "complete_first_wanted_mission": {
@@ -497,6 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/32acf1e4c5942b7b4897ab78ef76ee9b019dc519.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/32acf1e4c5942b7b4897ab78ef76ee9b019dc519.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "44.1"
     },
     "fully_complete_a_building": {
@@ -505,6 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ff69d9489ad1bd496aa4d701597411352d02139f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ff69d9489ad1bd496aa4d701597411352d02139f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "23.4"
     },
     "kill_enemy_with_tetherd_object": {
@@ -513,6 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/05bc1cba6d4ee1ae9f05e2e050df44f8fc4aba81.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/05bc1cba6d4ee1ae9f05e2e050df44f8fc4aba81.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "33.0"
     }
   },

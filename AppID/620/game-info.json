@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/WITH_STYLE.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/WITH_STYLE_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "33.4"
     },
     "ACH.TAUNT_CAMERA": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TAUNT_CAMERA.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TAUNT_CAMERA_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.9"
     },
     "ACH.HUG_NAME": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/HUG_NAME.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/HUG_NAME_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.0"
     },
     "ACH.BRIDGE": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BRIDGE.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BRIDGE_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "53.6"
     },
     "ACH.YOU_MONSTER": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/YOU_MONSTER.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/YOU_MONSTER_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.8"
     },
     "ACH.MASS_AND_VELOCITY": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/MASS_AND_VELOCITY.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/MASS_AND_VELOCITY_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "40.9"
     },
     "ACH.A3_DOORS": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/A3_DOORS.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/A3_DOORS_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.3"
     },
     "ACH.BOX_HOLE_IN_ONE": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BOX_HOLE_IN_ONE.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BOX_HOLE_IN_ONE_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "29.0"
     },
     "ACH.TRIVIAL_TEST": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TRIVIAL_TEST.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TRIVIAL_TEST_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "37.1"
     },
     "ACH.PARTNER_DROP": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/PARTNER_DROP.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/PARTNER_DROP_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.6"
     },
     "ACH.CLEAN_UP": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/CLEAN_UP.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/CLEAN_UP_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.5"
     },
     "ACH.FOUR_PORTALS": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/FOUR_PORTALS.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/FOUR_PORTALS_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.8"
     },
     "ACH.SPREAD_THE_LOVE": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SPREAD_THE_LOVE.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SPREAD_THE_LOVE_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.5"
     },
     "ACH.TAUNTS": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TAUNTS.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TAUNTS_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.1"
     },
     "ACH.REENTER_TEST_CHAMBERS": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/REENTER_TEST_CHAMBERS.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/REENTER_TEST_CHAMBERS_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "28.5"
     },
     "ACH.HI_FIVE_YOUR_PARTNER": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/HI_FIVE_YOUR_PARTNER.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/HI_FIVE_YOUR_PARTNER_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "58.7"
     },
     "ACH.NICE_CATCH": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/NICE_CATCH.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/NICE_CATCH_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.6"
     },
     "ACH.SHOOT_THE_MOON": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SHOOT_THE_MOON.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SHOOT_THE_MOON_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "34.2"
     },
     "ACH.PORTAL_TAUNT": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/PORTAL_TAUNT.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/PORTAL_TAUNT_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.8"
     },
     "ACH.SAVE_REDEMPTION_TURRET": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SAVE_REDEMPTION_TURRET.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SAVE_REDEMPTION_TURRET_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "31.1"
     },
     "ACH.EXCURSION_FUNNELS": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/EXCURSION_FUNNELS.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/EXCURSION_FUNNELS_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "26.3"
     },
     "ACH.SPEED_RUN_LEVEL": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SPEED_RUN_LEVEL.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SPEED_RUN_LEVEL_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.0"
     },
     "ACH.PARTY_OF_THREE": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/PARTY_OF_THREE.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/PARTY_OF_THREE_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.5"
     },
     "ACH.COMPLIANT": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/COMPLIANT.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/COMPLIANT_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.9"
     },
     "ACH.LIMITED_PORTALS": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/LIMITED_PORTALS.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/LIMITED_PORTALS_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.7"
     },
     "ACH.PORTRAIT": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/PORTRAIT.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/PORTRAIT_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.7"
     },
     "ACH.SAVE_CUBE": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SAVE_CUBE.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SAVE_CUBE_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.5"
     },
     "ACH.TEACHER": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TEACHER.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TEACHER_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.9"
     },
     "ACH.LAUNCH_TURRET": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/LAUNCH_TURRET.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/LAUNCH_TURRET_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.8"
     },
     "ACH.ROCK_CRUSHES_ROBOT": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/ROCK_CRUSHES_ROBOT.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/ROCK_CRUSHES_ROBOT_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.8"
     },
     "ACH.BREAK_OUT": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BREAK_OUT.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BREAK_OUT_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "46.7"
     },
     "ACH.NOT_THE_DROID": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/NOT_THE_DROID.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/NOT_THE_DROID_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "34.8"
     },
     "ACH.CATCH_CRAZY_BOX": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/CATCH_CRAZY_BOX.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/CATCH_CRAZY_BOX_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.9"
     },
     "ACH.NO_BOAT": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/NO_BOAT.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/NO_BOAT_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.7"
     },
     "ACH.BREAK_MONITORS": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BREAK_MONITORS.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BREAK_MONITORS_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.7"
     },
     "ACH.STALEMATE_ASSOCIATE": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/STALEMATE_ASSOCIATE.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/STALEMATE_ASSOCIATE_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "45.7"
     },
     "ACH.STAYING_ALIVE": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/STAYING_ALIVE.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/STAYING_ALIVE_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.4"
     },
     "ACH.ORANGE_GEL": {
@@ -305,7 +342,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/ORANGE_GEL.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/ORANGE_GEL_BW.jpg",
       "hidden": false,
-      "percent": "39.6"
+      "group": "Base Game",
+      "percent": "39.5"
     },
     "ACH.SUMMER_SALE": {
       "name": "Talent Show",
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/732c9e4da3ecf83bffbe9626a5bb40e461d0c634.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/0c3f74f5015862a388cd141002f7d9e4627f4c65.jpg",
       "hidden": false,
+      "group": "Steam Summer Camp",
       "percent": "2.6"
     },
     "ACH.ADDICTED_TO_SPUDS": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/ADDICTED_TO_SPUDS.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/ADDICTED_TO_SPUDS_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "41.1"
     },
     "ACH.TEAM_BUILDING": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TEAM_BUILDING.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TEAM_BUILDING_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "49.5"
     },
     "ACH.WHEATLEY_TRIES_TO": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/WHEATLEY_TRIES_TO.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/WHEATLEY_TRIES_TO_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "34.5"
     },
     "ACH.SPEED_RUN_COOP": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SPEED_RUN_COOP.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SPEED_RUN_COOP_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.0"
     },
     "ACH.TRACTOR_BEAM": {
@@ -353,7 +396,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TRACTOR_BEAM.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/TRACTOR_BEAM_BW.jpg",
       "hidden": false,
-      "percent": "35.3"
+      "group": "Base Game",
+      "percent": "35.2"
     },
     "ACH.LASER": {
       "name": "Undiscouraged",
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/LASER.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/LASER_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "63.0"
     },
     "ACH.BLUE_GEL": {
@@ -369,7 +414,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BLUE_GEL.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BLUE_GEL_BW.jpg",
       "hidden": false,
-      "percent": "43.1"
+      "group": "Base Game",
+      "percent": "43.0"
     },
     "ACH.SURVIVE_CONTAINER_RIDE": {
       "name": "Wake Up Call",
@@ -377,7 +423,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SURVIVE_CONTAINER_RIDE.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/SURVIVE_CONTAINER_RIDE_BW.jpg",
       "hidden": false,
-      "percent": "74.5"
+      "group": "Base Game",
+      "percent": "74.4"
     },
     "ACH.WHITE_GEL": {
       "name": "White Out",
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/WHITE_GEL.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/WHITE_GEL_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "38.4"
     },
     "ACH.DEFIANT": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/DEFIANT.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/DEFIANT_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.6"
     },
     "ACH.WAKE_UP": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/WAKE_UP.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/WAKE_UP_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "65.1"
     },
     "ACH.NEW_BLOOD": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/NEW_BLOOD.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/NEW_BLOOD_BW.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "21.2"
     }
   },

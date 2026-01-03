@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/16b59812599a244c23b351a5a2148d8f484cce0f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "11.3"
     },
     "GettingDry_Shameless": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/1c4a4007a671c03de7880ac1b82107bdc76bfce4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "68.6"
     },
     "Item_beforeBatz": {
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/907bad0535dacef136b2b7af7f02c7f7c85df70d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
-      "percent": "15.5"
+      "group": "Base Game",
+      "percent": "15.6"
     },
     "BeforeVat_FishDeath": {
       "name": "Bream",
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e712c7a19a77ccec9c5d23261da41ccf41df7fe5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "21.7"
     },
     "LakePuzzle_FrogDeath": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/9e57048aa5f98c972a85210195e12a4c1d3ac94d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "55.0"
     },
     "Game_CutHand": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/7d328aa9774e40ef86f0ed84e8ac994897276726.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "65.9"
     },
     "Game_FullWalktrought": {
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/ec329bd929b767d77b88bd3034dd27f6574abd98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
-      "percent": "43.2"
+      "group": "Base Game",
+      "percent": "43.1"
     },
     "BeforeVat_OneTry": {
       "name": "Like shooting fish in a barrel",
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/5b1149327f9c5a43b18322ca156460eab05f7782.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
-      "percent": "18.6"
+      "group": "Base Game",
+      "percent": "18.7"
     },
     "Station_DestoyAllBox": {
       "name": "Meticulousness",
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/4dd7782232a4e3c863090cf0ff33e684a692b7f0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
-      "percent": "14.2"
+      "group": "Base Game",
+      "percent": "14.3"
     },
     "Dog_Pray": {
       "name": "Piety",
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/fba3bf86a0e63b684bbdf1dbea477a9a754dd682.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
-      "percent": "8.1"
+      "group": "Base Game",
+      "percent": "8.2"
     },
     "Cave_TakeItem": {
       "name": "Portaitissa",
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/f23f8e2dbaec4296de707637f719d703c02089e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "9.2"
     },
     "Village_ShakePiano": {
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/907bad0535dacef136b2b7af7f02c7f7c85df70d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
-      "percent": "54.9"
+      "group": "Base Game",
+      "percent": "54.8"
     },
     "Monastery_DropLadder": {
       "name": "Sisterly love",
@@ -105,7 +117,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/fadd543937724467b4707a3ece2d0eee81e43090.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
-      "percent": "32.9"
+      "group": "Base Game",
+      "percent": "33.0"
     },
     "Pray_forDying": {
       "name": "Tribute to the deceased",
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/8135fc73c57aa110c119ba5018655d30f8ea96a5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "17.8"
     },
     "Cave_OnePray": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/fcfe5779e4880f8792049346a637d64624dffe89.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "8.2"
     },
     "Village_Sinking": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/88ca84269bed7bee24e8b10b2efdd7b352eadc34.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "10.4"
     }
   },

@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/742df5920ad6e9a34733bb396566fca50b89a7a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "64.8"
+      "group": "Base Game",
+      "percent": "64.7"
     },
     "MDL_A_REAL_GENTLEMAN": {
       "name": "A Real Gentleman",
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/245a4188cb0a023709c895bbfc3f8c9ec4b7e7d3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "15.7"
     },
     "MDL_DLC_JA_ARCTIC_GRAVE": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4b2b8a3503a935d75414a58b626c337db17645b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "4.6"
     },
     "MDL_DLC_RTR_ARMAMENT_KING": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/27f86177cb3321689142d2527a0c12d0d80be0bb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Jimmy's Vendetta DLC",
       "percent": "3.4"
     },
     "MDL_BACK_IN_BUSSINESS": {
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/b4e8720b1b3c7474744028140e553f49457b8772.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "78.3"
+      "group": "Base Game",
+      "percent": "78.2"
     },
     "MDL_BIG_BROTHER": {
       "name": "Big Brother",
@@ -49,7 +54,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/f4c88321ed063d9ce9466cb9c57acd9a22831625.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "86.2"
+      "group": "Base Game",
+      "percent": "86.1"
     },
     "MDL_CARD_SHARP": {
       "name": "Card Sharp",
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/5a803ee08b5161d35d79367d14629f87c8f9c4e5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.9"
     },
     "MDL_DLC_RTR_CARNAPPER": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/7fb78ac1d6ca891d9cd350f965b0f07f137e1cb0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Jimmy's Vendetta DLC",
       "percent": "5.4"
     },
     "MDL_CHASING_THE_DRAGON": {
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/fb917a1aee5b55a8f6ee15ce262d56f89f695f3a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "54.2"
+      "group": "Base Game",
+      "percent": "54.1"
     },
     "MDL_CHECKING_OUT": {
       "name": "Checking Out",
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4208d8023096d2d699ba8e09a6179fb47fc2f7b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "56.8"
+      "group": "Base Game",
+      "percent": "56.7"
     },
     "MDL_CHOP_CHOP!": {
       "name": "Chop Chop!",
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/626715e0c3f62e92301751ecaf1b458020549594.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "54.1"
+      "group": "Base Game",
+      "percent": "54.0"
     },
     "MDL_COLLECTORS_ITEM": {
       "name": "Collector's Item",
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/addd7a4f644b091356977834a0492df00c0eb6f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "71.5"
+      "group": "Base Game",
+      "percent": "71.4"
     },
     "MDL_CRUISE_CONTROL": {
       "name": "Cruise Control",
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/2e795dcbb2f1de68d4953496e5b5a6451dba067e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.9"
     },
     "MDL_DLC_JA_DOCKYARD_DISCORD": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/f4cbab3b890ad7fc0457861263568786245153a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "8.1"
     },
     "MDL_DREAM_HANDLING": {
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/7dc68098fc89b5fd24b374a70566407eb241e0fa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "41.1"
+      "group": "Base Game",
+      "percent": "41.0"
     },
     "MDL_DLC_JA_DRIFTIN_DADDY_O": {
       "name": "Driftin' Daddy-O",
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/0b3929046b85b4f2405f783a82de4ddb8191d77c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "2.8"
     },
     "MDL_END_OF_THE_RAINBOW": {
@@ -137,7 +153,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/9929835dc475cdf108978fa6ae76a8a6a886dac8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "47.6"
+      "group": "Base Game",
+      "percent": "47.5"
     },
     "MDL_DLC_RTR_EXPLORER": {
       "name": "Explorer",
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/990fb81c231f7e3ea636f5038c73a84b46ed06e6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Jimmy's Vendetta DLC",
       "percent": "2.4"
     },
     "MDL_EXPORTER": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/68c77a5f41f37bbcd34fd0eb0dfc8219e97776b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.3"
     },
     "MDL_DLC_RTR_FASTER_THAN_LIGHT": {
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/fcc91530473777f44f833035285a1b1c90f86759.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "6.6"
+      "group": "Mafia II - Jimmy's Vendetta DLC",
+      "percent": "6.5"
     },
     "MDL_FINISH_HIM": {
       "name": "Finish Him",
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/31c48ce38da82da5a2e52108290ff93381706d99.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "48.7"
+      "group": "Base Game",
+      "percent": "48.6"
     },
     "MDL_DLC_RTR_FIREWORKER": {
       "name": "Firebug",
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/422817b326900771f0c16f48aa13e942d974b53f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Jimmy's Vendetta DLC",
       "percent": "3.7"
     },
     "MDL_DLC_RTR_FIRST_STEP": {
@@ -185,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/ded7234aad3b694b817d1ac0652ad8565fb5a0e1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "14.0"
+      "group": "Mafia II - Jimmy's Vendetta DLC",
+      "percent": "13.9"
     },
     "MDL_DLC_JA_FIVE_FINGER_DISCOUNT": {
       "name": "Five Finger Discount",
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/c7101c0d93624b3f0922e5766f1bd8a8fa4b7489.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "6.5"
     },
     "MDL_AUTO_PILOT": {
@@ -201,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/492b02c40618cd9310d8d7583342d97eb7d38c4a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "63.2"
+      "group": "Base Game",
+      "percent": "63.1"
     },
     "MDL_GOOD_SPIRITS": {
       "name": "Good Spirits",
@@ -209,7 +234,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/237c91b42a2b6362785e5c4ac2358ae48a953f8e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "64.8"
+      "group": "Base Game",
+      "percent": "64.7"
     },
     "MDL_HAIRDRESSER": {
       "name": "Hairdresser",
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/feb45230a309ade1ee4c5fb214559cc0830e06d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "25.7"
     },
     "MDL_HARD_TO_KILL": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4df88cfda85f2b6e4cfcffb293469870ab305a71.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.7"
     },
     "MDL_HE_WHO_PAYS_THE_BARBER": {
@@ -233,7 +261,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/3a6cb48d8344d0157c47252821833ffdb005de98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "74.6"
+      "group": "Base Game",
+      "percent": "74.5"
     },
     "MDL_HEY_JOE": {
       "name": "Hey Joe",
@@ -241,7 +270,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/d739474233f1e5c0e449beb4fe203936c19f0985.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "57.1"
+      "group": "Base Game",
+      "percent": "56.9"
     },
     "MDL_HOME_SWEET_HOME": {
       "name": "Home Sweet Home",
@@ -249,7 +279,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/ad556bbbb69879665a39fb7e36366aa9a7d07519.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "77.2"
+      "group": "Base Game",
+      "percent": "77.1"
     },
     "MDL_DLC_JA_HYPERSONIC": {
       "name": "Hypersonic",
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/a29026b83ef6d2d630550d491cbe6c2a41bd52dc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "2.6"
     },
     "MDL_DLC_JA_JACK_OF_ALL_TRADES": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/9242d17d45195228f8fd4c9f0c9c411229d6977b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "2.5"
     },
     "MDL_DLC_JA_JACKED_JUMPER": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/404e9ccde457391d7fabe03d634ef5a9b86fb301.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "3.2"
     },
     "MDL_KNUCKLEHEAD": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/2ca50427bbf5855758e7ebe1e3edd8e85ca797d3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.9"
     },
     "MDL_LADIES_MAN": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/f555907575ce7128e1021287802d31a230468433.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.1"
     },
     "MDL_LAST_RESPECTS": {
@@ -297,7 +333,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/0b447ffab6df6a14787f299a25d3705fe91ad57c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "62.9"
+      "group": "Base Game",
+      "percent": "62.8"
     },
     "MDL_MADE_MAN": {
       "name": "Made Man",
@@ -305,7 +342,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/9c57b42bef79f20726994b26b5eb7509473019ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "36.3"
+      "group": "Base Game",
+      "percent": "36.2"
     },
     "MDL_MAIL_MAN": {
       "name": "Mail Man",
@@ -313,7 +351,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/b798e548e5a90a9966c2a14f07c4d4aaa45f54fe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "54.7"
+      "group": "Base Game",
+      "percent": "54.6"
     },
     "MDL_MAN_OF_HONOR": {
       "name": "Man of Honor",
@@ -321,7 +360,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/534f3b1cddf5eda00e5b55104f2604203ad98b5e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "58.9"
+      "group": "Base Game",
+      "percent": "58.7"
     },
     "MDL_DLC_RTR_MASSACRE": {
       "name": "Massacre",
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/6ffad1a33cf87cdd9da433f4553316b3bda50d9b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Jimmy's Vendetta DLC",
       "percent": "2.8"
     },
     "MDL_MEN_AT_WORK": {
@@ -337,7 +378,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/d5cd79f30a858cfffd69626975df4e8684afc4dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "49.5"
+      "group": "Base Game",
+      "percent": "49.4"
     },
     "MDL_DLC_RTR_MILLIONAIRE": {
       "name": "Millionaire",
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/14d373eff93e01dd1abbd163fea88b6eb8662204.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Jimmy's Vendetta DLC",
       "percent": "2.6"
     },
     "MDL_DLC_JA_MIND_THE_GOODS": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/27e08a3a9535dbe93cee7f0ff45540f55668eb57.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "6.1"
     },
     "MDL_NIGHT_SHIFT": {
@@ -361,7 +405,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/310ab1542a880795fbefbac4b94f929e8fd8d903.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "67.0"
+      "group": "Base Game",
+      "percent": "66.9"
     },
     "MDL_ONE_CAREFUL_OWNER": {
       "name": "One Careful Owner",
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/3619da4ea31868eec62d6e17284c032d3ccea4a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.6"
     },
     "MDL_OUR_GOOD_FRIEND": {
@@ -377,7 +423,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/0360b418f7a53eb466efbd9e0d4bdf2e8366c783.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "55.7"
+      "group": "Base Game",
+      "percent": "55.6"
     },
     "MDL_OUT_FOR_JUSTICE": {
       "name": "Out for Justice",
@@ -385,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/3cd457e9f89eed974233893134b9b4ccb4f98e68.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "52.1"
+      "group": "Base Game",
+      "percent": "52.0"
     },
     "MDL_PEDAL_TO_THE_METAL": {
       "name": "Pedal to the Metal",
@@ -393,7 +441,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/c37302f234050d43c97b0c3d3c78ad90f7f02245.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "18.9"
+      "group": "Base Game",
+      "percent": "18.8"
     },
     "MDL_PETROL_HEAD": {
       "name": "Petrol Head",
@@ -401,7 +450,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/22c087bcbc281611c15babdc07ac3d951bea70b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "14.1"
+      "group": "Base Game",
+      "percent": "14.0"
     },
     "MDL_PROPER_SCRAPPER": {
       "name": "Proper Scrapper",
@@ -409,7 +459,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/f643b3e1584e45e27f0353153c96b1a39c962c63.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "36.8"
+      "group": "Base Game",
+      "percent": "36.7"
     },
     "MDL_DLC_RTR_REVENGED": {
       "name": "Revenged",
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/480343f18075acc8a7932c0537ac0ffbadf08be1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Jimmy's Vendetta DLC",
       "percent": "5.1"
     },
     "MDL_DLC_JA_SAME_SHIRT_DIFFERENT_DAY": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/71c6ae776e1178e64e32821322fcd9ac1dfce6a6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "6.1"
     },
     "MDL_DLC_RTR_SHARP_SHOOTER": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/885aebb7bcfc521447d22d821c76a2a43e98018c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Jimmy's Vendetta DLC",
       "percent": "5.9"
     },
     "MDL_SHARP_SUITER": {
@@ -441,7 +495,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/7d838a758249aa4c7cea01b6e247c47758d85999.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "40.5"
+      "group": "Base Game",
+      "percent": "40.4"
     },
     "MDL_STUCK_UP": {
       "name": "Stuck Up",
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/16078c086155f71b56ee0ddb35f9b3e93addee1c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.9"
     },
     "MDL_THE_ENFORCER": {
@@ -457,7 +513,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/89473fcea7d2c3df4a3179e26e05f695fc72dff2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "70.4"
+      "group": "Base Game",
+      "percent": "70.3"
     },
     "MDL_THE_MAFIA_NEVER_FORGETS": {
       "name": "The Mafia Never Forgets",
@@ -465,7 +522,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/d41242d3a34c95b102e95a7426922d091f074e3d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "53.5"
+      "group": "Base Game",
+      "percent": "53.4"
     },
     "MDL_THE_PRICE_OF_OIL": {
       "name": "The Price of Oil",
@@ -473,7 +531,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/161390068a4a9506582ac2612c55023c95ddc69e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "69.4"
+      "group": "Base Game",
+      "percent": "69.3"
     },
     "MDL_THE_PROFESSIONAL": {
       "name": "The Professional",
@@ -481,7 +540,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/29373927fcad6250e51ba20d626c9d3e2ecd29ca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "19.8"
+      "group": "Base Game",
+      "percent": "19.7"
     },
     "MDL_THE_WILD_ONES": {
       "name": "The Wild Ones",
@@ -489,7 +549,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/73f3632543268be7f5e03816fabbbefdad4e526c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "61.1"
+      "group": "Base Game",
+      "percent": "60.9"
     },
     "MDL_TIME_WELL_SPENT": {
       "name": "Time Well Spent",
@@ -497,7 +558,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/0493c03090d07ebf9e436e0982ae5dc9605c9f55.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "64.2"
+      "group": "Base Game",
+      "percent": "64.0"
     },
     "MDL_TOUGH_NUT": {
       "name": "Tough Nut",
@@ -505,6 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/463965148a527dd306720dcce5ec26494ef72886.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.4"
     },
     "MDL_TUNED_RIDE": {
@@ -513,7 +576,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/57688a03d91c9eaf08c3c0aaa7cc001e87f9c416.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "70.6"
+      "group": "Base Game",
+      "percent": "70.4"
     },
     "MDL_VIVA_LA_RESISTANCE": {
       "name": "Viva la Resistenza!",
@@ -521,7 +585,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/64a4bcb3123c4b5771febff702252a86871e5ed3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "90.1"
+      "group": "Base Game",
+      "percent": "90.0"
     },
     "MDL_WAKE_UP_CALL": {
       "name": "Wake Up Call",
@@ -529,7 +594,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/98e4f387eb69f37efa03614b9ab78410a208121c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
-      "percent": "12.9"
+      "group": "Base Game",
+      "percent": "12.8"
     },
     "MDL_DLC_JA_WHAT_WITNESS": {
       "name": "What Witness?",
@@ -537,6 +603,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/637fbcf7f76ae3b8a979c8336d44b2680b3133cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
+      "group": "Mafia II - Joe's Adventures DLC",
       "percent": "14.0"
     }
   },
