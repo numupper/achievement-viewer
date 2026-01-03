@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/e6949f86af7af8b61086ec3c678556c24624b12e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.6"
     },
     "BEATBUTCHER": {
       "name": "Butcher",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/6db2374d3b5be14a769a6050de1974be1bfc7a69.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.5"
+      "percent": "74.6"
     },
     "COLLECTOR": {
       "name": "Collector",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/43e05e674c00b0cef82030bed681f12b86b25382.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "58.0"
     },
     "FINDCROWANDAHFIG": {
       "name": "Kärrhäxan Figurine",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/a0d828203700b42b43a00e2ca161fe6d35ee898f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "FINDNILSFIG": {
       "name": "King Nils Figurine",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/01d4cba1bf4fe551073e735ba41b868c190395d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.5"
     },
     "FINDNAECKENFIG": {
       "name": "Näcken Figurine",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/37a9534d02c808a2b933a10851472e68d7e63b37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "49.1"
     },
     "PROPERFUNERAL": {
       "name": "Proper burial",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/c871a1b1fce06d8636afd17fc2a57d7fd711357d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "IRONMAN": {
       "name": "Survivor",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/15687ba2e1550f68eab0974a211173a0d29c280a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.9"
     },
     "FINDTRICKSTERFIG": {
       "name": "Troll Figurine",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/ff146d6127e8c9e4b6d0d1c623001a991278c296.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "FINDTUVAFIG": {
       "name": "Tuva Figurine",

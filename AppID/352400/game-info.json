@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/82b282ec1dec25be081aac3ca03501af277623e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "COMPLETE_STORYEVENT19": {
       "name": "A New Alpha",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/6c14b4b6bd1f8ca722684ec9da2feed67ae76c98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "CUSTOMISE_CHARACTER": {
       "name": "All I Got Was This T-Shirt",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/354296b542163af547ccf2983852dc2c6816b4fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "BINGO_DINO_DNA": {
       "name": "Bingo! Dino DNA!",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/4f8e64ab8526e18c9e102a01340d04e828f89d3f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.8"
     },
     "BUILDING_BLOCKS_OF_LIFE": {
       "name": "Building Blocks Of Life",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/4b92d9b0df42f05cac46ae2e9755d33abeda3941.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "COMPLETE_STORYEVENT17": {
       "name": "Full Jurassic World Experience",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/eeb0f98b2dfbe28dec388287fed37c24bf31d64a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "COMPLETE_STORYEVENT15": {
       "name": "Going Home",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/393e66b119d3e67ae781f1016b5fba364339ff33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "HELLO_JOHN": {
       "name": "Hello John!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/db23e0b4cecc9b0be95052545dc1606ef6ccf650.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.2"
+      "percent": "68.3"
     },
     "COMPLETE_STORYEVENT13": {
       "name": "Is This How You Make Dinosaurs?",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/baedbac34cd2fea9e335985c176e6d9ef9a840df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "COMPLETE_STORYEVENT7": {
       "name": "Mommy's Very Angry",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d353195146b318c1985f646c7b8feab0e8bd865a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "NOT_MACHINE_COMPATIBLE": {
       "name": "Not Machine Compatible",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/9178524fb83ed31e25b0859d9939bc81c7aebde1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "COMPLETE_STORYEVENT3": {
       "name": "Objects In The Mirror",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/58cfcf175a88e7718fe0508d668204069ec82584.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "REMEMBER_TO_WASH_YOUR_HANDS": {
       "name": "Remember To Wash Your Hands",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/70253b59806b9350d40e8f0978f0d9efa8e3fee1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.2"
+      "percent": "66.3"
     },
     "SPARED_NO_EXPENSE": {
       "name": "Spared No Expense",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/3066d1674f98e7579bb53ab40a1db7b0bbea1829.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.2"
     },
     "COMPLETE_STORYEVENT2": {
       "name": "The Calm Before The Storm",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/3223a16903caba12ac9c2251f76f4d314e8d3591.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "64.0"
     },
     "THE_CONCEPT_OF_ATTRACTION": {
       "name": "The Concept Of Attraction",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/4ede25ad4a7d70e339cd63ed0336f8acb5e2cc8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "ALL_AMBER_BRICKS": {
       "name": "The Legacy of John Hammond",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d3bed4c17c9250bfc6a492e786bbcc2063174f89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "COMPLETE_STORYEVENT20": {
       "name": "We Need More Teeth",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/96af3af6a1806581a8c0aa56f14082d39c989a9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "OUR_FIRST_GENETICALLY_MODIFIED_HYBRID": {
       "name": "We Want To Be Thrilled",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/7b8c099c09a0268d3bdad7a2451ac870df5e4406.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "COMPLETE_STORYEVENT1": {
       "name": "Welcome To Jurassic Park",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/954406423bac4ccae8d122bf00ce88b51a01bd73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.6"
+      "percent": "80.7"
     },
     "NEW_DINOSAUR": {
       "name": "Went And Made A New Dinosaur",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/91925acbadbe0ba93a813c3789cbb205c1df5969.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "COMPLETE_STORYEVENT4": {
       "name": "We're Being Hunted",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/5c8bca1451c4ef5644c7a29c610f9ffab5c96327.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.6"
     },
     "ALL_MINIKITS_IN_LEVEL": {
       "name": "We're Out Of A Job…",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/8a0b8876f0885c9c0b670e2219abbd76832df8ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "HEAL_ALL_DINOSAURS": {
       "name": "What Lysine Contingency?",

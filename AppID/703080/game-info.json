@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/d2470107f6f8d42be27a8010d6a990b65fd5432f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.4"
     },
     "Campaign_AdoptStoryElephant": {
       "name": "An Elephant Never Forgets",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/30565d4b55266911a3bbce88f5809bb6c8b7c804.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.8"
     },
     "Animal_ManyBirth": {
       "name": "Baby Boom",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/38b01c9af76f0aa2a56ebc56c88fc63fcace29dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.8"
     },
     "Game_BarrierLength": {
       "name": "Barrier Builder",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/4aa8cc11d8c5fbcb1893cc7e132aa5c2715232c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "Campaign_AnyBronze": {
       "name": "Bronze Award",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/9ae82485d298f55e9ecd3e369f8f6deaba937e6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.2"
     },
     "Campaign_AllBronze": {
       "name": "Career Complete",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/b24cd46c8d297a3485a9616a86cb83a1c9606b51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "Animal_CircleOfLife": {
       "name": "Circle of Life",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/d76bc28c0d52dcb69394290ac6248e63c92a7883.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "Game_ManyUniqueEnrichments": {
       "name": "Enriched",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/f49c2a25c269617f6e62e8a0ae8ac0f9b8f8d044.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.7"
     },
     "Franchise_FirstFranchise": {
       "name": "Franchise Zoo",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/5706696465de3ea09cb16522e765255d4bfab4f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.7"
     },
     "Animal_Albino": {
       "name": "Ghost",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/95fde6ca906d49f2d57482cb9096c9fe526d9538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.2"
     },
     "Franchise_ManyFranchise": {
       "name": "Global Zoo",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/5996b1270acf66a344899611bffa261f3cd32794.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "Campaign_AnyGold": {
       "name": "Gold Award",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/ebe9c9bd28c4c4410b235801c1fdf27e524eae73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.6"
     },
     "Campaign_AllGold": {
       "name": "Gold Career",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/750c4a3c8362053a361d1950f57eb9aabe3b0214.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "Campaign_AllBronze_Hard": {
       "name": "Hard - Career Complete",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/52bd229637430547ce3112fd9ae70f7c33ed742e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.4"
     },
     "Franchise_Loans": {
       "name": "Loaner",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/e7db7e800a413b52681dd8f9285327f11c91a0c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "Animal_HighGenetic": {
       "name": "Natural Selection",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/eceba27a96b2707f0df178bafc1a88f0b94bc260.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "Animal_LionBearTigerPresent": {
       "name": "Oh My!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/36b4df36dae6231ac737392502a5d228861812a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "59.2"
     },
     "Franchise_AllContinent": {
       "name": "Planet Zoo",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/29ab10fa5f3cd86195ba304694c0ff4c80dfbaee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "Animal_ReleaseAny": {
       "name": "Say Goodbye",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/38e4e6c4f55962f333fe947c1500c4c256a7563a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.3"
+      "percent": "50.5"
     },
     "Campaign_AnySilver": {
       "name": "Silver Award",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/15ca828008705cc03f20b77dbab4887328544a52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.8"
     },
     "Campaign_AllSilver": {
       "name": "Silver Career",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/bbe85cedc888d28ad9d92f7f1aea1435df3070aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "Game_TrackLength": {
       "name": "Tour Guide",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/ec90c3d8b92143beb28a935aae70eb519825a4bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "Game_StaffMaxLevel": {
       "name": "Trainer",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/0a47401454761897bb46966aa77a062faabcca9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.3"
+      "percent": "79.2"
     },
     "Game_Startup": {
       "name": "Welcome to Planet Zoo",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/7de4921d37ab1016b826b98fce8c2ce54428e5d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.6"
+      "percent": "85.8"
     },
     "Animal_ManyHighWelfare": {
       "name": "Wow, that's a lot!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/e839c14a49cea4421e50a6ac97ae28e61915d4f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "Game_ZoopediaComplete": {
       "name": "Zoologist",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/cd2e459e0571c90a6ebfbaa20a3cf06a2aacb34d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "20.0"
     }
   },
   "platform": null,

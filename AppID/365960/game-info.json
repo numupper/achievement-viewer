@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "100KilometersDrivenInRace": {
       "name": "100 kilometers driven in race",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.8"
     },
     "100KMHInPractice": {
       "name": "100 km/h in practice",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "150KMHInPractice": {
       "name": "150 km/h in practice",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.3"
+      "percent": "70.4"
     },
     "2000KilometersDrivenInPractice": {
       "name": "2000 kilometers driven in practice",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "2000KilometersDrivenInRace": {
       "name": "2000 kilometers driven in race",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365960/965eb5a04033bcb125911e5aa7476e06bcfa6e06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     }
   },
   "platform": null,
