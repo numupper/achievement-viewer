@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/5696c63851b3c8ae1070503aa5dd674c59b9f33d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.3"
+      "percent": "63.2"
     },
     "TK_ACH_27": {
       "name": "Elegance At Its Purest",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/3e105fbc82737831849d6fdd7a927ea9424988fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.6"
+      "percent": "75.5"
     },
     "TK_ACH_23": {
       "name": "Excellent",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/e695ddd5a2ad2eeb491c81323bca7ffc92e24c75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.7"
     },
     "TK_ACH_20": {
       "name": "Fear My Wrath",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/c6063ff132d297297cf23266214bf0e7947026be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "TK_ACH_43": {
       "name": "Please Don't Tell My Father",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/4e1190e6ea0eb6e3017a42384314b0223bc8178e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.1"
     },
     "TK_ACH_28": {
       "name": "Power Is Everything!",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/c8c5dfd5968206daf05cf3de46502d4f93dceb3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.1"
+      "percent": "75.0"
     },
     "TK_ACH_34": {
       "name": "Roar! (Nice Moves!)",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/04e202e099be0bc85e8037481050dd614409a4b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "TK_ACH_19": {
       "name": "The Prosperous Inevitably Decline",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/55a905f37a6603b80ed8345cf6c6e3fa5e4eec63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.1"
     }
   },
   "platform": null,
