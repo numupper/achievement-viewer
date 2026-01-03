@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/868fa3bd637560556e2e12a59f4bfeb57b580620.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "ACHIEVEMENT_DERAILED": {
       "name": "Derailed",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/cd0f9c136a781ac8f8eaeaf42f7d6aef4ce39cc2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "ACHIEVEMENT_DIGITALDOJO": {
       "name": "Digital Dojo",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/64c0c1a243a755b83b1afa3b46969b6bfc03969c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "ACHIEVEMENT_ITSOVERFORREAL": {
       "name": "It's Over, For Real!",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/bdef7ee1d5f0048e61a29f2c624b2c5533b7c224.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.7"
     },
     "CompleteAct1": {
       "name": "A Once Black Sky",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/bd87e391e963e562ca12f7864a69a033643cea4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "EquipFirstTrinket": {
       "name": "Evening the Odds",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/26f08fe37b91ed39728a81e0e816e8d5a31ae3b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "UnlockAllSpiritPips": {
       "name": "Soulful",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/b2cdf0beacf59b0a4010232fe01937454a50027b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.5"
     },
     "CollectAllTrinkets": {
       "name": "The Art of Trinketry",
