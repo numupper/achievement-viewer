@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/70022bdb7a704c54aca29a773d18e3696d289288.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "Trophy034": {
       "name": "Completed a Long Glide",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2dceef597dc30f6e38688aebeb510f764ca1c72b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.7"
     },
     "Trophy063": {
       "name": "Discovered the Ascension",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/23cc82255584fbdff7e079e64d62b6f8170f5195.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.7"
     },
     "Trophy003": {
       "name": "Reached Level 50",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/d1eb47d2ef8b06017def6be750efef20cfeb39af.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     },
     "Trophy011": {
       "name": "Recovered Beta",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/a0d942a5eccf0b41b7713fb91cb2a2032b2ccdf9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.4"
     },
     "Trophy075": {
       "name": "Recovered the Delvers' Trove",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/e29d6bf0235e6a5b218491bda69821b5e9f6c6ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "Trophy069": {
       "name": "Used Brimshine",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/3c57b131bd266caef176e96deecaeec17d4277bf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     }
   },
   "platform": null,

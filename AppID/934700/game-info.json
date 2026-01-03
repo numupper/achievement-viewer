@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4fe970b6ef78f96bf17e1187e91b497d734765fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.6"
     },
     "ach_fetch_me_a_tisha": {
       "name": "Can't Handle the Truth",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a4d9951b0fc2c2056c6447b280e139ecbba14300.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.3"
     },
     "ach_impressive_aim": {
       "name": "Donk!",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/f7f2f7780596879c67db0cb7e3efcfa5bc499117.jpg",
       "hidden": true,
       "group": "Dead Island 2 - SoLA",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "ach_im_doing_my_part": {
       "name": "Festival Clean Up Simulator",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d00b8b7cf5f920d2ff51135e75f4355de8ddd5d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.0"
     },
     "ach_ammo_ran": {
       "name": "Git Gutte!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/11b6acf405470f6f5b981033f6c3859ac817097e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "ach_the_vcla": {
       "name": "Go, Bobcats!",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/cff78ee88e9b1d6ec52ebc6e31559c796f987ac6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "ach_complete_ngplus": {
       "name": "Groundhog Slay",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/9b89e2d28cf9309c59f44eb50e8afeaaec6093bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.5"
     },
     "ach_hotel_california": {
       "name": "Hotel California",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d0b5c50d44c3fff83a284d6db7dab6be2d21700f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "ach_big_name_in_town": {
       "name": "LA Influential",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/713a73608fcbbf7bfcf2927fc6246689691fc414.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "ach_ayeaye_captain_vixen": {
       "name": "Make it So",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b500025233cddf06631e24407cc92dcc62b1954f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "ach_brink_of_success": {
       "name": "One of Us",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b589648b3096ad2601d0b29a9ea8f492bbc48c68.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.2"
     },
     "ach_pork_chops": {
       "name": "Pork Chopped",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/27999e830ecf109a1d731a7250785099ee5ef30d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "ach_secrets_of_la": {
       "name": "Sharpest Tool in the Box",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/50aa8f53ef0c98ecea307e11c87f48975c65bdb5.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.2"
     },
     "ach_doom_buddies": {
       "name": "Slayer Squad",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a807c8ac8ccb31ea88a1e364c7b1d11c9a384288.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "ach_investigator": {
       "name": "Sole Survivor",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4d789e0223c5a91ddc548ee21437ee12ed6f9a0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "ach_survival_expert": {
       "name": "Survival Skills",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/097a611924ff7746eb444ab69c5a098dbe8fd0f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "ach_strike": {
       "name": "The Direct Approach",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b01a91e8f132aea5e24061b7defc3065894ff3b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "ach_whoops_did_i_do_that": {
       "name": "Three's a Crowd",
