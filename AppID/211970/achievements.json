@@ -1,8 +1,4 @@
 {
-  "Game_Complete": {
-    "earned": true,
-    "earned_time": ""
-  },
   "A_Good_Foundation": {
     "earned": true,
     "earned_time": ""
@@ -184,3 +180,4 @@
     "earned_time": ""
   }
 }
+
