@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/d3fd39cd6d573ed5d9e102fcf042c00e003c462d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.0"
+      "percent": "73.1"
     },
     "PFA_18": {
       "name": "A Sallow Grave",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/83e680e6b560cd8201cced524b5d0d7538e3d812.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "PFA_30": {
       "name": "A Talent for Spending",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/3ede5cd4d4e8e217a239bbd4ce0078862730597f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "PFA_17": {
       "name": "Beast Friends",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/458644244e2f0ebe5289599279e5c91106f7afba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "PFA_39": {
       "name": "Coasting Along",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/5f09e979c3509ad591f73fb246907e8ad98f03f1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "PFA_22": {
       "name": "Collector's Edition",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/e466750e42bc7c80d28db7b64c434f25b71182db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.6"
+      "percent": "85.7"
     },
     "PFA_19": {
       "name": "Flight the Good Flight",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/9f60666a9aef851637ef66f27f85e1c71cf8a8e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "PFA_34": {
       "name": "Floo Around the World",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/80c6a1e8bb97d58cf52afe9f22ce0a27fdbcce67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "PFA_35": {
       "name": "Followed the Butterflies",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/22b6e534eac3b5e9363fb56e137245c5abe3657a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "PFA_27": {
       "name": "Going Through the Potions",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/efd0279b97c404541e0504fdba87cda1ad629534.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.7"
     },
     "PFA_37": {
       "name": "Merlin's Beard!",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/ff9a9dc74765c54f0d6b0763b425204ead97d9a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "PFA_28": {
       "name": "Put Down Roots",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/1a65e332e7281ce256f7cab7021df7d3fdf62802.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "PFA_32": {
       "name": "Room with a View",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/9ec1680a9f088cc1abc909b94ced35699a9aa1b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "PFA_31": {
       "name": "Savvy Spender",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/47adf0df129b5f89653bb0dca1e20b02128ba988.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.6"
     },
     "PFA_3": {
       "name": "The Auror's Apprentice",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/996278f7c3712c1f18efd791438aad166d5cceb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "PFA_15": {
       "name": "The Avenging Gazelle",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/ec2dd8ba97d767d4a3d7b4a2e7b9bdef7f13e30f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "PFA_20": {
       "name": "The Good Samaritan",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/093c6bdc6a16e489e1d5a95737583d018337443d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "PFA_12": {
       "name": "The Hallowed Hero",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/a9e677e3397d09516932619122e659840367faed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "32.1"
     },
     "PFA_13": {
       "name": "The Hero of Hogwarts",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/c5bf1b58a51af945e78369ac7bba31db34f7a069.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "PFA_11": {
       "name": "The One Who Mastered Memories",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/b6bebb6a91fd98380f7b301a4b7289236736128c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "PFA_25": {
       "name": "The Root of the Problem",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/afb059ceefcd01177f64f95755dcf188dddecce7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "PFA_1": {
       "name": "The Sort Who Makes an Entrance",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/a7b413303a36f40109f1499ff1ac1cbc8d887663.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "PFA_29": {
       "name": "Third Time's a Charm",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/70b3c64e9777c9e92c2f142c588fbb06f0866047.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.4"
+      "percent": "78.5"
     }
   },
   "platform": null,

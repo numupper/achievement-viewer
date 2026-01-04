@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/02b02c7ac6c14b742aef4a3cbf43594973b3a36b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.6"
+      "percent": "90.7"
     },
     "ACHIEVEMENT_46": {
       "name": "Flying",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/1c0d8e592116430df1c3fa0a5e2ce7c3b222e7b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "ACHIEVEMENT_14": {
       "name": "Journeyman Builder",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/efebd8f16c8f2d74ceeaf272a4ce014b15725391.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "ACHIEVEMENT_7": {
       "name": "Race Engineer",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/0898a75bbf26b5ddd067dd607ded64c9d5b8d1f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "NEW_ACHIEVEMENT_18_0": {
       "name": "Ad Victoriam",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/44ecc85a2159e53c321454c646df6cd79975cf9b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "36.8"
     },
     "NEW_ACHIEVEMENT_30_0": {
       "name": "Armed and Dangerous",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/1bc7c2fe6936667eaea5e6e7f50c5618fd2cfc1a.jpg",
       "hidden": true,
       "group": "Fallout 4 Far Harbor",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "NEW_ACHIEVEMENT_47_0": {
       "name": "Commonwealth Citizen",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/7840bbebb4db20aae77e38ebf93a3997f81c67cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.3"
     },
     "NEW_ACHIEVEMENT_23_0": {
       "name": "Community Organizer",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/e47baf5916e75987f66e072749c56c0a4876b5ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.7"
     },
     "NEW_ACHIEVEMENT_57_0": {
       "name": "Instigator",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/11b9d36c0e5826909c115c29c4edc6f1f8c7235f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.0"
     },
     "NEW_ACHIEVEMENT_68_0": {
       "name": "Just Add Saltwater",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/52bdf190e3c09b2f7e3b227360a6ba2fe8efa033.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "NEW_ACHIEVEMENT_53_0": {
       "name": "Restoring Order",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/82e674299823020337e4876afee7e11a3e86d223.jpg",
       "hidden": true,
       "group": "Fallout 4 - Automatron",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "NEW_ACHIEVEMENT_8_0": {
       "name": "The Nuclear Option",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/ec2a3ad555525c36b15841ca5ce9a70ab3721cde.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "NEW_ACHIEVEMENT_58_0": {
       "name": "Trapper",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/1f058e80bc26333014f072f4f26070d7b53f128b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "NEW_ACHIEVEMENT_2_0": {
       "name": "When Freedom Calls",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/e941871e895a0c4762f44ca6ab636505724f73f1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "65.8"
     },
     "NEW_ACHIEVEMENT_60_0": {
       "name": "Where You Belong",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/6ea4bacb572bbdbe49ebbf91b14b4b65d38a92fe.jpg",
       "hidden": true,
       "group": "Fallout 4 Far Harbor",
-      "percent": "12.4"
+      "percent": "12.3"
     }
   },
   "platform": null,

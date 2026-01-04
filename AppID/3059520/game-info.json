@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/fe6935581648194b25ba3b77052cef9af19350e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.4"
     },
     "ach_newcomer": {
       "name": "Newcomer",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/7c7bebed7392f4d743755ac9fd47da23f60fbd96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.9"
+      "percent": "46.8"
     },
     "ach_one_for_the_team": {
       "name": "One For The Team",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/6b48820b5fb905e2369e4e393643e645ab0ce90a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "ach_online_ovation": {
       "name": "Online Ovation",
