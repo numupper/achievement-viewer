@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/92b5ccb8ad27090945d51ee7387a26ef0b092492.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "two_thirds_purple": {
       "name": "Community Outreach",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "bfhj_complete_mission_2_collectible": {
       "name": "Face Off",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/22f9ee1639e3ab89e4fd05446c5689100cd70acc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "car_jacked_by_a_ped": {
       "name": "Hijacked",

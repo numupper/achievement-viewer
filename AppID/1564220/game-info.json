@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/20e3894f5bf319cfacd11457d8e2005ace441b78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.1"
     },
     "ACH_Finale": {
       "name": "Finale",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/9565ce2d0c1bb70bbb287af00f178a1ca492093f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.4"
     },
     "ACH_S8AllGold": {
       "name": "Gold Trophy",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/3aa73a46a899741df12fc01f75ceead9b2c2786f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "ACH_S8AllMasterRoom": {
       "name": "Hopefully that's all of them!",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2256ce7b293f24366f924e3ce3b003cc2b99bee0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "ACH_S8AllCubes": {
       "name": "Master Of The Collectables",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2ccbb1f77c9ea04e44b6e9e364a0b0d6b3755c40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "ACH_S8MaxPoints": {
       "name": "Maxed Out",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/cfd9d72915dfcd5f2d6a152b7b5044a2c55f2a71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "ACH_Sector1": {
       "name": "Sector 1",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/dc45907ea3a75e88eff3cdb8f55dd9b963332b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.5"
+      "percent": "80.6"
     },
     "ACH_Sector3": {
       "name": "Sector 3",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/ede655f7f6b404464c548aefb6eba56fa266a827.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.3"
+      "percent": "71.4"
     },
     "ACH_Sector4": {
       "name": "Sector 4",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/f17de583bb9feb1d59c06d0529b721a1741681e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.5"
     },
     "ACH_Sector5": {
       "name": "Sector 5",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/7bb3006fe89ba6962143156c5dc11b3a0d5d5678.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "ACH_Sector6": {
       "name": "Sector 6",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/40b91a29e635454d4f9bc51f1b998013ddcf3c9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "ACH_Sector7": {
       "name": "Sector 7",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/93366cb635628e72a685c51164bd4cead7433600.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "ACH_CrushEnemy": {
       "name": "Squished",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/5b0feb4a0044733aacaff384851b7636f1aa4bdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.6"
     },
     "ACH_CollectAll": {
       "name": "The Collector",

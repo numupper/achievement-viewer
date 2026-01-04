@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6fc264d045fa3d5fcf523ea67d1d5696ec1fe2fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.2"
+      "percent": "68.3"
     },
     "LIGHTNING_ROD": {
       "name": "Lightning Rod ",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/7740afe2122c8e5bc22766faa7977fcce2b85588.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "THE_RITUAL": {
       "name": "The Ritual",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/c9aa1599dffbf5ad3a23d3fa3753b98a544a9943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "TOOLS_OF_CONSECRATION": {
       "name": "Tools of Consecration",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/68746103539a618ebf896e5a5aa9d363485460a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "YOU_HAVE_CHOSEN_WISELY": {
       "name": "You have chosen... Wisely",
