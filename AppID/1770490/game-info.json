@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/97eec619c26c3ac7490770fc3885238ea8b8153c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     },
     "ACHIEVEMENT_14": {
       "name": "Collector",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a5be3425a8a4849995eb06b4a00d43c8d7f6e47b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "ACHIEVEMENT_01": {
       "name": "First Victory",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/16d672a826d8255f877ef4646fe9d7b29ffcd60f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.1"
+      "percent": "89.0"
     },
     "ACHIEVEMENT_13": {
       "name": "Hero's journey",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ad2b1a9ced4113a8043d5d1c6274f26cfbe5230b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACHIEVEMENT_09": {
       "name": "Master",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/f2862499ef05f46fac87174c86fa27f9e9bf589e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "ACHIEVEMENT_12": {
       "name": "Unbeatable",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/5d8563e3c12df28ca971e9834d78648b1757cdae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.2"
     },
     "ACHIEVEMENT_05": {
       "name": "Win with Friends",

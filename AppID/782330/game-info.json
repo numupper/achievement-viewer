@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/782330/4de6817eb260872e3cfd44cd1e6dbfbd12e02ae8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.5"
+      "percent": "77.4"
     },
     "NEW_ACHIEVEMENT_1_0": {
       "name": "Doomsday",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/782330/1734d47b9f5a2059c4adc67efae1f894745cc31e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "NEW_ACHIEVEMENT_1_19": {
       "name": "Playset Sold Separately",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/782330/8e33187e69e539d0be4f3c1d9144e1d47fd8831f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.1"
     },
     "NEW_ACHIEVEMENT_2_2": {
       "name": "To Take a Life Sphere",

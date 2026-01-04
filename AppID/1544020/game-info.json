@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/e017df6bcdf5015461474436170014e8e7ce3145.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "86.9"
+      "percent": "87.0"
     },
     "PERFECTDODGEMULTIPLE": {
       "name": "Float Like A Butterfly",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/5db22248d8af5624f613a634d6e829983759af4e.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Contagion Bundle",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "FIND_ALL_BIOS": {
       "name": "Grim Reaper",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/9bba66876b38f643fa4121cec3b39ae07c5079fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "STORY_HANGAR": {
       "name": "In the Pipe, Five by Five",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/497937b143eb65291d0c339b7c525ee01affb06a.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "KILL_BIOBOT": {
       "name": "Keep Fighting",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/d4216490a01b9a29cc55b55e47651a830d915444.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "PERFECT_DODGE_GRUNT": {
       "name": "The Commonality",

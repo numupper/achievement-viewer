@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4af6d18bc8a9f6bb632c6a42450017e5e5f08e2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "TROPHY_NAME_HEAD_CHAIN": {
       "name": "10 Up, 10 Down",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a4d02d01f2f27d842f744401835b4ac25fc51b5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.6"
     },
     "TROPHY_NAME_FINISH_UHARD": {
       "name": "Charted! - Crushing",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/3761ae3819b6671f765501be2d81bc52ba606f35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.3"
     },
     "TROPHY_NAME_FINISH_HARD": {
       "name": "Charted! - Hard",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8a0b66fa4efb358f0c73af1180731ca9a0226f4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "TROPHY_NAME_TLL_PLATINUM": {
       "name": "Don't Ruin The Moment",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4e5fd129fb6efcd1ed8ef6e4ed6fbcaf8a312d65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "TROPHY_NAME_FAST_LOCKPICK": {
       "name": "Fingersmith",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/81714899fb72fe521eb92afe0a4863457824cde9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "TROPHY_NAME_TREASURE_1": {
       "name": "First Treasure",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/2cf3befa44da3f2ce6b12d85db7bf80176a1dced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "TROPHY_NAME_PUZZLE_NO_DAMAGE": {
       "name": "Flawless Gauntlet",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/615592a7a276d0979f3f39c4aefdcee934ac8177.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.3"
     },
     "TROPHY_NAME_OPTIONAL_CONVO": {
       "name": "Getting to Know You",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/f543b2ffbfab1a851ce2b9d26bdbf635a30a00e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "TROPHY_NAME_TREASURE_HUNTER": {
       "name": "Hardcore Treasure Hunter",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/6e24c19d7186c5cd0759ea3052160dd837bdc421.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "TROPHY_NAME_FROM_THE_HIP": {
       "name": "Itchy Trigger Finger",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/d19a75b3a69c27d83fec1ab04f25f91d8b6b9c28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "TROPHY_NAME_JOURNAL_NOTE_ALL": {
       "name": "Lost History",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/159819d10d605124df3a5f8445b071f35386e9d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "TROPHY_NAME_SWORD_FIGHT": {
       "name": "Swordmaster",
