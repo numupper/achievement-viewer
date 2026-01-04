@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/304430/a47e74dd7930c0c3c5e758afb9a41d238ad0a9a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "ACHIEVEMENT_5": {
       "name": "Obscure Foundations",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/304430/c6b29b1a3b9e952728249b03995b4d8c1ac1b71f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "ACHIEVEMENT_13": {
       "name": "Office Space",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/304430/625a88ebc400149c64dc7d4e0e458a596dc0fdc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "ACHIEVEMENT_8": {
       "name": "Pack Mentality",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/304430/b4722b6dd427a3ffa46e19ce3e48b1a52372a0c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     }
   },
   "platform": null,

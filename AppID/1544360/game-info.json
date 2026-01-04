@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/0bfe3229d05c1dee643e10d55ba590d39474db51.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "ACH_ARTHOUSE_01": {
       "name": "Backpacker",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/3f3926393f280acd0d11a50973b691e3322e9cee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "84.0"
+      "percent": "84.1"
     },
     "ACH_ARTHOUSE_14": {
       "name": "Board maker",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/b0e0a5c5f24d0b831baac3d7b14fd35598ee4343.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "4.5"
+      "percent": "4.3"
     },
     "ACH_FTUE": {
       "name": "Builder",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/2a1de2b5b3e4fbb78cd8f535b8d67134c9b65595.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "94.4"
+      "percent": "94.5"
     },
     "ACH_ARTHOUSE_12": {
       "name": "Builder's Journey",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/fd39f9ddc72dce6e510bfbc4cab9c8c77ec77ea4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "ACH_ARTHOUSE_04": {
       "name": "Challenger",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/771ee0224eae25ae45f0e1a6f1fd020dcae9642b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "ACH_ARTHOUSE_08": {
       "name": "Creator",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/ee22c75dcb249ab6e948078a214f13a7d9b592a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "49.0"
     },
     "ACH_ARTHOUSE_09": {
       "name": "Elevator",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/9495130a5bfceb01118de84e180844172453e095.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.4"
     },
     "ACH_ARTHOUSE_20": {
       "name": "Illuminator",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/c246731e7b07cf96172ddd20031327c679ff3635.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "ACH_ARTHOUSE_06": {
       "name": "Infiltrator",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/7b83bfc20e418557cfde6a46c928b1c25615c33a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "ACH_ARTHOUSE_19": {
       "name": "Inspector",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/8e1306e1fa86e7f0f47a8fadcec7528fa7483443.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "ACH_ARTHOUSE_11": {
       "name": "Inventor",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/1ac902cade69f44d3677b8738f7709ecf4d00be0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "ACH_ARTHOUSE_05": {
       "name": "Loner",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/d7de4e304d8bdc464d55b7148496083fe6dc7dd3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.7"
     },
     "ACH_ARTHOUSE_17": {
       "name": "Mass Producer",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/ab8615ca6063a3bdd1003558d4cf5946af773a7e.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "ACH_ARTHOUSE_02": {
       "name": "Pathfinder",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/5280b015027597a5d251b82e1fbe779a0add5b83.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "61.0"
     },
     "ACH_ARTHOUSE_16": {
       "name": "Recycler",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/3f406e96cb081e72552944856c05b17eaf8e828e.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "ACH_ARTHOUSE_18": {
       "name": "Rescuer",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/e20bf2a45cdc7c3cca8ca3dd2751e014b43d65be.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.5"
+      "percent": "2.4"
     },
     "ACH_ARTHOUSE_21": {
       "name": "Saviour",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/a3f56f220b103d16ee352514e3c064312a38f801.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.5"
+      "percent": "2.4"
     },
     "ACH_ARTHOUSE_10": {
       "name": "Separator",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/8ed69b2995a4006aced7a5abb10b8704fb95ba9a.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "ACH_ARTHOUSE_07": {
       "name": "Together",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/27e3242eb580be553c2217dad9d77645305e02ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     }
   },
   "platform": null,

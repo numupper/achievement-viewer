@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.8"
+      "percent": "74.9"
     },
     "Conduit": {
       "name": "Conduit",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.7"
+      "percent": "78.8"
     },
     "CuttheCrap": {
       "name": "Cut the Crap",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "DarkWater": {
       "name": "Dark Water",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "DevouringDarkness": {
       "name": "Devouring Darkness",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "DualDetective": {
       "name": "Dual Detective",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.2"
     },
     "EdgeofSanity": {
       "name": "Edge of Sanity",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.5"
+      "percent": "64.6"
     },
     "FamishedFeline": {
       "name": "Famished Feline",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.7"
     },
     "GuidingLight": {
       "name": "Guiding Light",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "IKnowthePiecesFit": {
       "name": "I Know the Pieces Fit",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/7455ab21a45a178226cdb9d11e6f62ebe9df031d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "LeftBehind": {
       "name": "Left Behind",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.3"
+      "percent": "63.4"
     },
     "MirrorMirrorontheWall": {
       "name": "Mirror, Mirror on the Wall",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "RunningSim": {
       "name": "Running Sim",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "SpiritWalking": {
       "name": "Spirit Walking",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.6"
+      "percent": "71.7"
     },
     "TheChildeater": {
       "name": "The Childeater",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.0"
+      "percent": "85.1"
     },
     "ThePact": {
       "name": "The Pact",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "Thunderstruck": {
       "name": "Thunderstruck",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "Unrepentant": {
       "name": "Unrepentant",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.8"
     }
   },
   "platform": null,
