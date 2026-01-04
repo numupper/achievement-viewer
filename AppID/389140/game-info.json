@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389140/12052ccfa19dcb87015b7ca8c0d605a16a93123a.jpg",
       "hidden": false,
       "group": "Horizon Chase Turbo - Senna Forever",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "OutOfFuelWinRace": {
       "name": "Comeback",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389140/786c40288f39e8f3ac2e120edffc1c9df69efe7c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "FinishWorldTour": {
       "name": "Round the Globe",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389140/c46398adf2dc987dfb01caa3e995211d47617ac9.jpg",
       "hidden": false,
       "group": "Horizon Chase Turbo - Senna Forever",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "DriveAllCars": {
       "name": "Transporter",
