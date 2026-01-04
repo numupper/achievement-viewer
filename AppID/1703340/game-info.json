@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/3b3bf4913081e9c42bca02ed3cb0192fb5156c1a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "beatgame": {
       "name": "Beat the game",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/4c1a30e691df953cabb00ca410f63d31f4869faf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "93.9"
+      "percent": "93.8"
     },
     "settingsworldchamp": {
       "name": "Settings World Champion",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/a933c619968cab388c0aa6d3f296b1f7f6ccc578.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "welcomeback": {
       "name": "Welcome back!",

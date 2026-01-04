@@ -1,0 +1,55 @@
+{
+  "appid": "1421230",
+  "name": "Syberia: The World Before - Prologue",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1421230/header.jpg?t=1645482640",
+  "achievements": {
+    "Steam_Trophy_ConcreteDrawing": {
+      "name": "A mark for posterity",
+      "description": "Draw for the bookseller",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/2c0b579191349d3bd647bbef6123551eafe8e62e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/658c5463c063c7879c8277aa5632c316a4e6932e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "Steam_Trophy_ConcertVirtuoso": {
+      "name": "Budding virtuoso",
+      "description": "Take the music exam",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/70395739895d39e35270c5517facfe05a321907b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/12585e9a4ad6e79fd4dea0925158240508ff7c10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.4"
+    },
+    "Steam_Trophy_MusicBox": {
+      "name": "Childhood memory",
+      "description": "Listen to the music box's song",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/0bb394f9c80c9e9dc0fa40aa661fc98a26e0f0d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/c3beb53fc6b43d9decea31acaa7fb8d5af045876.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.2"
+    },
+    "Steam_Trophy_OfficerHead": {
+      "name": "The train's Head Officer",
+      "description": "Make the dead officer lose his head",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/8b38d71b7d31646139658cdf3747f827a67b5273.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/1e4c7de1121d68237bfc62162ef67c468b578954.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "Steam_Trophy_EndPrologue": {
+      "name": "To be continued…",
+      "description": "Finish the prologue",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/b8ef535a7acddb3f73cbab9b8ddde1a5b7d2c3ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1421230/b61d9c39ffe7205a254fac9e374166e4c45415bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}
