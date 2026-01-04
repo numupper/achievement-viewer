@@ -1,36 +1,36 @@
 [
   {
-    "apiname": "ach_entered_mr",
+    "apiname": "ACH_ENTERED_MR",
     "achieved": 1,
     "unlocktime": 1708096810
   },
   {
-    "apiname": "ach_journal_full",
+    "apiname": "ACH_JOURNAL_FULL",
     "achieved": 1,
     "unlocktime": 1708100054
   },
   {
-    "apiname": "ach_all_objects",
+    "apiname": "ACH_ALL_OBJECTS",
     "achieved": 1,
     "unlocktime": 1708100197
   },
   {
-    "apiname": "ach_password_laptop",
+    "apiname": "ACH_PASSWORD_LAPTOP",
     "achieved": 1,
     "unlocktime": 1708099375
   },
   {
-    "apiname": "ach_cat_gif",
+    "apiname": "ACH_CAT_GIF",
     "achieved": 1,
     "unlocktime": 1708099399
   },
   {
-    "apiname": "ach_code_case",
+    "apiname": "ACH_CODE_CASE",
     "achieved": 1,
     "unlocktime": 1708099619
   },
   {
-    "apiname": "ach_finished_mr",
+    "apiname": "ACH_FINISHED_MR",
     "achieved": 1,
     "unlocktime": 1708100201
   }
