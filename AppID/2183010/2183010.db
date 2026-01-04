@@ -1,31 +1,31 @@
 [
   {
-    "apiname": "ach_sleep",
+    "apiname": "ACH_SLEEP",
     "achieved": 1,
     "unlocktime": 1671404235
   },
   {
-    "apiname": "ach_donate",
+    "apiname": "ACH_DONATE",
     "achieved": 1,
     "unlocktime": 1672007444
   },
   {
-    "apiname": "ach_beer",
+    "apiname": "ACH_BEER",
     "achieved": 1,
     "unlocktime": 1672006285
   },
   {
-    "apiname": "ach_int",
+    "apiname": "ACH_INT",
     "achieved": 1,
     "unlocktime": 1671898156
   },
   {
-    "apiname": "ach_str",
+    "apiname": "ACH_STR",
     "achieved": 1,
     "unlocktime": 1672007189
   },
   {
-    "apiname": "ach_dead",
+    "apiname": "ACH_DEAD",
     "achieved": 1,
     "unlocktime": 1671895867
   }
