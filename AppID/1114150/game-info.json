@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/55646ebd220dd3657b51e9d55ac83667cdc35144.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "ACH_CLUB_BLACK_LOTUS": {
       "name": "#Black Lotus",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fd275bd82433f023e4a3f81e9f853a73a0b6092b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "ACH_CLUB_BURNOUT": {
       "name": "#Burnout Rangers",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b3f924fcd01b2ee95bd04ced47be6a6da4f8fac1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "ACH_CLUB_DRIFT_UNITED": {
       "name": "#Drift United",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2a03672c72341cf1f4d14eaaf647313b31869565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "23.9"
     },
     "ACH_DRIFT_DISTANCE_1": {
       "name": "#DriftStarter",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e032729bb3bd1bcf651e7f6018873904851212ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.8"
     },
     "ACH_CLUB_FALCON": {
       "name": "#Falcon Outlaws",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e58128d7ead53445492644fbb979fcdcc81ec887.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "ACH_DRIFT_DISTANCE_3": {
       "name": "#ILoveDrifting",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/108fb49e5e4e7c4f57e3d133a146486ad57f70ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "ACH_CLUB_KANJO": {
       "name": "#Kanjo Spirit",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/204035edce5589cfb7b399281418f947d53f197c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "ACH_TOTAL_POINTS_3": {
       "name": "#King",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c4c1f1e8549481c0dc01c13960b8b5cfb4fb4453.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.5"
     },
     "ACH_CLUB_PYTHONS": {
       "name": "#Pythons",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5406df1e920609f623edf932d1c54a0da38da1b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "ACH_CLUB_SAVAGE": {
       "name": "#Savage",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b7eb937273e8cc67c9d883f69dfd97d1df3ece4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "ACH_CLUB_SPEEDLINE": {
       "name": "#Speedline Syndicate",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/3604686726970afa7d49b99df3795b6d5dc1dd5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "ACH_CLUB_HUNTERS": {
       "name": "#Street Hunters",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/8f207e813b9b74fc183ce560b302d31c9736a98e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "ACH_TOTAL_POINTS_1": {
       "name": "#ToTheTop",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c6b83f1f700638153d8265ca27db9bb235c4be46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.5"
     },
     "ACH_CLUB_UNION_UNDER": {
       "name": "#Union Underground",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/16d36d63021a087f1440f157c963aeac0b69506f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.6"
     },
     "ACH_CLUB_WESTERN_SIERRA": {
       "name": "#Western Sierra",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/f61a3335788bef57ffc9e80ca1d854edd93c6c8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "ACH_CLUB_WILD_JUNIORS": {
       "name": "#Wild Juniors",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ea2ed7acb64d82b5482e5a76751ab3572b5cd783.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.7"
     },
     "ACH_TOTAL_POINTS_2": {
       "name": "#Zeal",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/35a272cb06899cd3d1fa41b298c63f067ef9b18b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.5"
     },
     "ACH_FEEl_TRAVELED_3000": {
       "name": "Adventure Seeker",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c17b3733778e0636277da68ebca3b1936a6a489b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.2"
     },
     "ACH_LEADERBOARD_500": {
       "name": "Ambitious Beginner",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/052ac6dab72485cb6146ba22171bbbca65b31f48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.8"
     },
     "ACH_SPEED_LEAGUE_WIN_CARS": {
       "name": "Car in the Bag",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/19a9d60440d6d1e054ade61709333e2041910b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ACH_DUEL_1": {
       "name": "Dueling Beginner",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ed2889a752796e0476ebcd227c812078d2d08bd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "ACH_LEADERBOARD_100": {
       "name": "Elite Racer",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/81b19930e546e0c455f6a95fa83ada4b92bd1f9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "ACH_FEEl_TRAVELED_1500": {
       "name": "Exploration Beginner",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fc2933b9302273ee100b19bc74b36a4df6f038c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.3"
     },
     "ACH_JDUN": {
       "name": "Finally!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/db12b60b4e40d7736c60720dd7dbdf3169ab8f33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "ACH_SPEED": {
       "name": "First Dash",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b3b781b88d274ddc91dfc5d7107383815a35e470.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.3"
+      "percent": "82.4"
     },
     "ACH_PURCHASE_CAR": {
       "name": "First Step",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/bb4bbfc7c4e2190620154ccabacee2053b8c6055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.9"
+      "percent": "72.0"
     },
     "ACH_FARM_RACE_2": {
       "name": "Get Set",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/78a6fadb7e29432118dc5732190075ad35e25ddc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "ACH_AIR_TIME_1": {
       "name": "Height Lover",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/06453f41d66faa6d5e41ce6ba4641204024bbb16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "ACH_PURCHASE_CAR_4": {
       "name": "Legendary Collector",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5592b74b186355f31b43b7aa07dc933b05e42e91.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.1"
     },
     "ACH_AIR_TIME_2": {
       "name": "Master of the Skies",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/9dde5f218882f4b84ee3a0b0c90e26e823690ac4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.6"
     },
     "ACH_FARM_RACE_1": {
       "name": "On Your Mark",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/046d65034648f91b69cfb45bd53b216ce0f9d11a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "64.9"
     },
     "ACH_LEADERBOARD_50": {
       "name": "Professional",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b29dd77c435a78251ba0c8d4faf5f207ff6163bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.7"
+      "percent": "45.9"
     },
     "ACH_SPEED_2": {
       "name": "Speed Master",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/dbbf41d3242415ef67bb43e796c7096fdf76e5c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.2"
     },
     "ACH_SPEED_1": {
       "name": "Speedy Maneuver",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/76358e2915765b3e0a6557ca4a931e801b9228a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "ACH_SPEED_LEAGUE_BETS_10": {
       "name": "Thrilling",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a3416f8fa5bf97b00824c8684169ef975ff98f34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "ACH_FARM_RACE_3": {
       "name": "Time Is Money",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fa7e7f6c19eeb2d695e729bf21e8485041abf6aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "ACH_SPEED_LEAGUE_LOST_CARS": {
       "name": "Time to Walk",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c121db7ffd641d23c42fd6d2f1c7dd1e3f6fabc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "ACH_PURCHASE_CAR_1": {
       "name": "Variety Lover",
