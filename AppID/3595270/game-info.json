@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/ba7dc9c663e15b64c20646d1d75fc674c792e398.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "2.9"
     },
     "jup_ob_gravestone": {
       "name": "Gravestone",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/39777de4f06e2ae91dedef6b25a7eb9f4d88e977.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "jup_ob_helpfulstranger": {
       "name": "Helpful Stranger",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/44a82e1078c17d36d24bb43868d36ef6e15bb294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "jup_sp_yourtaxdollarsatwork": {
       "name": "Your tax dollars at work",

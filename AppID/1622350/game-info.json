@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/9ba813c44c16542904b862b70ace23333d61a89f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.3"
     },
     "APEX": {
       "name": "Apex Predator",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/3fbfa35235d4edb849836054c694da97f03a7808.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "DUET": {
       "name": "Duet",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/f03f98c3364b88b7e7796899587aaaec2eafb108.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "MEOW": {
       "name": "Meow Machine",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/84ff085b77b1ffffeba2a6741c15ece3a9926ba8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.7"
+      "percent": "59.8"
     },
     "HEIGHTS": {
       "name": "New Heights",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/a6b0c204e8b0ec8da6807791cc9f2e46d1d7754c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "NINJA": {
       "name": "Ninja Kitty",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/2279e343e47471327b8bbf9f88704ca7315a7f99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "NOISY": {
       "name": "Noisy Nelly",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/8940e059a804352cceaf05d156108e11598234ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "NOTKITTEN": {
       "name": "Not Kitten Around",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/bd0e3546b102a28624db4c2ffc58ac62141151e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "PURRSUASIVE": {
       "name": "Purrsuasive!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/f0bc1a0347b2231be389038e37f73dfa9f1899f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.5"
     }
   },
   "platform": null,

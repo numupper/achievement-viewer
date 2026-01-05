@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/9c255a7d3b76543443740b4c0847710d325c331d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "ach_front_row_friends": {
       "name": "Front Row Friends!",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/9b4ca9420b58577423498652d5e8c09e6b8c43b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "ach_just_better": {
       "name": "Just Better",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/054b9c187f24bd9132f761cda6932015da9b9648.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "ach_reach_out_to_the_fans": {
       "name": "Reach Out to the Fans",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/c0281413b3cd195ac82df38181e51403ddbebddb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "ach_sign_the_dotted_line": {
       "name": "Sign On The Dotted Line",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/e371dcddbff65d64aab6ae2e7c876c4d1e493dd9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "ach_the_first_of_many": {
       "name": "The First Of Many",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/9b4a472095a9138426a4e934d848633ce50b1f5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     }
   },
   "platform": null,

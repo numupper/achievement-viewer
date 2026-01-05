@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.5"
     },
     "Haze_KillAll_Ecstasy": {
       "name": "Buzz Killer",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "VacationsAtTheLake": {
       "name": "Ever After",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.5"
     },
     "WeaponMaxUpgrade_AllWeapons_Once": {
       "name": "Good Vibrations",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "4.9"
     },
     "BaseballCaps": {
       "name": "Passion for Fashion",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "49.9"
     },
     "Act01_Complete": {
       "name": "So It Begins",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "LoadoutMaxGrade": {
       "name": "To the Teeth",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "39.1"
     },
     "Research_CivilWar_AllItems": {
       "name": "War Correspondent",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     }
   },
   "platform": null,

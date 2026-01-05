@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/f26e09c304bea3fa92a591c9e9c8fa4ea3dae1c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "AchEvt_Choke": {
       "name": "Choke Hold",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/9292d6b363956cb39ac232b7949e0dded671caf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "36.9"
     },
     "AchEvt_ImAMarine": {
       "name": "I'm A Marine, Son!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/832d3cd8402bd6a1386485e35618a0b01b9e2b96.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.7"
     },
     "AchEvt_SpeedSprint": {
       "name": "Marathon Man",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/7f323573ca43f22c677d638798c8694b73972a6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.3"
     },
     "AchEvt_EveryOccasion": {
       "name": "Something For Every Occasion",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/bb133ba510475c0ef7a68c84ff11a183cfd4c6ba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "Achievement_07": {
       "name": "Area of Expertise",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/240b0701c0324b483745f9a7cb3f322825eb7bc4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.7"
     },
     "Achievement_08": {
       "name": "Brand Equity",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/2da08f2be1a864bf8c05c6a970e7d730969478ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "Achievement_29": {
       "name": "Everything Breaks",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/39c189d959346ed60f8d4b801133c7dc97b56f32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "Achievement_30": {
       "name": "Glucose Guardian",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.7"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/16cca5cf5e2f9b06bf830a9889e4518070f63a42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.4"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/528e2c390a04bc3f81b96a660231bc43dca5aa73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "Achievement_27": {
       "name": "Long Live the Queen",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/7b2f9f99c576342085d0b25a03e2b554cc473825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d7adac5f0fbf76f0d252e63d606d1867661a3f67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "Achievement_12": {
       "name": "Shoot the Moon",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4db523af262b32a18c4c861aa3bf2ef065a6110c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "Achievement_04": {
       "name": "The Lookbook is the Cookbook",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3e20c4f19361b30a70d90a0e33024078f1532dbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "Achievement_14": {
       "name": "Unfaded",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/13fb54c84e197796a4915cb233a17e26b8edfec7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "Achievement_17": {
       "name": "Useful Citizen",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/5a0a9edcf8381e374664dea5608faf93787bdfb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "Achievement_21": {
       "name": "Who's the Boss?",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/9b29ef3b04f47d6337e523797761079c93040edc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "Achievement_23": {
       "name": "Widely Beloved Mascot",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/1d3db29e2b60427b6564fc46838ebd973d26299b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     }
   },
   "platform": null,

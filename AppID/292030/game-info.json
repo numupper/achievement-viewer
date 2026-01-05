@@ -1,7 +1,7 @@
 {
   "appid": "292030",
-  "name": "The Witcher 3: Wild Hunt",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1765462356",
+  "name": "Ведьмак 3: Дикая Охота",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/47273f809e429a272f35c252b49d9bba83e2cf30/header_russian.jpg?t=1765462356",
   "achievements": {
     "FRIEND_IN_NEED": {
       "name": "A Friend in Need",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/c832391d5119195c559a5018c74e709ede2ed1e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.4"
     },
     "BRAWL_MASTER": {
       "name": "Brawl Master",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/5c617bc94010e4bb7d23eb0db50108a5f2cf233e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.5"
     },
     "EP1_8": {
       "name": "Can Quit Anytime I Want",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/641d653a10a2e36148b18f3ff211fc4fbf6cce56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "CARD_COLLECTOR": {
       "name": "Card Collector",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/93ae2c276206d0996af7642447937edfb61b72d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "EP2_10": {
       "name": "Dressed to Kill",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/b33cd0fcb3bab390513b5128c0ba911cbcc280a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "FAMILY_COUNSELOR": {
       "name": "Family Counselor",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/da7760f5c0118845af6eca7636efa740bc31dc2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "FIST_OF_THE_SOUTH_STAR": {
       "name": "Fist of the South Star",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/ff1d6abba9cc160bca253bf104cee24f3729bbb4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "GERALT_AND_FRIENDS": {
       "name": "Geralt and Friends",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/05a5acce6fcd8109ee0d0347659c2f150a90c7d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "THE_PROFESSIONAL": {
       "name": "Geralt: The Professional",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/369497d2df3dc73a08f7e7ec865b0a2dd7ff13ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "EP2_3": {
       "name": "Kling of the Clink",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/47c15cc475e18c34d369d531a9abfb6bfbd99cc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "LILAC": {
       "name": "Lilac and Gooseberries",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/8246dc3a496e13c058572dab37099e76a6cd0b77.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.8"
     },
     "MASTER_MARKSMAN": {
       "name": "Master Marksman",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/1e9b6f363ae3da0b725e730d8a694182483d5631.jpg",
       "hidden": true,
       "group": "The Witcher 3: Wild Hunt - Hearts of Stone",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "PASSED_THE_TRIAL": {
       "name": "Passed the Trial",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/ffaba1163ccf7d4e843f565fdb92a871ea40b15a.jpg",
       "hidden": false,
       "group": "The Witcher 3: Wild Hunt - Blood and Wine",
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "POWER_OVERWHELMING": {
       "name": "Power Overwhelming",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/bb97d70c40da71cdf38b1485cf549c128ba073fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.7"
     },
     "SOMETHING_MORE": {
       "name": "Something More",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/623f3f8eca35da6aba96d116a5e4ad23e654a3ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "THE_EVILEST_THING": {
       "name": "That Is the Evilest Thing",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/710954914a2380b12104b4cec3c2a9167212fbd9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "ENEMY_OF_MY_ENEMY": {
       "name": "The Enemy of My Enemy",
