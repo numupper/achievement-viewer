@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/e14c24d4c3ac2da4e0f8e0ddc95f6c9915157487.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "jup_ob_backfromthedead": {
       "name": "Back From The Dead",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/ba7dc9c663e15b64c20646d1d75fc674c792e398.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "jup_ob_gravestone": {
       "name": "Gravestone",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/39777de4f06e2ae91dedef6b25a7eb9f4d88e977.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "jup_ob_helpfulstranger": {
       "name": "Helpful Stranger",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/6d12d5b55dcc58cb714b06e4dbbb4fb36f795ced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "jup_mp_thefirststep": {
       "name": "The First Step",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/44a82e1078c17d36d24bb43868d36ef6e15bb294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "jup_sp_yourtaxdollarsatwork": {
       "name": "Your tax dollars at work",

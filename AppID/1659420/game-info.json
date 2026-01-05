@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/6df1aaff3537ee392ba24d023c30eac9a0267cca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.1"
     },
     "TROPHY_NAME_FINISH_SPEEDRUN": {
       "name": "Charted! - Speedrun",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/159819d10d605124df3a5f8445b071f35386e9d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "TROPHY_NAME_SWORD_FIGHT": {
       "name": "Swordmaster",

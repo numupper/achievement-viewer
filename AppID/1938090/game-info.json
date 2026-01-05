@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/512318e0d8c449b7857e48df79f9a08bc0073531.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "t10_sp_killstreak": {
       "name": "Destructive Wake",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/0ad8d3a94e91837fbe2fd3153362141bb396ec2e.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "sat_zm_dusttodust": {
       "name": "Dust To Dust",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/75586b721d50005f9c2082439b10f16621ce8b61.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "sat_mp_frontlineoffensive": {
       "name": "Frontline Offensive",
@@ -883,7 +883,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/4930c84ef3b4d380dafc50ced46b1ea924d1e643.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "t10_zm_complete_quartz_mq": {
       "name": "No Mo' Modi",
@@ -946,7 +946,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/5a25a39a0e383f19c8d15ca51d166cb844fc295d.jpg",
       "hidden": false,
       "group": "Call of Duty®: Modern Warfare® II - Campaign",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "t10_sp_union_takedowns": {
       "name": "Party's Over",
@@ -1126,7 +1126,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/9d4458ea33b15a9a0b696e16192c69dbcfe0f677.jpg",
       "hidden": false,
       "group": "Call of Duty®: Modern Warfare® III - Campaign",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "t10_global_showoff": {
       "name": "Show Off",
@@ -1216,7 +1216,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/a34ada857ae3dafe2ba83651f230305465f8d69b.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "1.0"
+      "percent": "0.9"
     },
     "t10_sp_mission_contract": {
       "name": "Talent Acquisition",
@@ -1351,7 +1351,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/bf0500d4233fd0fbe0d88dcb76332a16294ad886.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "t10_sp_mission_intro": {
       "name": "Unexpected Move",
