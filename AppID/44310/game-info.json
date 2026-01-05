@@ -217,7 +217,7 @@
     "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/28.png",
     "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/28.png",
     "hidden": false,
-    "percent": "87.18"
+    "percent": "0.87"
   },
   "Made_perfect": {
     "name": "Made perfect",
@@ -329,7 +329,7 @@
     "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/42.png",
     "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/42.png",
     "hidden": false,
-    "percent": "84.61"
+    "percent": "0.84"
   },
   "Nifty_50": {
     "name": "Nifty 50",
@@ -337,7 +337,7 @@
     "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/43.png",
     "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/43.png",
     "hidden": false,
-    "percent": "13.17"
+    "percent": "0.13"
   },
   "A_true_gent": {
     "name": "A true gent",
@@ -407,4 +407,5 @@
   "platform": "GFWL",
   "blacklist": [],
   "uses_db": false
+
 }
