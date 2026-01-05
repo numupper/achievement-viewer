@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.1"
     },
     "TRP_SEMATARY": {
       "name": "Patient Sematary",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "TRP_CABIN": {
       "name": "The Cabin in the Blackwoods",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     },
     "TRP_WOLFMAN": {
       "name": "The Skillful Wolf Man",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "TRP_TALETWO": {
       "name": "The Tale of The Two Sisters",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "TRP_WRONGONE": {
       "name": "You Let The Wrong One In!",

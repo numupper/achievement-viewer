@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4af6d18bc8a9f6bb632c6a42450017e5e5f08e2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "TROPHY_NAME_HEAD_CHAIN": {
       "name": "10 Up, 10 Down",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8a0b66fa4efb358f0c73af1180731ca9a0226f4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "TROPHY_NAME_TLL_PLATINUM": {
       "name": "Don't Ruin The Moment",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/2cf3befa44da3f2ce6b12d85db7bf80176a1dced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "TROPHY_NAME_PUZZLE_NO_DAMAGE": {
       "name": "Flawless Gauntlet",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/f543b2ffbfab1a851ce2b9d26bdbf635a30a00e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "TROPHY_NAME_TREASURE_HUNTER": {
       "name": "Hardcore Treasure Hunter",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/6e24c19d7186c5cd0759ea3052160dd837bdc421.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "TROPHY_NAME_FROM_THE_HIP": {
       "name": "Itchy Trigger Finger",
