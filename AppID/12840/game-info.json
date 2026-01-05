@@ -56,7 +56,7 @@
     "description": "You've won the Colin McRae Challenge Event.",
     "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/12840/img/DiRT_2_Achievement_for_colin.png",
     "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/12840/img_g/DiRT_2_Achievement_for_colin.png",
-    "hidden": false,
+    "hidden": true,
     "percent": "5.01"
   },
   "Showboating": {
@@ -128,7 +128,7 @@
     "description": "You drove 100 miles (161 kilometres) without unlocking any other achievement.",
     "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/12840/img/DiRT_2_Achievement_just_drive.png",
     "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/12840/img_g/DiRT_2_Achievement_just_drive.png",
-    "hidden": false,
+    "hidden": true,
     "percent": "6.24"
   },
   "In_His_Footsteps": {
@@ -383,4 +383,5 @@
   "platform": "GFWL",
   "blacklist": [],
   "uses_db": false
+
 }
