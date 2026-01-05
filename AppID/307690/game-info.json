@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/a7f81968b27dbe71fa9b0d480b5c82d8f474a917.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "ACHIEVEMENT_23": {
       "name": "Case Closed",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/277296334712d48141411401e102f5d559590e09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "ACHIEVEMENT_08": {
       "name": "Fashion Statement",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/1fe67f301da4fcedc0d5922e47ec6a5508c009c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "ACHIEVEMENT_02": {
       "name": "That'll Show 'em",

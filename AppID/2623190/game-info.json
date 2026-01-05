@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/ea5c569bff76c238080edaac18f056bbcb40f8ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "Arena_Brawler": {
       "name": "Brawler, Arena",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/b74d45bdb69f8deb860e902bace64a90f5ca0c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "Arena_GrandChampion": {
       "name": "Grand Champion, Arena",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/f4cd58117db45563db2fad61cfc879fd2b62f110.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "Fighter_Journeyman": {
       "name": "Journeyman, Fighters Guild",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/306c48b11223ea4e1424e5efadb2d5ed82fe6bff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "Thief_MasterThief": {
       "name": "Master Thief, Thieves Guild",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/ef2bd94f494fc411932873d80c5b6a8c20a5395f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "Brother_Slayer": {
       "name": "Slayer, Dark Brotherhood",
