@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/36c75a7d4d4bd2015bb7655d969509b45e79f355.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "FC6_Ach_79": {
       "name": "A New Dawn",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/743b2d615428cc95402796e650e9182a9fec23e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "FC6_Ach_17": {
       "name": "Beginner's Luck",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/c6deabb2c24ab9e9e4962838e34930a5d292fc5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "FC6_Ach_87": {
       "name": "Heavenly Father",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/30dc2439b6177c96a0506cb592a1b86473dc559c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "FC6_Ach_22": {
       "name": "Hogar Dulce Hogar",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/d086dd94c10bc90893ae97f6948b34594b390076.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "FC6_Ach_59": {
       "name": "No, I Won",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/dc07d5780c1d48a3628cff176ae7b600d605f48a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "FC6_Ach_39": {
       "name": "Not So Tough",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/43ab10dd00b1c17e0970e72cb81bf4f040f70a5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "FC6_Ach_26": {
       "name": "That's Puzzling",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/87df8478db249bf0fb38329a0a9a19089ca10a9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.0"
     }
   },
   "platform": null,
