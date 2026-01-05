@@ -1302,5 +1302,5 @@
   },
   "platform": null,
   "blacklist": [],
-  "uses_db": true
+  "uses_db": false
 }
