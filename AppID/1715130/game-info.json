@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/80ccf11e6597a17b99b54b6bb7cef0abae919a03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "AchEvt_CoolInACrysis": {
       "name": "Cool In A Crysis",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/d1356395e3f4b4cc3379798eda4cf8142a29d522.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "AchEvt_PerfectSoldier": {
       "name": "Perfect, Soldier!",

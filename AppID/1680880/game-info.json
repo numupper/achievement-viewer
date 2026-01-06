@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "STEALTH": {
       "name": "Barely There",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/b2c4907302ef49459272ac8ac98d25529a0f18bf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "SUBCON_DANCE": {
       "name": "Moves",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.3"
+      "percent": "87.4"
     },
     "CHAPTER_04_CLEAR": {
       "name": "What Must Be Done",

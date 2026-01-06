@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c2ce6741bd8cbc0a4ea4a031782fa6c3ddab36a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "JurassicDiffClarkCounty": {
       "name": "Clark County Commander",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b6dabd3b6617018a5861e4c7c760275bb8c941b2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "JurassicDiffBadlands": {
       "name": "Dig Deep",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b04dfd57e6bf8551a9007bc814694a59e39ac7ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "JWDatabase50": {
       "name": "If You Knew Enough...",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "BuildLagoon": {
       "name": "Include That In The Brochure",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/21d40d99ab6fa8ef1e481c9afdba74f968e5d278.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "JurassicDiffNusaTenggara": {
       "name": "Indonesian Legend",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/65e6392389e301c378992c0cf570f332d57aef6f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "JurassicDiffKatsuyama": {
       "name": "Logistics Master",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c2244ad3c2cf1a670fb0740277851c28d6fa0896.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "DestroyHelicopter": {
       "name": "Look Alive, Boys!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/49648538e5433a1f9027a40ca1a373675061f0ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "JurassicDiffSanAlbertus": {
       "name": "Maltese Marvel",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/923c84d73e0caf36a64922e91c4ba78c196b5f09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "JurassicDiffSichuan": {
       "name": "Sichuan Survivor",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/dd9755fe4d0aff4dc2987ac8a76104e3be853ecb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "UnlockAct2": {
       "name": "We've Entered a New Era",

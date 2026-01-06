@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/77517502c82f263e8c0e9c229aa454900e85bfb6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "CINE09": {
       "name": "Blackest Night",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/1490415699c708ffda835faf80ce7683620abd57.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "RPG08": {
       "name": "Choices",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6ab2e886bfb8d05fc895c765bd58962b6ff3b5f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "58.8"
     },
     "RPG14": {
       "name": "Grand Experiment",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/414369ddab8e83ffb16937c31d48324af4b9cd81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "RPG03": {
       "name": "King For A Day",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/7085322382d064e805b2aee96501c99d4d4091eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.1"
     },
     "RIDDLER06": {
       "name": "Stop Me If You've Heard This One",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/3456c1329891affdf789a470de9c7e463d71dd17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "MISSIONCOMPLETE05": {
       "name": "The Final Frontier",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/1a785ae63f4f0a4abf872460e5d18689c1f086c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.3"
     },
     "RIDDLER04": {
       "name": "The Right Question",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/bb751f05b3723e931539553a27f8da45c874a844.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "RIDDLER02": {
       "name": "Their Dark Designs",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/f45b0d71db2e4d65b3c9383db3716ef8d59fe7f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "CINE04": {
       "name": "Walled In",
