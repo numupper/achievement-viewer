@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/458b1a156317e47b8f88f25e22ad8aa38c42f0a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "ACHIEVEMENT_06": {
       "name": "Around the Clock",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/77053bd78fcaf4a4d91e7be9632afad81ae38b07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "ACHIEVEMENT_37": {
       "name": "Flawless Presentation",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/8a8fd431fe75b6d2c7670982b4669c9645ac3152.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.7"
+      "percent": "84.8"
     },
     "ACHIEVEMENT_36": {
       "name": "Grand Slam",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d64a56eff074300c239e42fa73f00cb36ec174e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.7"
     },
     "ACHIEVEMENT_41": {
       "name": "Self Defense",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/4862a1f0c18ceadf2839c4305c2f7b13fca6ac58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.2"
     }
   },
   "platform": null,

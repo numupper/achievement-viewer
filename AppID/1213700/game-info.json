@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/6c40e76828d664f3c1e02a55f259fc8c6bef336d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.1"
+      "percent": "81.0"
     },
     "20": {
       "name": "Ancient History",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/4a1f27cb733c7d5ce638f4de73c9a076d33aa1ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "22": {
       "name": "Best Friends",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/6732340f079be50fd75f843f5da0bcdf3522a7c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "10": {
       "name": "Garden of Light",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/02cddad87bfffbfab304ce42eeb09f9e6b8069ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "6": {
       "name": "Old Companion",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/aea9c2198e6a34cbfd5aa723e8348cbe26b98373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     }
   },
   "platform": "Epic Games",

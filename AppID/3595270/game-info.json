@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/e14c24d4c3ac2da4e0f8e0ddc95f6c9915157487.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "jup_ob_backfromthedead": {
       "name": "Back From The Dead",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a7edbbe253fa69d604b2f46b8bd4e4303e4c0b67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "jup_ob_conqueror": {
       "name": "Conqueror",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/d717720bc13ddfba41db57611e8adfa86a43e172.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "jup_sp_deathpenalty": {
       "name": "Death Row",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5bacfd37aeea95085777427a261c9d7f2adcaf87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.0"
     },
     "jup_sp_fullsweep": {
       "name": "Elevator Out of Order",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/f944bbd37eac63ca4910e8af94a14e53d27a6a2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "jup_sp_heycatch": {
       "name": "Hey, Catch!",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/ae2e400cb7c5cb637e089d817cdf92500c4d63ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "jup_sp_hitchhiker": {
       "name": "Hitchhiker",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/6d12d5b55dcc58cb714b06e4dbbb4fb36f795ced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "jup_mp_thefirststep": {
       "name": "The First Step",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a281d5dc2e794b83dd8f5eac8b6134df3e07b3d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.4"
     },
     "jup_sp_enjoythelittlethings": {
       "name": "Think She'll Notice?",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/028df17480b314ad34ddaf0d132a1e5355a99dab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     }
   },
   "platform": null,

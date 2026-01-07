@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/b607432651204ae404eae07685e71db6649182eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.9"
+      "percent": "68.0"
     },
     "AchEvt_CatchThis": {
       "name": "Catch This!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/8ca6f92eeb20aebcbfbc1e5d6e3918f718158b39.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.6"
     },
     "AchEvt_OneCarefulOwner": {
       "name": "One Careful Owner",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/58863a789ecf8dfb39dae042d1413a688a9f2f52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.3"
     },
     "AchEvt_Strickland": {
       "name": "Strickland Would Be Proud",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/69b7c9ba75d7671ee9d0a5ed6d1deb5261a8e491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "AchEvt_TeamRaptor": {
       "name": "Team Raptor",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/b044fcf86912d91befb02a3e6c41f8953d1a1487.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.6"
     },
     "AchEvt_WeaponsMaster": {
       "name": "Weapons Master",

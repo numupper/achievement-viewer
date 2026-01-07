@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49cc1caa18f1a628bdadbb8e4ff266c7fa78d3a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "battleBelowZero": {
       "name": "Below Zero",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dd5507a4761e5f2c042565d5a26f9418cf054051.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "killDew": {
       "name": "Dew Point",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7781095148a0bfa7b95d03685ffba1b7cc9469a5.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "battleJohnSilversCrew": {
       "name": "John Silver's Crew",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2265b5fb1621b42254d2c5f8c735602c712b5f37.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "collectAllWeapons": {
       "name": "Lord of War",

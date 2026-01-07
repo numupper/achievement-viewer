@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "TROPHY_DLC3_DEFEAT_MANIKIN": {
       "name": "Life Imitated",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.3"
+      "percent": "96.2"
     },
     "TROPHY_USED_MASTER_POINT": {
       "name": "Master's Awakening",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "40.8"
     },
     "TROPHY_MISSION_FIRE_MEMORIES": {
       "name": "The Fire's Light",

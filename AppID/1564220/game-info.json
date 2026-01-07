@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/70bd6c7f0982a2afe6e31e54a704b9960c63b8eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     },
     "ACH_TurnBallBlack": {
       "name": "Did That Work? -- No!",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/4a69a010460cfdea1b3714ef7b8525463eec1766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "ACH_BlueIntro": {
       "name": "Feeling the Blues",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/0d0855ef812bca00c1ff5609ff0798e0da6fc334.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.1"
+      "percent": "89.2"
     },
     "ACH_Sector2": {
       "name": "Sector 2",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/dc45907ea3a75e88eff3cdb8f55dd9b963332b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.5"
+      "percent": "80.6"
     },
     "ACH_Sector3": {
       "name": "Sector 3",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/f17de583bb9feb1d59c06d0529b721a1741681e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.5"
     },
     "ACH_Sector5": {
       "name": "Sector 5",
