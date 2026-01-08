@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.9"
     },
     "back_to_the_past": {
       "name": "Back to the Past",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "saboteur": {
       "name": "Saboteur",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "secret": {
       "name": "Secret",

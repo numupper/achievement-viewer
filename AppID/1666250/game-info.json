@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/458b1a156317e47b8f88f25e22ad8aa38c42f0a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.1"
     },
     "ACHIEVEMENT_06": {
       "name": "Around the Clock",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/663267ba797b6463eb4ffe8f1b4a0a34e5e54969.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ACHIEVEMENT_13": {
       "name": "Bar Brawler",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/77053bd78fcaf4a4d91e7be9632afad81ae38b07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "ACHIEVEMENT_37": {
       "name": "Flawless Presentation",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/2b69a8e2606df51b90eab251a5b29d9d1a165068.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "ACHIEVEMENT_01": {
       "name": "Grand Opening",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/8a8fd431fe75b6d2c7670982b4669c9645ac3152.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.8"
+      "percent": "84.7"
     },
     "ACHIEVEMENT_36": {
       "name": "Grand Slam",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d1f51fdc05a963e4b2e3ce7bb5c1a2861f7e9e4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "ACHIEVEMENT_29": {
       "name": "London Liberator",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/4862a1f0c18ceadf2839c4305c2f7b13fca6ac58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     }
   },
   "platform": null,

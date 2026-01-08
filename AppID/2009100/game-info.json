@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/2d8fb59e71f967e8b2d8c0ee770228b3cc03013d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "Achievement_GOSCC_38": {
       "name": "Best Dressed",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/193d5c3ddf648698aac7ef0bd02f9c08469c4ea8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "Achievement_GOSCC_3": {
       "name": "Maybe Engage a Little",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4d1241641563908de302543c7083cc6fff21cef3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "Achievement_GOSCC_45": {
       "name": "Periapt Alizarin",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/ba813c3620d32d415b825b8ec386cae7ccd34732.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "Achievement_GOSCC_60": {
       "name": "Shroudfane Surveyor",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/06e342dd610738376bb3a4150c5fd8601ac9ade3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "Achievement_GOSCC_11": {
       "name": "The Means to Save It",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/42fffa7fa9f13c2e3e1024399c73c37273c63408.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "Achievement_GOSCC_6": {
       "name": "Thrada-Kul",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/125f7d9c729fdd1d416d7c19e05514b42d3822ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     }
   },
   "platform": null,

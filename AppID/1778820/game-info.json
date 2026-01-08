@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/00724e9374dd6a5f4363fb9366a56ec9500b1c1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.8"
+      "percent": "74.9"
     },
     "WallBreak": {
       "name": "Come on, just try and kill me.",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b8d64231d9671f273f569a5efaf1a9ba3ae02aa8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.5"
+      "percent": "83.4"
     },
     "RageDamage": {
       "name": "Now it's time to destroy you.",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/67b53f8a13147ea97259bd4ce03c9c85046044f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.9"
+      "percent": "78.0"
     },
     "GroupMatchWin": {
       "name": "Please don't tell my father.",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0b3e3519eafa309e6240ef573e03069b964bb4d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.2"
     },
     "HeatTechnique": {
       "name": "Your fate is already decided.",

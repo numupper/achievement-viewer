@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/8dff0088bf5a1df4cb4f556def7f7bf60a126dc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "ROADKILL": {
       "name": "Roadkill",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/47e98dea03d891e6d09def525004a6fcf3b8d1b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "THE_BOG": {
       "name": "The Bog",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/ec643f08b79b1e1eb486578a08c16e492dc4b4d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "CAMPAIGN_COMPLETE": {
       "name": "Win the War",
