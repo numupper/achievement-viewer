@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/5f031f4450564e247d38df4225dedc08c7b56e73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "MEDAL_032": {
       "name": "A Legacy Restored",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/7a16fa794c94366ead1c92e89af7bcde59e1a7b9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.6"
     },
     "MEDAL_012": {
       "name": "A Step Toward Mutual Understanding",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/36d8f5cae3bd53a2476caefbd5708f9a0488e0d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.5"
     },
     "MEDAL_004": {
       "name": "Bringer of Harmony",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/4fc85716e4d250e4feda0e46f8a1315a72f7923e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.6"
     },
     "MEDAL_034": {
       "name": "Explorer of the Eastlands",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/ee63ad7d049b43c53b2081f66cd567412ae77681.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.8"
+      "percent": "85.9"
     },
     "MEDAL_041": {
       "name": "Giant Crown Collector",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/fb81873cb987a891829d94b939b89fcfd9bdbbe3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "MEDAL_015": {
       "name": "Mmm, So Tasty!",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/c4afd395d932230d1dfc7e0fa9d993b84eb35b87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "MEDAL_027": {
       "name": "Ride-or-die Companion",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/57f14b889026155d85655d15f0406d0fa5fd8738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.3"
+      "percent": "83.4"
     },
     "MEDAL_045": {
       "name": "Top of the Food Chain",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/c1f9ce9ff4245ee1396a57c2fb21b017b5aa7a62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "MEDAL_016": {
       "name": "Was It a Meal to Remember?",

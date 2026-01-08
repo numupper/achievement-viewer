@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/3761ae3819b6671f765501be2d81bc52ba606f35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "TROPHY_NAME_FINISH_HARD": {
       "name": "Charted! - Hard",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8a0b66fa4efb358f0c73af1180731ca9a0226f4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "TROPHY_NAME_TLL_PLATINUM": {
       "name": "Don't Ruin The Moment",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/81714899fb72fe521eb92afe0a4863457824cde9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "TROPHY_NAME_TREASURE_1": {
       "name": "First Treasure",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/159819d10d605124df3a5f8445b071f35386e9d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "TROPHY_NAME_SWORD_FIGHT": {
       "name": "Swordmaster",

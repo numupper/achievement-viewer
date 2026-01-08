@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1151735a2a3e2e3ad4e4a01f28a3a4587c61fc40.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Victors and Vanquished",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_A_SECOND_HASTINGS": {
       "name": "A Second Hastings",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/67e48da3ddbfbd8c6bbd3fc61a7579e6c939105d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "ACHIEVEMENT_CAMPAIGN_LITHUANIANS_COMPLETED": {
       "name": "Bond of Brothers",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/99909c2f1aa8b7b6227180610642c815a77f3b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "ACHIEVEMENT_BUT_ITS_PROVOCATIVE": {
       "name": "But It's Provocative",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/99efd434828ee47d63bb4f4ebc987220af55106f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "ACHIEVEMENT_CASTLE_OF_DOUBT": {
       "name": "Castle of Doubt",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3b309f61668a6025953c070ca7ee67b744579687.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "ACHIEVEMENT_DARK_HUMOR": {
       "name": "Dark Humor",
@@ -982,7 +982,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/15d1ef1f06021f522074ef878515e99af4f439a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "ACHIEVEMENT_FINAL_COUNTDOWN": {
       "name": "Final Countdown",
@@ -1099,7 +1099,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/350b466f9fa9bd6c84d8e37154be14d77166297d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "ACHIEVEMENT_GALLEON_BLING": {
       "name": "Galleon Bling",
@@ -1342,7 +1342,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/933e9e2f26e6b58e57e8cce5883161ee3210df33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "HUNS_VICTORY": {
       "name": "Hunnic Victory",
@@ -1423,7 +1423,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/796efece6b9a41a8f1fd550c3ba2a65d2a3cc15b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "ACHIEVEMENT_INDICA": {
       "name": "Indica",
@@ -2098,7 +2098,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/67b9939ebe1c666f0f09de3150c88c7be65a29dc.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Battle for Greece",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "POMPEII_PHOENICIAN_VICTORY": {
       "name": "Phoenician Victory",
@@ -2152,7 +2152,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/8098770c1d5e617625d95d71f49c2dc94ddadb87.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Battle for Greece",
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "PORTUGUESE_VICTORY": {
       "name": "Portuguese Victory",
@@ -2170,7 +2170,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "48.6"
+      "percent": "48.5"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2206,7 +2206,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/768625f6f48f3d2f35e3a68a2674c1f67799d9ac.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ACHIEVEMENT_DESTROY_DELHI": {
       "name": "Raging Wildfire",
@@ -2566,7 +2566,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b0c77ed84febe5a627c1cbb767e5ac680e42b5e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "ACHIEVEMENT_SUSHI_LOVER": {
       "name": "Sushi Lover",
@@ -2809,7 +2809,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/2bf33858b83cc7745cf7c122e7df5608e31c9b9c.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
-      "percent": "0.5"
+      "percent": "0.4"
     },
     "ACHIEVEMENT_THRONE_THIEF": {
       "name": "Throne Thief",
