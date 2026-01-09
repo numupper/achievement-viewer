@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/669f6f58609ae6ce9a6267576ba5e66246012664.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "ACHIEVEMENT_045": {
       "name": "Hangtime",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/06ea8aa54a85d8283337017dee905c3c7f89de28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "ACHIEVEMENT_093": {
       "name": "Means to an End",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/c6b87c9d097c56a92bf7877ea17bbebc5f6255f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "ACHIEVEMENT_105": {
       "name": "TerrorMania",

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/e14c24d4c3ac2da4e0f8e0ddc95f6c9915157487.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "jup_ob_backfromthedead": {
       "name": "Back From The Dead",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a7edbbe253fa69d604b2f46b8bd4e4303e4c0b67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "jup_ob_conqueror": {
       "name": "Conqueror",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/d717720bc13ddfba41db57611e8adfa86a43e172.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "jup_sp_deathpenalty": {
       "name": "Death Row",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5bacfd37aeea95085777427a261c9d7f2adcaf87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "jup_sp_fullsweep": {
       "name": "Elevator Out of Order",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/ba7dc9c663e15b64c20646d1d75fc674c792e398.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "2.9"
     },
     "jup_ob_gravestone": {
       "name": "Gravestone",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/39777de4f06e2ae91dedef6b25a7eb9f4d88e977.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "jup_ob_helpfulstranger": {
       "name": "Helpful Stranger",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/f944bbd37eac63ca4910e8af94a14e53d27a6a2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "jup_sp_heycatch": {
       "name": "Hey, Catch!",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/ae2e400cb7c5cb637e089d817cdf92500c4d63ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "jup_sp_hitchhiker": {
       "name": "Hitchhiker",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/6d12d5b55dcc58cb714b06e4dbbb4fb36f795ced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "jup_mp_thefirststep": {
       "name": "The First Step",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a281d5dc2e794b83dd8f5eac8b6134df3e07b3d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.4"
+      "percent": "70.2"
     },
     "jup_sp_enjoythelittlethings": {
       "name": "Think She'll Notice?",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/cbcb9ac70c09cd35d9558bd4770a93906eb4e552.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "jup_ob_youcanpetthedog": {
       "name": "You Can Pet The Dog",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/44a82e1078c17d36d24bb43868d36ef6e15bb294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "jup_sp_yourtaxdollarsatwork": {
       "name": "Your tax dollars at work",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/028df17480b314ad34ddaf0d132a1e5355a99dab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     }
   },
   "platform": null,

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "ACH_034": {
       "name": "Animal Lover",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "ACH_065": {
       "name": "Catalog Conqueror",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "ACH_004": {
       "name": "Contortion",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "ACH_046": {
       "name": "Go For the Eyes",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "ACH_015": {
       "name": "Liberator",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "ACH_056": {
       "name": "Lonely Tsukimi",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "ACH_032": {
       "name": "Power Overwhelming",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "ACH_020": {
       "name": "Shibuya Is My Back Yard",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "ACH_045": {
       "name": "Take a Bow",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "ACH_031": {
       "name": "Talismania",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "ACH_061": {
       "name": "Unparalleled Talismaniac",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACH_013": {
       "name": "Wishmaker",

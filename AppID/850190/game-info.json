@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/02bdba16af47d42f7a9534c45ff6f2c435b9345e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "AchievementLootBoxID": {
       "name": "Black Market",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/5de8bc882947c4492e3a58c9b976d16d1502c834.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "AchievementCastleRenovationID": {
       "name": "Forgotten Sorority",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8ddaa6c8362f5b2ed33559e618a14b4dd9f6e09e.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "AchievementGoatQueenID": {
       "name": "Goat Queen",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8644945b453160b7752e6c56a70e17d0d864d4ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "AchievementMultiverseCharonsBoatID": {
       "name": "Hell of a Ride",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/cec7c42803f37ce1ad5c202ae8508358e3da4ad8.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "AchievementMultiverseHistoryLessonID": {
       "name": "I Love History",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/542c12d7ce6e1ed24d6731619066d010c7eb67ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "AchievementInteriorDesignID": {
       "name": "Secret Society",
