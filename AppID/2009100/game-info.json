@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/fd03317ece763b820c4577c4001ddebffbc23479.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "Achievement_GOSCC_56": {
       "name": "Master of Malachite",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4d1241641563908de302543c7083cc6fff21cef3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "Achievement_GOSCC_45": {
       "name": "Periapt Alizarin",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/ba813c3620d32d415b825b8ec386cae7ccd34732.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "Achievement_GOSCC_60": {
       "name": "Shroudfane Surveyor",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/42fffa7fa9f13c2e3e1024399c73c37273c63408.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "Achievement_GOSCC_6": {
       "name": "Thrada-Kul",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/125f7d9c729fdd1d416d7c19e05514b42d3822ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     }
   },
   "platform": null,

@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9e6927a163f3a50b9aa9b7773444b0d16b9b5ca2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "ach_first_steps": {
       "name": "First Steps",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/168d7788908f55602d8ec00f248b7e31abdcfedc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "ach_following_orders": {
       "name": "Following Orders",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/bae06615321398d066cba0764417ef2da6147096.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "ach_highs_and_lows": {
       "name": "Highs and Lows",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/89464478d774473ebff1d49416eaa9f1ddf88bde.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "ach_locked_in": {
       "name": "Locked In",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9293841b69114dc1d959c4796179f1a82a10c4bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "ach_lucrative_alliance": {
       "name": "Lucrative Alliance",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/b3b1e79808c1ecf428644a290566b2da905cb4a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "ach_mvp": {
       "name": "MVP",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/a949adae6e446ae30bbca964ef7de1bfc4f1e568.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "ach_perk-tacular": {
       "name": "Perk-tacular",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/b1757928564eea84667b82515ee28fc2fafd8fbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.4"
+      "percent": "73.5"
     },
     "ach_race_fanatic": {
       "name": "Race Fanatic",

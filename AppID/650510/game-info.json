@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/868fa3bd637560556e2e12a59f4bfeb57b580620.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "ACHIEVEMENT_DERAILED": {
       "name": "Derailed",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/15beb0110ad5ad7f6b03b4fe093ce56978dda1f7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "ACHIEVEMENT_IMPRESSIVE": {
       "name": "The Egret Has Landed",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "TRP_OMEN": {
       "name": "An Omen?",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.6"
     },
     "TRP_SAW": {
       "name": "Saw That Coming",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "TRP_TALKTOEM": {
       "name": "Talk to eM",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "TRP_FATEFUL": {
       "name": "The Fateful Descent",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "TRP_OPENED": {
       "name": "You Opened Their Eyes",

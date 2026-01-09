@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3872a1524f172fe988ac2e2b3166edffd094f1fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "researchAnimalDialogue": {
       "name": "Beast Friend",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/301e8a355e5f815b11a8d574b79afb2cf40be9b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "limboSurfer": {
       "name": "Daring as a Bullet is Sharp",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/179d2eaf61e5428ff80972170fc869b5994e2f70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "playthroughPavlov": {
       "name": "Freedom Reflex",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/996c54a4828e7df0df851f0b03e195e07b23a4f1.jpg",
       "hidden": false,
       "group": "Atomic Heart - Trapped in Limbo",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "battleKillByCar": {
       "name": "Hands on the Hood",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "playthroughAcademy": {
       "name": "Kommunism 2.0",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/52be52eb0a3afdba8c9d3a9d9f9f94b3e63ef032.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "SurvivalMaster": {
       "name": "Master of Survival",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/364f7dda5e07c9bc4a36e6c48f290baa6f9c5f88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "overKill": {
       "name": "Overkill",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4fe54810441720d9260bb6d812c6383752de6f3d.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "battleTriplePenetration": {
       "name": "Triple Penetration",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "6.1"
+      "percent": "6.2"
     }
   },
   "platform": null,

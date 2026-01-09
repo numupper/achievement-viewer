@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/77ad9fd132c8a2cb3da7d5227e3f450d7a1242d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "TROPHY_NAME_ENEMY_DROP_GRENADE": {
       "name": "Butterfingers",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/3761ae3819b6671f765501be2d81bc52ba606f35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "TROPHY_NAME_FINISH_HARD": {
       "name": "Charted! - Hard",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/6df1aaff3537ee392ba24d023c30eac9a0267cca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.2"
     },
     "TROPHY_NAME_FINISH_SPEEDRUN": {
       "name": "Charted! - Speedrun",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8a0b66fa4efb358f0c73af1180731ca9a0226f4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "TROPHY_NAME_TLL_PLATINUM": {
       "name": "Don't Ruin The Moment",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/81714899fb72fe521eb92afe0a4863457824cde9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "TROPHY_NAME_TREASURE_1": {
       "name": "First Treasure",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/89aac935e8ee251b7b1f17926808ed395a13cdbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.2"
     },
     "TROPHY_NAME_ROPE_SWING_CHAIN": {
       "name": "Jungle Gym",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/22c8a6f2fec2205cc443f11eb8bcf1463c67a5b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "TROPHY_NAME_LEAPFROG": {
       "name": "Leapfrog",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/9ae04048941811af58e021109b0f8758087a08d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "TROPHY_NAME_JEEP_SUICIDE": {
       "name": "Let's Not Get Caught",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b29dc1af4a98161d103bdfdef8ee8f612bbd7301.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "TROPHY_NAME_DOLPHINS": {
       "name": "On Porpoise",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/d6cc957f6d98fa76be98975505b0e52f8403fe67.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "TROPHY_NAME_COMBAT_NO_KILL_HARD": {
       "name": "Peaceful Resolution",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/9739fd5fd820f4fe3db81723a49c0b6bf0e3faab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "TROPHY_NAME_TREASURE_RELIC": {
       "name": "Relic Finder",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/159819d10d605124df3a5f8445b071f35386e9d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "TROPHY_NAME_SWORD_FIGHT": {
       "name": "Swordmaster",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/76dd936d9e96c4d3aae7fb594f6377762a1a1447.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "TROPHY_NAME_HEADSHOT_HIGH": {
       "name": "You Have a Head for this Business",

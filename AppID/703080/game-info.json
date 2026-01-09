@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/5706696465de3ea09cb16522e765255d4bfab4f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "Animal_Albino": {
       "name": "Ghost",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/95fde6ca906d49f2d57482cb9096c9fe526d9538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "Franchise_ManyFranchise": {
       "name": "Global Zoo",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/36b4df36dae6231ac737392502a5d228861812a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "58.8"
     },
     "Franchise_AllContinent": {
       "name": "Planet Zoo",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/ec90c3d8b92143beb28a935aae70eb519825a4bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "Game_StaffMaxLevel": {
       "name": "Trainer",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/cd2e459e0571c90a6ebfbaa20a3cf06a2aacb34d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     }
   },
   "platform": null,

@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/00724e9374dd6a5f4363fb9366a56ec9500b1c1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.8"
+      "percent": "74.9"
     },
     "WallBreak": {
       "name": "Come on, just try and kill me.",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/4c92de877e980bb69a1ed2590c609cbb5e3b4d28.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "42.8"
     },
     "StoryModeClearKazuya": {
       "name": "Despair",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/56c8a31a1cbca88f48fc91e0f131b33586d1b58c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "WinDiscGhostBoss": {
       "name": "Godfather",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/92d7717dbb5f63c9a3058f25b36500f188f9ca7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.7"
     },
     "TresureHunt": {
       "name": "How do you take your coffee?",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/67b53f8a13147ea97259bd4ce03c9c85046044f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.9"
+      "percent": "78.0"
     },
     "GroupMatchWin": {
       "name": "Please don't tell my father.",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b69a5fb3ddfb3a6416f26370322edf60b8b13ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "EpisodeClear10": {
       "name": "Power isn't everything.",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/eef0bdca57bb220adbefefdda7200933488384f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.5"
     },
     "WallBound": {
       "name": "Sorry for getting rough back there.",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/6a509141201cb0148b5d3db5f8543651b1e2b9ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.2"
+      "percent": "85.3"
     },
     "FightMoney": {
       "name": "Your money is my money! ",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/c89440d4418906fc944e5c7d71cbd7673fb8024d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.7"
     },
     "Customize": {
       "name": "You're in for it now!",
