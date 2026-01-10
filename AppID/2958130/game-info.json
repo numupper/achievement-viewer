@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c2ce6741bd8cbc0a4ea4a031782fa6c3ddab36a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "JurassicDiffClarkCounty": {
       "name": "Clark County Commander",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.5"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/7a4d5d8017fbc5430e3bfd8fcaf2c42f4cecbb61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "83.4"
+      "percent": "83.3"
     },
     "JurassicDiffKuaii": {
       "name": "Picture Perfect",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/dd9755fe4d0aff4dc2987ac8a76104e3be853ecb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "UnlockAct2": {
       "name": "We've Entered a New Era",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/0c863719ff91030f0a08cf4adc7b7a6e8409e1d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.2"
     },
     "CompletePark4Objectives": {
       "name": "What Are Her Symptoms?",

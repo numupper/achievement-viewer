@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.6"
     },
     "ACH_PetFRND_One": {
       "name": "Adventure buddies",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "ACH_Letter_All": {
       "name": "Avid reader",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "ACH_Letter_Any": {
       "name": "First contact",

@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/c373c78bfd7be93bd74f42e43b04fffcf4360214.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "ach_development_race": {
       "name": "Development Race",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/7895f9432e3b60863c488b747cb0605fa12e504d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "ach_its_not_me_its_you": {
       "name": "It's Not Me, It's You",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/906c52fb887532a12da424be412102786c49c47d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "ach_up_and_running": {
       "name": "Up And Running",
