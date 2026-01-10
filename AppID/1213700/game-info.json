@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/0cc4ebb26fcd96bcf0cb31da961f80d8bb6adaa1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.4"
     },
     "23": {
       "name": "Fetch",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/ad8ebac8113d565fe3590b977b35a49888357b52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "1": {
       "name": "Infused with Light",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/1085ceb2d870010531df3d61d94ca47f71c59f71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "12": {
       "name": "Uprooting Darkness",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/a06e4891c86c7562e2ec9b4f72f2c1364baf5bda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "24": {
       "name": "Weightless",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213700/aea9c2198e6a34cbfd5aa723e8348cbe26b98373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     }
   },
   "platform": "Epic Games",

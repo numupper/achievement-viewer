@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/22179be2184b64ffe4472a4db4eb95ed7222331e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "Achievement_GOSCC_34": {
       "name": "Elite",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/4e0479f4195ccdaf48b10674468863c54e09b019.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.3"
+      "percent": "66.4"
     },
     "Achievement_GOSCC_48": {
       "name": "Massive Party Game",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/43654abb651789bb35123949f53e6ca5a7605990.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "Achievement_GOSCC_16": {
       "name": "Must Try Harder",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/df4d08fd58afe56430975a3159f4cb253ff45846.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "Achievement_GOSCC_33": {
       "name": "Shopaholic",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/e10b8e641324fcfe355a293b30c03d4026b26537.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "Achievement_GOSCC_31": {
       "name": "Speed King",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/e10b8e641324fcfe355a293b30c03d4026b26537.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "Achievement_GOSCC_50": {
       "name": "The Gang Is Back In Town",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/01cf4bae7a7e16f07ddc146e0fe14115d78eb48a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     }
   },
   "platform": null,

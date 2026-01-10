@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/4aaf6f4072335f227dd09b8b98df48793f265d94.jpg",
       "hidden": false,
       "group": "Update 6",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "ACHIEVEMENT_040": {
       "name": "All Good Kings Must Come to an End",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/3da7b96a77f9569124c3a0be00849df317afee1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "ACHIEVEMENT_029": {
       "name": "Buckaroo",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/fee72978b27a9906f24601be74e61e4b4d4c630c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.2"
+      "percent": "72.3"
     },
     "ACHIEVEMENT_038": {
       "name": "Claras Mud",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/18d73114a6b3f6a86bd8c1731356ca9d7e0043e0.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ACHIEVEMENT_046": {
       "name": "Club Crawl",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/cbb7faef7e79e2e7dbd3581a7ab2f7d89a0f2916.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.1"
     },
     "ACHIEVEMENT_037": {
       "name": "Live by the Rod, Diez by the Rod!",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/15de49e08f343f311f512281cca4a52d9f128b6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.0"
+      "percent": "72.1"
     },
     "ACHIEVEMENT_016": {
       "name": "School's Out for Summer",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/d64aa83ca473b8cbd6b8c313b16dad08aa1f8c10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "ACHIEVEMENT_045": {
       "name": "Snap Happy",
