@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2b51cf3c6fc6c21a2c53c6da7f7a29a161097633.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "ACHIEVEMENT_041": {
       "name": "A True Bond",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4ffa755c0cd0328d2a4df71b6fb2f50ce640abf9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "ACHIEVEMENT_042": {
       "name": "Bond Maniac",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/295e5204af88a4e9b72ce71aeed391e4a475af89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "ACHIEVEMENT_016": {
       "name": "Displaying Adaptability",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/cd6c5d8fab3bc7ac7e83cc6a005b801bbc6c2ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.5"
     },
     "ACHIEVEMENT_030": {
       "name": "Seize the Moment",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2932f047f46812edf1de9157899a91a8adbbd3c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.8"
     },
     "ACHIEVEMENT_011": {
       "name": "Special Fusion Expert",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e6cc82eae3c961595550f76651938010e1d12c24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "ACHIEVEMENT_003": {
       "name": "The Lounge Is Closed",

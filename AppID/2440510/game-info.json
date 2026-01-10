@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/73bf7e389ba7438591da381b90918d11b98dbe0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "ACHIEVEMENT_42": {
       "name": "American Challenger",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/aa43170cb10f271eadf04e11d69e21c6a191d779.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "ACHIEVEMENT_10": {
       "name": "Highlight Reel",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/1c0d8e592116430df1c3fa0a5e2ce7c3b222e7b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "ACHIEVEMENT_14": {
       "name": "Journeyman Builder",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/533a5a3a883474b49123c0ead6ff16ff25298dd2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "ACHIEVEMENT_13": {
       "name": "Just Getting Started",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/efebd8f16c8f2d74ceeaf272a4ce014b15725391.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "ACHIEVEMENT_7": {
       "name": "Race Engineer",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/65269f7ca7659900a59f4400502571e5c9cd8660.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "ACHIEVEMENT_57": {
       "name": "Running on Fumes",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/12648dea83d497f262157c99547de9aa3dc7c318.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.7"
     },
     "ACHIEVEMENT_29": {
       "name": "Safety Star",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/0f04cd7938c2b8adefb5f7d25f2637deca0b0a68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ACHIEVEMENT_30": {
       "name": "Safety Superstar",

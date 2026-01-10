@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e3eb786fae89a6fb4117e51b00c12049b5c51521.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "ML_ACHIEVEMENT_02": {
       "name": "Acrobat",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/1979b473c588a0778f54810e78637742a38a4bde.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "61.2"
     },
     "ML_ACHIEVEMENT_48": {
       "name": "Bel Paese",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2213ac5db7ed794baffad8d722d413703d027515.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "38.0"
     },
     "ML_ACHIEVEMENT_27": {
       "name": "Extreme conditions",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/97c03fb9501055db990f128a957bf17d24458a58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "ML_ACHIEVEMENT_52": {
       "name": "For the family",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/fac610824e0e9fae1fd5263a85f3d6ba61611fe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "ML_ACHIEVEMENT_18": {
       "name": "International license",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/434f370b74038b2e433d40e6fbf0fead26511229.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.2"
     },
     "ML_ACHIEVEMENT_05": {
       "name": "Like lightning!",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e32df1ef551af186913547ae35d17198bac1703f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.1"
+      "percent": "63.2"
     },
     "ML_ACHIEVEMENT_54": {
       "name": "Out of this world",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0439310249b336a93c3408b24640e47dbbaae0e9.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "ML_ACHIEVEMENT_01": {
       "name": "Rookie",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/60ff038cc024f75606690375f9626415e7e971be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "ML_ACHIEVEMENT_31": {
       "name": "Shopping time!",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f46af22ccb261f9287da0357e40d70a62075407f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "ML_ACHIEVEMENT_45": {
       "name": "The Speed of Silence",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/72f31b168a1b4124e12af8b446d0a27ad3b6afeb.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Fast & Furious Expansion Pack",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ML_ACHIEVEMENT_39": {
       "name": "Tools of the trade",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4f980cccc3edc3c4bc1df18560979713333a7df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     }
   },
   "platform": null,

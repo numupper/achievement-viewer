@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1151735a2a3e2e3ad4e4a01f28a3a4587c61fc40.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Victors and Vanquished",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_A_SECOND_HASTINGS": {
       "name": "A Second Hastings",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c3b3cc4956b5255219c09f5da88d2d0c837e3eb7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "51.0"
+      "percent": "50.9"
     },
     "POMPEII_BABYLONIAN_VICTORY": {
       "name": "Babylonian Victory",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c8a447407a01b8c36706d58e42794402571784dd.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "BERBERS_VICTORY": {
       "name": "Berber Victory",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/67e48da3ddbfbd8c6bbd3fc61a7579e6c939105d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "ACHIEVEMENT_CAMPAIGN_LITHUANIANS_COMPLETED": {
       "name": "Bond of Brothers",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/97848e702ad336b4e8e5bb132360db72bfe8a37f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "ACHIEVEMENT_BUILDER_OF_CIVILIZATIONS": {
       "name": "Builder of Civilizations",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d2dceec8826386da4c30bc7c8a28541056111a1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "ACHIEVEMENT_BULLS_EYE": {
       "name": "Bull's Eye",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/99909c2f1aa8b7b6227180610642c815a77f3b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "ACHIEVEMENT_BUT_ITS_PROVOCATIVE": {
       "name": "But It's Provocative",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/73dccb14760f8b73b943a5e8b1c115f0a0c746fb.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ACHIEVEMENT_BY_AHURAMAZDAS_GRACE": {
       "name": "By Ahuramazda's Grace",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41e907ebe32c4f91255aba9b285863fe948b0356.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "ACHIEVEMENT_CAMPAIGN_BURMESE_COMPLETED": {
       "name": "Cakkavatti",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/99efd434828ee47d63bb4f4ebc987220af55106f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "ACHIEVEMENT_CASTLE_OF_DOUBT": {
       "name": "Castle of Doubt",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3b309f61668a6025953c070ca7ee67b744579687.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "ACHIEVEMENT_DARK_HUMOR": {
       "name": "Dark Humor",
@@ -982,7 +982,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/15d1ef1f06021f522074ef878515e99af4f439a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "ACHIEVEMENT_FINAL_COUNTDOWN": {
       "name": "Final Countdown",
@@ -1009,7 +1009,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4067f9433903a6be01d9e5aeb37f73b192147400.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "ACHIEVEMENT_FIRST_CITIZEN": {
       "name": "First Citizen",
@@ -1054,7 +1054,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/54fe6d3cebf0e70045d99f98ede527993d864408.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "ACHIEVEMENT_FRANKLY_MY_DEAR": {
       "name": "Frankly My Dear...",
@@ -1099,7 +1099,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/350b466f9fa9bd6c84d8e37154be14d77166297d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "ACHIEVEMENT_GALLEON_BLING": {
       "name": "Galleon Bling",
@@ -1342,7 +1342,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/933e9e2f26e6b58e57e8cce5883161ee3210df33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "HUNS_VICTORY": {
       "name": "Hunnic Victory",
@@ -1423,7 +1423,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/796efece6b9a41a8f1fd550c3ba2a65d2a3cc15b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "ACHIEVEMENT_INDICA": {
       "name": "Indica",
@@ -1540,7 +1540,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/68f18cc2e43ff830d63265ac89637825fa643d65.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "KHMER_VICTORY": {
       "name": "Khmer Victory",
@@ -1666,7 +1666,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/7b82c8feb266edcabfee01b7a80f025d27a870db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "ACHIEVEMENT_NO_HOJO": {
       "name": "Lone Warrior",
@@ -1693,7 +1693,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/53cd3e40336e7b26c066414dcdea13e8ea183675.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "ACHIEVEMENT_LOST_VIKINGS": {
       "name": "Lost Vikings",
@@ -1720,7 +1720,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/7743b184a7b5dc50b3c683c2181aabe39c6d8135.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "MAGYARS_VICTORY": {
       "name": "Magyar Victory",
@@ -1756,7 +1756,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/bacf943cacbce85a1dba0b6e2d26cb39f5d111f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "ACHIEVEMENT_MALLEUS_SCOTORUM": {
       "name": "Malleus Scotorum",
@@ -1891,7 +1891,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/13f68d763eef94fbdb2ff52aff3a8e6951dabe38.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Battle for Greece",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "ACHIEVEMENT_NEVER_TRUST": {
       "name": "Never Trust a Campaign AI",
@@ -1999,7 +1999,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/18022140fe5d49574522ce14fb54f27fd87efc52.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "49.4"
+      "percent": "49.2"
     },
     "ACHIEVEMENT_NUMBERS_BEAT_EVERYTHING": {
       "name": "Numerous As the Grains of Sand",
@@ -2098,7 +2098,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/67b9939ebe1c666f0f09de3150c88c7be65a29dc.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Battle for Greece",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "POMPEII_PHOENICIAN_VICTORY": {
       "name": "Phoenician Victory",
@@ -2152,7 +2152,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/8098770c1d5e617625d95d71f49c2dc94ddadb87.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Battle for Greece",
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "PORTUGUESE_VICTORY": {
       "name": "Portuguese Victory",
@@ -2161,7 +2161,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/77ac34564437cbc4f72c9e0d02cf78cf8e7f2cd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "ACHIEVEMENT_PREPARE_FOR_BOAR": {
       "name": "Prepare for Boar!",
@@ -2170,7 +2170,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "48.7"
+      "percent": "48.5"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2206,7 +2206,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/768625f6f48f3d2f35e3a68a2674c1f67799d9ac.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ACHIEVEMENT_DESTROY_DELHI": {
       "name": "Raging Wildfire",
@@ -2323,7 +2323,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d807ee0a9243adbf41b31d867f9319d1da8c3d1b.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "POMPEII_ROMAN_VICTORY": {
       "name": "Roman Victory",
@@ -2566,7 +2566,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b0c77ed84febe5a627c1cbb767e5ac680e42b5e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "ACHIEVEMENT_SUSHI_LOVER": {
       "name": "Sushi Lover",
@@ -2710,7 +2710,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3a1af084c96b7b4be91e402a740402f76be388b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "ACHIEVEMENT_KUSHLUK_ASSASSINATION": {
       "name": "The Kushluk Assassination",
@@ -2809,7 +2809,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/2bf33858b83cc7745cf7c122e7df5608e31c9b9c.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
-      "percent": "0.5"
+      "percent": "0.4"
     },
     "ACHIEVEMENT_THRONE_THIEF": {
       "name": "Throne Thief",
@@ -2962,7 +2962,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b35fc1092273711a640fe243b1d0281045e4bca3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "VIKINGS_VICTORY": {
       "name": "Viking Victory",
@@ -2971,7 +2971,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/85cca5cd6684318ba4ed98c62790f94e28834c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "ACHIEVEMENT_CAMPAIGN_DRACULA_COMPLETED": {
       "name": "Vladislav, Baby Don't Hurt Me",

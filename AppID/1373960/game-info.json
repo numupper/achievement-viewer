@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "GettingDry_Shameless": {
       "name": "Abstinence",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "Game_CutHand": {
       "name": "John of Damascus",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.0"
+      "percent": "65.9"
     },
     "Game_FullWalktrought": {
       "name": "Kudets",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "BeforeVat_OneTry": {
       "name": "Like shooting fish in a barrel",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "Station_DestoyAllBox": {
       "name": "Meticulousness",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "Village_ShakePiano": {
       "name": "Rachmaninoff",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "54.8"
     },
     "Monastery_DropLadder": {
       "name": "Sisterly love",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "Village_Sinking": {
       "name": "Unholy water",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     }
   },
   "platform": null,

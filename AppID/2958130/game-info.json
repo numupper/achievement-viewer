@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/50531b64a6062eae783254f80e48697c6adb90b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "JurassicDiffAzores": {
       "name": "Azorean Excellence",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c2ce6741bd8cbc0a4ea4a031782fa6c3ddab36a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "JurassicDiffClarkCounty": {
       "name": "Clark County Commander",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b6dabd3b6617018a5861e4c7c760275bb8c941b2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "9.0"
     },
     "JurassicDiffBadlands": {
       "name": "Dig Deep",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.9"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4eed8b2e540dcac1842f9801d78113903a31ff18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.2"
     },
     "Gen5Juvenile": {
       "name": "Fifth Iteration",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b573c4dcb8e0007f8d254530136bdff6a71962f9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.8"
     },
     "CompletePark2Objectives": {
       "name": "I Own an Island…",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b04dfd57e6bf8551a9007bc814694a59e39ac7ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "12.0"
     },
     "JWDatabase50": {
       "name": "If You Knew Enough...",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/624b128fe269ea295b5f8736d71181229f4d06d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "ReleaseTRex": {
       "name": "Impact Tremor",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.8"
     },
     "BuildLagoon": {
       "name": "Include That In The Brochure",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/21d40d99ab6fa8ef1e481c9afdba74f968e5d278.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.7"
     },
     "JurassicDiffNusaTenggara": {
       "name": "Indonesian Legend",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/65e6392389e301c378992c0cf570f332d57aef6f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "JurassicDiffKatsuyama": {
       "name": "Logistics Master",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c2244ad3c2cf1a670fb0740277851c28d6fa0896.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "DestroyHelicopter": {
       "name": "Look Alive, Boys!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/49648538e5433a1f9027a40ca1a373675061f0ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.3"
     },
     "JurassicDiffSanAlbertus": {
       "name": "Maltese Marvel",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/8c0061ec8d2b1e1cbad23dad4e680b7e9d98840e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "CompletePark10Objectives": {
       "name": "Man-Made Cataclysmic Change",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/fc4105860f423bb148a77913835cb2816345ef6f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "BreedJuvenile": {
       "name": "Not Assets... But Animals!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.8"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/923c84d73e0caf36a64922e91c4ba78c196b5f09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "JurassicDiffSichuan": {
       "name": "Sichuan Survivor",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/5fc9ade08a223e413ed98e99a48cb1b68bcd09ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.8"
     },
     "CompletePark7Objectives": {
       "name": "This Must Feel Exotic",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c17079545cbda052bd2dfe387b338b5c1f89dcc8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.3"
     },
     "CompletePark5Objectives": {
       "name": "Twenty-Seven Foot Neck",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/5813842573be8214792da5584187be21476e48f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "CompletePark3Objectives": {
       "name": "Welcome One, Welcome All",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/dd9755fe4d0aff4dc2987ac8a76104e3be853ecb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.6"
     },
     "UnlockAct2": {
       "name": "We've Entered a New Era",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/0c863719ff91030f0a08cf4adc7b7a6e8409e1d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.4"
     },
     "CompletePark4Objectives": {
       "name": "What Are Her Symptoms?",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/d506b47531c926241fd97112da2e703e697018bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.4"
     },
     "CompletePark1Objectives": {
       "name": "You'll Never Get Him Out of Montana",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/f78ac8fc4dbd88e309d0b51a651abf767aa753a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.1"
     }
   },
   "platform": null,

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/46e89da08176a051f6a3a660a87ddd27a45be84c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.1"
+      "percent": "74.2"
     },
     "DESTROY_MONUMENT": {
       "name": "Dethroner",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/305d6a035fa2a39a3e1ccc191cf8a5a7fec77884.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.4"
+      "percent": "59.5"
     },
     "HACK_HQ": {
       "name": "Hacker",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/fe8514e43fd12c13685019b3d73033142412ce35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.8"
+      "percent": "73.9"
     },
     "MAKE_SECRET_SOUP": {
       "name": "Secret Soup",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/a9f45d4197acefe698400a0ac5448976b07bde2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "DESTROY_RACCOON_LAGOON": {
       "name": "The Flume Is Doomed",
