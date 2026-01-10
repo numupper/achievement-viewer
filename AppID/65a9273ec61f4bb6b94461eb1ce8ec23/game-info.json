@@ -1,0 +1,545 @@
+{
+  "appid": "65a9273ec61f4bb6b94461eb1ce8ec23",
+  "name": "PC Building Simulator 2",
+  "icon": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S1_2560x1440-45c97b0dd1cd585c4eb70bef739ad64b?resize=1&w=640&h=360",
+  "achievements": {
+   "BUILD_show_piece": {
+    "name": "Showpiece",
+    "hidden": false,
+    "description": "Build a $15k PC and have it boot",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/e56b77c29221925b3900a14b7df4d46a",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1c09de12884791a986164d6c2f978aa6",
+    "group": "Base game",
+    "percent": "3"
+},
+   "BUILD_unlimited_power": {
+    "name": "Unlimited Power",
+    "hidden": false,
+    "description": "Build a PC with 4 GPUs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/7f76c2c52e1bca5681128019f5571022",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/c8446fa317ac3b0e2d85973aa53902fc",
+    "group": "Base game",
+    "percent": "2"
+},
+  "BUILD_when_in_doubt_throttle_out": {
+    "name": "Full Throttle",
+    "hidden": false,
+    "description": "Build a Throttled PC",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/e3ba5b8616b8d28e38a2fbb0ff5f269c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/7b3100a86a49be23c4b59fdc1dfa27dd",
+    "group": "Base game",
+    "percent": "15"
+},
+  "CASH_big_shot": {
+    "name": "Big Shot",
+    "hidden": false,
+    "description": "$1,000,000 in the bank",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/bf786c8275794393094f0d0ef1832a85",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1dfac8e2cfbd93addc85650ad1b3a817",
+    "group": "Base game",
+    "percent": "1"
+},
+  "CASH_bootstrapping": {
+    "name": "Bootstrapping",
+    "hidden": false,
+    "description": "$1,000 in the bank",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/b4dfa05d774993078484bdefce83fb09",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/ce6e0f737e763cecfdab591b9c52b83f",
+    "group": "Base game",
+    "percent": "35"
+},
+  "CASH_going_places": {
+    "name": "Going Places",
+    "hidden": false,
+    "description": "$ 50,000 in the bank",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1fa360234b8299bea24c81c5370d101b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/11c17113d5b867b77e1a6fad88e8fe1a",
+    "group": "Base game",
+    "percent": "6"
+},
+  "CASH_on_the_ladder": {
+    "name": "On the Ladder",
+    "hidden": false,
+    "description": "$25,000 in the bank",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/2ec1ab8c0c1f7081adee28c9ce051a95",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/bb9fe748528aa448a7f045f123d887d2",
+    "group": "Base game",
+    "percent": "9"
+},
+  "CINEBENCH_cinematic": {
+    "name": "Cinematic",
+    "hidden": false,
+    "description": "Run Cinebench 5 times",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/605e3963736eecf8c0d676be96be6bf3",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/a6f1b5a0b04a68b8dbabc8fdbe03be78",
+    "group": "Base game",
+    "percent": "9"
+},
+"CUSTOMIZE_broken_to_smokin": {
+    "name": "Broken to Smokin'",
+    "hidden": false,
+    "description": "Complete a repair job and add some customisation to it",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/cfaae47cd55c9e52209da1c7c979b67e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/e92507a5562bd699f47b906d3c66e7b4",
+    "group": "Base game",
+    "percent": "10"
+},
+"CUSTOMIZE_dream_theme": {
+    "name": "Dream Theme",
+    "hidden": false,
+    "description": "Apply a theme to a PC for the first time",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/f572421ae8a6ec4222b70866134a0ad8",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/6490a2f7132cf303b2cde8000eb267b4",
+    "group": "Base game",
+    "percent": "18"
+},
+"CUSTOMIZE_grand_designs": {
+    "name": "Grand Designs",
+    "hidden": false,
+    "description": "Complete your first workshop customisation",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/0b9cf9784d111d4e5a7419377c29cf1d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/6f80ca8f469b246b2f6503bc7da1a8ce",
+    "group": "Base game",
+    "percent": "28"
+},
+"CUSTOMIZE_just_how_you_like_it": {
+    "name": "Making It Mine",
+    "hidden": false,
+    "description": "In Career Mode, customize your office PC",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/f6a8ef56921dfd578ef355b27a7c8024",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/bcbe4130806228bc30bc876cdffafe15",
+    "group": "Base game",
+    "percent": "3"
+},
+"CUSTOMIZE_just_like_old_times": {
+    "name": "Just Like Old Times",
+    "hidden": false,
+    "description": "Decorate your workshop with all the PCBS 1 themed items",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/173a271fea502bca7b58ad2c0f6d4b0a",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/a04c18abfffcc77e7f7f7cbb62711718",
+    "group": "Base game",
+    "percent": "1"
+},
+"CUSTOMIZE_matching_set": {
+    "name": "Matching Set",
+    "hidden": false,
+    "description": "Deck out a workshop with a complete set of a theme",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/20ccc1907d40e3949a39b555bdd6f578",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/bee897704177df8fdf9d41ce9f8be000",
+    "group": "Base game",
+    "percent": "4"
+},
+"CUSTOMIZE_mix_and_match": {
+    "name": "Mix and Match",
+    "hidden": false,
+    "description": "Deck out a workshop with parts from 3 themes",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/2f305715a1fa7afc43981d75ff4d955d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/041e289b0e0bd5210bbc874b33202932",
+    "group": "Base game",
+    "percent": "15"
+},
+"CUSTOMIZE_pimp_my_rig": {
+    "name": "Pimp My Rig",
+    "hidden": false,
+    "description": "Customize your first PC",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/c612c269ca3b5e1ecfd50baf6c7cb4ce",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/9029ff2c68513024032515faacacb444",
+    "group": "Base game",
+    "percent": "13"
+},
+"CUSTOMIZE_variations_on_a_theme": {
+    "name": "Variations on a Theme",
+    "hidden": false,
+    "description": "Add 10 themes to PC cases",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/25492f1234bed1e0531bd483386ec8ff",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/5f941ee861ff20516c6c2fafdbd9b6e6",
+    "group": "Base game",
+    "percent": "8"
+},
+"DELIVERY_bring_it_in": {
+    "name": "Ship It Harder",
+    "hidden": false,
+    "description": "Export 10 PCs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/b5fdcfebf3dc62560d324a15f0f5bb24",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/6a17148ea137ba4461fb6addc7fb2625",
+    "group": "Base game",
+    "percent": "0.2"
+},
+"DELIVERY_keep_em_coming": {
+    "name": "Keep 'Em Coming",
+    "hidden": false,
+    "description": "Import 5 PCs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/45855abc4b14686bbc701d92f3973da2",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/2bd3da819f883d771618400caaebb4eb",
+    "group": "Base game",
+    "percent": "0.2"
+},
+"DELIVERY_quarter_master": {
+    "name": "Export Expert",
+    "hidden": false,
+    "description": "Export 25 PCs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/ccf424a8672b6dd8d9ad3fc0288bae3d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/6c7867c53a842fe533bd949e37ef90ab",
+    "group": "Base game",
+    "percent": "0.1"
+},
+"DELIVERY_ship_it": {
+    "name": "Ship It",
+    "hidden": false,
+    "description": "Export your first PC",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/e148b7c17c99706a606807a9d81beb9e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/d2927a556ac63fd4bb2c26472e3bdda2",
+    "group": "Base game",
+    "percent": "4"
+},
+"DELIVERY_thanks_jeff": {
+    "name": "Thanks Jeff",
+    "hidden": false,
+    "description": "Have 20 items delivered on the same day",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/43b1b2abb7b3cb7a74c816d63bca349c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/91e0cd5456baeee4dcb7df14e8aa2a39",
+    "group": "Base game",
+    "percent": "10"
+},
+"DELIVERY_very_imported_pc": {
+    "name": "Very Imported PC",
+    "hidden": false,
+    "description": "Import your first PC",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/35ce1f3af90acb23314f625db8625111",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/fa7aad09fddf72226fa03f1eadf1acaf",
+    "group": "Base game",
+    "percent": "15"
+},
+"JOBS_old_hand": {
+    "name": "Workaholic",
+    "hidden": false,
+    "description": "Complete 50 jobs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/ad13170c625bc32bbbcc2567d02cfc49",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/9b406b7f9e08cbf83e9caa7c73060cc7",
+    "group": "Base game",
+    "percent": "11"
+},
+"JOBS_on_the_job": {
+    "name": "On the Job",
+    "hidden": false,
+    "description": "Complete 10 jobs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/2af27430a343637128c629502a544cc5",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/e5912945042b9b7e511295b9af980d3e",
+    "group": "Base game",
+    "percent": "31"
+},
+"JOBS_pc_og": {
+    "name": "PC OG",
+    "hidden": false,
+    "description": "Complete 250 jobs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/ab1521c070d1d914b55966701de6357f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/8a4950bbe00c48d9318c2983324a30c1",
+    "group": "Base game",
+    "percent": "0.4"
+},
+"JOBS_work_ethic": {
+    "name": "Working Hard",
+    "hidden": false,
+    "description": "Complete 30 jobs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/6f67aa5b44677fdffa505c9cddd8b212",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/cc2a0db5472a079d342d8014910bfc91",
+    "group": "Base game",
+    "percent": "17"
+},
+"JOBS_workoholic": {
+    "name": "Tech Vet",
+    "hidden": false,
+    "description": "Complete 100 jobs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/7163b539b81c51fb4e2d09af1f6bff8f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/49f9529bb0549f740c2da0b7468987f9",
+    "group": "Base game",
+    "percent": "3"
+},
+"LEVEL_elite_technician": {
+    "name": "Elite Technician",
+    "hidden": false,
+    "description": "Reach Level 20",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/c0d0ace3f15334b4863e121be720e8fc",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/af442c198606fb040e5082ccac58f9ae",
+    "group": "Base game",
+    "percent": "3"
+},
+"LEVEL_legendary_technician": {
+    "name": "Legendary Technician",
+    "hidden": false,
+    "description": "Reach Level 30",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/20ec01a29717ccc64bcdee48f0bf930c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/774b45daee63ab35536646c24674acd3",
+    "group": "Base game",
+    "percent": "0.7"
+},
+"LEVEL_repair_master": {
+    "name": "Repair Master",
+    "hidden": false,
+    "description": "Reach Level 10",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/a86d1e9eb09a9f324c722129240dcaf9",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/a8c362e2ccc657aee01ec5b80fc5c66a",
+    "group": "Base game",
+    "percent": "13"
+},
+"LEVEL_tinker": {
+    "name": "Tinker",
+    "hidden": false,
+    "description": "Reach Level 5",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/face5844bd900b2e2f4da7af2e079f9b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/a8c24db35ffabae401558a2d839828fb",
+    "group": "Base game",
+    "percent": "26"
+},
+"LIGHTING_moar_rgb": {
+    "name": "MOAR RGB",
+    "hidden": false,
+    "description": "Build a PC with 10 RGB parts and have it boot",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/82cf964d8cf305280709410b7b100db9",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/05ea75883b4b166fe180e715faed9930",
+    "group": "Base game",
+    "percent": "21"
+},
+"LIGHTING_shine_on": {
+    "name": "Shine On",
+    "hidden": false,
+    "description": "Use the Rainbow effect",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/8b64010d875409ca6d015c8e4a5db1d5",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/66030ab3d1fad2889876cff2c533341c",
+    "group": "Base game",
+    "percent": "34"
+},
+"OCCT_stabiliser": {
+    "name": "Stabiliser",
+    "hidden": false,
+    "description": "Run OCCT 10 times",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/40f168ac119bb16938f7b0129c254f6e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/2233b94ba1d55f5897dbe7bfe99dbd0d",
+    "group": "Base game",
+    "percent": "7"
+},
+
+"OVER_glutton": {
+    "name": "Procrastinator",
+    "hidden": false,
+    "description": "Eat 50 fruits in Wormy",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/ca42c86483911b17f6ff726b1116d536",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/300bb26c9c9b3f795f87483e70483dde",
+    "group": "Base game",
+    "percent": "0.4"
+},
+"OVER_paste_not_want_not": {
+    "name": "Paste Not, Want Not",
+    "hidden": false,
+    "description": "Use way too much thermal paste",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/0bfb247a82fe9362b2c66b3ae80cdf6f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1dad7560556a0a6c5d98d89d1fc3e6b9",
+    "group": "Base game",
+    "percent": "11"
+},
+"OVER_this_one_goes_to_11": {
+    "name": "This One Goes to 11",
+    "hidden": false,
+    "description": "Cause BSOD by overclocking a GPU",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1bd9fbe59fc39d63331b4dc2cd78cdc8",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/87a3007d0262a4a721fad51633a9acea",
+    "group": "Base game",
+    "percent": "7"
+},
+"SCORE_bench_press": {
+    "name": "On the Bench",
+    "hidden": false,
+    "description": "Get a Timespy score of 10,000+",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/5076cb288e0c2a780bcce6bedcbe931b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/48abea8be98c569a6cff2fc64b9db4cf",
+    "group": "Base game",
+    "percent": "17"
+},
+"SCORE_bench_warmer": {
+    "name": "Bench Press",
+    "hidden": false,
+    "description": "Get a Timespy score of 30,000+",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/22f9a858ad83a429b351901bd52284cf",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/084f67b87c22dd09dafe1ba655698874",
+    "group": "Base game",
+    "percent": "5"
+},
+"SCORE_on_the_bench": {
+    "name": "Bench Warmer",
+    "hidden": false,
+    "description": "Get a Timespy score of 20,000+",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/97fb7e1461a6808700dd7bea6a14f01f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/186b5d64d131a1081eb04bbd571b0bfa",
+    "group": "Base game",
+    "percent": "11"
+},
+"SELL_foot_in_the_door": {
+    "name": "Foot in the Door",
+    "hidden": false,
+    "description": "Sell 10 PCs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/edf20e58a4c1330d05ec4602b48c789b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/b18bca58551c9b5411b59c34d1546707",
+    "group": "Base game",
+    "percent": "14"
+},
+"SELL_gift_of_the_gab": {
+    "name": "Gift of the Gab",
+    "hidden": false,
+    "description": "Sell 20 PCs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/c59ad2315143fe0a0446aad4b6a1b76c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/aa046f000aa77d85c0f73b925f671012",
+    "group": "Base game",
+    "percent": "9"
+},
+"SELL_salesperson_of_the_month": {
+    "name": "Salesperson of the Month",
+    "hidden": false,
+    "description": "Sell 50 PCs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/32898487e2db1cbc197fea9de7c07472",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/97582611eb9000099fc18445144d3474",
+    "group": "Base game",
+    "percent": "3"
+},
+"SELL_something_special": {
+    "name": "The More the Merrier",
+    "hidden": false,
+    "description": "Sell a Multi GPU PC",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/eb505cb0ee7b4b2cf1d7be3131b50c1d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1d989ac1fdff5b7c793859c80df695a3",
+    "group": "Base game",
+    "percent": "16"
+},
+"SHOP_basket_case": {
+    "name": "Forgetful Shopper",
+    "hidden": false,
+    "description": "End the day with something still in the checkout",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/14f2106a7b96ad7fe446aecafedbb776",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/9bdf16f9cac0a728a0fc2161f1a32961",
+    "group": "Base game",
+    "percent": "7"
+},
+"SHOP_sales_pitch": {
+    "name": "Sales Pitch",
+    "hidden": false,
+    "description": "Sell a PC in the shop for the first time",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/e6df42b5e458bc0723add134fcd8dabc",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/9db0ad729fb13ff85c93b626e415ffce",
+    "group": "Base game",
+    "percent": "28"
+},
+
+"SPARESNREPAIRS_recycler": {
+    "name": "Recycler",
+    "hidden": false,
+    "description": "Buy 10 broken PCs from Spares'N'Repairs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/4549152bf25e8914f3acb0ba587f2b9e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/9905df737ff55e8270c0090c00dff171",
+    "group": "Base game",
+    "percent": "15"
+},
+"SPARESNREPAIRS_salvage_squad": {
+    "name": "Salvage Squad",
+    "hidden": false,
+    "description": "Buy 20 broken PCs from Spares'N'Repairs",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/9add8982dfcebf9256c44bb593ead741",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/705756cf10b5659d0d19b3a9e71e6946",
+    "group": "Base game",
+    "percent": "9"
+},
+"STARS_cowboy": {
+    "name": "Cowboy",
+    "hidden": false,
+    "description": "Score one star on a job",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/93eda5e51099123f806d95920869b0ce",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/0a0de7748ead6620a29e3d07c9a75961",
+    "group": "Base game",
+    "percent": "9"
+},
+"STARS_local_hero": {
+    "name": "Local Hero",
+    "hidden": false,
+    "description": "Score 5 stars for 5 jobs in a row",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/71a372a761e0a09382b882899c600ac1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/ba0b4e199907dd74bc24e2801b4ef6e5",
+    "group": "Base game",
+    "percent": "11"
+},
+"STARS_the_customer_is_king": {
+    "name": "The Customer is King",
+    "hidden": false,
+    "description": "Score 5 stars on a job",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/2a7f4c4909da6f536a5bf0b4e8cf5662",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/d67647f91bf6f241ad02aa20fdbe1243",
+    "group": "Base game",
+    "percent": "17"
+},
+
+"STICKERS_get_stuck_in": {
+    "name": "Get Stuck In",
+    "hidden": false,
+    "description": "Apply a sticker for the first time",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/67068b801fbcf263ae315a7b2a5a3e46",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/8d8a1a2e0f6e3b8b4c9c6f4f5a3b2c1d",
+    "group": "Base game",
+    "percent": "29"
+},
+"STICKERS_stick_with_it": {
+    "name": "Stick With It",
+    "hidden": false,
+    "description": "Apply 10 stickers",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1f2e3d4c5b6a79808f9e0d1c2b3a4f5e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d",
+    "group": "Base game",
+    "percent": "9"
+},
+"STICKERS_slap_happy": {
+    "name": "Slap Happy",
+    "hidden": false,
+    "description": "Apply 50 stickers",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/abcdef1234567890fedcba0987654321",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/0123456789abcdef0123456789abcdef",
+    "group": "Base game",
+    "percent": "9"
+},
+
+"TEMP_hot_stuff": {
+    "name": "Hot Stuff",
+    "hidden": false,
+    "description": "Hit 100°C on a component",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1234abcd5678ef901234abcd5678ef90",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/fedcba9876543210fedcba9876543210",
+    "group": "Base game",
+    "percent": "23"
+},
+"TEMP_room_for_expansion": {
+    "name": "Room for Expansion",
+    "hidden": false,
+    "description": "Install 10 case fans",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/0f1e2d3c4b5a69788796a5b4c3d2e1f0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/11223344556677889900aabbccddeeff",
+    "group": "Base game",
+    "percent": "30"
+},
+"TEMP_chill_out": {
+    "name": "Chill Out",
+    "hidden": false,
+    "description": "Install a custom water cooling loop",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/a1b2c3d4e5f607182736455463728190",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/99887766554433221100ffeeddccbbaa",
+    "group": "Base game",
+    "percent": "32"
+},
+"TEMP_supercool": {
+    "name": "Supercool",
+    "hidden": false,
+    "description": "Hit -50°C on a component",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/55aa66bb77cc88dd99ee00ff11223344",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/4433221100ffeeddccbbaa9988776655",
+    "group": "Base game",
+    "percent": "8"
+}
+  },
+  "platform": "Epic Games",
+  "blacklist": [],
+  "uses_db": false
+}
