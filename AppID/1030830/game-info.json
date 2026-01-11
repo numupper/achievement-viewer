@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.9"
     },
     "MDL_CHECKING_OUT": {
       "name": "Checking Out",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "MDL_CHOP_CHOP!": {
       "name": "Chop Chop!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "MDL_DLC_RTR_EXPLORER": {
       "name": "Explorer",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "MDL_DLC_JA_FIVE_FINGER_DISCOUNT": {
       "name": "Five Finger Discount",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/5860081359ebdf68b5ada6d7dd9a799a5241c4fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "MDL_GOOD_SPIRITS": {
       "name": "Good Spirits",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "MDL_MAIL_MAN": {
       "name": "Mail Man",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "MDL_DLC_RTR_MASSACRE": {
       "name": "Massacre",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/5860081359ebdf68b5ada6d7dd9a799a5241c4fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "MDL_DLC_RTR_MILLIONAIRE": {
       "name": "Millionaire",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "MDL_PEDAL_TO_THE_METAL": {
       "name": "Pedal to the Metal",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "MDL_DLC_RTR_REVENGED": {
       "name": "Revenged",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "MDL_DLC_RTR_SHARP_SHOOTER": {
       "name": "Sharpshooter",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/5860081359ebdf68b5ada6d7dd9a799a5241c4fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "MDL_THE_ENFORCER": {
       "name": "The Enforcer",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "40.0"
     },
     "MDL_THE_PRICE_OF_OIL": {
       "name": "The Price of Oil",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "MDL_THE_WILD_ONES": {
       "name": "The Wild Ones",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "MDL_DLC_JA_WHAT_WITNESS": {
       "name": "What Witness?",

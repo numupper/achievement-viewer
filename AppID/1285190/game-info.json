@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/bb133ba510475c0ef7a68c84ff11a183cfd4c6ba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "Achievement_07": {
       "name": "Area of Expertise",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58785c8cfca8f343dffb09275edaaa2f0ab33bce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "Achievement_26": {
       "name": "As If Moved by an Occult Hand",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/240b0701c0324b483745f9a7cb3f322825eb7bc4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.8"
     },
     "Achievement_08": {
       "name": "Brand Equity",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c22d44aa3605dfffd2645ddae7ef86ec09007ede.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "Achievement_00": {
       "name": "Crimson Rising",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/2da08f2be1a864bf8c05c6a970e7d730969478ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "Achievement_29": {
       "name": "Everything Breaks",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.4"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/344793692c47057b25213950a71a46c7bce8fa46.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.6"
+      "percent": "67.7"
     },
     "Achievement_13": {
       "name": "Freelance, but Not for Free",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.8"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/16cca5cf5e2f9b06bf830a9889e4518070f63a42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.5"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/528e2c390a04bc3f81b96a660231bc43dca5aa73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "Achievement_27": {
       "name": "Long Live the Queen",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/1111c9f84dcda34d8af81a9b2df68589787acc58.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "Achievement_02": {
       "name": "Master of Death and Dance",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/673425f550719635a1f4b0a6c0815d99fdd5b0e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "33.0"
     },
     "Achievement_22": {
       "name": "Mole Money, Mole Problems",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d31e42682e849671d97112a8a154a58ae6d74a45.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "Achievement_19": {
       "name": "Nothing Left to Guard",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/afc95e9686033038e5dff7af56268c79c6bab420.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "Achievement_18": {
       "name": "Pop Out",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/631aa5608bae7533f4b2b1b90c5a3c09bee8929d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.3"
+      "percent": "75.4"
     },
     "Achievement_11": {
       "name": "Reverse Abduction",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/02e90dbf3edb76faf79cb12c5ba867ac8b39000e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "Achievement_33": {
       "name": "Rift Incompatible",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4db523af262b32a18c4c861aa3bf2ef065a6110c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "Achievement_04": {
       "name": "The Lookbook is the Cookbook",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b910717f8580dcbd7c3f296cc8949e969c92cba7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.7"
+      "percent": "45.8"
     },
     "Achievement_15": {
       "name": "The Mountain Provides",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3e20c4f19361b30a70d90a0e33024078f1532dbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "Achievement_14": {
       "name": "Unfaded",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/13fb54c84e197796a4915cb233a17e26b8edfec7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "Achievement_17": {
       "name": "Useful Citizen",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/9b29ef3b04f47d6337e523797761079c93040edc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "Achievement_23": {
       "name": "Widely Beloved Mascot",

@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "trophy_29_treasure_hunt": {
       "name": "All That Gold",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "trophy_22_all_armors": {
       "name": "Fine Feathers Make Fine Birds",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "trophy_33_mine_kill_special": {
       "name": "Miner",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "42.1"
     }
   },
   "platform": null,

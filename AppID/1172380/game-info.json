@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/44cecfa7b86992c7754e28abe2b3081e4a45a241.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "Achievement_GOSCC_25": {
       "name": "Can't Touch This",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/fec7f17f17c3f8bdf21fbfc434af78515dbec608.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.6"
     },
     "Achievement_GOSCC_39": {
       "name": "Echo Location",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/3bbe50f613a413d5eae408fc3e639f2edb6a9e70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "Achievement_GOSCC_16": {
       "name": "For A More Civilized Age",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/421a77c93086e6f06da1db1ffecf3c7a7d27a9c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.5"
     },
     "Achievement_GOSCC_13": {
       "name": "Her Name Was Masana Tide",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/b60b7a5f7ac4d01b42131e54b3b084cf3ac3f125.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "Achievement_GOSCC_17": {
       "name": "I Knew He Was No Good",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/c2def905a9935b3cd5e8802fd5cd61aec5781792.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "Achievement_GOSCC_35": {
       "name": "Sabersmith",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/7f42c5b849c247bcbd91c22e3fcdfc3cc1fc1cef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "Achievement_GOSCC_11": {
       "name": "The Holocron Awaits",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/624c37952ce64fdb75b642ecb844f02f205dc724.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "Achievement_GOSCC_6": {
       "name": "Trust Only In The Force",

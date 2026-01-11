@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/743b2d615428cc95402796e650e9182a9fec23e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "FC6_Ach_17": {
       "name": "Beginner's Luck",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/4efa9e7a3ff614b55a91e058bc0ead7da8dca317.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "FC6_Ach_64": {
       "name": "Dear Diary",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/d7292ce7d3a9a24d48d59fa96080b05231a3a6d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "FC6_Ach_47": {
       "name": "Do It Yourself",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/04996c96d4a19c9b77b6c35caccdbb5e96c80993.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "FC6_Ach_74": {
       "name": "Early Drafts",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/eaef1c5f6a071fc68c8b910b25d3237629abe064.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "FC6_Ach_10": {
       "name": "Finders Keepers!",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/30dc2439b6177c96a0506cb592a1b86473dc559c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "FC6_Ach_22": {
       "name": "Hogar Dulce Hogar",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/4a45710fceb542b54c1031e41d4924de683b7269.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "FC6_Ach_34": {
       "name": "Jawson Brody",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/a3442d871544e6b1fd0de83630d8a6f3e4cd41f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "FC6_Ach_29": {
       "name": "Loyal Army",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/60aee575a15d9dfe87404f021d79dacebeac969f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "FC6_Ach_92": {
       "name": "Now You're Riftin'",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/f2bb06d3d1719f35b93a552e994302d4c755db66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "FC6_Ach_86": {
       "name": "Parables",
@@ -793,7 +793,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/c5ce2c264ed1adf327112b93650b1a8b9374503d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "FC6_Ach_45": {
       "name": "Toxic Influence",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/980c12e795a1c9f58737433c4f03a500c3aebb42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "FC6_Ach_5": {
       "name": "Voz del Pueblo",
@@ -856,7 +856,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/3df7d695b2f93038e74e30cb9d555951a162f156.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "FC6_Ach_88": {
       "name": "Walking the Path",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/87df8478db249bf0fb38329a0a9a19089ca10a9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     }
   },
   "platform": null,

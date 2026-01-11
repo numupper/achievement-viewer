@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/e86fd4d2bc3306277abd9380f79a5fdf6a3d6379.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "ACT2": {
       "name": "Chapter 2",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/8ca8b15499692c9275a4f4baea347db2293f05dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "ACT6": {
       "name": "Chapter 6",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/16206eba35c804a1d577884ae1f26f6df1621b61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "CONSPIRACYTHEORIST": {
       "name": "Conspiracy Theorist",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/4ce0c3f5f367e6074de167da7cb9ca7bd9f6a608.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "PEANUTBUTTER": {
       "name": "Peanut Butter Butterpops!",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/380be9809f4d6443559e5ef9ccba4d7a85c4c24a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "PROLOGUE": {
       "name": "Prologue",

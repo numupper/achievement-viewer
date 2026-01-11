@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/5b7a9d75fc25f53776af77263d8fc5d897b48f4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "HISTORIAN": {
       "name": "Historian",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/2ef3bee16497286866c134d3beff470d43ca21a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "LIGHT_AT_THE_END_OF_THE_TUNNEL": {
       "name": "Light at the End of the Tunnel",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6fc264d045fa3d5fcf523ea67d1d5696ec1fe2fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.2"
+      "percent": "68.1"
     },
     "LIGHTNING_ROD": {
       "name": "Lightning Rod ",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/1f6a7b91a8bcfe0d0ae372078937053e074b3033.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.4"
+      "percent": "82.3"
     },
     "ROOT_CANAL": {
       "name": "Root Canal ",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/cff5dd78632a88df303d0e28d7f3db7e97607236.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.4"
     },
     "STALWART_PSYCHOSIS": {
       "name": "Stalwart Psychosis",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/1f4cc6082f5e37b61d10e1e91f8f99b9a62e8702.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.0"
     },
     "SUMMER_SOLSTICE": {
       "name": "Summer Solstice",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/066d3b7bc3b17fbc6f684b010fb4e60f39e8f4b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.3"
+      "percent": "73.2"
     },
     "THE_GREAT_ESCAPE": {
       "name": "The Great Escape",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/494be3553c3a9fd7c8ed8e15ba6cd1731ba6d286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.8"
+      "percent": "70.7"
     }
   },
   "platform": null,
