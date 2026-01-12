@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/cba45e5ed0fec3ec4e556a2873c15d6871a480de.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "TROPHY_NAME_GOLD_WEAPONS": {
       "name": "Bring in the Big Guns",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/3761ae3819b6671f765501be2d81bc52ba606f35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "TROPHY_NAME_FINISH_HARD": {
       "name": "Charted! - Hard",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/cd30031e8443d5a1763bca658b6d83cb6464cd05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "TROPHY_NAME_FINISH_EASY": {
       "name": "Charted! - Light",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4e5fd129fb6efcd1ed8ef6e4ed6fbcaf8a312d65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "TROPHY_NAME_FAST_LOCKPICK": {
       "name": "Fingersmith",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/72e33764889a7169f4614234b3d0affe4239192a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.6"
+      "percent": "79.7"
     },
     "TROPHY_NAME_PICK_LOCKS": {
       "name": "Five Finger Discount",

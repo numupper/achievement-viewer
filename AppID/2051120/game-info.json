@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/a67ec65aaa7b96e9e51532981f945b938fcc9f6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "ML_ACHIEVEMENT_28": {
       "name": "Can you keep a secret?",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f3cfb6a6180342fc9bf7529ca9d413cbfddef4b2.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Fast & Furious Expansion Pack",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "ML_ACHIEVEMENT_07": {
       "name": "Globetrotter",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d5a523c96cdcafe63f94605d7e5ad4b510d62d76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "ML_ACHIEVEMENT_13": {
       "name": "Look, Mom! No track!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c456ccc62cd9cd9686a155b7ccbe40597b7214c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "ML_ACHIEVEMENT_42": {
       "name": "Magic trick",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f6f59da97a0bce2582e866a779a207df3b9c8d5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "ML_ACHIEVEMENT_09": {
       "name": "Masterful!",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/20947d0126afe5da2eb10493db03b214c0403511.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "ML_ACHIEVEMENT_43": {
       "name": "Mission complete",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e32df1ef551af186913547ae35d17198bac1703f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.3"
     },
     "ML_ACHIEVEMENT_54": {
       "name": "Out of this world",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/654515192334d61f43f7cae471563945e0b640d0.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Expansion Pack",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ML_ACHIEVEMENT_25": {
       "name": "The Yeti",

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/86219b719676f6e5a135dd74e4fb4aa7c0748fb5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "AchEvt_CloseEncounter": {
       "name": "Close Encounter",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/834c08a239781022bb43ebc52db90fc9ee6b599f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.7"
     },
     "AchEvt_DeltaActOne": {
       "name": "Delta: Act I",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/354ecbeaa67dc8579e505b934aa1fd1156580df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.5"
     },
     "AchEvt_EmptyPlatform": {
       "name": "Empty Platform",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/3432a9ce6fc6186f410f83bdcbdbbe5f9e3bb3e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "AchEvt_FollowingOrders": {
       "name": "Following Orders",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/483126271a4e3f1516920e4c91316a67b2e3747a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "AchEvt_GoingUnderground": {
       "name": "Going Underground",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a99cc0719129b7d9b034fb8046ad31f709a3b734.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "AchEvt_ImComingHome": {
       "name": "I'm Coming Home",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/8d8903143ce832c3f91a0177f7ab7b89f9ae6a0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.7"
     },
     "AchEvt_ItsOnLikeKyong": {
       "name": "It's On Like General Kyong",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/076f48be8026a6927c2cccbe1fb1e7f8f32eef4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "AchEvt_KeenObserver": {
       "name": "Keen Observer",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/eaf6b4cb70f353c9d238f86bad498ed4dea1052f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.3"
     },
     "AchEvt_LongDistance": {
       "name": "Long Distance Relationship",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/803c7aa3e2b7363d41487658439091c97908ff62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.4"
     },
     "AchEvt_SpecialForces": {
       "name": "Special Forces",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/f81d59133e15be609531767d8f6ebedd6dcc7fd8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.0"
     },
     "AchEvt_WithoutQuestion": {
       "name": "Without Question",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a2fe347eb5e784e8e0a90a91836a44d24a3d140a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "36.8"
     },
     "AchEvt_YouKnew": {
       "name": "You Knew, Didn't You?",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/22ae60ddbb9d1d0f6934df5fe538eb20a3cd8df1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.4"
     },
     "AchEvt_YouOnYourOwn": {
       "name": "You're On Your Own",
