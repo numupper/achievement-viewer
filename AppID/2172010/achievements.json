@@ -1,0 +1,128 @@
+{
+  "TRP_ALLLIVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_ASH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_BLACKWOOD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_BREATHE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_CABIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_CALLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_CARNIVAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_DRAG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_FATAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_FATEFUL": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 27,
+    "progress": 9
+  },
+  "TRP_HOST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_JOSH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_LASTYEAR": {
+    "earned": true,
+    "earned_time": 1741083204
+  },
+  "TRP_LODGE": {
+    "earned": true,
+    "earned_time": 1741087535
+  },
+  "TRP_OMEN": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 36,
+    "progress": 16
+  },
+  "TRP_OPENED": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 32,
+    "progress": 14
+  },
+  "TRP_OTHERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_PSYCHOPATH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_SAW": {
+    "earned": true,
+    "earned_time": 1741888284
+  },
+  "TRP_SELFIE": {
+    "earned": true,
+    "earned_time": 1741087811
+  },
+  "TRP_SEMATARY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_SHINING": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 6
+  },
+  "TRP_SURVIVOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_SYMPHONY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_TALETWO": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20,
+    "progress": 9
+  },
+  "TRP_TALKTOEM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_THEEND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_WOLFMAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TRP_WRONGONE": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "appid": "1564220",
+  "name": "Q.U.B.E. 10th Anniversary",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564220/header.jpg?t=1744827502",
+  "achievements": {
+    "ACH_S8AllBronze": {
+      "name": "Bronze Trophy",
+      "description": "Collect All Bronze Cubes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/dc7985a995c66159731688b05c8dd4649afb5c7b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/dc7985a995c66159731688b05c8dd4649afb5c7b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ACH_S8Exit": {
+      "name": "Completed It.",
+      "description": "Reach The Exit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/27f49f93a491e2e6b09f02b8c02066961b1533f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/27f49f93a491e2e6b09f02b8c02066961b1533f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ACH_CrushPhysicsBall": {
+      "name": "Crush That Ball!",
+      "description": "Crush the Green Physics Ball",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/d9c7fc9130a5807df7bbfd07630139667ea1b655.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/d9c7fc9130a5807df7bbfd07630139667ea1b655.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.0"
+    },
+    "ACH_CrushPhysicsCube": {
+      "name": "Crush That Cube!",
+      "description": "Crush the Green Physics Cube",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/70bd6c7f0982a2afe6e31e54a704b9960c63b8eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/70bd6c7f0982a2afe6e31e54a704b9960c63b8eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "ACH_TurnBallBlack": {
+      "name": "Did That Work? -- No!",
+      "description": "Turn Colour Ball Black",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/4a69a010460cfdea1b3714ef7b8525463eec1766.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/4a69a010460cfdea1b3714ef7b8525463eec1766.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.9"
+    },
+    "ACH_BlueIntro": {
+      "name": "Feeling the Blues",
+      "description": "Complete second part of blue cube intro without touching the floor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/20e3894f5bf319cfacd11457d8e2005ace441b78.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/20e3894f5bf319cfacd11457d8e2005ace441b78.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.1"
+    },
+    "ACH_Finale": {
+      "name": "Finale",
+      "description": "Complete the campaign",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/9565ce2d0c1bb70bbb287af00f178a1ca492093f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/9565ce2d0c1bb70bbb287af00f178a1ca492093f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.3"
+    },
+    "ACH_S8AllGold": {
+      "name": "Gold Trophy",
+      "description": "Collect All Gold Cubes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/3aa73a46a899741df12fc01f75ceead9b2c2786f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/3aa73a46a899741df12fc01f75ceead9b2c2786f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "ACH_S8AllMasterRoom": {
+      "name": "Hopefully that's all of them!",
+      "description": "Collect All Cubes In Master Room",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2256ce7b293f24366f924e3ce3b003cc2b99bee0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2256ce7b293f24366f924e3ce3b003cc2b99bee0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "ACH_S8AllCubes": {
+      "name": "Master Of The Collectables",
+      "description": "Collect All Cubes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/8668f7d98e20713994d25a01a26fbd3761f7e516.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/8668f7d98e20713994d25a01a26fbd3761f7e516.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "ACH_S8MasterRoom": {
+      "name": "Master Room",
+      "description": "Reach the Master Room",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2ccbb1f77c9ea04e44b6e9e364a0b0d6b3755c40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2ccbb1f77c9ea04e44b6e9e364a0b0d6b3755c40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.0"
+    },
+    "ACH_S8MaxPoints": {
+      "name": "Maxed Out",
+      "description": "Reach Maximum Points",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/219b8d237adba593f30f68a15a3a45e612017dab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/219b8d237adba593f30f68a15a3a45e612017dab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "ACH_S8AllPuzzleRooms": {
+      "name": "Phew!",
+      "description": "Collect All Cubes In All Puzzle Rooms",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/cfd9d72915dfcd5f2d6a152b7b5044a2c55f2a71.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/cfd9d72915dfcd5f2d6a152b7b5044a2c55f2a71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ACH_Sector1": {
+      "name": "Sector 1",
+      "description": "Complete Sector 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/0d0855ef812bca00c1ff5609ff0798e0da6fc334.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/0d0855ef812bca00c1ff5609ff0798e0da6fc334.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.0"
+    },
+    "ACH_Sector2": {
+      "name": "Sector 2",
+      "description": "Complete Sector 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/dc45907ea3a75e88eff3cdb8f55dd9b963332b10.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/dc45907ea3a75e88eff3cdb8f55dd9b963332b10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.5"
+    },
+    "ACH_Sector3": {
+      "name": "Sector 3",
+      "description": "Complete Sector 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/ede655f7f6b404464c548aefb6eba56fa266a827.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/ede655f7f6b404464c548aefb6eba56fa266a827.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.2"
+    },
+    "ACH_Sector4": {
+      "name": "Sector 4",
+      "description": "Complete Sector 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/f17de583bb9feb1d59c06d0529b721a1741681e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/f17de583bb9feb1d59c06d0529b721a1741681e9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.4"
+    },
+    "ACH_Sector5": {
+      "name": "Sector 5",
+      "description": "Complete Sector 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/7bb3006fe89ba6962143156c5dc11b3a0d5d5678.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/7bb3006fe89ba6962143156c5dc11b3a0d5d5678.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.8"
+    },
+    "ACH_Sector6": {
+      "name": "Sector 6",
+      "description": "Complete Sector 6",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/40b91a29e635454d4f9bc51f1b998013ddcf3c9d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/40b91a29e635454d4f9bc51f1b998013ddcf3c9d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.7"
+    },
+    "ACH_Sector7": {
+      "name": "Sector 7",
+      "description": "Complete Sector 7",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/c936d5aadc857f57758f031715ce98f71601cc38.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/38bdb44bba695febdbe2f331042bc8b0e9ddd47e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.5"
+    },
+    "ACH_S8AllSilver": {
+      "name": "Silver Trophy",
+      "description": "Collect All Silver Cubes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/93366cb635628e72a685c51164bd4cead7433600.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/93366cb635628e72a685c51164bd4cead7433600.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ACH_CrushEnemy": {
+      "name": "Squished",
+      "description": "Crush the AI robot ball",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/5b0feb4a0044733aacaff384851b7636f1aa4bdd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/5b0feb4a0044733aacaff384851b7636f1aa4bdd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.5"
+    },
+    "ACH_CollectAll": {
+      "name": "The Collector",
+      "description": "Acquire all collectables in the main campaign",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/767e9999af017289419ea44b822def2667ef2cc9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/767e9999af017289419ea44b822def2667ef2cc9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "ACH_S8AllPuzzles": {
+      "name": "The Puzzle Master",
+      "description": "Complete All Puzzles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/1188f92bc0b8f3cb86b185e8f93bf9d9ba560879.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/1188f92bc0b8f3cb86b185e8f93bf9d9ba560879.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.3"
+    }
+  },
+  "platform": "Epic Games",
+  "blacklist": [],
+  "uses_db": false
+}

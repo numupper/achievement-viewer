@@ -1,0 +1,138 @@
+{
+  "CompleteEps123": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E1_S01A_GRAFFITIRV": {
+    "earned": true,
+    "earned_time": 1707411927
+  },
+  "E1_S01B_BLANKSPOT": {
+    "earned": true,
+    "earned_time": 1707412740
+  },
+  "E1_S02A_GRAFFITIWALL": {
+    "earned": true,
+    "earned_time": 1707414810
+  },
+  "E1_S02_GRAFFITITOOLBOX": {
+    "earned": true,
+    "earned_time": 1707476717
+  },
+  "E1_S04D_GRAFFITITEMPESTPOSTER": {
+    "earned": true,
+    "earned_time": 1707485418
+  },
+  "E1_S04_GRAFFITIRANGUS": {
+    "earned": true,
+    "earned_time": 1707479524
+  },
+  "E1_S05_GRAFFITIEXIT": {
+    "earned": true,
+    "earned_time": 1707487326
+  },
+  "E1_S06_GRAFFITISTATUE": {
+    "earned": true,
+    "earned_time": 1707488694
+  },
+  "E1_S08_SIGNGRAFFITI": {
+    "earned": true,
+    "earned_time": 1707490737
+  },
+  "E1_S09_GRAFFITIDREAM": {
+    "earned": true,
+    "earned_time": 1707491261
+  },
+  "E2_S01D_LIGHTGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E2_S02_GRAFFITITRUCK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E2_S02_HOODGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E2_S02_SHACKGRAFFITO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E2_S03_RVGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E2_S04A_GRAFFITICONCRETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E2_S04A_GRAFFITISAMUELDOOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E2_S04B_ELIOTGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E2_S05_MIRRORGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E2_S07_JAMESGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S01B_MAPGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S01_PLANNERGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S02A_GRAFFITIPHOTO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S02C_GRAFFITICALENDAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S03_GOBULEGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S04A_GRAFFITIPOSTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S04A_VENDINGMACHINEGRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S04_GRAFFITINORTHCAST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S05_GRAFFITI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "E3_S07_CARVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EndOfEpisode1": {
+    "earned": true,
+    "earned_time": 1707492060
+  },
+  "EndOfEpisode2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EndOfEpisode3": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

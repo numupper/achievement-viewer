@@ -1,0 +1,184 @@
+{
+  "CompleteAGenome": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge1AnyDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge1JurassicDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge2AnyDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge2JurassicDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge3AnyDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge3JurassicDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge4AnyDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge4JurassicDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge5AnyDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteChallenge5JurassicDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteFallenKingdomOrigins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteFiftyPercentOfTheJurassicWorldDatabase": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteJurassicParkOrigins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteJurassicParkThreeOrigins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteJurassicWorldOrigins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteOneHundredPercentOfTheJurassicWorldDatabase": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteOnePieceOfResearch": {
+    "earned": true,
+    "earned_time": 1647185419
+  },
+  "CompleteTheLostWorldOrigins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DestroyJeepByDriving": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FifthStoryLocationCompleted": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FiftySimultaneousDinosaurs": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FirstStoryLocationCompleted": {
+    "earned": true,
+    "earned_time": 1647076160
+  },
+  "FiveSecondsAirTime": {
+    "earned": true,
+    "earned_time": 1647078904
+  },
+  "FourthStoryLocationCompleted": {
+    "earned": true,
+    "earned_time": 1651929510
+  },
+  "JurassicTrio": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LongShot": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 125,
+    "progress": 67
+  },
+  "ManuallyMedicateAReptile": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ManuallyScanAReptile": {
+    "earned": true,
+    "earned_time": 1647037118
+  },
+  "ManuallyTranquiliseAReptile": {
+    "earned": true,
+    "earned_time": 1647036683
+  },
+  "ManuallyTranquiliseAnEscapedFlyingReptile": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachEngineeringLevelTen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachScienceLevelTen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachWelfareLevelTen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReleaseADinosaur": {
+    "earned": true,
+    "earned_time": 1651927924
+  },
+  "ReleaseAGeneticallyModifiedDinosaur": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReleaseAllSpecies": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 79,
+    "progress": 12
+  },
+  "ReleaseAnIndo": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReleaseMosasaurus": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReleasePteranodon": {
+    "earned": true,
+    "earned_time": 1651927924
+  },
+  "ReleaseTRex": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SecondStoryLocationCompleted": {
+    "earned": true,
+    "earned_time": 1647083696
+  },
+  "ThirdStoryLocationCompleted": {
+    "earned": true,
+    "earned_time": 1647190740
+  },
+  "TwoThousandGuests": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 2000,
+    "progress": 180
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "appid": "1770490",
+  "name": "PAW Patrol: Grand Prix",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770490/header.jpg?t=1727089674",
+  "achievements": {
+    "ACHIEVEMENT_07": {
+      "name": "A different Strategy",
+      "description": "Use a Skill for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/5a4b92f6230b2cabcb1a1a02a7be5f30673fe573.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/3a8383e576f7062c883866296111d59b22b93803.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.5"
+    },
+    "ACHIEVEMENT_08": {
+      "name": "A new driver",
+      "description": "Finish The Tutorial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/d9a9c61ee7657e43f2aa2a566aa94fc9cb3f5184.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/b6775557439a1a368be22faa966e8fc1dd9116a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.2"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "A sky full of stars",
+      "description": "Win the adventure with all pups",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/eac636eb01e8b0a4adc6dbdd915760951ed7c1fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ce0cb3844e9d270ed5c3661a881ac5f37a8721d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACHIEVEMENT_06": {
+      "name": "Booster",
+      "description": "Step on a boost pad 30 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/783daf5d9ec982c391dea89fbaeab729f442cccc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/be8557e91a6a1cc30dac02e65b994787144c3794.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.3"
+    },
+    "ACHIEVEMENT_04": {
+      "name": "Challenger",
+      "description": "Win a race in split-screen",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/db3cc488f72f4cae8e76f52cb6935fc571935b92.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/97eec619c26c3ac7490770fc3885238ea8b8153c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Collector",
+      "description": "Unlock All Esthetics Items",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/59b92512c354bf32b47a4f49765cd72d88310dc5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/8859f60b6cd548f056fcd9b0b72d2ded9d620b70.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACHIEVEMENT_02": {
+      "name": "Every pup is the best pup",
+      "description": "Unlock all characters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/f224a969cb28e0d6ce58af5d150ee3d1e8e85855.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a5be3425a8a4849995eb06b4a00d43c8d7f6e47b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "ACHIEVEMENT_01": {
+      "name": "First Victory",
+      "description": "First Race Win",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/bf5ec5592558ac269287562b46e8b00ea93cbd41.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/16d672a826d8255f877ef4646fe9d7b29ffcd60f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.0"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Hero's journey",
+      "description": "Finish the Adventure",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/bf5b602a3a420b74206f0678e98aa57c16b47265.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ce0cb3844e9d270ed5c3661a881ac5f37a8721d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Just getting started",
+      "description": "Win the first adventure race in first position",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/13f2ab4927c0072a59fac0e6cc7b2f4a3abbb865.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a50de76fc8ea4bbc9724d98d070331305a4ce5d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.1"
+    },
+    "ACHIEVEMENT_03": {
+      "name": "Let’s do it!",
+      "description": "Win 30 Races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/4535b8ff08604bc4c2af2f073428c4e98d1cdfe6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ad2b1a9ced4113a8043d5d1c6274f26cfbe5230b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "ACHIEVEMENT_09": {
+      "name": "Master",
+      "description": "Use all skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/0f3fcd728a71651102d13b07177f5c65642a0adb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/f2862499ef05f46fac87174c86fa27f9e9bf589e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Unbeatable",
+      "description": "Win all the adventure races in the first position",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/c9ea8bf44c51d4bdd5ec81de0e5905809134f6d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/04346d1c302ef345c8b91d6e01c1327095bac4d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ACHIEVEMENT_00": {
+      "name": "Unstoppable",
+      "description": "Win 10 Races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/381dc38af81b25bc52b658a91d90d694d3bcf3c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/5d8563e3c12df28ca971e9834d78648b1757cdae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.3"
+    },
+    "ACHIEVEMENT_05": {
+      "name": "Win with Friends",
+      "description": "Win a 4 player split-screen race",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/03177d016e8be11f196155311cea777fbd4f6f21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/3e91255eed134df27d6c91e6595406899cd84e9f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

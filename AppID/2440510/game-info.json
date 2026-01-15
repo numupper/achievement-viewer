@@ -1,0 +1,523 @@
+{
+  "appid": "2440510",
+  "name": "Forza Motorsport",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440510/header.jpg?t=1747073895",
+  "achievements": {
+    "ACHIEVEMENT_22": {
+      "name": "Aficionado",
+      "description": "Reach Car Level 50 in 10 cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/12886833a88e71a592a2ae6e1f3dc9e0112e75f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/fe9d04d894f399a8e7ccfedc454250a679086c4e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "ACHIEVEMENT_38": {
+      "name": "Amateur Rival",
+      "description": "Beat 5 Rivals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/d5e830fb3469fcf9709cc2d4c02b683a6283f909.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/73bf7e389ba7438591da381b90918d11b98dbe0d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.9"
+    },
+    "ACHIEVEMENT_42": {
+      "name": "American Challenger",
+      "description": "Complete a race in a 2023 Cadillac Cadillac Racing V-Series.R on Le Mans Full Circuit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/b002967e4cd30d8d25828d15d4e663c5dbea8e56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/d443ab1fc157124e52b3ddfdf2da965c44bdf080.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_25": {
+      "name": "Body Builder",
+      "description": "Apply a Wide Body conversion to any car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/995f6b3fa83ac48d64e3e7b7e4bf96936bcde4eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/5da99ad46ec0d29f5efd1043c367d367c06d9c68.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "Brand Ambassador",
+      "description": "Reach max brand discount by owning 5 level 50 cars from a manufacturer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/ea2edb30133d198136918003eab90129be7f86e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/28ff00579cdf76d56079b7995ef72731b5ce2da1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Built Not Bought",
+      "description": "Complete 1 Series in Career Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/3c1c20b67af6c2f3b4b579e79f9bb11ecf0c0e5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/289fe3bccb3a93ca423fe4cfefa6364187d6a450.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.8"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "Clean Driving",
+      "description": "Complete a clean Qualifying lap in Featured Multiplayer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/b0ea986921ecf6529754aaff1e04a21e7dc88a90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/e40cccc8c345e71bf988b21434faa11a4fb194ab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "ACHIEVEMENT_51": {
+      "name": "Competitor",
+      "description": "Complete 300 laps in Multiplayer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/9cb07a4b01e044b375a35165e1b194487f9d6c86.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/6efa229f4b6763f96b26d019c5cf4faff94dfe98.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "ACHIEVEMENT_50": {
+      "name": "Contender",
+      "description": "Complete 100 laps in Multiplayer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/092b211ce8fa4a3bc54f093abc862e476a77e22b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/dfae7637825a6309049aa55d390d22c79edadde0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "ACHIEVEMENT_41": {
+      "name": "Endurance Legacy",
+      "description": "Complete a race in the 2021 Porsche 911 GT3 on the Kyalami Grand Prix Circuit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/19b56a8973ff2c36896567fe2f5c4827d0b8dde7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/db00c17a167fe93cb0fd9c06c42cf3be8827293d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ACHIEVEMENT_39": {
+      "name": "Enthusiastic Rival",
+      "description": "Beat 10 Rivals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/2f0864930e4153810af5539a646bbcfa168cb9e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/ad82814d21288478627bfa4576a58673c5940e1f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "ACHIEVEMENT_55": {
+      "name": "Excellence",
+      "description": "Finish with no penalty with full Forza Race Regulations enabled",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/f72070eeac8336ee351cbf6bb2323b02b40962a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/8241af413e417839898c969e6c70bf9615829971.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.7"
+    },
+    "ACHIEVEMENT_40": {
+      "name": "Experienced Rival",
+      "description": "Beat 20 Rivals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/59ef7c9cd6372749ebdfbb225c1963905368371f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/c9a0c0032497a9143b6c7098b983df35b6bd1e70.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ACHIEVEMENT_4": {
+      "name": "Express Yourself",
+      "description": "Change your Driver Suit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/9d7b6cc95b4b651a13e307d43f46eeb36c278a40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/02b02c7ac6c14b742aef4a3cbf43594973b3a36b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.6"
+    },
+    "ACHIEVEMENT_46": {
+      "name": "Flying",
+      "description": "Maintain a speed of 180mph or higher for 3 seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/9313b29b2e46a8ad0376b42db1b57cc44b920799.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/ee1a04bc824230861773ecc0d3caddb6805f20d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.3"
+    },
+    "ACHIEVEMENT_45": {
+      "name": "Free as a Bird",
+      "description": "Complete a race in the 1973 Pontiac Firebird Trans Am SD-455 on the Eaglerock Club Circuit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/98827cf9aca6adf386eae1fa36f92937b809887e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/9b61f073122b7504c48cb21f15970f8f43bba3da.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "Freedom!",
+      "description": "Complete a Quick Race in Free Play",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/399e329f08d8b148213f6d687d563ecc975919ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/2cdbe23d2b5c8c25695c3324045e1313e6fa5eec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.9"
+    },
+    "ACHIEVEMENT_23": {
+      "name": "Garage Royalty",
+      "description": "Reach Car Level 50 in 30 cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/fa1e111fa1452e4e88c62e20b33961684f7d0702.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/1d1e12735c30a3d0d3b236df39f8e476b9a87bc5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Getting Familiar",
+      "description": "Reach Car Level 25 in any car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/f3010034ddab0a518672aa1a107230fb1b2ec1bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/db9fcc141e61a82532cf4386cbcd37d34e9948a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.5"
+    },
+    "ACHIEVEMENT_26": {
+      "name": "Heart Transplant",
+      "description": "Swap an engine in any car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/8c9f4467077b94fff3a09b80a4064e7f83a36039.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/aa43170cb10f271eadf04e11d69e21c6a191d779.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.1"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Highlight Reel",
+      "description": "Share a Replay",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/f66ed97326c6f296ebbb4c53fca26ff8fba40999.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/02f356e5779c93050adc17c47085fc1a983bd1ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ACHIEVEMENT_27": {
+      "name": "In the Big Leagues",
+      "description": "Complete your first Featured Multiplayer Event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/847a541dbb41ea9e3e15c09d4a1b40c2cb8862c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/ab9646be38bb9feb96a6c5710fd2959ad541add3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.5"
+    },
+    "ACHIEVEMENT_6": {
+      "name": "Influencer",
+      "description": "Earn 10,000 credits from the community using your Design",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/7c721d6c3361b5fdd76f0dbe3a6ecbfd2ae41fc3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/6c40745d6902c347d95686b032df45ed956f0c3e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ACHIEVEMENT_18": {
+      "name": "It’s not the car...",
+      "description": "Finish in top three of a series with a stock car in Builders Cup",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/52876d06feb1b785fe7d9d24ab32b5112b8df3f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/1c0d8e592116430df1c3fa0a5e2ce7c3b222e7b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Journeyman Builder",
+      "description": "Complete 2 Tours in Career Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/56e404cf2fdce8cb60c92bc1320941a33d593c0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/533a5a3a883474b49123c0ead6ff16ff25298dd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Just Getting Started",
+      "description": "Complete 1 Tour in Career Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/eb5a5eb09c7137fcab785ccd94e8c05d03ba748d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/3369aa7aa0a92184cbcadbf4cca65e70ff61dfb6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "Legendary Builder",
+      "description": "Complete 4 Tours in Career Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/9a2687ba1fc29753eabface8b97555c7df64aac2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/d1e7662406c7cd2b1c4c2b973d1431e61ccd4aca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "Leisure Cruise",
+      "description": "Complete a lap at sunset at Spa Francorchamps",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/fdd24410088a8f8b01d5ba5aee2ea24e2b2f8445.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/41ac4c6ac62a5054ba0a9adef671cfa71061628e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "ACHIEVEMENT_3": {
+      "name": "Make it Yours",
+      "description": "Buy your first car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/592cad749ba7e2795cd410b3a5e943dcb83ef0b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/8438a17737fff93f9e74c8e3d2e70343d92ec3d1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.9"
+    },
+    "ACHIEVEMENT_5": {
+      "name": "My First Art Show",
+      "description": "Share one of your Designs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/324b2b473e2c047e6ac2861328ef383d8869e370.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/5e36736ccb70dc6f7f428c489908600469b88c2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "New Rival",
+      "description": "Post a lap time on any track in Rivals Time Attack",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/64f45407e58f82768c2f920bf4e1288f74133ba3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/3d56fd9d5843f20d7bddd8f3ad52c116c1c04ea4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "ACHIEVEMENT_48": {
+      "name": "Night Owl",
+      "description": "Complete 50 laps at night",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/a96533d84f5bdfc885e54827baa128ac0ba5054a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/02fc884fccf144d51510724ec52a83b73990bdc2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "ACHIEVEMENT_2": {
+      "name": "On the House",
+      "description": "Receive your first gift car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/1ee5cec147507459979bb9dfe6bba3472e5e1ab7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/988805f4646ddd6313e0e686e57aa652c523fbd5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.5"
+    },
+    "ACHIEVEMENT_9": {
+      "name": "Paparazzi",
+      "description": "Share a Photo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/d5bec11d1075c50135159d486858312ae6e18808.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/6eb2ca5de9d038d1af919fd7badca3608e2eafd3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "Podium Prodigy",
+      "description": "Earn a spot on the podium in Featured Multiplayer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/6f1db220b77161b94c184f2e7d824c2cadd6247f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/a46b72b68cdbf014401248add509828afe7a66e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.3"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "Pole Position",
+      "description": "Post the best Qualifying Lap Time in a Featured Multiplayer event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/88a0f3b2eca7c004110369c19cfc86861ff8a6db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/79e462473a08cc7705d4244be11abda513fa47ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Pride and Joy",
+      "description": "Reach Car Level 50 in any car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/e47357f9afabb152ff855647278eecebb04b77e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/eeb0bea45b5ec35e3353458c5a114fe9be417264.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.1"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "Pro Builder",
+      "description": "Complete 3 Tours in Career Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/15443c87c78d5a742df814768d9102d0f1692959.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/efebd8f16c8f2d74ceeaf272a4ce014b15725391.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "ACHIEVEMENT_7": {
+      "name": "Race Engineer",
+      "description": "Share one of your Tunes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/6be7ba96fd441be5459c875c14176bc454b35035.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/49f0f3395cdd1cbe58fffefff00e0f7cc0519cc9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "ACHIEVEMENT_52": {
+      "name": "Racecraft",
+      "description": "Gain at least 12 positions in any Multiplayer race",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/15e8f429f4722288ed63bf960531b4bfecad33c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/8192a1390fd910f8e48b4bbe7514a3562b645efa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ACHIEVEMENT_49": {
+      "name": "Rain Meister",
+      "description": "Complete 50 laps in the rain",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/5fe5a53e8468d6e07579bf14be93d5c165119bc7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/509f9f04e8b1968987e4d65c59d04f6dff4c7c6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.2"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "Rain or Shine",
+      "description": "Create and complete a race in the rain in Free Play",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/148d459b9c81d3f3910f8bdb00c7dd14cab52e94.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/65269f7ca7659900a59f4400502571e5c9cd8660.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.4"
+    },
+    "ACHIEVEMENT_57": {
+      "name": "Running on Fumes",
+      "description": "Finish a race with no more than one Fuel Lap left in your car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/e504d842db2717784df7ef7bad18fc170fea2813.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/12648dea83d497f262157c99547de9aa3dc7c318.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.8"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "Safety Star",
+      "description": "Hold an S Safety Rating across 5 consecutive Featured Multiplayer events",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/438ff05d802fe3ea1304b7ab31ef4a41adf44ce3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/0f04cd7938c2b8adefb5f7d25f2637deca0b0a68.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "Safety Superstar",
+      "description": "Hold an S Safety Rating across 10 consecutive Featured Multiplayer events",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/ae1e28899835d726f33c23b59cddbc8efc1e797b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/07e3ef92b6b054dea91c9d305bb51b7469413ab0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACHIEVEMENT_53": {
+      "name": "Self-Improvement",
+      "description": "Score a perfect 10 on any Track Segment",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/ec3ead36b72943eedfe07dc8dd3a666c8a554d2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/99148de00e5cd0d857e2d8b862a7545988b96ab4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.8"
+    },
+    "ACHIEVEMENT_8": {
+      "name": "Setting the Standard",
+      "description": "Earn 10,000 credits from the community using your Tune",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/0adc019ab2cdd63caa32ea419cc33c85a400ab99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/c1ebab51419a6eb6475d7eaf08039e28e35d07a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_43": {
+      "name": "Sightseeing",
+      "description": "Complete a race in the 2020 Toyota GR Supra on the Hakone Club Circuit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/9c6940c01d859e5195a2a3a9a8042f2441e9433f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/f6e40802c169393227a4f08f1ed8c19e5b87efe1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACHIEVEMENT_47": {
+      "name": "Stiff Competition",
+      "description": "Complete 10 races with AI set to the fastest difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/1e7351a763bd6b154a1a3f9c187dafdd1575088e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/101f309a29ddeab0aab1fbc09ff6d6b712fbc055.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACHIEVEMENT_56": {
+      "name": "Strategist",
+      "description": "Change your Fuel and Tire setup for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/35b10119aa5c8ea4f2b6352c0d902adcb8a73fda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/9bf824119b9a23ea1c796767d98e3c151883a113.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.6"
+    },
+    "ACHIEVEMENT_54": {
+      "name": "Technique",
+      "description": "Score a 9 or better on any Track Segment",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/d6575f2d7d7e00e1edb85187210ed984a693dd35.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/f388168bd131532fe28e5d61912daa4ff838d44c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.0"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "Time Traveler",
+      "description": "Win a Timed Race in Free Play",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/9cf924ef6eaa12037ec698c0ae637776a758ff8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/5e1b9624824e3f2d96e17fffae818eeda3186963.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "Tinkerer",
+      "description": "Make an upgrade to any car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/f9b45f2c8754081f7b05fc938629c2d8b184f81e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/0881bbfeb38969acf75a75c171f4e334c4e796ea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.5"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Welcome to Builders Cup",
+      "description": "Complete the Builders Cup Intro Series",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/8ee4b51a83ecc72849f393fbf7149d965175d12a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/6425ca6392bb87b6016f8fa2bf29133c3ce9b79e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.8"
+    },
+    "ACHIEVEMENT_1": {
+      "name": "Welcome to Forza",
+      "description": "Complete your first race",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/c48fe21a91d2352e124e0c02cc451af178d8f5af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/d3b3ea81ea6e0379f5af31044d125c147c618408.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.1"
+    },
+    "ACHIEVEMENT_58": {
+      "name": "Well Rounded",
+      "description": "Change your tires during a race to use a different tire compound",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/8bedd1131e4549a656433b29d31d08372f6837b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/90a843219c6db30016ec66fc0bd6edcd0f02bcea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "ACHIEVEMENT_44": {
+      "name": "When in Rome…",
+      "description": "Complete a race in the 2020 Ferrari Roma on the Mugello Full Circuit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/d679b173cf07c7416c25a4a8aafc75c455f8974b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/04eaeabbe057a0872b090220d497e2484af849f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    }
+  },
+  "platform": "Online Fix",
+  "blacklist": [],
+  "uses_db": false
+}

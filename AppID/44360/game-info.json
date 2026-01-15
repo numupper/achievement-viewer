@@ -1,0 +1,315 @@
+{
+  "appid": "44360",
+  "name": "F1 2011",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/44360/header.jpg",
+  "achievements": {
+  "Season_Opener": {
+    "name": "Season Opener",
+    "description": "Complete your first Career Race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/2.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/2.png",
+    "hidden": false,
+    "percent": "32.22"
+  },
+  "Pole_Position": {
+    "name": "Pole Position",
+    "description": "Take the first Pole Position of your Career",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/3.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/3.png",
+    "hidden": false,
+    "percent": "23.56"
+  },
+  "Just_the_Beginning": {
+    "name": "Just the Beginning",
+    "description": "Take your first Career victory",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/4.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/4.png",
+    "hidden": false,
+    "percent": "24.25"
+  },
+  "Lightning_Fast": {
+    "name": "Lightning Fast",
+    "description": "Set the fastest penalty-free lap of the Race in any game mode",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/5.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/5.png",
+    "hidden": false,
+    "percent": "36.01"
+  },
+  "Sublime_Talent": {
+    "name": "Sublime Talent",
+    "description": "Set the fastest lap in every session of a Long Race Weekend in any mode",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/6.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/6.png",
+    "hidden": false,
+    "percent": "3.44"
+  },
+  "Push_the_Button": {
+    "name": "Push the Button",
+    "description": "Cleanly overtake an opponent while KERS is activated",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/7.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/7.png",
+    "hidden": false,
+    "percent": "19.22"
+  },
+  "Winging_It": {
+    "name": "Winging It",
+    "description": "Cleanly overtake an opponent while the DRS is activated",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/8.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/8.png",
+    "hidden": false,
+    "percent": "12.89"
+  },
+  "Test_Driver": {
+    "name": "Test Driver",
+    "description": "Cover a total of 500 Practice miles / 805 kilometres in your Career",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/9.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/9.png",
+    "hidden": false,
+    "percent": "6.56"
+  },
+  "Co_op_Drivers_World_Champion": {
+    "name": "Co-op Drivers' World Champion",
+    "description": "Win the Drivers' World Championship in a Co-op season",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/10.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/10.png",
+    "hidden": false,
+    "percent": "13.90"
+  },
+  "Theyre_on_Which_Buttons": {
+    "name": "They're on Which Buttons?",
+    "description": "Win a Race without activating KERS or the DRS once",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/11.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/11.png",
+    "hidden": false,
+    "percent": "19.64"
+  },
+  "Do_it_Yourself": {
+    "name": "Do it Yourself",
+    "description": "Win a Race in any mode using manual gears",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/12.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/12.png",
+    "hidden": false,
+    "percent": "8.35"
+  },
+  "On_the_Bounce": {
+    "name": "On the Bounce",
+    "description": "Beat Alberto Ascari's record of 9 successive Career victories",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/13.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/13.png",
+    "hidden": false,
+    "percent": "5.80"
+  },
+  "Drivers_World_Champion": {
+    "name": "Drivers' World Champion",
+    "description": "Win the Drivers' World Championship in Career",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/14.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/14.png",
+    "hidden": false,
+    "percent": "9.45"
+  },
+  "Constructors_World_Champion": {
+    "name": "Constructors' World Champion",
+    "description": "Win the Constructors' World Championship in Career",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/15.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/15.png",
+    "hidden": false,
+    "percent": "5.94"
+  },
+  "Precision_Driving": {
+    "name": "Precision Driving",
+    "description": "Complete any Race without colliding with another car or object",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/16.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/16.png",
+    "hidden": false,
+    "percent": "18.83"
+  },
+  "Drivers_World_Champion_Hard": {
+    "name": "Drivers' World Champion (Hard)",
+    "description": "Win the Drivers' World Championship in Career on Hard or Expert Difficulty",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/17.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/17.png",
+    "hidden": false,
+    "percent": "10.74"
+  },
+  "Blue_Flag": {
+    "name": "Blue Flag",
+    "description": "Lap at least 6 other cars during a Race in any game mode",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/18.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/18.png",
+    "hidden": false,
+    "percent": "17.80"
+  },
+  "Have_You_Considered_DiRT3": {
+    "name": "Have You Considered DiRT3?",
+    "description": "Drift your F1 car 10 metres or more",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/19.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/19.png",
+    "hidden": false,
+    "percent": "48.69"
+  },
+  "Trophy_Collector": {
+    "name": "Trophy Collector",
+    "description": "Win a Race at each of the 19 circuits in any game mode",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/20.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/20.png",
+    "hidden": false,
+    "percent": "4.38"
+  },
+  "Car_Control": {
+    "name": "Car Control",
+    "description": "Win a Race without any Driver Assists enabled in any game mode",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/21.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/21.png",
+    "hidden": false,
+    "percent": "3.38"
+  },
+  "Impeccable_Performance": {
+    "name": "Impeccable Performance",
+    "description": "Win a Race after Qualifying in Pole Position in any game mode",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/22.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/22.png",
+    "hidden": false,
+    "percent": "22.98"
+  },
+  "Keep_Your_Friends_Close": {
+    "name": "Keep Your Friends Close",
+    "description": "Complete a full Co-op season",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/23.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/23.png",
+    "hidden": false,
+    "percent": "23.09"
+  },
+  "Completionist": {
+    "name": "Completionist",
+    "description": "Set a time in all of the Time Attack scenarios",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/24.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/24.png",
+    "hidden": false,
+    "percent": "46.64"
+  },
+  "Opportunist": {
+    "name": "Opportunist",
+    "description": "Perform a Pit-stop during a Safety Car period",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/25.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/25.png",
+    "hidden": false,
+    "percent": "7.51"
+  },
+  "Robot_Like_Consistency": {
+    "name": "Robot-Like Consistency",
+    "description": "Complete 5 successive laps within a quarter of a second of each other",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/26.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/26.png",
+    "hidden": false,
+    "percent": "3.85"
+  },
+  "Keeping_it_Clean": {
+    "name": "Keeping it Clean",
+    "description": "Finish an Online Race without making contact with an opponent's car",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/27.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/27.png",
+    "hidden": false,
+    "percent": "5.93"
+  },
+  "Down_to_the_Wire": {
+    "name": "Down to the Wire",
+    "description": "Take the lead on the final lap of a 20%+ distance Race and win",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/28.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/28.png",
+    "hidden": false,
+    "percent": "5.61"
+  },
+  "On_the_Podium": {
+    "name": "On the Podium",
+    "description": "In any Career Race, finish in the top three",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/29.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/29.png",
+    "hidden": false,
+    "percent": "25.97"
+  },
+  "Slingshot": {
+    "name": "Slingshot",
+    "description": "Spend a total of 10 minutes slipstreaming your opponents in any game mode",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/30.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/30.png",
+    "hidden": false,
+    "percent": "16.41"
+  },
+  "Is_Jenson_going_to_pass_or_not": {
+    "name": "Is Jenson going to pass or not?",
+    "description": "Win the Turkish Grand Prix driving as Lewis Hamilton",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/31.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/31.png",
+    "hidden": false,
+    "percent": "41.40"
+  },
+  "Glancing_Blow": {
+    "name": "Glancing Blow",
+    "description": "With Damage on Full make contact with the wall at Monaco and win the Race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/32.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/32.png",
+    "hidden": false,
+    "percent": "6.63"
+  },
+  "Senna_esque": {
+    "name": "Senna-esque",
+    "description": "Take the lead on lap 1, in heavy rain, after starting in 5th or lower",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/33.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/33.png",
+    "hidden": false,
+    "percent": "3.66"
+  },
+  "Its_the_Driver_not_the_Car": {
+    "name": "It's the Driver not the Car",
+    "description": "Win the Drivers' World Championship with two different teams in Career or Co-op",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/34.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/34.png",
+    "hidden": false,
+    "percent": "4.04"
+  },
+  "Teamwork": {
+    "name": "Teamwork",
+    "description": "Win the Constructors' World Championship in a Co-op Championship",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/35.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/35.png",
+    "hidden": false,
+    "percent": "20.39"
+  },
+  "Solid_Performance": {
+    "name": "Solid Performance",
+    "description": "Score points at every round of a Career or Co-op season",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/36.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/36.png",
+    "hidden": false,
+    "percent": "5.14"
+  },
+  "10_Online": {
+    "name": "10 Online",
+    "description": "Win 10 Online Races",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/37.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/37.png",
+    "hidden": false,
+    "percent": "48.62"
+  },
+  "35_Online": {
+    "name": "35 Online",
+    "name": "35 Online",
+    "description": "Win 35 Online Races",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/38.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/38.png",
+    "hidden": false,
+    "percent": "19.94"
+  },
+  "Slap_on_the_Wrist": {
+    "name": "Slap on the Wrist",
+    "description": "Receive a Drive-through Penalty then go on to win the Race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img/39.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44360/img_g/39.png",
+    "hidden": false,
+    "percent": "3.71"
+  }
+},
+  "platform": "GFWL",
+  "blacklist": [],
+  "uses_db": false
+}

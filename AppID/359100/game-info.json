@@ -1,0 +1,271 @@
+{
+  "appid": "359100",
+  "name": "Q.U.B.E. 2",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359100/header.jpg?t=1717070275",
+  "achievements": {
+    "ACH_DLC1BRONZE": {
+      "name": "Bronze collector",
+      "description": "Collect all bronze collectables",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/3671ece3eca48e701e802a66da562edace553127.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 1: Lost Orbit",
+      "percent": "3.4"
+    },
+    "ACH_S5": {
+      "name": "Cogs in the Machine",
+      "description": "Power a Reactor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/b03e6b3de3cbdf9365af0431023cd74970d7168b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ACH_DLC2EXIT": {
+      "name": "Coming Home",
+      "description": "Reach Exit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/88048e00143306ab7cff6f613fa6d053341ccc51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 2: Aftermath",
+      "percent": "2.7"
+    },
+    "ACH_DLC2BRONZE": {
+      "name": "Competent Collector",
+      "description": "Get all bronze collectables",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/e1686434074650c7ac70c9c3bd0cf829c37e2bbd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 2: Aftermath",
+      "percent": "2.7"
+    },
+    "ACH_ABYSS": {
+      "name": "Descendants",
+      "description": "Reach the Abyss",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/14a1e9e55536c689c35d1a9d0dc8e010f21c85c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "ACH_DLC2SILVER": {
+      "name": "Expert Collector",
+      "description": "Get all silver collectables",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/e488ff891e479e5ef223a8d7ce473b30e176822d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 2: Aftermath",
+      "percent": "2.7"
+    },
+    "ACH_STATUE": {
+      "name": "Forgotten Memories",
+      "description": "Find and Listen to Transmission Statue",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/af37043dc4e5f2a9090bb281adc6058a807585b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.0"
+    },
+    "ACH_DLC1TELEPORTER": {
+      "name": "Get me out of here",
+      "description": "Reach the teleporter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ec6d3bb1dda4e882b2e2373194f37ebe81f006b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 1: Lost Orbit",
+      "percent": "3.6"
+    },
+    "ACH_DLC1GOLD": {
+      "name": "Gold collector",
+      "description": "Collect all gold collectables",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/4915c354024544f5eb824f5319532bba893564ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 1: Lost Orbit",
+      "percent": "3.3"
+    },
+    "ACH_CUBEKILLER": {
+      "name": "Green Cube Killer",
+      "description": "Crush the Green Cube",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/74b34f78047f0144c1170869b19d4aa31f9b1b52.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "ACH_DLC1COMPLETE": {
+      "name": "Home Stretch",
+      "description": "Complete all puzzles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/e5992d9ce4625a400b10c9ec6b3e5d0b6aa6dbad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 1: Lost Orbit",
+      "percent": "3.7"
+    },
+    "ACH_EXSITE": {
+      "name": "Infinity Loop",
+      "description": "Acquire Yellow Power Up",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/49cd2499a1467dba54ce4b255866abfb15ac1ea5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.4"
+    },
+    "ACH_DLC2ALLCOLLECTABLES": {
+      "name": "King of the Collectables",
+      "description": "Get all collectables",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/618eb395543c4c2f96cfa9c06c09b6b975d04584.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 2: Aftermath",
+      "percent": "2.6"
+    },
+    "ACH_DLC2TUTORIAL": {
+      "name": "Laser Sharp",
+      "description": "Complete tutorial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/d0f135a5bf3ce3d95f000aec01d786ada158a494.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 2: Aftermath",
+      "percent": "3.6"
+    },
+    "ACH_SANDSTORM": {
+      "name": "Lost in Space",
+      "description": "Survive the Desert Storm",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/7ebf669522c3cf15433b77851d8f0d51090de3d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.5"
+    },
+    "ACH_DLC2GOLD": {
+      "name": "Master Collector",
+      "description": "Get all gold collectables",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/fe008d1bb61be3cb28c86c41788ac5e04317ab33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 2: Aftermath",
+      "percent": "2.7"
+    },
+    "ACH_HUB1": {
+      "name": "Mission Success",
+      "description": "Power the Elevator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/c83b91d429f80599dc19782be8ae4ca39fe01106.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "ACH_OASIS": {
+      "name": "Nature or Nurture",
+      "description": "Find the Oasis",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/21b41e99b8affa30084bb2e2cad0dba46d7ac86c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.6"
+    },
+    "ACH_HUB2": {
+      "name": "Path to Salvation",
+      "description": "Power Teleporter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/802a21618b4d3538db9dca94ff442579202c2f93.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/71040cc95397d63a6f9e85436c7746ac834d0078.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.8"
+    },
+    "ACH_S4": {
+      "name": "Power Glove",
+      "description": "Acquire Green Power Up",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/4cdc5eb7172303b10ee1dadca946713bfd488d9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.1"
+    },
+    "ACH_DLC2COMPLETE": {
+      "name": "Puzzle Master",
+      "description": "Complete all puzzles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/98e4f8ae657a077f33f26fe6c6bcdd3dbe1984d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 2: Aftermath",
+      "percent": "2.8"
+    },
+    "ACH_DLC2MAXPOINTS": {
+      "name": "QUBE Master",
+      "description": "Reach maximum points",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/b9538af72560286dabe2a29939440cfcc5b85e99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 2: Aftermath",
+      "percent": "2.6"
+    },
+    "ACH_S1": {
+      "name": "Quick Understanding of Block Extrusion",
+      "description": "Acquire Red Power Up",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/4cdc5eb7172303b10ee1dadca946713bfd488d9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.1"
+    },
+    "ACH_DLC1SILVER": {
+      "name": "Silver collector",
+      "description": "Collect all silver collectables",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/960cba3e2d5895eb9119ead3565714313d5ff0ab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/92c789fbdae2b33fcf00536e648a47fdd9a94d3d.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 1: Lost Orbit",
+      "percent": "3.3"
+    },
+    "ACH_BLUEEND": {
+      "name": "The Flawed Teacher",
+      "description": "Follow the Blue Wire",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/c9a1855aee6dcc29262205e9e71d99e5f37cee1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "ACH_REDEND": {
+      "name": "The Truthful Enemy",
+      "description": "Follow the Red Wire",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/5b2680d7b06f0eaeae37b0eed6c7c79700aced22.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.6"
+    },
+    "ACH_PEAK": {
+      "name": "There's No Place Like Home",
+      "description": "Find the Beacon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/d1f84167a6cb01081ac58af54e2aafd384fac610.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "ACH_PROPELL": {
+      "name": "To Infinity and Beyond",
+      "description": "Propel yourself over 100ft off the ground",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/3c56b904fa7da4d82ac5ef69913c3e7154bd2b58.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/ce34cb744d660628ea3571e2cc87f08d6d8254ed.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "ACH_DLC1ALLCOLLECTABLES": {
+      "name": "True collector",
+      "description": "Collect all collectables",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/93985adfb79c06bebec9fde4a5b345a1d381cd69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359100/11f9e4e4a2efda04cee756a91ad1cb7718f7e939.jpg",
+      "hidden": false,
+      "group": "Q.U.B.E. 2 Puzzle Pack 1: Lost Orbit",
+      "percent": "3.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

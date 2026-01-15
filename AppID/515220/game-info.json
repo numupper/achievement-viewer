@@ -1,0 +1,460 @@
+{
+  "appid": "515220",
+  "name": "F1™ 2017",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/515220/header.jpg?t=1647013419",
+  "achievements": {
+    "ach_another_lap": {
+      "name": "Another lap?",
+      "description": "Obtain a champion star Online",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/8f6ba189c8a491aa006b870d21b4ea00017fb78c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/ceea0c60041a3fe188ca762f8a09aa9ae9d0afa8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ach_asserting_dominance": {
+      "name": "Asserting dominance",
+      "description": "Win a total of 5 Online Races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/23bee548aa3abd6968810c2bd9963fee6346ca61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/6e2784d9ceaea07be11a306200cabf67d664deeb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ach_back_on_track": {
+      "name": "Back on track",
+      "description": "Resume a race using a Mid-Session Save",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/ef3d3f216263ee6ae7a9d44b9c42698dca15f9d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/03feba87e9b88ae35f59a289c61d8b7d24447916.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.1"
+    },
+    "ach_back_up_to_speed": {
+      "name": "Back up to speed",
+      "description": "Improve your performance to elevate yourself out of the 'Underachieving' zone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/5f3c21dcb6aa2ae19d8a5e8285a7a3ef78a3bf64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/baec4a575bdc33ef77aa1120bb9a124176ca77c0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ach_best_seat_in_the_house": {
+      "name": "Best Seat In The House",
+      "description": "Take pole position",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/9dabc180657ee2f180a723746b9b33c2940ff5fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/f611d824ea5f7316f83b41052f1b104f69db6cd7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ach_blast_from_the_past": {
+      "name": "Blast from the past",
+      "description": "Complete an Invitational event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/88087cc1310dfad99a7a390fc006f5b135b98da1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/f17b19353b46c2fcb3a3a0b9293ba021afc19dfd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.6"
+    },
+    "ach_chris_knows_best": {
+      "name": "Chris knows best",
+      "description": "Research a recommended upgrade",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/04abf79ac52d1d45f5c02b84de9803d0927dc330.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/9c271cbc631b1fb3e90430fa4fb37b7246f8e70e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.1"
+    },
+    "ach_competitive_streak": {
+      "name": "Competitive Streak",
+      "description": "Obtain a rank of 25 Online",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/dff6a7e542f69360034b27db6706c067da1a684c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/341208034257cceda7ceb787d8221d554a096fd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach_contender": {
+      "name": "Contender",
+      "description": "Accept a contract with Williams, Force India, Renault, Toro Rosso or Haas",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/60b8b0a20030957a027e304e9b45edd590ab6d50.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/1f13d6d3ce7f545e3b509b5894c317ce861bec3b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "ach_deja_vu": {
+      "name": "Déjà vu",
+      "description": "Use a Flashback",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/a471f82439b748bcacb7d8b8a5b7787a3bf40a71.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/86b19873f0727414cda026b37f6f3155ddef88bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.2"
+    },
+    "ach_dont_hold_my_hand": {
+      "name": "Don't hold my hand ",
+      "description": "Complete any race with all assists disabled",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/42de0b6943c3200b8fcb76bfbdbe0ffaaa1c9436.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/979272185ea23bc6c5898c3e8cb69f340ccae7b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ach_down_but_not_out": {
+      "name": "Down but not out",
+      "description": "Take a grid drop penalty for switching an engine part",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/ac5c9f88ed39591a97efb3b2c37b8855cb4ea9b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/3fa56f26731de5b10253cf43bb9e95a98dae7cfb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "ach_feed_the_machine": {
+      "name": "Feed the machine",
+      "description": "Complete a Fuel Management Practice Programme",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/259eab98863de2ff023ef65a5430f81022b39ea6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/8671defc1f59b2ebc935fbd7c3411f597d4f65d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.2"
+    },
+    "ach_first_of_many": {
+      "name": "First of many?",
+      "description": "Take your first win in any full season",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/1fb5ec2bd7bb396929eb04ce9a903fed28c02b25.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/bdb8b648c7d61623266bd24bb29049c1dafbc551.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.1"
+    },
+    "ach_great_expectations": {
+      "name": "Great expectations",
+      "description": "Accept a contract with Red Bull, Ferrari or Mercedes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/a3fbaabca6469585be2ff07cd88b16dbcc2dd41b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/78d455805498f7f1e8180fd25e131baf321ca0bb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.7"
+    },
+    "ach_hard_work_pays_off": {
+      "name": "Hard work pays off",
+      "description": "Complete your first Practice Programme",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/b3647bf6b837735826577858ff81d99380424db8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/9c3f3ae5b28bd6d7af52f0e53b3c2552991ebc7d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.3"
+    },
+    "ach_invite_only": {
+      "name": "Invite only",
+      "description": "Accept an invite to an Invitational event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/ab4f6a50097b81211a4362a5c8d8ac45e6921d4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/db0b309b28db2d2690c9c0837248a426a084a778.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.0"
+    },
+    "ach_its_a_marathon_not_a_sprint": {
+      "name": "It’s a marathon, not a sprint",
+      "description": "Complete a Race Strategy Practice Programme",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/9541114cc4e48d9ae2d50df934ce1ec1cbe6a998.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/10b8538d21c0133be2a3cf7844732d3d3119e0e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.4"
+    },
+    "ach_its_a_team_sport": {
+      "name": "It's a team sport",
+      "description": "Win the Formula 1 Constructors' Championship",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/370090cf174972e4eb4826282f0133aa5078479e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/6810d2e432f8cfea60a051a39580fc695dc412b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ach_jeff_knows_best": {
+      "name": "Jeff knows best",
+      "description": "Pit under the Safety Car onto the team's suggested strategy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/34a5289851ef14a542dd45fe424cf20ebf68094a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/eba2d2dd3520c1ee6205e0327ae6d4cfb49ffa9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ach_like_the_deserts_miss_the_rain": {
+      "name": "Like the deserts miss the rain...",
+      "description": "Complete a race at Bahrain or Abu Dhabi in heavy rain",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/88929f9e641b745a6bc1d83920c19f8e5cea2580.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/28825207b450a96b106c0e16b7418c8bd7e6121c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ach_maybe_theres_another_way": {
+      "name": "Maybe there's another way",
+      "description": "Complete 10 laps on the alternate route tracks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/b39174255a30020fe19366f7b8b139745edf03b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/77bf0b7271428b06544d3e3d91325594fe4a160f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.4"
+    },
+    "ach_more_to_come": {
+      "name": "More to come",
+      "description": "Complete a Race in an Online Championship",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/6ba3c1b0960e9bfe0df10521e1a68012301a641c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/2ba326b34c653fbe79c8b5216571e864e26fbe5b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ach_not_now_jeff": {
+      "name": "NOT NOW JEFF!",
+      "description": "Politely ask your Race Engineer to stop talking to you out on track",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/3d82dbee8894753fea8dc4a6e818ca553e43ff88.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/7fbc85c58ed79d112397c0cecdbf3424ac7f382f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.8"
+    },
+    "ach_on_the_podium": {
+      "name": "On the podium",
+      "description": "Achieve a podium finish in any game mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/2f747f6e1be38331f1de82afc88f218b5691c9ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/e425ad1f63a18a3e1f188aa13d75d2a049dc0016.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.4"
+    },
+    "ach_on_the_shoulders_of_giants": {
+      "name": "On the shoulders of giants",
+      "description": "Have 75% of the vehicle upgrades applied",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/977bd456d794ff5ca231515da7ca4e454e766493.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/26a7f4a67a30a6b70b697e7ffb71121a83fe29cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach_out_with_the_old": {
+      "name": "Out with the old",
+      "description": "Switch out a worn engine part",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/4e94776303e0a4ccefece04761fd40deb4270499.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/28fb6d378c01fe49170e30e91dd80bca2914bc9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.7"
+    },
+    "ach_practically_perfect": {
+      "name": "Practically perfect",
+      "description": "Achieve a perfect result in a Practice Programme",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/64abd8ab9e0d1d487139f5d9597bb6dc2b6ce277.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/a91b51c2106382814eb9b3ce4a055de92a078d4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.4"
+    },
+    "ach_seasoned_veteran": {
+      "name": "Seasoned Veteran",
+      "description": "Complete a Full Season of 20 Races in Career or Championships",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/29a627273d3726c2d98e009bbbc5c3251e02b7bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/78f00c8427e6b4a9a074c50b3051042e5c42519b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "ach_setting_up": {
+      "name": "Setting up",
+      "description": "Complete a valid qualifying lap using the maximum fuel setting",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/ea659fe2de280944ec460e3a73b88f28adff90f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/1593d01f787338b11807bddd8e6bbd701f37875d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.3"
+    },
+    "ach_slippery_when_wet": {
+      "name": "Slippery when wet",
+      "description": "Set wet times in Time Trial at 5 circuits",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/cd98208a83928d3d265df802644778d670aceb4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/9ce611b4a73e84b384a180815c0ec67afaf4831d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ach_some_assembly_required": {
+      "name": "Some assembly required",
+      "description": "Apply all vehicle upgrades from one department",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/da46ed17a58cf8b6da5d0721c01f1085cbce6b3b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/97b699b7f00edcdcf3a0b515a2506bcc829389ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ach_something_to_prove": {
+      "name": "Something to prove",
+      "description": "Accept a contract with McLaren or Sauber",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/b1073e2459e0ce46e2c52510512721c282c3508e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/fa7951f9efcc4d0a7b59def3abc069472b12e9e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "ach_stick_or_shift": {
+      "name": "Stick or shift",
+      "description": "With manual gears enabled race a car with a non sequential gearbox",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/68c17f4d1515af7e2083c1e30482d31fbf50d1de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/d5a4c36f5d60a154d91e1eb619bc74c9b311d88e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "ach_the_one_percent_club": {
+      "name": "The 1% club",
+      "description": "Win a 25% + distance race against 'Ultimate' AI opponents",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/a860a407de4dad0d03212916a73eed7ec41285f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/12d05196e4cf168b377896edcef9b638ec62e232.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ach_the_best_of_british": {
+      "name": "The best of British",
+      "description": "Complete a race in a classic British car at Silverstone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/c5d1627fd47429f545fa1637e5a6e7d52119731c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/451ea2478191ce23837f2fe2c24cdf31aa2c4a5c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "ach_the_prancing_horse": {
+      "name": "The prancing horse",
+      "description": "Complete a race in a classic Ferrari at Monza",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/a1c696503a4ce861fdbaba2561f4f0b5e6d3414b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/60246a2f8f07ff4a7ba46dcf810c3cbda9fec618.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ach_the_right_person_for_the_job": {
+      "name": "The right person for the job",
+      "description": "Receive a promotion to first driver",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/c7f37355159e4a6a1a213625d9f566c631abe0b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/a2835b2d1193b78a906dade3412fd774bcc043f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "ach_the_weather_man": {
+      "name": "The weather man",
+      "description": "Create and race your own weather scenario",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/542fa30994767afc3d9185bb3235dd460d99d136.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/364474a182cab85b5c008760d6cbfb9269a0d07e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ach_time_waits_for_noone": {
+      "name": "Time waits for no one",
+      "description": "Set a clean lap in Time Trial at 10 circuits",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/45aa90be77daa24152248be9e4e6e6fc57292a42.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/4a5365ea6d666ec2a91eb3f67d6dd402d7b0767f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ach_timing_is_everything": {
+      "name": "Timing is everything",
+      "description": "Set a clean lap in any Time Trial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/f62dc369e24a623abaa935e12a1d629c94e33571.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/db12fb967063320138048fa66f065572572ab139.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.3"
+    },
+    "ach_tinker": {
+      "name": "Tinker",
+      "description": "Use the Multi Function Display to adjust your set-up while on track",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/453529569463bee75c7e54e99f0206e25f83fb2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/0fccd4d8eed42dd88ff58545cd062ebaf8cd1c87.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.7"
+    },
+    "ach_to_the_limit": {
+      "name": "To the limit",
+      "description": "Perform a perfect pitstop with Pit Assists disabled and Rules enabled",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/5f58245ab9b82b735d3e1d8264319c2d62243994.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/0db2a20fb09fb45ca7d0c747dec02934e8b57f05.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "ach_to_the_victor_go_the_spoils": {
+      "name": "To the victor go the spoils",
+      "description": "Obtain a gold medal in a championship",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/3d980a263147a0a2601485b6cfa899a8712a6947.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/60ecc8b61ff10c85daf4d2a9dafd32ca6828280a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ach_top_of_the_pile": {
+      "name": "Top of the pile",
+      "description": "Win the Formula 1 Drivers' Championship",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/ee7e70954323a52bb94e5e5fd6171df0f187a440.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/956fd2fc08d0d63298d61b2bc91be587a061ce95.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.6"
+    },
+    "ach_top_that": {
+      "name": "Top that!",
+      "description": "Set the fastest time in all three Practice sessions, take pole position and win the Grand Prix",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/4620fe1768aec460896177c76c5145085cd731a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/a0fa442aeb8dc797896176238effe68e0283050d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "ach_underestimated": {
+      "name": "Underestimated",
+      "description": "Spend at least 75% of your season being rated as 'Overachieving' by your team",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/ec958e9f62906a4ba5a0b375ec27b652b9e32c62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/4232878cb63d55442a2d2cff49216a87dcb05d5a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "ach_up_to_eleven": {
+      "name": "Up to eleven",
+      "description": "Out qualify your team mate 11 times in one season",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/3db434687d48bfa4d7741742360a6885ea34fe9e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/6ea5a409eb2ffcc24f49b12244c0874c7de3dbda.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "ach_welcome_to_the_real_world": {
+      "name": "Welcome to the real world",
+      "description": "Obtain a rank of 10 Online",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/873bf6c98e4f8d7e4379e24b28d1dd59c0558c37.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/d0eec2cc42681d6553f0b1c81ecce224fb8dd714.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ach_when_the_stars_come_out": {
+      "name": "When the stars come out",
+      "description": "Complete a night race at Monaco",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/62dc974d7f7c78d9a746b370363130cbc27de7a5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/515220/bd833be54cc4f9592d1ad089268c32d7859a44dd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

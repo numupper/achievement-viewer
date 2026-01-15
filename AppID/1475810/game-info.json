@@ -1,0 +1,604 @@
+{
+  "appid": "1475810",
+  "name": "Ghostwire: Tokyo",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg?t=1750779600",
+  "achievements": {
+    "ACH_049": {
+      "name": "A Shrubbery!",
+      "description": "Defeat a total of 3 Visitors with Quick Purge while hiding in bushes created by a Thicket Talisman.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/f9c0332cfc5a5b22c41a48386a5afb00b4fdcf7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_035": {
+      "name": "Amateur Photographer",
+      "description": "Use Photo Mode for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/976992863e40adc91e1a0df413ac230b54997be3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "ACH_034": {
+      "name": "Animal Lover",
+      "description": "Pet an animal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/72f8ca0e5c6444d5b25e809345699c610ae8505a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.1"
+    },
+    "ACH_001": {
+      "name": "Beginnings",
+      "description": "Complete Chapter 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/86b7f0251302818cbe48b6aa45f155025689ea80.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "84.1"
+    },
+    "ACH_038": {
+      "name": "Better Together",
+      "description": "Fuse back with KK after being hit by a severance attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/564ea7d68bbe953c47f4bd30ed18562c5dc036a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "ACH_054": {
+      "name": "Big Spender",
+      "description": "Spend a total of 1,000,000 meika.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/863f8c141abff79a14a44150ad1ddff1ffc62e2b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ACH_006": {
+      "name": "Binding",
+      "description": "Complete Chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/6b2f779833937c99f21845e43a737a87b205c03b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.9"
+    },
+    "ACH_033": {
+      "name": "Boundless Spirit",
+      "description": "Acquire the maximum number of katashiro.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/056fb64b5fa6ff06c7b51f05d9a8aafa9c816b36.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.3"
+    },
+    "ACH_065": {
+      "name": "Catalog Conqueror",
+      "description": "STU: Complete all nekomata jobs in \"The Spider's Thread\" mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/7b1692a6ac2d07951fa5462e01fdb36c7fc68768.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.3"
+    },
+    "ACH_017": {
+      "name": "Collector",
+      "description": "Acquire all relics.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/b578185dadfb9221a58f7ab28da9df79b7a6b996.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACH_007": {
+      "name": "Conclusions",
+      "description": "Complete the main story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/2c69c4711645e50c197d9afb1f6d9b39752fcf72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "ACH_003": {
+      "name": "Connection",
+      "description": "Complete Chapter 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/fb88b48e8b4da4a2757118b94ea739313a4f14b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "ACH_004": {
+      "name": "Contortion",
+      "description": "Complete Chapter 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/48e812f554534592e3f666fa796639e575028269.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "ACH_043": {
+      "name": "Couldn't Take the Heat",
+      "description": "Defeat at least 3 Visitors simultaneously by detonating a red ether crystal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/ba82207f431d340f05216731dcd70d310000a6ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.1"
+    },
+    "ACH_029": {
+      "name": "DJ Akito",
+      "description": "Acquire all music tracks (excluding update content).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/22a6ff81ef5e647e6145482aa41344958149d0d5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "ACH_037": {
+      "name": "Don't Worry About It",
+      "description": "Pull a \"Daikyo\" omikuji.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/acc3e13983634c988f5b2b845dcba828c7a29b9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ACH_021": {
+      "name": "Echoes of the Past",
+      "description": "Acquire a voice log.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/05b225f67f70a2dbe3e52b3f8e3d9a7cf277ac55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.7"
+    },
+    "ACH_063": {
+      "name": "Figure Aficionado",
+      "description": "STU: Try your luck at capsule machines at least 50 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/4236ddc4d94287791d124622420cb0fa282be843.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "5.0"
+    },
+    "ACH_048": {
+      "name": "Freeze, Scumbag",
+      "description": "Defeat a total of 10 Visitors with Quick Purge while they are held by a Stun Talisman.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/977b769d8c58bf4bc833be2a42060081fc21fe2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACH_059": {
+      "name": "Further Liberation",
+      "description": "STU: Cleanse all newly-added torii gates.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/527bb24446663f42e2e96991aa7a15c16841b972.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "11.4"
+    },
+    "ACH_046": {
+      "name": "Go For the Eyes",
+      "description": "Defeat a total of 20 Visitors with headshots.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/d4b73e6bbfeb342fc7c67dccbc867b4a7c472807.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ACH_028": {
+      "name": "Gourmand",
+      "description": "Acquire all types of food and drink.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/d77adf91fddf7982c11f3c0d5d5181e41238a5e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_040": {
+      "name": "Heartbreaker",
+      "description": "Defeat a Visitor by pulling out its core.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/966e9201e17ce81074b117607f9e49914b551b9d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.6"
+    },
+    "ACH_008": {
+      "name": "Helping Hand",
+      "description": "Transfer 25% of the spirits in the city.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/8bd296f86e8027691ae25c1b893c2438969ac9a5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.4"
+    },
+    "ACH_011": {
+      "name": "Hero of Shibuya",
+      "description": "Complete the main story after transferring at least 100% of the spirits in the city.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/38663cf1be3d6b7aef7713d8f12e9a959aa83825.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ACH_052": {
+      "name": "In Sync",
+      "description": "Wire In a total of 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/29c8f522eacdfcd1679252649f096947116bcd4b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.8"
+    },
+    "ACH_023": {
+      "name": "It's All Thanks to Yokai",
+      "description": "Acquire a magatama.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/4eb65f7282bf531cb6ffbf6b59086d381ee582b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.5"
+    },
+    "ACH_050": {
+      "name": "Left Yourself Open",
+      "description": "Defeat a total of 10 Visitors by exposing their cores with Exposure Talismans and ripping them out.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/ecea8e15abef555384889059751734e93f5d7846.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACH_015": {
+      "name": "Liberator",
+      "description": "Cleanse all torii gates (excluding update content).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/5adf5cda1e3bb58beeac5b677f804abca8266bab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "ACH_056": {
+      "name": "Lonely Tsukimi",
+      "description": "Spend at least 30 seconds looking at the moon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/b6f8091cbad29dfd4d730ebe47d238d26d5fa9b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "ACH_051": {
+      "name": "Master of Blocking",
+      "description": "Perform a total of 30 Perfect Blocks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/1ac823d0cd75759bba2a30464a78e67c88fac067.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "ACH_018": {
+      "name": "Mind and Body",
+      "description": "Unlock all Spirit Skills (excluding update content).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/4a518a0ac14f88287441883e35be7aef4ed29a66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ACH_019": {
+      "name": "On the Same Wavelength",
+      "description": "Raise your synergy level to 50 or higher.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/d111f0e0a55c158d555759ebfc398102f5a7cb1f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "ACH_042": {
+      "name": "One Fell Swoop",
+      "description": "Defeat at least 5 Visitors simultaneously by pulling out their cores.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/b9fd4adf8dc39f6a31acf5bb8eeb7b663023f923.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "ACH_060": {
+      "name": "On-The-Job Training",
+      "description": "STU: Unlock all newly-added Spirit Skills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/cf496f8f64e55839f65d3a49638e7cac39aa78b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.8"
+    },
+    "ACH_014": {
+      "name": "Opening a Path",
+      "description": "Cleanse a torii gate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/f65e227ccc5e15567da972a0f6bf7d9d28d9e0d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.6"
+    },
+    "ACH_026": {
+      "name": "Pilgrim",
+      "description": "Pray to all Jizo statues.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/34337e5056e934bb45a887314b975c5b158b1ff6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "ACH_055": {
+      "name": "Pious",
+      "description": "Put a total of 10,000 meika into offering boxes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/d0e20b84ba10040b9dd35541b5c3a86d9e2b52d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "ACH_032": {
+      "name": "Power Overwhelming",
+      "description": "Acquire all sets of prayer beads (excluding update content).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/37c3e98b6e4c39fa93304e1eb829ade7ff23c44a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "ACH_012": {
+      "name": "Problem Solver",
+      "description": "Complete a side mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/db02c50aba0c52854f0625a808265c0b7313eb19.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.3"
+    },
+    "ACH_025": {
+      "name": "Roadside Spirituality",
+      "description": "Pray to a Jizo statue.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/72dd8ac9e02387098d0692057621f5348c24824e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.2"
+    },
+    "ACH_010": {
+      "name": "Salvation of All",
+      "description": "Transfer at least 100% of the spirits in the city.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/1f7b49ce3c4c89c8a2024d906620579997ed60a6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACH_009": {
+      "name": "Savior",
+      "description": "Transfer 50% of the spirits in the city.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/35a0cb5e84d80a056023348e81d5b2b7a6125e38.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "ACH_057": {
+      "name": "Scary Stories to Tell at School",
+      "description": "STU: Complete all newly-added side missions revolving around the school.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/8eaaa21ee44e7162e14ba3add0aa9d89dd14b088.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "9.5"
+    },
+    "ACH_005": {
+      "name": "Severance",
+      "description": "Complete Chapter 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/bf0fe8481892810419726e8add38be9fe3f1ad73.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "ACH_020": {
+      "name": "Shibuya Is My Back Yard",
+      "description": "Find all landmarks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/ed1823fadd4ec1098cceaca7741e04b82d10278c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACH_044": {
+      "name": "Silent Kill",
+      "description": "Defeat a total of 200 Visitors using Quick Purge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/f421e683366071b005508acccbcbd30af4c88083.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ACH_047": {
+      "name": "Sniper",
+      "description": "Defeat a Visitor with a headshot from a distance of at least 40m.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/8bae033e59462a99a92615b8bb32ee6155d7bac2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACH_041": {
+      "name": "Soul Breaker",
+      "description": "Defeat 50 Visitors by pulling out their cores.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/9593fdb894a640701ea13461e4ca478fbaf4d60f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.8"
+    },
+    "ACH_058": {
+      "name": "Spirit Photographer",
+      "description": "STU: Complete all newly-added side missions revolving around spirit photographs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/902c107dd27dd378299c10bad5a1531be3b47973.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "2.8"
+    },
+    "ACH_045": {
+      "name": "Take a Bow",
+      "description": "Defeat a total of 50 Visitors using the bow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/ca5bce1d09782d4c57add581757ae2e8aac9e4be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "ACH_031": {
+      "name": "Talismania",
+      "description": "Acquire all talismans (excluding update content).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/6b13dce924c34e174960c00a4ed2bb71617938b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "ACH_022": {
+      "name": "The Whole Truth",
+      "description": "Acquire all voice logs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/29d4532ee42dd286ca4c8de96a2b7b70fced32ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ACH_016": {
+      "name": "Treasure Hunter",
+      "description": "Acquire a relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/2053696a25c5f9b632a916eff580a46af0c5ca4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.7"
+    },
+    "ACH_030": {
+      "name": "Trendsetter",
+      "description": "Acquire all items for the Outfit menu (excluding bonus and update content).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/3cc594d74dac8aa68a3e050d90124f4c6af88f52.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ACH_002": {
+      "name": "Trouble",
+      "description": "Complete Chapter 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/99a796abda33626b983fd5f19a3cbaeec50fde92.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.4"
+    },
+    "ACH_062": {
+      "name": "Unexpected Visitors",
+      "description": "STU: Defeat at least one of every newly-added type of Visitor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/7ef666126bbdfc4a9292933d93c970172441230c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "13.8"
+    },
+    "ACH_061": {
+      "name": "Unparalleled Talismaniac",
+      "description": "STU: Acquire all newly-added talismans.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/ca80f68da14c3fb9edc447152a2c8fbfd93788ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "14.5"
+    },
+    "ACH_064": {
+      "name": "Views From the Abyss",
+      "description": "STU: Complete \"The Spider's Thread\" mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/880540b69ea956bb219d2302107f6ced82025c1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.8"
+    },
+    "ACH_039": {
+      "name": "Visiting Hours Are Over",
+      "description": "Defeat at least one of every type of Visitor (excluding update content).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/acf7a76e511203816768c905cf9fcdbfc8b6a3fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ACH_053": {
+      "name": "Walking on Air",
+      "description": "Grapple and glide to remain in the air for at least 10 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/344af238093c46229bab9b492a29a63b4c9a6245.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ACH_066": {
+      "name": "Welcome to Shibuya",
+      "description": "STU: Acquire at least one SHIBUYA♡HACHI stamp.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/62f3c9f6a1f8c89fb726e230f31fa20ed3d807b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "20.5"
+    },
+    "ACH_013": {
+      "name": "Wishmaker",
+      "description": "Complete all side missions (excluding update content).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/3678956f30f10a49a4c23d6c93b61dc5446724f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACH_024": {
+      "name": "With Their Powers Combined",
+      "description": "Acquire 40 or more different magatama.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/4d3f7485e29abba70ff303fbb7df3c7b284a0697.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "ACH_036": {
+      "name": "You Wouldn't Steal a Spirit",
+      "description": "Successfully protect at least 3 Containment Cubes in a single battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/194cc978524eba16eaa72f5e1a63d391ae78a47b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.7"
+    },
+    "ACH_027": {
+      "name": "Your Tail's Showing",
+      "description": "Find all of the missing tanuki.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/b6dee87a0f1e8e977013485143c62c4ddcbdafd6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

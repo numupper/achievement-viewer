@@ -1,0 +1,102 @@
+{
+  "ACH_BACKYARD": {
+    "earned": true,
+    "earned_time": 1673099367
+  },
+  "ACH_BEAUTIFUL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CAREFUL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHEEKY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEVIOUS": {
+    "earned": true,
+    "earned_time": 1704120617
+  },
+  "ACH_DREADFUL": {
+    "earned": true,
+    "earned_time": 1704120838
+  },
+  "ACH_ELEGANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GARDEN": {
+    "earned": true,
+    "earned_time": 1673087767
+  },
+  "ACH_GHASTLY": {
+    "earned": true,
+    "earned_time": 1704115949
+  },
+  "ACH_INTREPID": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LOVELY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NASTY": {
+    "earned": true,
+    "earned_time": 1704115114
+  },
+  "ACH_NIMBLE": {
+    "earned": true,
+    "earned_time": 1704122808
+  },
+  "ACH_NOISY": {
+    "earned": true,
+    "earned_time": 1704116312
+  },
+  "ACH_PRETTY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PUB": {
+    "earned": true,
+    "earned_time": 1702158390
+  },
+  "ACH_SECRET_PRIZE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SHOPS": {
+    "earned": true,
+    "earned_time": 1673090695
+  },
+  "ACH_SPEEDY_BACKYARDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPEEDY_GARDEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPEEDY_PUB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPEEDY_SHOPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_THANK_YOU": {
+    "earned": true,
+    "earned_time": 1702160648
+  },
+  "ACH_UNLUCKY": {
+    "earned": true,
+    "earned_time": 1704116571
+  },
+  "ACH_YUMMY": {
+    "earned": true,
+    "earned_time": 1704115621
+  }
+}

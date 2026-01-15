@@ -1,0 +1,343 @@
+{
+  "appid": "1506830",
+  "name": "FIFA 22",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506830/header.jpg?t=1712678728",
+  "achievements": {
+    "Achievement_GOSCC_18": {
+      "name": "Be My Guest",
+      "description": "Win a Co-Op game in Online Friendlies Public Matchmaking in FIFA Ultimate Team",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/7141a5823c18678e4157980b097d7dbefbb251db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/368172d4c2084a938bee45829790f62bbb3e29df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "Achievement_GOSCC_23": {
+      "name": "Best Seats in the House",
+      "description": "Equip a customization item in each of the Stands customization slots of the Tier 3 FUT Stadium",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/d0baf4d6ad451b4b203cf9371d206713c494c967.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/1a4fcaefd17a3ba26d02c9ff5a86226fda1db541.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "Achievement_GOSCC_11": {
+      "name": "Bring it on",
+      "description": "Play a single player match with the Competitive Master Switch turned On",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/1e86c0728fd637c9eb36c73386d9730a726e3b3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/c2594f4354b0adbb40a2e4914cd745798d75572c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "Achievement_GOSCC_15": {
+      "name": "Bus Parking Simulator",
+      "description": "Keep 10 clean sheets in FUT Squad Battles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/ece22630f1b6a430059f2a36c3a154d4e95f129e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/10e46a7208ada453833418f7561a4ae3eaa82e4e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.3"
+    },
+    "Achievement_GOSCC_10": {
+      "name": "Clinical finish",
+      "description": "Score a goal from a cross when using Player Lock",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/9104ca11c580b0ef061d9bdc571a14064ace70e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/a37fde69809baeeeeb1fe88a301f3e3c6c9d1932.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "Achievement_GOSCC_16": {
+      "name": "Club Icon",
+      "description": "Reach 200 club appearances with a player in FIFA Ultimate Team",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/73dc121c498f45f361a226877e8eb80256837a76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/e7abc6cc91beab4661ebd143899dd570cb313445.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "Achievement_GOSCC_7": {
+      "name": "Dead-ball specialist",
+      "description": "Score a goal from a Free Kick",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/896a157f2fef0a02c08745aef3568e708163bf64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/6ff73ff73c438bb8cae833d565fcf49d71895875.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.8"
+    },
+    "Achievement_GOSCC_13": {
+      "name": "Define the Meta",
+      "description": "Create your own custom tactic in FIFA Ultimate Team",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/4ede79f16c4897d8efb3ed47b60d48b53788a413.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/acda71f6035d7ac8ca158766d94ff5bd08658452.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "Achievement_GOSCC_22": {
+      "name": "Design and Conquer",
+      "description": "Win 1 Division Rivals match with 4 different Pitch Trophies equipped in your FUT Stadium",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/35cea5e2ca5b5b6a6776b9be039b69a3d6c048d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/2308647a8fe74e7796ec1ff10c82eefab3193643.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "Achievement_GOSCC_25": {
+      "name": "Dream Debut",
+      "description": "Complete and win your first Pro Club Seasons league match",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/70e74fa25f8515fc85e9cf28e56c9f63c5e8491f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/b65ec001d32e09b8dc88817e6250ecfa21519283.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "Achievement_GOSCC_35": {
+      "name": "European Glory",
+      "description": "Win the UEFA Champions League Final",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/08899b02cb62bf2ff09e44207ff1d2256bdeef04.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/705358a601e67bda78350f085aee6ea80bf15f08.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.8"
+    },
+    "Achievement_GOSCC_30": {
+      "name": "Favorite One",
+      "description": "Achieve Top Manager Rating Values with your current player",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/7afaf78dfaa26f02434f0ab48ed2228f222365e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/69dc5a9cb1f5ade95a0c37540232f653d06ffc14.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.9"
+    },
+    "Achievement_GOSCC_3": {
+      "name": "Fresh Fit",
+      "description": "Change an item in the \"Outfits\" tab",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/1c20ef281a6e6dfb31967965551d530f3074e9d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/10d47d2261687e741482792cbff10b1249f317c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "Achievement_GOSCC_19": {
+      "name": "Friends for Life",
+      "description": "Win 10 Co-Op games with online friends in FUT Squad Battles or FUT Division Rivals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/38fb09da84bf94cdcc660c7a0a17c36d1efab471.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/1640c143fa05de5929141d3cc6f4d47caad26d8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "Achievement_GOSCC_4": {
+      "name": "Full wardrobe",
+      "description": "Unlock 50 different vanity items",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/bffc7000e74faf96909032b4d022540341f8ef61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/c5437621fc2e0b1d66ddca84ec06b82ec1069dc7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "Achievement_GOSCC_8": {
+      "name": "Intuition and Execution",
+      "description": "Win a penalty shoot-out without missing",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/62063787f7df99fe510b49ddd0de794f574a8483.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/f35c54e11e05aa4c7fd2c241e71b91d446c2ef41.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "Achievement_GOSCC_27": {
+      "name": "Maestro",
+      "description": "Unlock a Speciality in Pro Clubs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/7f2436ea1a031c7e10a6bc56a04be3f6e87adeb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/0a0c06c1d08133e084a8546167dc337a60a68c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "Achievement_GOSCC_33": {
+      "name": "Maxed Out",
+      "description": "Reach Level 25 in the Player Career",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/36e3166fd1ea293a72c89240553bbc51f6ce62fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/38538b43fdc52b029cd168a8f928a5012a867187.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "Achievement_GOSCC_14": {
+      "name": "My House, My Rules",
+      "description": "Play a game using any House Rule in FUT Friendlies",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/1955ccd4964844223d640fe50af7ef1cedeb4f81.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/6a8356f421fc08ab1c93a4c2626fcc5ddac4ca71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "Achievement_GOSCC_32": {
+      "name": "Newcomers",
+      "description": "Play a season with a newly Created Club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/8d430e1feb058b7e736ab01d158f03cbb76f2ea8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/585ed350a588c0e45ff0882f103156972b1b4afc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "Achievement_GOSCC_31": {
+      "name": "Objective Driven",
+      "description": "Complete a total of 30 objectives across all matches",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/bd316e94871f91b3c65f3017ac718dabbc748dcc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/2702dd384bba64b263e9eb4997c5a9fa4341332f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.7"
+    },
+    "Achievement_GOSCC_6": {
+      "name": "On the way up",
+      "description": "Reach Level 7 in a VOLTA Season",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/6421cba0b0364bedef5d488c9b21ec1482b0759f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/ce28fc6dda051dbe3f1e2a2ca3fc91161fcd3bff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "Achievement_GOSCC_26": {
+      "name": "Our Club, Our Rules",
+      "description": "Play and Complete a Cup House Rules Match in Pro Clubs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/33b921c4fb48feaeb7819910a9b835f9d8da5e18.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/bb41d1b7e6d8ff10a44a5db440ac85d217993587.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "Achievement_GOSCC_37": {
+      "name": "Passion",
+      "description": "Play a women's International football match",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/2bad5bd1504a6d6c06797aa031aec9281ab03aed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/7cd4e881378490d2050de44257d7d47c0a9dca8e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "Achievement_GOSCC_17": {
+      "name": "Point to Prove",
+      "description": "Earn enough FUT Champions Qualification Points to qualify for FUT Champions Play-Offs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/a81af7862563066ae92eb587072ee8ebd3cb3000.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/3114bc217953d31d1019bb971b335f697117c7ea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "Achievement_GOSCC_5": {
+      "name": "Shop till you drop",
+      "description": "Purchase an item in the VOLTA Store",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/78226b14b1f9d2b276415898ab4f473c2fdb14ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/c54a5a5dbf0ba6c91cda03810f24a744ce6fcc3a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "Achievement_GOSCC_12": {
+      "name": "Squad Building Curriculum",
+      "description": "Complete 10 Squad Building Challenges in FIFA Ultimate Team",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/9c3569bba0eca928e4cdd11ba0d6e454765293e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/f85afc2e8d7fff984be8fc15d171b4c3770726dd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "Achievement_GOSCC_24": {
+      "name": "Tactical Mastermind",
+      "description": "Unlock all the traits within a skill-tree in Pro Clubs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/6b5ec1e09eb3dc734c6e8428a48349369aa377f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/957224872808df8e89065bdcdc18c3f7a605ea6a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "Achievement_GOSCC_2": {
+      "name": "Teamwork works",
+      "description": "Win a VOLTA SQUADS match with 3 friends",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/c761db0c2a292a248fe7cccecd62caf336351f11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/478fa5e13dd9f1d70267ce78ac954658bad0c4fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "Achievement_GOSCC_29": {
+      "name": "Total Football",
+      "description": "Successfully convert a player to a new position in Career Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/1d6f1b0a0b3a0f8be15bb5b69b2b8b21acba9e02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/0e3e8434414855e4e5a8c6dd9ec8f56fa3eb6724.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "Achievement_GOSCC_9": {
+      "name": "Training Addict",
+      "description": "Complete all Main Menu Skill Games",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/fdb3d68ab1d94380ec5deba81565e3178645e914.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/05a6bedecfd05c470438b03277ca0e1975691429.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "Achievement_GOSCC_34": {
+      "name": "True Challenge",
+      "description": "Complete 10 enhanced objectives across all matches",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/a702c6d2cc6305e81c2cd26129d0e2a995f711ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/ba8bc579ff60b7bd5bec0e3784a4e245e57be257.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.9"
+    },
+    "Achievement_GOSCC_21": {
+      "name": "True Grit",
+      "description": "Reach Milestone 1 in a FUT Division Rivals Season",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/0643da43ed0ce95acd82281aa668dbd4acdcbdf0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/985524a6c7929093ec8878185b68a5a4f17ba54d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.9"
+    },
+    "Achievement_GOSCC_28": {
+      "name": "Trust the process",
+      "description": "Jump into a Sim match in Career Mode and win it.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/73d999f7790e12894c2aa778394ae0f6900dfcb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/174ac15c7afbcf8563ed3e482652eeb0f3bbac92.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.1"
+    },
+    "Achievement_GOSCC_1": {
+      "name": "Volta's best",
+      "description": "Reach 90 OVR with your Avatar in VOLTA FOOTBALL",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/2427839f267f18f934c4a68bdf88e1b7dde3d207.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/4af6f57a45343d97093673bdd4f3150597a8f558.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "Achievement_GOSCC_36": {
+      "name": "Winner Stays",
+      "description": "Play 5 H2H matches with a friend in Kick Off",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/9bb2006a77cf60fe98d905a5bfd99389034b2791.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/cce4baae6f03d5e0bcc99b09150e7245bf956272.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "Achievement_GOSCC_20": {
+      "name": "Winning Mentality",
+      "description": "Gain a winstreak in FUT Division Rivals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/fa1d376cf6f676efb7c93007442912eb243de392.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/81c0f24699c287bb4fed2f63e77ebbcdeeb14743.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

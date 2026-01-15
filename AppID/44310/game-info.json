@@ -1,0 +1,411 @@
+{
+  "appid": "44310",
+  "name": "F1 2010™",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/44310/header.jpg",
+  "achievements": {
+  "Rocking_the_boat": {
+    "name": "Rocking the boat",
+    "description": "You have finished ahead of your senior team-mate in your first season with a team",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/2.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/2.png",
+    "hidden": false,
+    "percent": "14.58"
+  },
+  "Practice_makes_perfect": {
+    "name": "Practice makes perfect",
+    "description": "You have taken part in all 3 Practice sessions of a race weekend",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/3.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/3.png",
+    "hidden": false,
+    "percent": "8.89"
+  },
+  "Rookie_driver": {
+    "name": "Rookie driver",
+    "description": "You have completed your first career race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/4.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/4.png",
+    "hidden": false,
+    "percent": "35.51"
+  },
+  "Face_the_press": {
+    "name": "Face the press",
+    "description": "You have completed your first interview with the media",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/5.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/5.png",
+    "hidden": false,
+    "percent": "35.40"
+  },
+  "Seeking_performance": {
+    "name": "Seeking performance",
+    "description": "You have successfully completed an R&D test",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/6.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/6.png",
+    "hidden": false,
+    "percent": "19.32"
+  },
+  "Hot_property": {
+    "name": "Hot property",
+    "description": "Congratulations! You have won a lucrative contract with a higher placed team",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/7.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/7.png",
+    "hidden": false,
+    "percent": "4.27"
+  },
+  "One_Two": {
+    "name": "One-Two",
+    "description": "Excellent! You have achieved a one-two finish with your team-mate in a career race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/8.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/8.png",
+    "hidden": false,
+    "percent": "7.21"
+  },
+  "Clean_license": {
+    "name": "Clean license",
+    "description": "Nicely driven. You have completed a race without incident",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/9.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/9.png",
+    "hidden": false,
+    "percent": "22.06"
+  },
+  "Speed_demon": {
+    "name": "Speed demon",
+    "description": "You have driven your Formula 1 car above 220 mph / 353 kph",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/10.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/10.png",
+    "hidden": false,
+    "percent": "10.13"
+  },
+  "Well_protected": {
+    "name": "Well protected",
+    "description": "You completed a single player race using only the cockpit view",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/11.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/11.png",
+    "hidden": false,
+    "percent": "10.32"
+  },
+  "Silver_arrow": {
+    "name": "Silver arrow",
+    "description": "You have won the German Grand Prix in single player driving for Mercedes",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/12.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/12.png",
+    "hidden": false,
+    "percent": "3.74"
+  },
+  "Rain_meister": {
+    "name": "Rain meister",
+    "description": "You won a single player Grand Prix of 20% distance or higher in heavy rain",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/13.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/13.png",
+    "hidden": false,
+    "percent": "51.23"
+  },
+  "Against_all_odds": {
+    "name": "Against all odds",
+    "description": "You won a single player race after starting in last place",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/14.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/14.png",
+    "hidden": false,
+    "percent": "7.29"
+  },
+  "I_aint_afraid_of_no_ghost": {
+    "name": "I ain't afraid of no ghost",
+    "description": "You’ve posted a time in Time Trial mode",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/15.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/15.png",
+    "hidden": false,
+    "percent": "19.81"
+  },
+  "Its_a_set_up": {
+    "name": "It's a set-up",
+    "description": "You successfully won a race using a car set-up which you've created",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/16.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/16.png",
+    "hidden": false,
+    "percent": "11.68"
+  },
+  "2nd_chance": {
+    "name": "2nd chance",
+    "description": "You have used the Flashback feature and gone on to win the race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/17.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/17.png",
+    "hidden": false,
+    "percent": "18.77"
+  },
+  "Seasoned": {
+    "name": "Seasoned",
+    "description": "You have completed your first season in Formula 1",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/18.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/18.png",
+    "hidden": false,
+    "percent": "12.94"
+  },
+  "Well_drilled": {
+    "name": "Well drilled",
+    "description": "Slick!! You performed a perfectly timed pit stop",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/19.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/19.png",
+    "hidden": false,
+    "percent": "9.27"
+  },
+  "Semi_auto": {
+    "name": "Semi auto",
+    "description": "You completed a race using manual gears",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/20.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/20.png",
+    "hidden": false,
+    "percent": "12.34"
+  },
+  "The_magic_number": {
+    "name": "The magic number",
+    "description": "You've won 3 career races",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/21.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/21.png",
+    "hidden": false,
+    "percent": "16.54"
+  },
+  "Impress_the_boss": {
+    "name": "Impress the boss",
+    "description": "You've exceeded a career objective",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/22.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/22.png",
+    "hidden": false,
+    "percent": "12.18"
+  },
+  "Attracting_attention": {
+    "name": "Attracting attention",
+    "description": "You've won a race while under offer of a new contract",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/23.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/23.png",
+    "hidden": false,
+    "percent": "13.57"
+  },
+  "The_big_one": {
+    "name": "The big one",
+    "description": "You've met the requirements of a Championship leading team",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/24.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/24.png",
+    "hidden": false,
+    "percent": "8.63"
+  },
+  "Team_leader": {
+    "name": "Team leader",
+    "description": "You've taken the number 1 driver position within a team",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/25.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/25.png",
+    "hidden": false,
+    "percent": "12.89"
+  },
+  "Built_to_succeed": {
+    "name": "Built to succeed",
+    "description": "Your team has won the World Constructors' Title",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/26.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/26.png",
+    "hidden": false,
+    "percent": "6.93"
+  },
+  "Crushing_victory": {
+    "name": "Crushing victory",
+    "description": "You showed your team mate how it's done",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/27.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/27.png",
+    "hidden": false,
+    "percent": "6.34"
+  },
+  "Schuperb": {
+    "name": "Schuperb",
+    "description": "In single player you've beaten Michael Schumacher's record of 40 wins from Pole Position",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/28.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/28.png",
+    "hidden": false,
+    "percent": "0.87"
+  },
+  "Made_perfect": {
+    "name": "Made perfect",
+    "description": "You placed first at the end of all 3 Practice Sessions of a race weekend",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/29.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/29.png",
+    "hidden": false,
+    "percent": "4.91"
+  },
+  "Pole_position": {
+    "name": "Pole position",
+    "description": "You qualified in the number one spot in a single player race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/30.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/30.png",
+    "hidden": false,
+    "percent": "27.80"
+  },
+  "Podium_finish": {
+    "name": "Podium finish",
+    "description": "You finished on the podium in a Career or Grand Prix race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/31.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/31.png",
+    "hidden": false,
+    "percent": "34.23"
+  },
+  "Top_step": {
+    "name": "Top step",
+    "description": "Congratulations! You took your first Career or Grand Prix victory",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/32.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/32.png",
+    "hidden": false,
+    "percent": "31.27"
+  },
+  "Unforgettable": {
+    "name": "Unforgettable",
+    "description": "You have taken pole and won the Monaco Grand Prix in a single player race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/33.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/33.png",
+    "hidden": false,
+    "percent": "5.95"
+  },
+  "World_Champion": {
+    "name": "World Champion",
+    "description": "You have won the Formula 1 Drivers' Championship",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/34.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/34.png",
+    "hidden": false,
+    "percent": "10.89"
+  },
+  "World_Champion_Expert": {
+    "name": "World Champion - Expert",
+    "description": "You won the Formula 1 Drivers' Championship on Expert difficulty",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/35.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/35.png",
+    "hidden": false,
+    "percent": "14.51"
+  },
+  "Double_World_Champion": {
+    "name": "Double World Champion",
+    "description": "You have won the Formula 1 Drivers' World Championship for the second time",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/36.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/36.png",
+    "hidden": false,
+    "percent": "5.97"
+  },
+  "Triple_World_Champion": {
+    "name": "Triple World Champion",
+    "description": "You have won your third Formula 1 Drivers' World Championship",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/37.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/37.png",
+    "hidden": false,
+    "percent": "4.27"
+  },
+  "Strength_of_character": {
+    "name": "Strength of character",
+    "description": "You've selected the most challenging Championship Rival",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/38.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/38.png",
+    "hidden": false,
+    "percent": "10.44"
+  },
+  "Tifosi": {
+    "name": "Tifosi",
+    "description": "You have won at Monza driving for Ferrari in a single player race",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/39.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/39.png",
+    "hidden": false,
+    "percent": "5.58"
+  },
+  "Taking_it_online": {
+    "name": "Taking it online",
+    "description": "You have beaten the rest to win your first online ranked Grand Prix",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/40.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/40.png",
+    "hidden": false,
+    "percent": "30.41"
+  },
+  "Perfect_10": {
+    "name": "Perfect 10",
+    "description": "You've achieved online ranking level 10",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/41.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/41.png",
+    "hidden": false,
+    "percent": "1.74"
+  },
+  "2_and_5": {
+    "name": "2 and 5",
+    "description": "You've achieved online ranking level 25",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/42.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/42.png",
+    "hidden": false,
+    "percent": "0.84"
+  },
+  "Nifty_50": {
+    "name": "Nifty 50",
+    "description": "You've achieved online ranking level 50",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/43.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/43.png",
+    "hidden": false,
+    "percent": "0.13"
+  },
+  "A_true_gent": {
+    "name": "A true gent",
+    "description": "You completed a multiplayer race without making contact with an opponent",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/1.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/1.png",
+    "hidden": false,
+    "percent": "2.93"
+  },
+  "CV_submitted": {
+    "name": "CV submitted",
+    "description": "You've beaten a member of the F1 2010™ Dev team or a player who has done so",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/44.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/44.png",
+    "hidden": false,
+    "percent": "1.87"
+  },
+  "Limelight": {
+    "name": "Limelight",
+    "description": "You finished the season ahead of your Championship Rival",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/46.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/46.png",
+    "hidden": false,
+    "percent": "11.76"
+  },
+  "Full_house": {
+    "name": "Full house",
+    "description": "You were fastest in practice, qualified on pole and finished first in a single player event",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/45.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/45.png",
+    "hidden": false,
+    "percent": "17.09"
+  },
+  "Commitment_is_the_key": {
+    "name": "Commitment is the key",
+    "description": "You have completed 7 full seasons",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/48.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/48.png",
+    "hidden": false,
+    "percent": "32.04"
+  },
+  "Clean_sweep": {
+    "name": "Clean sweep",
+    "description": "You qualified in pole position with the fastest time in each sector in a single player game",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/47.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/47.png",
+    "hidden": false,
+    "percent": "21.38"
+  },
+  "Consistency_is_the_key": {
+    "name": "Consistency is the key",
+    "description": "You scored a point in each race of a season",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/49.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/49.png",
+    "hidden": false,
+    "percent": "5.49"
+  },
+  "True_racer": {
+    "name": "True racer",
+    "description": "You won a single player race without using driver aids",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img/50.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/44310/img_g/50.png",
+    "hidden": false,
+    "percent": "3.27"
+  }
+},
+  "platform": "GFWL",
+  "blacklist": [],
+  "uses_db": false
+
+}

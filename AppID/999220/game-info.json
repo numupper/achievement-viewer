@@ -1,0 +1,379 @@
+{
+  "appid": "999220",
+  "name": "Amnesia: Rebirth",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/header.jpg?t=1752056337",
+  "achievements": {
+    "Altruist": {
+      "name": "Altruist",
+      "description": "Spared an innocent, perhaps dooming an unborn child.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/c1daf6e24d5831cd21fc251f02067b11b1066277.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "Amnesiac": {
+      "name": "Amnesiac",
+      "description": "Awoke with fragmentary memories after the crash of the Cassandra.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/68158576a2eab32b1c4505afafe9dcac3e003aae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/7e639b5c068cacb6fded95c39c38c98606a3d0cf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "88.4"
+    },
+    "Archivist": {
+      "name": "Archivist",
+      "description": "Collected notes to fill a journal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/f33abf6939c67b8c38d3fbffac4eda41146e3137.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.9"
+    },
+    "Canopener": {
+      "name": "Can-opener",
+      "description": "Popped the lid on some carefully stored meat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/07485ed2635bbe1b599f3bcb46d8cdd90611fc1f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "Caregiver": {
+      "name": "Caregiver",
+      "description": "Took time to talk with an unborn child.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/64652ac1a03640b32f58a956b17a4530272b0dbd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.9"
+    },
+    "Castaway": {
+      "name": "Castaway",
+      "description": "Failed to reach a child, separated by deep waters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/f812a7b02a02b5e2fb52b2da52f743d3e05f7099.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.9"
+    },
+    "Communicator": {
+      "name": "Communicator",
+      "description": "Explored the inner fortress, and spoke to the doctor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/ff4f53ee3522754ccc607380b97371e6c1988550.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/7e639b5c068cacb6fded95c39c38c98606a3d0cf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.4"
+    },
+    "Crewmember": {
+      "name": "Crewmember",
+      "description": "Found all Hank's notes on the crew of the Cassandra.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/0a6099b155c4817c55f66ef67bd7f38e8b097a20.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "Curator": {
+      "name": "Curator",
+      "description": "Found all the memories recorded by others.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/c00711c19cbb763d177e6551b95cdaac03b0db68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/7e639b5c068cacb6fded95c39c38c98606a3d0cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "Diagnostician": {
+      "name": "Diagnostician",
+      "description": "Operated a scanning device, and learned of a child's illness.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/7fa15ec09c1f2c4c0c269d7162e34cc69a808543.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.5"
+    },
+    "Dreamer": {
+      "name": "Dreamer",
+      "description": "Dreamed of Paris.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/fa1824fabc101a9c16662d2cf6c4044deb22d97d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.6"
+    },
+    "EscapeArtist": {
+      "name": "Escape Artist",
+      "description": "Escaped a cage in the Arsenal without setting off a grenade.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/6f5225a250a75a00e05aa51a3f0906cab323e6cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "Follower": {
+      "name": "Follower",
+      "description": "Followed Salim's trail.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/6681ed4d3cc00a0eb860e0df072a722f58ac5a48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "77.5"
+    },
+    "Fugitive": {
+      "name": "Fugitive",
+      "description": "Escaped the Shadow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/38937436f0b4ff53e66b472036bc4b80e8c128cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.6"
+    },
+    "Gunner": {
+      "name": "Gunner",
+      "description": "Fired a cannon at the fortress gate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/edb28817dc41f1090993342212995f9c0ccca005.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.4"
+    },
+    "Harvester": {
+      "name": "Harvester",
+      "description": "Left a daughter in the care of a god, and was reborn.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/ca8385364b8abc236595a5ae0a544b63ea7455ab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.6"
+    },
+    "Historian": {
+      "name": "Historian",
+      "description": "Found an unfinished letter from an archaeologist to his sister.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/3262ec5479f6dc1a2e2116dba444364f1e691a75.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.4"
+    },
+    "Iconoclast": {
+      "name": "Iconoclast",
+      "description": "Sacrificed everything to cast down a god and end suffering.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/9ec548bb4996a9d111a20cf86fdf5377d6c1a7ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.9"
+    },
+    "Lightbringer": {
+      "name": "Lightbringer",
+      "description": "Burned a forest's worth of matches to illuminate dark places.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/afacd1cfc724cbc9f216300e3563145a2f6554fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "Mother": {
+      "name": "Mother",
+      "description": "Gave birth to a daughter, only to lose her.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/73235d5579f69c3ed912c5e2374d053307c90120.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "Murderer": {
+      "name": "Murderer",
+      "description": "Drained the fear and the life from a crewmember.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/7be37958e962a4723fceddbcbaf0b167f9344adc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "Narcissist": {
+      "name": "Narcissist",
+      "description": "Gazed at a reflection in the water.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/bef7e117f03857ef94b83d3488a5efd33a2cc1c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.8"
+    },
+    "Nomad": {
+      "name": "Nomad",
+      "description": "Travelled through the desert.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/a8ea245fba9be9c6e57b0841a3c214e797590b8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.2"
+    },
+    "NopeMerci": {
+      "name": "Nope, Merci!",
+      "description": "Left when things were getting interesting in Amnesia: Rebirth.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/8b96a9a3dd5d9c412540c3d51ddc98105d754f03.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "Overlooked": {
+      "name": "Overlooked",
+      "description": "Kept quiet and still, and so escaped a predator's gaze. (Original Mode only)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/c6eb50777d65a88ff86497e59bf4fccd68683321.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "Pathfinder": {
+      "name": "Pathfinder",
+      "description": "Found a way through the ruined cistern.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/1d8e5073875d77d77043326da2a5650f650fc06b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.8"
+    },
+    "Pilgrim": {
+      "name": "Pilgrim",
+      "description": "Followed the pilgrim's trail to take refuge in the fort.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/1ba8fccbfcffbea43498849c0ecd73256a6da4df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "Provider": {
+      "name": "Provider",
+      "description": "Escaped to Paris with a daughter that must now be cared for.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/dfeb5d3d44f8c53d8ad5b9b5b3b1a9a735b86b36.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "Reborn": {
+      "name": "Reborn",
+      "description": "Collected all the other achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/bfda27f0eed5d1bd806635d6bde2841fc7fdab6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "Refugee": {
+      "name": "Refugee",
+      "description": "Reached the doctor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/934f5e7bfe82e001a335f4bb23a8501055f128eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.8"
+    },
+    "Somnambulist": {
+      "name": "Somnambulist",
+      "description": "Took a walk in the park.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/dec32b976936a59beb71371f7af1a700ef3c47ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.0"
+    },
+    "Speedster": {
+      "name": "Speedster",
+      "description": "Completed the game faster than any Frictional developer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/ac840b773c48ea40c033f9624815405c7d90fe34.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/7e639b5c068cacb6fded95c39c38c98606a3d0cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "Stoic": {
+      "name": "Stoic",
+      "description": "Resisted fear, and resisted anger. (Original Mode only)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/52f658923c99e3fce3460a7636769ce635d7a16c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "Tasi": {
+      "name": "Tasi",
+      "description": "Completed the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/92f08a139ac5c4e1b72ac93890005d3ee79b0c1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "Tinkerer": {
+      "name": "Tinkerer",
+      "description": "Activated the alchemists' device.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/32d00042c521d0cb6b55a5c3cc43789e5b1c266d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.6"
+    },
+    "Torturer": {
+      "name": "Torturer",
+      "description": "Tortured an innocent to aid an unborn child.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/41a4df078b47c6de59447cc315ce3e0d901418da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "Translocator": {
+      "name": "Translocator",
+      "description": "Sent extra objects through the portal in the Alchemist's Chambers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/29d0cfc90279deafda3b563bc3f9d6a0539df93a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "Traveller": {
+      "name": "Traveller",
+      "description": "Activated a portal between worlds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/981a7651526a7fefe01dcaa30138cc35f8f76902.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.3"
+    },
+    "Trawler": {
+      "name": "Trawler",
+      "description": "Found treasure beneath the water.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/0bfdc1d178c09e853f94f08a60584d05e8f117dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "Vandal": {
+      "name": "Vandal",
+      "description": "Smashed lots of irreplaceable objects.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/3359915178390cbfb0cdabd3cfbca8b3b7bcbd5c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "Widow": {
+      "name": "Widow",
+      "description": "Carried on with life, despite Salim's fate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/2cdabdbe878ea9edf9fa7f0dea60a81d6a73b79a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

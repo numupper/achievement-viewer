@@ -1,0 +1,505 @@
+{
+  "appid": "2051120",
+  "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/header.jpg?t=1747235742",
+  "achievements": {
+    "ML_ACHIEVEMENT_29": {
+      "name": "…Is half done",
+      "description": "Get half of the Collection vehicles (DLC excluded).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/ace88242efcb801942affdedb0dbb3177243410a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bc234b1c5750086ff758695d573d6f4efe22de33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ML_ACHIEVEMENT_40": {
+      "name": "A little nest egg",
+      "description": "Earn 100,000 Coins in total.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b5ab424cb1fb5cc0bbb798002da0176d4000dbde.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e3eb786fae89a6fb4117e51b00c12049b5c51521.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "ML_ACHIEVEMENT_02": {
+      "name": "Acrobat",
+      "description": "Perform 20 jumps with any vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/10821c8e15d68cbc8cd8b9210557730b9223e38a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/1979b473c588a0778f54810e78637742a38a4bde.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.2"
+    },
+    "ML_ACHIEVEMENT_48": {
+      "name": "Bel Paese",
+      "description": "Win 3 events in Made in Italy Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/6f2aa2dff6e99cd49b4140f9ddd038498eb00fa4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b45ae75197be5ae2590a97e16c2d00be10d41f6e.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
+      "percent": "4.0"
+    },
+    "ML_ACHIEVEMENT_37": {
+      "name": "Better too much",
+      "description": "Equip any duplicate vehicle with 7 skills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/fc5060f7ead3e2c296b22f7c1da7d5c0832929de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/16562b48f28ec7dd5adac4e2dd23f269ab782d4f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ML_ACHIEVEMENT_34": {
+      "name": "Beyond the limit",
+      "description": "Upgrade the type of any vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/62a103a67adbb12c7ba5738a2b2a9496140f25ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/a67ec65aaa7b96e9e51532981f945b938fcc9f6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.0"
+    },
+    "ML_ACHIEVEMENT_28": {
+      "name": "Can you keep a secret?",
+      "description": "Obtain a 'Secret' vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/6b42cfb45cd201f70f0ff1e09969a40901c427f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2460fe8eeb20b5efd23ddd6d33d387d0cca75b71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ML_ACHIEVEMENT_20": {
+      "name": "Challenge accepted!",
+      "description": "Accept the challenge of a Challenge Event in Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4a9d42e583d9f2361db1a81d6d3f6fb071a3b6d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/891d69b0d2a5859768739301f3942ae0f1fbdccb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.6"
+    },
+    "ML_ACHIEVEMENT_10": {
+      "name": "Drift champ",
+      "description": "Complete 10 races in Drift Master mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d5c1f9ca4df5b3376c1265f2329db8da8ad98db1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d6d8e7e3e9dc7e1e1778ffdd011331d238531d75.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ML_ACHIEVEMENT_04": {
+      "name": "Drifting teacher",
+      "description": "Drift for 500,000 centimeters (196,850 inches) in total.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d994a057b101b4c216e2720cfd0bc9f8ffc8df7f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/945939bd786805e58601d1a75ea362d154069666.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ML_ACHIEVEMENT_30": {
+      "name": "Eagle eye",
+      "description": "Get all the Super Treasure Hunt vehicles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/13241d19071b75ad2bf2779c47fa45b8850ba0e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/cbfb6b13430ae839c5b2cfd7195334c96a4cbdc9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ML_ACHIEVEMENT_35": {
+      "name": "Extra gear",
+      "description": "Equip any vehicle with a skill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/44691f90f898e4608e945472f36c4d72f1001de2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2213ac5db7ed794baffad8d722d413703d027515.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.0"
+    },
+    "ML_ACHIEVEMENT_27": {
+      "name": "Extreme conditions",
+      "description": "Complete the goal of an Extreme Event in Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2f7955f238ab200da8f3bf01e01fb0510604e507.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/97c03fb9501055db990f128a957bf17d24458a58.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ML_ACHIEVEMENT_52": {
+      "name": "For the family",
+      "description": "Win 1 Quick Race in Toretto's Garage (not unlockable in Online and Split Screen modes).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c58d6f7ad953c5e433a36ee9547334e6d54964a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f3cfb6a6180342fc9bf7529ca9d413cbfddef4b2.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - Fast & Furious Expansion Pack",
+      "percent": "8.2"
+    },
+    "ML_ACHIEVEMENT_07": {
+      "name": "Globetrotter",
+      "description": "Complete a race in every environment (except the Track Room).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/32c415c9e036feb00a7874a2bd514fd4fa54c03c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d8d8d8e60054ca98e872cd3b84fa4bed0ade0131.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.3"
+    },
+    "ML_ACHIEVEMENT_55": {
+      "name": "I want to believe",
+      "description": "Win 1 Quick Race in Hangar 68 (not unlockable in Online and Split Screen modes).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/fb6e60645ce2c5ac0121203f58ccbd1123f20f81.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c4849d72d765266770f8fd1b923548184b4a0c5b.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - Alien Encounters Expansion Pack",
+      "percent": "7.3"
+    },
+    "ML_ACHIEVEMENT_44": {
+      "name": "Ignition",
+      "description": "Upgrade the Tier of an AcceleRacers DLC vehicle to Ultimate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/1c4dfdb274c72a66776b9f4824c7926923848cbe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bd3172f7d8d9a31e63cf9f6b39958a412892cce9.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Expansion Pack",
+      "percent": "4.6"
+    },
+    "ML_ACHIEVEMENT_21": {
+      "name": "I'm in charge here!",
+      "description": "Complete all goals of an area in Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/734593c72a56cc7b3c6e683a133801e5ab305af6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d769195ea8c1b86ff38b604604db5dd96b28ded9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.6"
+    },
+    "ML_ACHIEVEMENT_12": {
+      "name": "Immortal",
+      "description": "Complete 10 races in Elimination mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e154d619dec60dee77b5d55312311edab8dc8e5d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/fac610824e0e9fae1fd5263a85f3d6ba61611fe9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "ML_ACHIEVEMENT_18": {
+      "name": "International license",
+      "description": "Complete 10 races in any online mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/5e767cde3395392a0a8a0580412d2d091a517679.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e428ba3c35058092c98886d2d24b20943d2a2a38.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "ML_ACHIEVEMENT_47": {
+      "name": "Italian heart",
+      "description": "Upgrade the category of a Made in Italy DLC vehicle to Ultimate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d6b7aeefb1c9da7cf7ec8f7b4d149fbe6791dad6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/ec02f440b0d99906c197d3e81427c5d28327da1a.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
+      "percent": "3.2"
+    },
+    "ML_ACHIEVEMENT_11": {
+      "name": "It's me you have to beat",
+      "description": "Complete 10 races in Quick Race mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/3f74e12ff1a9bbf5059ecb8118809c0f9c5ee721.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/434f370b74038b2e433d40e6fbf0fead26511229.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.2"
+    },
+    "ML_ACHIEVEMENT_05": {
+      "name": "Like lightning!",
+      "description": "Use the Boost for 30 minutes in total.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/14e14b9faf2067f9956794ec24b78c4ed65241da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d5a523c96cdcafe63f94605d7e5ad4b510d62d76.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "ML_ACHIEVEMENT_13": {
+      "name": "Look, Mom! No track!",
+      "description": "Complete 5 races in Waypoint mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c67a2d0807fb932f84b3d714ce436cf7f34c213c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c456ccc62cd9cd9686a155b7ccbe40597b7214c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "ML_ACHIEVEMENT_42": {
+      "name": "Magic trick",
+      "description": "Reach a new Prestige level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d3fb9536cd02ee3e7ce18190bdda25e5b1bb49e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f6f59da97a0bce2582e866a779a207df3b9c8d5c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "ML_ACHIEVEMENT_09": {
+      "name": "Masterful!",
+      "description": "Reach the podium 25 times in any mode (not unlockable in Split Screen mode).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b06e9416ce1809a780095c56aceb2e2b30cfa2d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/20947d0126afe5da2eb10493db03b214c0403511.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "ML_ACHIEVEMENT_43": {
+      "name": "Mission complete",
+      "description": "Complete your first Unleashed Mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/955516d44f2fb6499a9b8bdf569b2f2e185e33dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/918abd54ee6b4e71135c4886dda09f7c75706ed0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.9"
+    },
+    "ML_ACHIEVEMENT_06": {
+      "name": "Now try online",
+      "description": "Win a Quick Race on Hard AI difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/3842f92c53b641cda3a59b317002383fd29db152.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/34ae2c067fa2249cd58243c68cbb5588c7fa465c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ML_ACHIEVEMENT_03": {
+      "name": "Out of control",
+      "description": "Perform 10 lateral dashes with any vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/3e6c00e3d1abbf3ea7a433390ee794e90b65f1bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e32df1ef551af186913547ae35d17198bac1703f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.3"
+    },
+    "ML_ACHIEVEMENT_54": {
+      "name": "Out of this world",
+      "description": "Win 3 events in Alien Encounters Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/31dc032aedec1f9e0194b5168b01d74767301fbb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/763b9757fcd5d82ab11a01eb3a3fa3bebdc75b55.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - Alien Encounters Expansion Pack",
+      "percent": "2.7"
+    },
+    "ML_ACHIEVEMENT_36": {
+      "name": "Perfectionist",
+      "description": "Upgrade the type of a vehicle to Ultimate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/024ab262ab105e399b3d3792a35fbd416fedfaff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/aa58a2e778950e4f52eeded7f264393cb621dac5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.9"
+    },
+    "ML_ACHIEVEMENT_49": {
+      "name": "Pizza, pasta, and engines",
+      "description": "Win 1 Quick Race through the Italian Village (not unlockable in Online and Split Screen modes).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/80b4bb4300a94a68d8bb640a338de0813efb59da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0439310249b336a93c3408b24640e47dbbaae0e9.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
+      "percent": "7.9"
+    },
+    "ML_ACHIEVEMENT_01": {
+      "name": "Rookie",
+      "description": "Complete the tutorial.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/7d0c979b2712cc573d705e4be29a9e655783a0ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f26502f6e98e6610def5807b9bec93aaa18b010f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.9"
+    },
+    "ML_ACHIEVEMENT_14": {
+      "name": "Shapeshifter",
+      "description": "Reach the podium with a Rocket, Off-Road, Balanced, Drifter, Swift, and Heavy Duty vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e13fff8b1fec050f720a22b45f96e98da730ad95.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/60ff038cc024f75606690375f9626415e7e971be.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "ML_ACHIEVEMENT_31": {
+      "name": "Shopping time!",
+      "description": "Make a purchase at the Shop.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f43e4fd019cec852dede7417e08af6fe06499217.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/6699da481cd669d7356a990a4f5c832f0f48e490.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.8"
+    },
+    "ML_ACHIEVEMENT_17": {
+      "name": "Solo",
+      "description": "Complete a Quick Race in Multiplayer mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d4755b715a995a216bd40d767eada8fd9d3d0733.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/22dc1720ab88b8d6d2cae3802008f067ebcd75b3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.1"
+    },
+    "ML_ACHIEVEMENT_32": {
+      "name": "Spendthrift",
+      "description": "Buy 25 vehicles at the Shop.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/794e11fdb03d89cd5e14328610a4564e96846b42.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/69336cb06d28d6b122ac337d96959c5d00465ffe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "ML_ACHIEVEMENT_33": {
+      "name": "Spin the wheel",
+      "description": "Spin the Hot Wheels™ Spin for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/7706b3d6faaea373b9cf4d345022ee4b4ee8642d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/5d0f42d9492b659fd8efe04ad7a3469c9c337b8f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.2"
+    },
+    "ML_ACHIEVEMENT_38": {
+      "name": "Spoiled for choice",
+      "description": "Buy all the skills of a vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c6b4b71babd9ee54ef7c3eb89182370887a0edb0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/488be8f04bfd94088cf966a324e1c6fe8caf7c70.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ML_ACHIEVEMENT_16": {
+      "name": "Stage animal",
+      "description": "Validate a track in Track Builder mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/9aa115d163a114623ddd3cd092a2735117984d90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/ad1a8ab8d5782e109d219e1da3c36d23d1d21926.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ML_ACHIEVEMENT_15": {
+      "name": "Terror of the road",
+      "description": "Reach the podium 100 times (not unlockable in Split Screen mode).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/70e0da20e2a97e1acc18198bf5f0f0bcad2de9fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/5f3cc4fd7700e98ed3edb6ec66fb023370d396b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ML_ACHIEVEMENT_26": {
+      "name": "The Nitro Bot",
+      "description": "Defeat the fifth Boss in Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/6dfcde8554491396d94bc0a2eb63711181052a82.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b78910634524bfab6e4d9d56e757ce9c53daa0bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ML_ACHIEVEMENT_22": {
+      "name": "The Octopus",
+      "description": "Defeat the first Boss in Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0ebab6a69344d2f4a9eae2552041cd4727a94801.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d0508b348517e2c8157e34fd30b58827dcaab8ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.5"
+    },
+    "ML_ACHIEVEMENT_23": {
+      "name": "The Scorpion",
+      "description": "Defeat the second Boss in Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/71060f898fdf99a176476cf36e68bd808c5c2f7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f46af22ccb261f9287da0357e40d70a62075407f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "ML_ACHIEVEMENT_45": {
+      "name": "The Speed of Silence",
+      "description": "Win 3 events in AcceleRacers Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2886d873a584d3c0fc54deb478da2656cbb23823.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/522a3ce9de47f9bcfd077360e6edbc6176b5e1e0.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Expansion Pack",
+      "percent": "6.9"
+    },
+    "ML_ACHIEVEMENT_24": {
+      "name": "The Terrordactyl",
+      "description": "Defeat the third Boss in Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/ce32124a642356a9d69ccdc4a1d36bd79b1e72ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/714a266c884a52eb618391de90e3dddb8df3e96b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.4"
+    },
+    "ML_ACHIEVEMENT_46": {
+      "name": "The Ultimate Race",
+      "description": "Win 1 Quick Race in the AcceleDrome (not unlockable in Online and Split Screen modes).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d2a68e9aa7a2059c1b5200bd84f7828e0b9cebd1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/654515192334d61f43f7cae471563945e0b640d0.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Expansion Pack",
+      "percent": "12.4"
+    },
+    "ML_ACHIEVEMENT_25": {
+      "name": "The Yeti",
+      "description": "Defeat the fourth Boss in Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b520ae39df79666d3fddbc4eee5f69ad746dd7fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/081565b85466b80a7224e816d4b053e779ced02f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "ML_ACHIEVEMENT_53": {
+      "name": "They're among us",
+      "description": "Upgrade the category of an Alien Encounters DLC vehicle to Ultimate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4f264ea6b69d6051eef2bfcbf88c6ca409539cfb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/5791a32cfef3afbbd91bdd36e9cc5336332eaba5.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - Alien Encounters Expansion Pack",
+      "percent": "2.6"
+    },
+    "ML_ACHIEVEMENT_50": {
+      "name": "Too Fast",
+      "description": "Upgrade the Tier of a Fast & Furious DLC vehicle to Ultimate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d80104cc8f2c28f87ae46aa96ead26e31355fe28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b3daf3d913bd2ad6ea07510566518b8914b89323.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - Fast & Furious Expansion Pack",
+      "percent": "4.9"
+    },
+    "ML_ACHIEVEMENT_51": {
+      "name": "Too Furious",
+      "description": "Win 3 events in Fast & Furious Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/549119d839cb7b72836bc9713482df176f1e2a63.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/72f31b168a1b4124e12af8b446d0a27ad3b6afeb.jpg",
+      "hidden": false,
+      "group": "HOT WHEELS UNLEASHED™ 2 - Fast & Furious Expansion Pack",
+      "percent": "3.8"
+    },
+    "ML_ACHIEVEMENT_39": {
+      "name": "Tools of the trade",
+      "description": "Get all the Track Builder Modules.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/a670951e8e9d3922bb6b744dbd1611859eb85a61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/8276d5eae4a6eb2e5cbbb54c22675160eed7e761.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ML_ACHIEVEMENT_08": {
+      "name": "Versatile riding",
+      "description": "Complete a race in every offline mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0aa2ecfddd9225d86cc10ba298acd2b545ddeb8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/cc76129caf45395873d5fb74c28146fb5a362cd4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "ML_ACHIEVEMENT_19": {
+      "name": "Well begun…",
+      "description": "Complete the Unleashed Goal of an Event in Career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/a8da43fe31fe2d3e3bf975ed6fba907d35952e72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bcccbbdd8bbcc3eb1cf9a35d8410e5b30f452da6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.6"
+    },
+    "ML_ACHIEVEMENT_41": {
+      "name": "You're good at this!",
+      "description": "Reach level 20.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c6eddfe32d44ea09d772d5ec17cd61ea38b74c11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4f980cccc3edc3c4bc1df18560979713333a7df6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

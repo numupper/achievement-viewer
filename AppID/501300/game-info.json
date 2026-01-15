@@ -1,0 +1,91 @@
+{
+  "appid": "501300",
+  "name": "What Remains of Edith Finch",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501300/header.jpg?t=1751995813",
+  "achievements": {
+    "AllPeepholes": {
+      "name": "A Closer Look",
+      "description": "Look in all peepholes and telescopes long enough to hear Edith's commentary",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/5b03e0286e78aad8ad56bce7caab268fe551260b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/ca33a0defa486bb20c5c121e9e4af062a92d0085.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "TakeBothPathsToTheHouse": {
+      "name": "All Roads",
+      "description": "Take both paths to the house",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/82e7f298ced5c0b3c8afa39ab2f148045337318b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/5b9651a983a997b6b5a42445f73d163f0d66818d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.3"
+    },
+    "KnockAllPoolBallsOffTheTable": {
+      "name": "Clear the Table",
+      "description": "Clear all balls off the pool table",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/d55c5380880ae887f7230701bcf92a4b5b266374.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/1ff780c033e0f8e1e0556daac015f46336424622.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.3"
+    },
+    "EfficientOwl": {
+      "name": "Great Owl",
+      "description": "Catch 2 rabbits with only 2 swoops",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/7aa52135d330daa69eea36677bf059eb70d866d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/82a3c1242e70ff5feeecdd0cd7411de7b77ba286.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "KnockAllGregoryLettersIntoBathtub": {
+      "name": "G-R-E-G-O-R-Y",
+      "description": "Knock all the letters of Gregory's name into the bathtub",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/c361cb96fc99c5057c1c3aa8945964a25ef43021.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/81b51b4945924b774e794852dfbdee267d10fffc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "LetDrunkenSailorFinishSinging": {
+      "name": "Let Him Finish",
+      "description": "Let the drunken sailor finish his song",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/c4cfaaca7c9a4ff7dc2415b17780b4398706fcb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/4b904418d10745fa34c5d06f74ab2ce20a60c79a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "ReplaySwingset": {
+      "name": "Loop-de-loop-de-loop",
+      "description": "Play Calvin's story again",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/b021fee9d75bc8616e9ee7f0028b6c3b8daeabbd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/8782cf1b0885cca457a2dc24ebfa4911461a59ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "Johann": {
+      "name": "Thanks, Johann!",
+      "description": "See Johann's name in the ending credits",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/98cec5b4e40fb857bd7fa93099680471ad39cc72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/fcdc292c04711a388b676eb24d6bb24c7adc1943.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.7"
+    },
+    "AllStories": {
+      "name": "The End of Everything",
+      "description": "Finish all stories",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/3592a870bfd1847e6646e9228d3994496f218735.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/501300/6e7b5ba441077c3aa494cf226f0630723c660bba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

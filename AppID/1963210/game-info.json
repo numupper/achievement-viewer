@@ -1,0 +1,451 @@
+{
+  "appid": "1963210",
+  "name": "VALKYRIE ELYSIUM",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1963210/header.jpg?t=1684724115",
+  "achievements": {
+    "NEW_ACHIEVEMENT_4_18": {
+      "name": "A Loyal Servant",
+      "description": "Obtained ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/76aae541b8a03ee4d7fe870e9a8384ce6c3acd40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/92dc80a27f7f870d6d15a96adc9f08d066aafa4a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.2"
+    },
+    "NEW_ACHIEVEMENT_4_12": {
+      "name": "A Momentary Escape",
+      "description": "Agreed to Armand's offer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/c5a8be2e00ee65ae9c750f1f71d99d719263af05.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/2b5ee428708c242df28276bf9b68018e57d30c5e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "NEW_ACHIEVEMENT_4_30": {
+      "name": "A Mysterious Flower",
+      "description": "Obtained a Verdant Blossom",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/446797e08f08161c15414fa88534d3e6a1445025.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/21960dc9ca75c7210e69dbffbfa5c935a06f5637.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.7"
+    },
+    "NEW_ACHIEVEMENT_5_9": {
+      "name": "Affinity of a Soul",
+      "description": "Unlocked an Einherjar memory",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/6603cccf60a82e5a8ca57bf3ef6e7edb82553237.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/d9fdfc79d833afa39b80d0c8f48f8965c266a4e0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.5"
+    },
+    "NEW_ACHIEVEMENT_4_21": {
+      "name": "An Impure Beast",
+      "description": "Purified a Naglfar",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/c0cc9707e8aca258facca8ef76b41a7316d967e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/b7531447d5cb3d1ad677424ab56ce810521843d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "NEW_ACHIEVEMENT_4_20": {
+      "name": "An Impure Soul",
+      "description": "Purified a monster",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/361ed714c7559d6f6467797c79c73ed90e31f03b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/7c7a814d3b078f4e7c1a4feb9b5a82aa6755ba18.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.9"
+    },
+    "NEW_ACHIEVEMENT_4_3": {
+      "name": "An Unexpected Reunion",
+      "description": "Completed Chapter 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/fdaa068aee1d8a08cb5eadcb3b6159efa1e8800a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/3b24a50d55bb20a4ce10b4401fbf2d1f35b542b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.7"
+    },
+    "NEW_ACHIEVEMENT_5_14": {
+      "name": "Another Valkyrie",
+      "description": "Completed Hilde's Vengeance",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/ae8990ec64e4f53fb5dfcfe3f59f336953b80a53.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/d66af970a457741fe3ec8c185749862d2b1f36fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "NEW_ACHIEVEMENT_5_3": {
+      "name": "Anvil Master",
+      "description": "Upgraded every weapon to its full potential",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/f3435c4b8ebe80474e6fe9699f09895e5bc86706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/34de0485c70d2edbabbfe6a155ccb5a74fbe237c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "NEW_ACHIEVEMENT_5_5": {
+      "name": "Arts Master",
+      "description": "Learned every Divine Art",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/9506211e7afda68940394623def700cf66d8827c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/8284396db43f055c13d58ee6e090c822938e468d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "NEW_ACHIEVEMENT_5_15": {
+      "name": "At the Peak of Mastery",
+      "description": "Completed Seraphic Gate",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/bb4d0b881e873627292b9a2dc1d1d739d37aa88f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/ccbfa42f773c5b9948d7d81cbad405ee935e8523.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "NEW_ACHIEVEMENT_4_29": {
+      "name": "Beyond Reminiscence",
+      "description": "Obtained every Hollow Blossom",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/1a29545c5b4a82aaa1bc777f2ef1698c619033f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/0704af0c1822cef8ea0ca238ce413bf1297d89e9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "NEW_ACHIEVEMENT_4_2": {
+      "name": "Champions of the Divine",
+      "description": "Completed Chapter 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/949b23d321e96aef355053de3364fb7ba826a9ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/bfaee4046152e9754a654ac04b565d90e07433a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.5"
+    },
+    "NEW_ACHIEVEMENT_4_22": {
+      "name": "Combo Master",
+      "description": "Raised the Combo Gauge to 300 Hits",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/be9d2f7b872815926a724fefafe300c43aa5a2cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/58c36f34fa40446fcb786fb22815396e75db1d30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.4"
+    },
+    "NEW_ACHIEVEMENT_5_7": {
+      "name": "Commanding Master",
+      "description": "Learned every Einherjar attack and their normal attacks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/0a9e1641b5d73727af02c1a08431e29f205c5649.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/fb6155b5878b0162a6fbe5ae46bbb1a94e890431.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "NEW_ACHIEVEMENT_5_13": {
+      "name": "Creator",
+      "description": "Unlocked every achievement",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/bff32994338f58512f5c5bcf738530868177dd7b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/1b02ed7c24785daa77b879da52d0f4a1b7c11a5a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "NEW_ACHIEVEMENT_4_0": {
+      "name": "Divinity Anew",
+      "description": "Completed the tutorial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/2696aa817fb46730c3daa417a818a5900f65cadb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/15a9e1f51b22732167143afbca23664b6618b68a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.9"
+    },
+    "NEW_ACHIEVEMENT_5_8": {
+      "name": "Elysiumania",
+      "description": "Unlocked all terms",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/dad36dcf75057bb3154d631d4d386ff5ddb05a29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/48243a36809866460b780d350a91263b368a796e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "NEW_ACHIEVEMENT_4_6": {
+      "name": "Evil Arises",
+      "description": "Completed Chapter 6",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/c7b8ff68e70c35caf2aae978c10df645a07218bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/0934016a6f5a12e1aaff6f4e8d35e72ba509d50f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.3"
+    },
+    "NEW_ACHIEVEMENT_5_10": {
+      "name": "Fellowship of Souls",
+      "description": "Unlocked all Einherjar memories",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/35a5e1a25e0f2f1727610de55b1dba5f37514e11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/71d618830dfa1c6f7d4e8351df624b312d18bccf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.1"
+    },
+    "NEW_ACHIEVEMENT_5_16": {
+      "name": "Greater than the Gods",
+      "description": "Completed the game on Valkyrie difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/960b12fda7e4e29578774372b9b22ce65b722354.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/7c73fe296f736f4b38b64aa9ccc9d651004fcfa9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "NEW_ACHIEVEMENT_5_12": {
+      "name": "High-Tier God",
+      "description": "Completed the game on Hard difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/1637446afe5df949e8566da84f2a6dcdead19d1d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/d051d1a73ab5ea5539ded129d587313b15a9df26.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "NEW_ACHIEVEMENT_4_15": {
+      "name": "Icon of the Dead",
+      "description": "Completed 10 subquests",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/5c021141674a1b81a8206697ef1e2221ffe6b751.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/8eb89614fe5912ab97d5be2ce688ed2613c7dd3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "NEW_ACHIEVEMENT_4_24": {
+      "name": "Lightning Strike",
+      "description": "Defeated two monsters with a single Lightning Bolt",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/aa9223a004f703eb3c54a2f3c5bb12f1f0a555ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/a2f93a031c0d784eac3fc7281604278730f2bc05.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.4"
+    },
+    "NEW_ACHIEVEMENT_4_7": {
+      "name": "Metamorphosis & Doubt",
+      "description": "Completed Chapter 7",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/16de51d38d1a941517749a745f727dce6b6d5012.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/80b07e09432d00df481d6144ad78422c539fa483.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.4"
+    },
+    "NEW_ACHIEVEMENT_5_11": {
+      "name": "Mid-Tier God",
+      "description": "Completed the game on Normal difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/d598f9043d6e53046385df81ff2b3d8ac023d1d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/5430a9b7765bfc74033325feb5ed498db35ed517.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "NEW_ACHIEVEMENT_4_27": {
+      "name": "Nibelung Valesti",
+      "description": "Landed a Nibelung Valesti I attack",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/03fb84870ade0834f32e855a50558799b72011eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/8355bfe844115d2a2d49d6aef78bf94ef1f49c91.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "NEW_ACHIEVEMENT_4_23": {
+      "name": "Pitfall",
+      "description": "Purified a monster by pushing them into a hole or off a cliff",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/44ef0283178cbd2e988227993e34f3310e732cfb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/880b197c230330574697675f444d72b44625f6d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.8"
+    },
+    "NEW_ACHIEVEMENT_5_1": {
+      "name": "Rune Master",
+      "description": "Obtained every rune",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/bafb17c0179e7b7e7e01fd73456b2a36ec0499fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/c4c6589fcbbf62dbefb40aea5867f661cad4fe6a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "NEW_ACHIEVEMENT_5_0": {
+      "name": "Rune Novice",
+      "description": "Obtained a rune",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/d466e9b347819a8aa2491157d01239361be77ed3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/a243e19df654f6cbe7fc0569aa2568c7af412f0e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.2"
+    },
+    "NEW_ACHIEVEMENT_4_17": {
+      "name": "Savior of the Dead",
+      "description": "Completed all subquests",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/4cde096ba16c54eb67ad1d587beb7f9b5f6acc66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/5a7fa5a56613597255a71076f167bec7b80a785e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "NEW_ACHIEVEMENT_5_6": {
+      "name": "Skill Master",
+      "description": "Learned all of Valkyrie's skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/f1eeb626427515ff37a68706cb16b3259a4bbc8e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/f37fcd78c224b67d796d26ece63492965e7cc317.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "NEW_ACHIEVEMENT_4_25": {
+      "name": "Soul Burst",
+      "description": "Landed a Soul Burst Level 3 attack",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/133822ce9a219ae6b972ad953f12739ee9d87f30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/62292f0954913a7a343f8d1241d5e897b7d55e33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.7"
+    },
+    "NEW_ACHIEVEMENT_4_26": {
+      "name": "Soul Steal",
+      "description": "Landed a Soul Steal in midair",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/69d17a244af21b912a99a2e81b53deab07a446f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/f7e4e1b3cffd2b33e72228562af27c3b2714264e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "NEW_ACHIEVEMENT_4_16": {
+      "name": "Superstar of the Dead",
+      "description": "Completed 20 subquests",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/24c6189e3a83596f2004fdad7bff7c870a935328.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/d2c8ca19022f0b5465b2967e83c9d455eafaba31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "NEW_ACHIEVEMENT_4_14": {
+      "name": "Talk of the Dead",
+      "description": "Completed a subquest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/8e5a008694558cef210fd3055479d554f9b30fec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/c3addd3d61f02d3e44d6e5de0b1a2fc5aa457934.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.8"
+    },
+    "NEW_ACHIEVEMENT_4_19": {
+      "name": "The All-Father's Right Hand",
+      "description": "Obtained ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/94838221a8ace88f010aa76b025a493d923c02ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/e1032784c78a1f7e80d9b2bd93e4840edfaf0254.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "NEW_ACHIEVEMENT_4_9": {
+      "name": "The Fate of the World",
+      "description": "Completed Chapter 9",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/ec52fee423c0fa36f915a4533ae6cc105c91e7c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/fbcaa0f77c0314c7a76765f5ae7788f4ed4f392e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "NEW_ACHIEVEMENT_4_8": {
+      "name": "The Truth Unmasked",
+      "description": "Completed Chapter 8",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/c0e24c30786ace0a83fc8efaa2e5ccda0b43c876.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/739cac96191fb382e2d098d118154c6c1cf60721.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "NEW_ACHIEVEMENT_4_5": {
+      "name": "Those Offered the Hand of Salvation",
+      "description": "Completed Chapter 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/42302122d93fb74e96ae4838bb685c0cb6b03a9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/e0974e3d6273ceca455ec6227966d3f1d9b4415a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.2"
+    },
+    "NEW_ACHIEVEMENT_4_31": {
+      "name": "Truth of the Gods",
+      "description": "Obtained every Verdant Blossom",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/1be1265b555db0a10533b5f5c43a56e8fa8374a6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/415afea32e6c6cfd1d412a632a7dafccf4ef8199.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "NEW_ACHIEVEMENT_4_10": {
+      "name": "Twilight of the All-Father",
+      "description": "Defeated Odin",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/fb9e46819cb4faf4defb53e80e0a7a77e59761a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/b76f7548d4637fe2cdb1f8570f18d80874274a60.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "NEW_ACHIEVEMENT_4_11": {
+      "name": "Twilight of the Great Wolf",
+      "description": "Defeated Fenrir",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/260db11ee76fb526cf5b376e631affeffd07975c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/ca7d4fe67ae3c3a4257668f3f6de4a6c9bb56961.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "NEW_ACHIEVEMENT_4_13": {
+      "name": "Unbound Possibilities",
+      "description": "Completed every ending",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/dcf0c8045aedd65626fbe7f593a6434d631baa03.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/ef6fa6f0c42500ce1b80e07f1822fd8e72b08486.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "NEW_ACHIEVEMENT_4_1": {
+      "name": "Valkyrie, Claimer of Souls",
+      "description": "Completed Chapter 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/898878f17fc4f6f9c2ce7322e9b37c0500445425.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/3e6502da09d0dc31e01800cf8587e651696b37fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "NEW_ACHIEVEMENT_4_28": {
+      "name": "Vestige of a Soul",
+      "description": "Obtained a Hollow Blossom",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/cc2b86428ea605da782daea501957b7df86674a7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/33b1d6ebffe5f36c3eef78b3df001039c995b0e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.6"
+    },
+    "NEW_ACHIEVEMENT_4_4": {
+      "name": "Victims of the Gods",
+      "description": "Completed Chapter 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/0bd56ad7e57d391610be31709c1b2de40746fbac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/7d8b8962d0292404c610d262e2d2ececec90bcbe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "NEW_ACHIEVEMENT_5_2": {
+      "name": "Weapons Collector",
+      "description": "Obtained every weapon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/d4a1a623936aa0573d3dcbdc6145b0f2a42a9391.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/bbc6001257ac1682b9c8f427892db3a4ee39b993.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "NEW_ACHIEVEMENT_5_4": {
+      "name": "Weapons Master",
+      "description": "Reached SSS proficiency with every weapon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/72389acaee6e6f94929b6b5450f6fcd00305ab30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1963210/65b4501510afe1d4f899da0ff14cc0b58b4eedb4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

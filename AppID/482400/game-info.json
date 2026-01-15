@@ -1,0 +1,424 @@
+{
+  "appid": "482400",
+  "name": "System Shock",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/header.jpg?t=1758387789",
+  "achievements": {
+    "UseAllPatches": {
+      "name": "All Patched Up",
+      "description": "Use every type of Dermal Patch",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/592667b180c47e494d4780902e0078cb206b3d02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "JettisonBetaGrove": {
+      "name": "Anti-Virus",
+      "description": "Jettison Beta Grove on the Executive level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/120a99f87d73d14d6bad537b90d378a4d9809b49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "KillWithBerserk": {
+      "name": "Asunder The Influence",
+      "description": "Kill 10 enemies while under the effects of the Berserk Combat Booster",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/e35587c65f8d615e9c35bd6723210124400f8217.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "StartReactorCountdown": {
+      "name": "Can’t Turn Back Now",
+      "description": "Start the Reactor Self-Destruct Countdown",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/c77fd711c9be7824a7e0b991b77ca97ef21554aa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.7"
+    },
+    "DestroyMedicalComputerNodes": {
+      "name": "Decrypted",
+      "description": "Destroy the Medical CPU Nodes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/26d41952cbe884b8590c98dc685bdd097f75e6e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.6"
+    },
+    "DefeatDiegoV2": {
+      "name": "Déjà Vu",
+      "description": "Defeat Edward Diego while en route to the Life Pods",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/7bbdcba3eb5996f086e1d6b4308937809abd0eef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "CompleteMaxDifficulty": {
+      "name": "Don’t Forget To Salt The Fries",
+      "description": "Complete the game on the highest difficulties",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/e42f0c7aeb8c9329ac849bcb9231e1884981643d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "DefeatDiegoV3": {
+      "name": "Edward DIEgo",
+      "description": "Kill Edward Diego",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/19b9aeaf08de7147e57cfe9341b829d4ee4bed33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "CollectRapier": {
+      "name": "En Garde!",
+      "description": "Acquire a Laser Rapier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/6cf9cdcb6c72f6efc0b12783669badae7731abe8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "SolveChess": {
+      "name": "En Passant",
+      "description": "Solve the Chess Puzzle in Delta Grove",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/1508f9c452859112c0732fb0491e5250a50eea62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "VendingMachineGrenade": {
+      "name": "Enjoy Your Purchase",
+      "description": "Buy a Grenade from a Vending Machine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/292df41bd2212069afb71c7a5ba5fc6521f63c61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "KillDiegoWithRapier": {
+      "name": "Finish Him!",
+      "description": "Kill Edward Diego with the Laser Rapier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/312b7f094a025c81098ea2fc35a811db882b3d2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "SalvageJunk": {
+      "name": "Garbage Collection",
+      "description": "Salvage 100 Junk Items at Salvage Stations",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/d851ed6e506788187d663c01ce83de675a04fa32.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "DefeatCortexReavers": {
+      "name": "Get Ahead",
+      "description": "Defeat all of the Cortex Reavers on Citadel Station",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/52bdf406c221edbc9837e18be29f567caa6a7766.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "IonBounceKill": {
+      "name": "Goldberg’s Ricochet",
+      "description": "Kill an enemy by bouncing a shot from the Ion Rifle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/110f42d5d29b61f0c51fe018ee5fe3d7018bcd9d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "CollectWrench": {
+      "name": "Gut-Wrenching",
+      "description": "Find the hidden Wrench. This looks familiar…",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/0c897041368f136fc3298044469e20f5b02ba934.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "CompleteCyberspaceLevels": {
+      "name": "Hacker? You Hardly Know’er!",
+      "description": "Destroy the Cyber Core in each Cyberspace level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/937929c489aba52a76550f173e809abc1a5b22ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "SolvePuzzles": {
+      "name": "Hacking Skillz",
+      "description": "Solve 15 Circuit or Wire Panels without using a Logic Probe",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/c97e30ae03b23baa5149858ad3e15351529d8f16.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.1"
+    },
+    "FindHiddenSkulls": {
+      "name": "Head Hunter",
+      "description": "Find Skully, the Nightdive skull, on every level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/c96c99c40625a21afd6d0912970b8d3c90877cfb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "DefeatDiegoV1": {
+      "name": "I’ll Be Back",
+      "description": "Defeat Edward Diego",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/7ea3ed00d2f7eb3e9c4d3ae6b972a8535a84f5b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "CollectAllAchievements": {
+      "name": "I’ll See You Again, Hacker",
+      "description": "Collect all other Achievements",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/485c012ad8ce977d862a68f52e018eeabc63c40f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "FindRifftraxLog": {
+      "name": "In the Not Too Distant Future",
+      "description": "Find the hidden Audio Log",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/93879b2c1c67f67994cc91ec755dad502f828c14.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "DefeatShodan": {
+      "name": "It’s Over.",
+      "description": "Defeat SHODAN",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/31fb7cdfb92dd25f1eac78e30cd87980427a6a76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "RepairSubsystemRelay": {
+      "name": "Jargon Cypher",
+      "description": "Replace the Interface Demodulator and fix Subsystem Relay 428",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/a9093445d9c31a8ce8b708853d01d1211270c2d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "BuyAmmoFromDepot": {
+      "name": "Load ‘em Up!",
+      "description": "Buy 10 Ammo Items from Ammo Depots",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/e17bf7793eca2214bf7aed3c1f3ac8b0bde8432d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "CompleteGame": {
+      "name": "Look At You, Hacker",
+      "description": "Complete the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/e2d2bc326f4e8dee60b7a3ac1adafa3f9af6c81a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ConsumeJunkFood": {
+      "name": "Look At You, Snacker",
+      "description": "Consume 30 Food and Drink items",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/0fff7022e2a3e2d01429d84fd225114461d9d231.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "CollectBestHardware": {
+      "name": "Maxed Out",
+      "description": "Find the final version of all Hardware Attachments",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/49901968b754bb4b580b4851e8ef8a56b04a0efe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "PlasmaCoreMultiKill": {
+      "name": "Neon Annihilation",
+      "description": "Kill two or more enemies with a single Plasma Core",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/8702ef5d3540995955061de606c6dce5951b72d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "DestroyAntennaRelays": {
+      "name": "No Reception",
+      "description": "Destroy the Antenna Relays on the Systems Engineering level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/7766287ee4f4025ad11dc5c2475634f2cf40167a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.3"
+    },
+    "InstallModkits": {
+      "name": "Not Even My Final Form",
+      "description": "Find and install every Weapon Modkit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/3b94b6c1f1a70fc111e87c23ef015e5d6247f56c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ZeroSecurity": {
+      "name": "Off The Grid",
+      "description": "Destroy all of SHODAN’s cameras and CPU Nodes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/b05915e63d42611c167f35459be0a253b2f1c951.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "DisableSafetyOverride": {
+      "name": "Override Superposition",
+      "description": "Disable the Safety Override for the Mining Laser",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/a2d1931351f6842f30ade43206825d75da439a46.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.8"
+    },
+    "HackEnemies": {
+      "name": "Remote Control",
+      "description": "Hack 20 enemies which have been acquired by the Target ID Hardware",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/7189bae100777263128b467ab5349500a3d6f562.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ActivateRadShield": {
+      "name": "Shields Up!",
+      "description": "Deploy Isotope X-22 and enable the Radiation Shields",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/d4c4c2d559e9f616ee9a205eaec00be55b2b762f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "FragGrenadeMultiKill": {
+      "name": "Somebody Set Up Us The Bomb",
+      "description": "Kill three or more enemies with a single explosive weapon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/ac72fc84b00961a123ef6657f73ef71d915278e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.2"
+    },
+    "FindHiddenDoor": {
+      "name": "Supersleuth",
+      "description": "Discover a Hidden Door",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/0be4ac17440ad28d133b6123b822f321d360e54a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.2"
+    },
+    "UsePowerStation": {
+      "name": "System Shocked",
+      "description": "Recharge 20 times at a Power Station",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/b43345a396e3f7cedb566c99e0e80ee8759941ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "CollectAllMedia": {
+      "name": "The Inside Scoop",
+      "description": "Find all Audio Logs and Data Sticks on Citadel Station",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/c9d7b4953f274b044b7f0ec31b184affcdc92809.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "InsertIsolinearChipset": {
+      "name": "The Key To Vector Sigma",
+      "description": "Use the Isolinear Chipset",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/56930aa325f10939a2853bf37ea2b3ee6f525d50.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "StorageJump": {
+      "name": "The Longest Jump",
+      "description": "Jump across the big ramp in the Storage level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/8bbe5bfe853d42f2d9889481ebaa5ab98270efe3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "DestroyMiningLaser": {
+      "name": "Thermal BOOMing",
+      "description": "Destroy the Mining Laser",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/1eba5c9be6914fe8e9e8ac4e15302283397a2098.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.9"
+    },
+    "CollectGuns": {
+      "name": "This Is My Boomstick!",
+      "description": "Discover all firearms",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/608d24e9a4f1f809699405f3dad1442335b07d2c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "LeftHealingSuite": {
+      "name": "Through The Looking Glass",
+      "description": "Exit the Medical Healing Suites",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/ee90356ba66c6f6ea32cef0658074d96266fd0f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "89.6"
+    },
+    "MonitorDropKill": {
+      "name": "TV Dinner",
+      "description": "Kill an enemy with an Overhead Monitor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/15e0d3cbc6cd725991d584bdb3a2f9e9c735f88a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "RailgunMultiKill": {
+      "name": "Zapper",
+      "description": "Kill two or more enemies with a single Railgun Projectile",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/f67a70b6692dc012f49e127c9a14ba9a6d0b598c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,307 @@
+{
+  "appid": "2958130",
+  "name": "Jurassic World Evolution 3",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/df39f8c59232633e8e01ab63313b095402bdd0d5/header.jpg?t=1765290696",
+  "achievements": {
+    "JWDatabase100": {
+      "name": "...You Could Predict Anything",
+      "description": "Complete 100% of the base game's Genome Library (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/6165c169102f8cd740bb7218b498ebfeed5f9dda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/2794824db0b41d53a5dc1fbc937a8273dc8e0307.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "5StarAllParks": {
+      "name": "A Golden Bust of Cabot Finch",
+      "description": "Achieve 5 Stars in every park of the main campaign",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/fc249f3f1d77d468ca0e0bf25c319245071c99da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/50531b64a6062eae783254f80e48697c6adb90b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "JurassicDiffAzores": {
+      "name": "Azorean Excellence",
+      "description": "Beat the Azores Islands challenge on Jurassic Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/adce21daf0373a569eb0b994e3a9879a90bb6959.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c2ce6741bd8cbc0a4ea4a031782fa6c3ddab36a0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "JurassicDiffClarkCounty": {
+      "name": "Clark County Commander",
+      "description": "Beat the Clark County challenge on Jurassic Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/592078db9f8d58e9e1a64ec9035a8ab463d061e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/10e1fe071e02cf899472f58f7ca5b96ffef6c58c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "CompletePark9Objectives": {
+      "name": "Designated Global Sanctuary",
+      "description": "Complete all objectives in the Dolomite Mountains (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/f89d131dcb80daa271d1a766c050796d042d3a75.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b6dabd3b6617018a5861e4c7c760275bb8c941b2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "JurassicDiffBadlands": {
+      "name": "Dig Deep",
+      "description": "Beat the Badlands challenge on Jurassic Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/7c6c6f91a04807d0a245dfd5710f0ab375b590db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/3d398837b688180520f7909d721b86833c6db9b7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "HighValuePhotograph": {
+      "name": "Don't Get Cheap on Me",
+      "description": "Take a photograph worth $200,000",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/1fa46413a830ee9db658c0b76452e4304fef8255.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.9"
+    },
+    "FinishtheCampaign": {
+      "name": "Extinction? No!",
+      "description": "Finish the main story",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/648bfce937923440f4cdd5aa2911667ba1d82117.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4eed8b2e540dcac1842f9801d78113903a31ff18.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "Gen5Juvenile": {
+      "name": "Fifth Iteration",
+      "description": "Breed a 5th generation of dinosaur or reptile",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/68ee54520242a7976494ecc44e72807fd078ae76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/3e522702490e121296f07e38cd30eb8a605d91ab.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "CompletePark6Objectives": {
+      "name": "Have a Safe and Enjoyable Stay",
+      "description": "Complete all objectives in Katsuyama (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/ac3e71f4ae076262bf68c8c52805f2846dd6ee41.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b573c4dcb8e0007f8d254530136bdff6a71962f9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "CompletePark2Objectives": {
+      "name": "I Own an Island…",
+      "description": "Complete all objectives in Kauai (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/6b25cdfb794759c6d0821072b2b0350f516a11fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b04dfd57e6bf8551a9007bc814694a59e39ac7ad.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "JWDatabase50": {
+      "name": "If You Knew Enough...",
+      "description": "Complete 50% of the base game's Genome Library (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/1bd9b5b4070fafedea6703d3614eb20b16019e43.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/624b128fe269ea295b5f8736d71181229f4d06d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "ReleaseTRex": {
+      "name": "Impact Tremor",
+      "description": "Release a Tyrannosaurus rex",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/9057e84279fa118a00b5acaa262453cb2448d328.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.7"
+    },
+    "BuildLagoon": {
+      "name": "Include That In The Brochure",
+      "description": "Build a lagoon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/7f7de6d9af3eb1df8f8b8df7915cc7f02f05317a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/21d40d99ab6fa8ef1e481c9afdba74f968e5d278.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.7"
+    },
+    "JurassicDiffNusaTenggara": {
+      "name": "Indonesian Legend",
+      "description": "Beat the Nusa Tenggara Islands challenge on Jurassic Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/350cdafbcbffb5c365a8152c5b59afeb356c4905.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/65e6392389e301c378992c0cf570f332d57aef6f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "JurassicDiffKatsuyama": {
+      "name": "Logistics Master",
+      "description": "Beat the Katsuyama challenge on Jurassic Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/19331e18ab15e004a8385346f791e9c2e60b30ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c2244ad3c2cf1a670fb0740277851c28d6fa0896.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "DestroyHelicopter": {
+      "name": "Look Alive, Boys!",
+      "description": "Have a helicopter be destroyed",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/770688460fdc5d1d54a0e67049901a40788e9b64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/49648538e5433a1f9027a40ca1a373675061f0ad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "JurassicDiffSanAlbertus": {
+      "name": "Maltese Marvel",
+      "description": "Beat the San Albertus Island challenge on Jurassic Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/59cad7e58e718b58b44c3f9136ec16c260eaa36a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/8c0061ec8d2b1e1cbad23dad4e680b7e9d98840e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "CompletePark10Objectives": {
+      "name": "Man-Made Cataclysmic Change",
+      "description": "Complete all objectives in Northern California (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/acf3e6db0d2b96e73f71ea91eefb63818b717f29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/fc4105860f423bb148a77913835cb2816345ef6f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "BreedJuvenile": {
+      "name": "Not Assets... But Animals!",
+      "description": "Breed a juvenile dinosaur or reptile",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c3c746c93c4407f76709936ea66a9698f7e9b73b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/7a4d5d8017fbc5430e3bfd8fcaf2c42f4cecbb61.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "83.3"
+    },
+    "JurassicDiffKuaii": {
+      "name": "Picture Perfect",
+      "description": "Beat the Kauai challenge on Jurassic Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/86c5a0016a749cbffbcae76fb671645731e6a8a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/17a3bc9fa5156ab0355c96527cf0dd3f0dbfe735.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "VelociraptorNewAlpha": {
+      "name": "Raptors Got a New Alpha",
+      "description": "Have a Velociraptor win a fight to become alpha",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/16a6708256976fba68f165469d2fc444120647fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.8"
+    },
+    "JurassicDiffDolomites": {
+      "name": "Scaled the Mountain",
+      "description": "Beat the Dolomite Mountains challenge on Jurassic Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/8c52b71860881bd5af03267811137d6261eea629.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/32b18c16af2437c577ae6024fe2b9416fa6e0d0a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "CompleteCampaignTechTree": {
+      "name": "Share Your Research with the World",
+      "description": "Unlock everything on the tech tree in the campaign",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/abd23cd6a0f714a81d39dcec8532f0a04e9291f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/923c84d73e0caf36a64922e91c4ba78c196b5f09.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "JurassicDiffSichuan": {
+      "name": "Sichuan Survivor",
+      "description": "Beat the Sichuan Basin challenge on Jurassic Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/fe56deb4dc9e7aa4dec95b801baf9f72d34a0d4d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/2c64343b7dadbab0aac718b9e2de6bb3dd5175de.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "CompletePark8Objectives": {
+      "name": "So Much Still to Learn",
+      "description": "Complete all objectives in The Azores Islands (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/3aac247f2657d1840d1bff529e1e892337253acf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/5fc9ade08a223e413ed98e99a48cb1b68bcd09ce.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "CompletePark7Objectives": {
+      "name": "This Must Feel Exotic",
+      "description": "Complete all objectives in San Albertus Island (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/2e129e54be0e992627f936f8b25711c9aa3417e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c17079545cbda052bd2dfe387b338b5c1f89dcc8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "CompletePark5Objectives": {
+      "name": "Twenty-Seven Foot Neck",
+      "description": "Complete all objectives in the Sichuan Basin (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/1353abdc603009a9c6565a9729c4e60a9ffdc410.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/5813842573be8214792da5584187be21476e48f6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "CompletePark3Objectives": {
+      "name": "Welcome One, Welcome All",
+      "description": "Complete all objectives in Clark County (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/177e2ae34eee482ffecce15d648a1ad739010027.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/f2befda5620680b9dd7cd7e9b361a58e8f6f7f05.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "UnlockAct3": {
+      "name": "Welcome to Jurassic World",
+      "description": "Branch out into Europe in the campaign",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/baf2de55555474c429a26831dc1526e3a0bc0999.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/dd9755fe4d0aff4dc2987ac8a76104e3be853ecb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "UnlockAct2": {
+      "name": "We've Entered a New Era",
+      "description": "Branch out into Eastern Asia in the campaign",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/52ff9879ed2bc8212c42a39cc82b48c5507dd59c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/0c863719ff91030f0a08cf4adc7b7a6e8409e1d1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.4"
+    },
+    "CompletePark4Objectives": {
+      "name": "What Are Her Symptoms?",
+      "description": "Complete all objectives in the Nusa Tenggara Islands (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/2c9bb7473668d4584b1485c7e96800000cebc282.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/d506b47531c926241fd97112da2e703e697018bc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "CompletePark1Objectives": {
+      "name": "You'll Never Get Him Out of Montana",
+      "description": "Complete all objectives in the Badlands (Campaign)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/1de478dd3f2db3e320b692c23064d6fa5a4e06ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/f78ac8fc4dbd88e309d0b51a651abf767aa753a7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

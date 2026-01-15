@@ -1,0 +1,370 @@
+{
+  "appid": "1620730",
+  "name": "Hell is Us",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620730/7d40fd2849a6b259ee4de2b77dd643e9306104aa/header.jpg?t=1760603460",
+  "achievements": {
+    "DefensiveGearMaxUpgrade_Any": {
+      "name": "Accessorizing",
+      "description": "Imbue a Defensive Gear to Grade 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/de83850e0f3532986b638eb1fb66c58e13a26767.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "Haze_KillAll_Rage": {
+      "name": "All the Rage",
+      "description": "Defeat all 3 Haze of Rage variants",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/432fde6aff6be1ef71df1be530e8acd89893d7de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "Mystery_Step01": {
+      "name": "Amateur Detective",
+      "description": "Resolve a Mystery",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/d9314c97361b2059a6f3ccfe80f2d842753c2c12.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.0"
+    },
+    "Relics_Part02": {
+      "name": "Antiquarian",
+      "description": "Acquire all Relics",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/5e3dbbc475b90c45d2104aff2f6a62618967d36b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "HollowWalkers_KillAll": {
+      "name": "Big Game Hunter",
+      "description": "Defeat all 5 Hollow Walker variants",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/e371b83d3c26ac1ee7905a7fb1c143ee320610a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.5"
+    },
+    "Haze_KillAll_Ecstasy": {
+      "name": "Buzz Killer",
+      "description": "Defeat all 3 Haze of Ecstasy variants",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/71802fc65671b2c5ea47d9ccd9984cf0dd0b1d66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "Research_Conspiracy_AllItems": {
+      "name": "Conspiracy Theorist",
+      "description": "Perform research on all items related to the Conspiracy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/974e58bcc6253a5aad1eaf00a988374c48b4502d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "Relics_Part01": {
+      "name": "Curator",
+      "description": "Acquire 10 Relics",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/4f2e9431b8265730199b2f6b123fb0e568661db5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.7"
+    },
+    "Research_LymbicInvasions_AllItem": {
+      "name": "Demonologist",
+      "description": "Perform research on all items related to Lymbic Invasions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/c15f980ad14c5a0b001424572531d734d182c167.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "Act02_Complete": {
+      "name": "Emotional Baggage",
+      "description": "Complete Act 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/5841b70709c4f57c4b9542a3494673df04b80b74.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "LymbicSkills_One_AllSpheres": {
+      "name": "Emotional Damage",
+      "description": "Acquire at least one Glyph of each Lymbic Sphere",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/a8c5422c415f930cbc5f3b86d6e40e95d2f9c673.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.3"
+    },
+    "LymbicSkills_All_AllSpheres": {
+      "name": "Emotional Warfare",
+      "description": "Acquire all Glyphs of each Lymbic Sphere",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/5f8c32eef96f34ac37c5946069a649ad65abae9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "GoodDeeds_TimeloopClosing": {
+      "name": "End the Suffering",
+      "description": "Close a Timeloop",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/61f9ea52245e2bea9683c9b4f7a26cf47f8e31a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.1"
+    },
+    "VacationsAtTheLake": {
+      "name": "Ever After",
+      "description": "Ensure that all possible NPCs end up at Lake Cynon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/d5beab8dcf66067a7d577c390c734004809b9d50.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "Haze_KillAll_Terror": {
+      "name": "Fear No Evil",
+      "description": "Defeat all 3 Haze of Terror variants",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/d563610c0580ce827a3cb5562a399cc9af3da139.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "Research_OrderOfTheEye_AllItems": {
+      "name": "Gentleman Scholar",
+      "description": "Perform research on all items related to the Order of the Eye",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/9ae3cfbbbf06d0214cfe0479ee2658f9270d8356.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "Haze_KillAll_Grief": {
+      "name": "Good Grief",
+      "description": "Defeat all 3 Haze of Grief variants",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/ec7c3416d55ea34a9867c0b723974bd2e17c468f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "GoodDeeds_Step01": {
+      "name": "Good Samaritan",
+      "description": "Accomplish a Good Deed",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/8a79669222568c70b9e20a813fedc80680d42c28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.4"
+    },
+    "WeaponMaxUpgrade_AllWeapons_Once": {
+      "name": "Good Vibrations",
+      "description": "Upgrade one of each Weapon type to Grade 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/43321deafff38e358aecac2bb53c1c9e3b1b10f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "Research_Hadea_AllItems": {
+      "name": "Historian",
+      "description": "Perform research on all items related to Hadea",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/a177c17645cf59064f4671783a64d096273ef9d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "TheAPC": {
+      "name": "It's Mine Now",
+      "description": "Acquire a means of transportation",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/d1b89e6eb95450b15ba98593bd6847ff2f4f8eab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.6"
+    },
+    "ItemPlacements": {
+      "name": "Keymaster",
+      "description": "Solve 25 puzzles that require the right item",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/cd743649122ecb45d82026ddaa31d754e6298eb8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.0"
+    },
+    "KillAllEnemies": {
+      "name": "Legend of the Phol",
+      "description": "Close all Timeloops and defeat all remaining entities",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/42485447916ada2650807f3d8622b7d3f13a8104.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "Conversation_Part02": {
+      "name": "Lend an Ear",
+      "description": "Converse with all NPCs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/f570841938eb37d9cf407ef53d0530019bf6cd85.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "TheCorridor": {
+      "name": "Long and (not so) Winding Road",
+      "description": "Traverse the tunnel from the Lymbic Forge to the Eye of God.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/b7344e42163cc27b10b1af2d42b3401611d83b50.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.4"
+    },
+    "GoodDeeds_Step02": {
+      "name": "Man of the People",
+      "description": "Accomplish all Good Deeds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/5ad74fad6ae0ceda562d08db06e8a6caaff28fc7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "BaseballCaps": {
+      "name": "Passion for Fashion",
+      "description": "Acquire and wear all baseball caps",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/32efefe129d1908fb8915d07c2c96e355d216d87.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "Haze_Kill_Tier02": {
+      "name": "Phol Guy",
+      "description": "Defeat 40 Hazes of tier 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/fabfa087712e0df3731b01b52dbf9a9e3b93b640.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "Act03_Complete": {
+      "name": "Redemption",
+      "description": "Complete Act 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/a5a74855c7f93fc10e252787f3277c42b9cd5849.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "Haze_Kill_Tier01": {
+      "name": "Rise and Phol",
+      "description": "Defeat 40 Hazes of tier 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/c2854b17b741abf1817cea503a1bacd009094c4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.9"
+    },
+    "Act01_Complete": {
+      "name": "So It Begins",
+      "description": "Completed Act 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/c698e233aa6c39312b93745d4fdbcba8bf84cbde.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.2"
+    },
+    "Mystery_Step02": {
+      "name": "Super-Sleuth",
+      "description": "Resolve all Mysteries",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/b1c7cd1670a58002a27a2715992d84d7da5e4945.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "Research_Vigil_AllItems": {
+      "name": "Sworn to Secrecy",
+      "description": "Perform research on all items related to the Vigil",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/77f69ee547c0869c9de0e79e296779a7aacc6ee5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "DroneSkills_All": {
+      "name": "Tech-Savvy",
+      "description": "Acquire all Drone Modules",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/f0d2c7a4ade27eaf4e4bec517173bcb927277ef5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "Haze_Kill_Tier03": {
+      "name": "The Harder They Phol",
+      "description": "Defeat 40 Hazes of tier 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/94864bb3fa9e5ac531ac5d7aa00c7f50293127f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "LoadoutMaxGrade": {
+      "name": "To the Teeth",
+      "description": "Equip two Grade 5 Weapons and two Grade 4 Defensive Gear at once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/113f429f7cc80d8b002946ab49049eab703268e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "VOFK_Opened_Part02": {
+      "name": "Vault Raider",
+      "description": "Unseal a Vault of Forbidden Knowledge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/8ac84bb7ebc962b6382da044c05bae586f5179c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.2"
+    },
+    "Research_CivilWar_AllItems": {
+      "name": "War Correspondent",
+      "description": "Perform research on all items related to the Civil War",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/79e2c14bb666db0b2caee17199ae3ef0cc161f1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "Research_AllCategories_AllItems": {
+      "name": "Well-Read",
+      "description": "Perform research on all items",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/16e7171daf4ee7d8bf150ebd9f4a76f9cadbf42f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "Visit_AllMaps": {
+      "name": "Well-Travelled",
+      "description": "Visit all locations",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/909d18092c3235d274ff100addb7f07c0461c49e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

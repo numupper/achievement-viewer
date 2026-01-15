@@ -1,0 +1,361 @@
+{
+  "appid": "3595270",
+  "name": "Call of Duty®: Modern Warfare® III",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/7d0f21912a075c33bbb5ea558100e187ceb234ac/header.jpg?t=1764711750",
+  "achievements": {
+    "jup_sp_141ready": {
+      "name": "141 Ready",
+      "description": "Complete the campaign on Veteran",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/fc931b8fbe515d0a8d0dc0146f4e60b2c5724266.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/86c5407b9d7146729cb6469c4f95c7368af0ac77.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "jup_sp_cccollateral": {
+      "name": "2-fer",
+      "description": "Using the EBR-14, kill 2 enemies with 1 bullet 5 times in 'Payload' without sounding the alarm",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/9fc96cf1e0e245ca0c76b8e5139159c7494c31ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/12b9d8220b6ac201e161d30909d546809da7c752.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "jup_ob_andsoitbegins": {
+      "name": "And So It Begins",
+      "description": "Successfully Exfil in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/cd758ce1a8fc954cac3c4f2717dd07d99335b8ff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/e14c24d4c3ac2da4e0f8e0ddc95f6c9915157487.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "jup_ob_backfromthedead": {
+      "name": "Back From The Dead",
+      "description": "Reclaim your gear from a Tombstone in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/797efdb7842c08fde07e05c40f5e27afd7ddc967.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/248e14a23018e14213bb5180825389b031cea8e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "jup_sp_oldhabitsdiehard": {
+      "name": "Back in the Field",
+      "description": "Acquire the Major's keycard in 'Deep Cover' within 90 seconds without being detected",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/9c89045780ffc8db27a01d81cb8a0c1614e6690e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/be263de83161b60a6d8142b1b0564433cc9fe3ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "jup_sp_suit_up": {
+      "name": "Bulletproof",
+      "description": "Find all Plate Carrier Upgrades in Open Combat Missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/c6fe3aab14b0c4d7921c69170a3dca71e92b1a74.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a7edbbe253fa69d604b2f46b8bd4e4303e4c0b67.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "jup_ob_conqueror": {
+      "name": "Conqueror",
+      "description": "Defeat a Warlord in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/b52b65ca465990cb55b9c0b714c37970aaea1965.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/d717720bc13ddfba41db57611e8adfa86a43e172.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "jup_sp_deathpenalty": {
+      "name": "Death Row",
+      "description": "Kill 12 enemies while descending in the panopticon in 'Operation 627'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/33021fe2fedef9ed064f4e92f7c2b9313ade273e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/945422387abd6a75d4d3cce45e061a4355a0c0c4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "jup_sp_timeforanewplan": {
+      "name": "Dialed In",
+      "description": "Customize your loadout in every Open Combat Mission",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5e3cb7194ac86c50c14235f3ee80bbd9d2b45846.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5bacfd37aeea95085777427a261c9d7f2adcaf87.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "jup_sp_fullsweep": {
+      "name": "Elevator Out of Order",
+      "description": "Reach the roof in 'Highrise' under 45 seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/9f0eb68a5f0d1cc106edae14f18242e46db92bcb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a853db347e1c26456fb076e05aa4072d0e31fc9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "jup_sp_fightorflight": {
+      "name": "Floater",
+      "description": "Parachute off a Gantry Crane onto the roof of the Harbormaster's Building in 'Precious Cargo'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/8afe8b9c6bdde108cb5f59e5ed70779fd6edcfab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/163bfb9b15e76930e8a0d106ede1f8bcb8f58542.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "jup_sp_frequentflier": {
+      "name": "Frequent Flyer",
+      "description": "BASE jump and travel more than 150 m with your parachute",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/d9c57e9de6177670d7037745365547e32e56f387.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/510d1a83a1c5ac7ed351fbfba2a51072244c0365.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "jup_sp_professionalhoarder": {
+      "name": "Gearhead",
+      "description": "Collect all Weapons and Field Upgrades from Supply Boxes in Open Combat Missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/ec5afceaaae6aec0d6f179616e4b9d5e5b7632a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/ba7dc9c663e15b64c20646d1d75fc674c792e398.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "jup_ob_gravestone": {
+      "name": "Gravestone",
+      "description": "Kill 100 Zombies with a vehicle in a single deployment in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/2e36f472bef7c50ef53bb0e3e2e930169622b203.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/1d1e306ac763228d6f1db6f713a127e351cd9614.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "jup_sp_haveyoutriedturningitoff": {
+      "name": "Have You Tried Turning it Off and On?",
+      "description": "Use a Shock Stick to disable an enemy Sentry Gun",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/df97886ab04a2492133a1383f9fcb17b2f73f9f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/01e6558fe308469dd7e5b344aa71bbbb89bab2ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "jup_sp_jackofallweapons": {
+      "name": "Helo Hat Trick",
+      "description": "Destroy each objective helicopter in 'Reactor' with a different Armament",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a1f1facc7ce0f1a4c57a45dff0e0a3a992d28608.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/39777de4f06e2ae91dedef6b25a7eb9f4d88e977.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "jup_ob_helpfulstranger": {
+      "name": "Helpful Stranger",
+      "description": "Revive a player from a different Squad in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/f9ac8a63e9d029608fee519a669af4a2b35a950e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/f944bbd37eac63ca4910e8af94a14e53d27a6a2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "jup_sp_heycatch": {
+      "name": "Hey, Catch!",
+      "description": "Throw and hit an enemy directly with a Flammable Cannister then blow them up with it",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/0f4609d0aeae2b435d5a0c4dcd0204f634a8f722.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/b7bd0784d5af0a6889edab968927abfdc0d8c40c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "jup_sp_driveby": {
+      "name": "High Wire Act",
+      "description": "Kill 10 enemies while using a zipline",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/84be2819544dc1be26f92a19286998341321f0c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/74115b39b63490996fd9370a050ed11b96bae052.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "jup_ob_hiredgun": {
+      "name": "Hired Gun",
+      "description": "Complete 20 Contracts in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/f626d5789022342cc6b247026ac5372d828af6dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/ae2e400cb7c5cb637e089d817cdf92500c4d63ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.8"
+    },
+    "jup_sp_hitchhiker": {
+      "name": "Hitchhiker",
+      "description": "Defuse the bomb on the truck in 'Gora Dam' while it is in motion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/791b1aa3eeb6d8e8b08cd2cd4f713490fcb38b2f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/8e5a3c95c16b0ff4b22cb832f185240cf65dc70a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "jup_sp_engineeringdegree": {
+      "name": "I Call Shotgun!",
+      "description": "Drive a vehicle with a Sentry Gun on the back and have it kill 5 enemies",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/9acc85eb68838e1c2092a5041c4a999e3661473e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/8ee8e353ede38a8d6d56d6c1e83f97a65b6e42e0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "jup_sp_whatthehellkindofnameis": {
+      "name": "Never Bury Your Enemies Alive",
+      "description": "Complete the campaign",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/4645ab8673f0488dd779ca16ac8f294a4c207a3c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/3f9381cb41da9c2e4b24a5e6fb32f90b73ad8210.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.7"
+    },
+    "jup_sp_boundandmagged": {
+      "name": "No Such Thing as Too Many",
+      "description": "Find and use all Armaments in Open Combat Missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/80ec80620a66c61e6568cbce4aaf703ccb2e072f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5e8931310e39b79f01172186ffbed68af17e3d53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "jup_ob_oneagainstall": {
+      "name": "One Against All",
+      "description": "Kill Orcus while in a 6 person squad in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/4af85118c6da84625453ea21ce78169ec5e7d827.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/f0f4a29869fe4b72242e1bc007613963ff4ae90a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "jup_ob_perkaholic": {
+      "name": "Perkaholic",
+      "description": "Have 9 perks active at the same time in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/657b81de66547fd223a58cad8c16e69940be67e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/47d4891e60b5bac32575daca42dcdd146048c426.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.1"
+    },
+    "jup_sp_partyfavors": {
+      "name": "Sample Platter",
+      "description": "Use 5 different Armaments in Open Combat Missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/0fe71e90ff81c1bbc081bb3e9f77489c1920b4c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/d905fc22a00a31e0b3361c8bae8568b235ab8448.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "jup_ob_seeingred": {
+      "name": "Seeing Red",
+      "description": "Complete 5 Contracts in the High Threat Zone in a single deployment in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/90d89f5e71b665a404d8a455fd94ad81ce2b115a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/20a0f6a0f9c884e487c49a0bcacf03f14c0cd13d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "jup_sp_shotblocked": {
+      "name": "Shot Blocked",
+      "description": "Shoot the gun out of the air in 'Flashpoint' before a terrorist catches it",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/dcbcad85e3f0fd749a9624bbe7372517da50e91d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5e797939d6b8b0bc51d0c8028dcf8f9ba63865ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "jup_ob_slaughterhouse": {
+      "name": "Slaughterhouse",
+      "description": "Kill 50,000 total Enemies in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/26dc0386094cdb39927174f72648cb6ef5d0747c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/862f0babebba601b6eedceb1af814dd2e4e349eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "jup_sp_hushhush": {
+      "name": "Snow Angel",
+      "description": "Execute the forest sniper in 'Frozen Tundra' with a takedown",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/32ca513606bcfb961f3289271a98a3b1a51530c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/1ff86436d4a5cd82d97cab81261dedd7872257c5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "jup_sp_iliketopretendihaveaplan": {
+      "name": "Tag, You're it!",
+      "description": "Use the Spotter Scope to tag 60 enemies or items in Open Combat Missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/604e85a328354f3c9e4cd247df41bfb6fa26204f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a30021f0d6fda48d4dd8fc9f50046e16decdff9b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "jup_sp_thatsonewaytodoit": {
+      "name": "That's One Way to Do It...",
+      "description": "Destroy an airborne enemy helicopter with a Mortar Strike",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/128215b96bc27b0a47f9af85172f77a2d08dedf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/4dc461c74e35aa5a4a7a20446f9d706c069ce3db.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "jup_ob_theend": {
+      "name": "The End?",
+      "description": "Complete Act III in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/b76d35f20caca2d37ffa68bc7210d31c39f6a6b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/6d12d5b55dcc58cb714b06e4dbbb4fb36f795ced.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "jup_mp_thefirststep": {
+      "name": "The First Step",
+      "description": "Reach Level 55",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/c42b5f9a6dc0a74d83f6932901da8dd1a602390c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a281d5dc2e794b83dd8f5eac8b6134df3e07b3d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.2"
+    },
+    "jup_sp_enjoythelittlethings": {
+      "name": "Think She'll Notice?",
+      "description": "Destroy all of the cars in the mansion garage in 'Oligarch'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/3c3ccdce77c5883aa2c90b61fb65004ed46b0ef8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/cad18cb8c590be459f718cea0a7b124c790f65a2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "jup_ob_writeoff": {
+      "name": "Write Off",
+      "description": "Kill 500 Enemies using an Insured Weapon in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/b743532bbfc4e64d217744a8584d1edbaf8eab43.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/cbcb9ac70c09cd35d9558bd4770a93906eb4e552.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.7"
+    },
+    "jup_ob_youcanpetthedog": {
+      "name": "You Can Pet The Dog",
+      "description": "Pet a Hellhound in MWZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/90ef6bf260ded82a52b88b0e29b16686fbb582a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/44a82e1078c17d36d24bb43868d36ef6e15bb294.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.3"
+    },
+    "jup_sp_yourtaxdollarsatwork": {
+      "name": "Your tax dollars at work",
+      "description": "Use a missile to take out a single enemy in 'Danger Close'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/53bf21e5697ebe0f8bacab6cbbe26d5d07bff73e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/028df17480b314ad34ddaf0d132a1e5355a99dab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

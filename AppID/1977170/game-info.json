@@ -1,0 +1,199 @@
+{
+  "appid": "1977170",
+  "name": "Jusant",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977170/header.jpg?t=1766161608",
+  "achievements": {
+    "ACH_HoldFRND_One": {
+      "name": "A faint glimmer",
+      "description": "Warm up the ballast in chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/7d42d1b1f4d1ea043a8cdfa029a8a8d1c57f1a8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.7"
+    },
+    "ACH_ClimbJump_Multi": {
+      "name": "Acrobat",
+      "description": "Complete more than 200 jumps or double jumps in one game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/bec89bb46bde16480096ee4b84bec6b148bf2eb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "ACH_PetFRND_One": {
+      "name": "Adventure buddies",
+      "description": "Hug the ballast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6aac0fb03574afc357b084757b70fae637766fe4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.6"
+    },
+    "ACH_Shell_Any": {
+      "name": "An ear to the past",
+      "description": "Listen to a shell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/047d76dcc9c81bd13b6cdd7ea4e8e57f5acaecc1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.4"
+    },
+    "ACH_WallRideApex": {
+      "name": "Angel's carabiner",
+      "description": "Place a piton at the top of a wall run.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/d7fe9d5562bb7bc4456a57cafaa7d13733999467.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.7"
+    },
+    "ACH_Fresco_All": {
+      "name": "Antique gallery manager",
+      "description": "Activate all frescos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/0ca54be8970ed6a552f763bdce3c7e9c8ffb516e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACH_Letter_All": {
+      "name": "Avid reader",
+      "description": "Read all letters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/2cb1b2277154564e70b897d84c132511fe28c01d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ACH_FrozenBallast_One": {
+      "name": "Awakened memory",
+      "description": "Use the echo on a frozen ballast in Chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/11c8d8f3c52550ef6de6debac8035cccd3dda290.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "ACH_Altar_Any": {
+      "name": "Back in motion",
+      "description": "Turn an altar.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/5f6e1cea2c5d18bd51423ec265e83be00d30fe02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.4"
+    },
+    "ACH_ChocoAway_Multi": {
+      "name": "Bogeychoco",
+      "description": "Scare more than 10 chocos back to their burrow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/7c30e2b36529459e3737b51c9a61e5600af2cb99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "ACH_PebbleStop_Multi": {
+      "name": "Collective climb",
+      "description": "Stop 25 pebbles with a single echo from the ballast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/7cc74ec64d123f0922b1b068e0e3fe73ec8cea18.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "ACH_Cairn_All": {
+      "name": "Common ground",
+      "description": "Complete all cairns.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/5385726c062007af57c4f3142acec91a5e227cfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ACH_Altar_All": {
+      "name": "Cycle celebration",
+      "description": "Turn all altars.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/e2be0c71072f4306493cef7e4d8af40218e6c669.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "ACH_Fresco_Any": {
+      "name": "Echo from the past",
+      "description": "Activate a fresco.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/d07fd9f5a079bf0e2fd4ca943a08294fc59c3063.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.4"
+    },
+    "ACH_Bianca_All": {
+      "name": "Final ascent",
+      "description": "Read all of Bianca's journal entries.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/98a7d76b483862806778e7b7619232af5a18ec76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACH_Letter_Any": {
+      "name": "First contact",
+      "description": "Read a letter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/8726e803961534ffd6161ad997568f8cddfe4165.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.0"
+    },
+    "ACH_Cairn_Any": {
+      "name": "First stone",
+      "description": "Complete a cairn.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/b581f2183962b2965ab539e472cbcca0c1c6ed21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.6"
+    },
+    "ACH_StaminaRestore_Multi": {
+      "name": "Fresh air",
+      "description": "Restore your stamina more than 50 times while climbing.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/5a44c5ba7fc5132148dcd49f1cc462052eea345c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.6"
+    },
+    "ACH_PetFRND_Multi": {
+      "name": "Restored connection",
+      "description": "Hug the ballast 20 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/fd50ee326183e2dd0bc7c00f59bf5b53c9369e25.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "ACH_Shell_All": {
+      "name": "Sound archeologist",
+      "description": "Listen to all shells.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/0c2bab90782fd98bfd9855d54e32dd507be87d80.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ACH_EndGame": {
+      "name": "Water piper",
+      "description": "Complete the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/a5b77d9f4566662eab3ba832326665e00d40e490.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1977170/6d8e26cf5f804ba08be78107bc094703e0a3a0d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

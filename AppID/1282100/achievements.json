@@ -1,0 +1,202 @@
+{
+  "Craft_Weapon_Mod_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Craft_Weapon_Mod_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Abberations_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Abberations_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Boss_No_Damage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Corrupted_Ravager": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Cube": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Faelin_Faerin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Final_Boss": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Guardian": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Mantis": {
+    "earned": true,
+    "earned_time": 1690030438
+  },
+  "Defeat_Many_Faces": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Nightweaver": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Special_Enemies": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Tal_Ratha": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_World_Boss": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Discover_Blood_Moon_Room": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Discover_Letos_Lab": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Meet_Custodian": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Meet_Flautist": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Meet_Meidra": {
+    "earned": true,
+    "earned_time": 1690036096
+  },
+  "Meet_Mudtooth": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Meet_Nimue": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Archetype": {
+    "earned": true,
+    "earned_time": 1690031981
+  },
+  "Obtain_Archetype_Dual": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Archetype_Level": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Archetype_Secret": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Blood_Moon_Item": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Boss_Alt_Reward": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Boss_Weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Guns_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Guns_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Melee_Weapons_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Melee_Weapons_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Nightweaver_Item": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Relics": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Scrap_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Scrap_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Traits_A": {
+    "earned": true,
+    "earned_time": 1690036096
+  },
+  "Obtain_Traits_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Traits_C": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Water_Harp_Item": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Boss_Weapon_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Boss_Weapon_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Relic": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Standard_Weapon_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Standard_Weapon_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Traits_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Traits_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Weapon_Mutator": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

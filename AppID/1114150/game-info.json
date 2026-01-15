@@ -1,0 +1,649 @@
+{
+  "appid": "1114150",
+  "name": "CarX Street",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/f17a2accd8131d67ba42a0e49c3d72a1c7a7b50f/header.jpg?t=1766402695",
+  "achievements": {
+    "ACH_CLUB_21TRIBE": {
+      "name": "#21 Tribe",
+      "description": "Complete the 21 Tribe club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/97022bee03b5035586b8077525a27e017f8e7d36.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/55646ebd220dd3657b51e9d55ac83667cdc35144.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACH_CLUB_BLACK_LOTUS": {
+      "name": "#Black Lotus",
+      "description": "Complete the Black Lotus club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e35bc6bf768c2cabb44e093f8ead7d6dbb873ed9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fd275bd82433f023e4a3f81e9f853a73a0b6092b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "ACH_CLUB_BURNOUT": {
+      "name": "#Burnout Rangers",
+      "description": "Complete the Burnout Rangers club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/546b149805b881295d59498cda3eb62c1c5f253a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b3f924fcd01b2ee95bd04ced47be6a6da4f8fac1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ACH_CLUB_DRIFT_UNITED": {
+      "name": "#Drift United",
+      "description": "Complete the Drift United club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/8a0e3365d7a8d016277cbba565a8aac0deb0468d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/f6521ca3ad7c8e89d25d61c81c16ecc3c6c0fb07.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "ACH_DRIFT_DISTANCE_2": {
+      "name": "#DriftExplorer",
+      "description": "Skid 300 km",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ef2b59ebcbd0aa1585a304bff5bfbfa390d76d05.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2a03672c72341cf1f4d14eaaf647313b31869565.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ACH_DRIFT_DISTANCE_1": {
+      "name": "#DriftStarter",
+      "description": "Skid 150 km",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/92f048e2018c85341c8368306a5e0434cc6adda6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e032729bb3bd1bcf651e7f6018873904851212ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.9"
+    },
+    "ACH_CLUB_FALCON": {
+      "name": "#Falcon Outlaws",
+      "description": "Complete the Falcon Outlaws club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/1afcc822bdc806870652e5d1048fd81bcd003933.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e58128d7ead53445492644fbb979fcdcc81ec887.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "ACH_DRIFT_DISTANCE_3": {
+      "name": "#ILoveDrifting",
+      "description": "Skid 800 km",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e628b345a567ef4fe2ff837bcc0c43a722644e4a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/108fb49e5e4e7c4f57e3d133a146486ad57f70ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "ACH_CLUB_KANJO": {
+      "name": "#Kanjo Spirit",
+      "description": "Complete the Kanjo Spirit club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/10f2b2c362b7cf3f3c39400e9c1c0e3ab3fa1d7a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/204035edce5589cfb7b399281418f947d53f197c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "ACH_TOTAL_POINTS_3": {
+      "name": "#King",
+      "description": "Score 100,000 in the points counter in races and free rides",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/6d9e5f0181c5bd86781d81ed14f34b0cb077a154.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c4c1f1e8549481c0dc01c13960b8b5cfb4fb4453.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "ACH_CLUB_PYTHONS": {
+      "name": "#Pythons",
+      "description": "Complete the Pythons club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/177611499c2080116a7b628df0ac8697e2f3ebca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c86239c2ef44ae99c68aeff9f391691f771dd39c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ACH_CLUB_ROAD_RUNNER": {
+      "name": "#Road Runner",
+      "description": "Complete the Road Runner club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e8d87faeee2352852066922889d0cd8f464caa63.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5406df1e920609f623edf932d1c54a0da38da1b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACH_CLUB_SAVAGE": {
+      "name": "#Savage",
+      "description": "Complete the Savage club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5d84b9d68fd4c77aa2df137fdc6330a70d47e0b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b7eb937273e8cc67c9d883f69dfd97d1df3ece4e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACH_CLUB_SPEEDLINE": {
+      "name": "#Speedline Syndicate",
+      "description": "Complete the Speedline Syndicate club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/611264613bb5e7c6a9d4756f110fbdf1bc74e6c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/3604686726970afa7d49b99df3795b6d5dc1dd5e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACH_CLUB_HUNTERS": {
+      "name": "#Street Hunters",
+      "description": "Complete the Street Hunters club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/efd92669cba1a087c27e976699b2b783bd2be5eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/8f207e813b9b74fc183ce560b302d31c9736a98e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.7"
+    },
+    "ACH_TOTAL_POINTS_1": {
+      "name": "#ToTheTop",
+      "description": "Score 50,000 in the points counter in races and free rides",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/dfff9cffa8e547a00e0b830e4dd311c8c4767557.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c6b83f1f700638153d8265ca27db9bb235c4be46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.5"
+    },
+    "ACH_CLUB_UNION_UNDER": {
+      "name": "#Union Underground",
+      "description": "Complete the Union Underground club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/8ab650359a5b5828bb09856f4058fa7a6db7f244.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/16d36d63021a087f1440f157c963aeac0b69506f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "ACH_CLUB_WESTERN_SIERRA": {
+      "name": "#Western Sierra",
+      "description": "Complete the Western Sierra club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/814a5fecb41fbd46f48e7f1113ac4945f349b79a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/f61a3335788bef57ffc9e80ca1d854edd93c6c8e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "ACH_CLUB_WILD_JUNIORS": {
+      "name": "#Wild Juniors",
+      "description": "Complete the Wild Juniors club",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/daee0fbf359f1fe010a0f9b1f992a66825fe0a11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ea2ed7acb64d82b5482e5a76751ab3572b5cd783.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.7"
+    },
+    "ACH_TOTAL_POINTS_2": {
+      "name": "#Zeal",
+      "description": "Score 80,000 in the points counter in races and free rides",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e92ca2c3e78bd3ea85190ae2a9a294502aac992d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/35a272cb06899cd3d1fa41b298c63f067ef9b18b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "ACH_FEEl_TRAVELED_3000": {
+      "name": "Adventure Seeker",
+      "description": "Travel 3,000 kilometers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/32101f38d3d4e4ab71c1d4b19f70c083c9c79c9f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c17b3733778e0636277da68ebca3b1936a6a489b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "ACH_LEADERBOARD_500": {
+      "name": "Ambitious Beginner",
+      "description": "Be in the top 500 at the end of an event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/7f03bdabc57e5959b15914c9f0f070f273839869.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fd8090b7d24503a3a5b268944efa761c3aa9307b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACH_TUNING_MASTER_1": {
+      "name": "Beginner Mechanic",
+      "description": "Modify all engine parts to at least sport class",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/10bcb9a14670070a131bace02d5162a60947c337.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c680367a8a7e537e1a84430eb043323f10ec5653.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.6"
+    },
+    "ACH_SPEED_LEAGUE_BETS_30": {
+      "name": "Bet Lover",
+      "description": "Place 30 bets in Speed League mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b42222f76c7776fc7eccd0623e0f9c1492e756a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ec4c68b6ce4e7ce453f8c286451b4bf657aa71f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ACH_SPEED_LEAGUE_BETS_50": {
+      "name": "Bet Master",
+      "description": "Place 50 bets in Speed League mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2ae10d685aedd8a3f25047e6b0133b30d44dd053.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/38579ae3730b6fee68fa389a1294b09836b5707e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACH_CHASE_5": {
+      "name": "Betting Master",
+      "description": "Win a chase the maximum possible bet was placed on",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/cf0a70cba2d77f95c1f371d8fe635a181975470e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/0632d827f151687c78dc67a6c02d064dbd07fc61.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ACH_RACER_2": {
+      "name": "Call-Up",
+      "description": "Win any 50 races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/220f790929d3d50e4c0c37e23561f9a6a1f962ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/052ac6dab72485cb6146ba22171bbbca65b31f48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "ACH_SPEED_LEAGUE_WIN_CARS": {
+      "name": "Car in the Bag",
+      "description": "Win a car in Speed League mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/cbfc1faaf1907bd62db496cb65d10b00a2b7d587.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/0c377e983fe511fca12cb4c395544c510e7e153b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "ACH_CHASE_2": {
+      "name": "Challenger",
+      "description": "Win 10 chases against various rivals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ff651dd4a8272a746ec69ab4c023be5e51d1215d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/7074d32081f0632dc287ec6ebb8b0d7d4c6fc7b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ACH_ELITE_3": {
+      "name": "Champion",
+      "description": "Win 60 elite races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/081f68cabad82a48e17e2ee09436b071d5422564.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/54a859efbf6030dcf12e990372329ea43db106d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ACH_PURCHASE_CAR_2": {
+      "name": "Collector",
+      "description": "Buy 30 cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/51b6fccf4009f2784d04ce11a95d2ca67cb9ddae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b65bc12e13aa98a4a33382e75b05e92585766d81.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "ACH_PURCHASE_CAR_3": {
+      "name": "Connoisseur",
+      "description": "Buy 50 cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/33fab7f357410332080de9d408e9f3657042cfdd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/80b1e8e5c1b26a6451a4d24f3c06da583f1b87a8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ACH_CHASE_3": {
+      "name": "Conqueror",
+      "description": "Win 50 chases",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/397b73b81dacff09eccfe55a09c072659d3a4067.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/528d1d5b7f52f19fafc7555c84e33c04e7be7478.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ACH_FEEl_TRAVELED_7000": {
+      "name": "Conqueror of the Roads",
+      "description": "Travel 7,000 kilometers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/63d7bb04463465c708d8bad3d2f13e42e456bc57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/19a9d60440d6d1e054ade61709333e2041910b33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ACH_DUEL_1": {
+      "name": "Dueling Beginner",
+      "description": "Win a PvP duel",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/1b12ebcf0aba51001a649b62144f5aebe78e3ece.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/93e17483aebe4afd10daf266b784af7b7c76cb29.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.5"
+    },
+    "ACH_DUEL_4": {
+      "name": "Dueling Legend",
+      "description": "Win 15 PvP duels in a row",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ba73350e11190dbc53a3dfcb1e3729b2a2da4796.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/890b6336a9c47cfb06051b68ad439ec60dd9ad38.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACH_DUEL_3": {
+      "name": "Dueling Master",
+      "description": "Win 50 PvP duels",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a373fca27d0bfdf93aa0f2d393e042940bf11cda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/50abdc849e02452bb8a653007af0cd9ab5b011cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACH_DUEL_2": {
+      "name": "Dueling Student",
+      "description": "Win 15 PvP duels",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/44e85a7d24598f9621e92256144ea9736fe98abb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/3ac00e4b43336d0edfdd64bb347d461783d9e6a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACH_ELITE_4": {
+      "name": "Elite",
+      "description": "Win 100 elite races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/59e67e341fe45646fbf72df2739ca5949fdc7ff0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2db0ee55722a8e40410dad6fb5898aeab2629186.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ACH_ELITE": {
+      "name": "Elite Initiation",
+      "description": "Participate in your first elite race",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/35c8bcc67b981709dd40351efdebf36d07554674.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ed2889a752796e0476ebcd227c812078d2d08bd4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.3"
+    },
+    "ACH_LEADERBOARD_100": {
+      "name": "Elite Racer",
+      "description": "Be in the top 100 at the end of an event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/91461ccfa5d48715f9ae650ba3d4312b450e0fe2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a1d7a8a9f5b9dc5239437999a9c535f419dc0656.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACH_LEADERBOARD_250": {
+      "name": "Expert",
+      "description": "Be in the top 250 at the end of an event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/3ba39eb13305c4e5a28535fbf59c2cd97a036f4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/81b19930e546e0c455f6a95fa83ada4b92bd1f9f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ACH_FEEl_TRAVELED_1500": {
+      "name": "Exploration Beginner",
+      "description": "Travel 1,500 kilometers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/1476eaab0d4c65bf24882b36138d0e6ac7b8c863.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fc2933b9302273ee100b19bc74b36a4df6f038c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "ACH_JDUN": {
+      "name": "Finally!",
+      "description": "Wait for a CarX Street release",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2f5b308efb8a17d2e576cf841eb619c16eb7475e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/72f597740f33406c965e286e22a2088d0191a116.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "98.3"
+    },
+    "ACH_CHASE_1": {
+      "name": "First Blood",
+      "description": "Win your first chase",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/d73f7d82da4ae004263e42c37225908eca5e9d93.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/58b7d17120e9d1a98f310c92f2bca2dae1724a53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACH_ELITE_1": {
+      "name": "First Challenge",
+      "description": "Win 5 elite races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/6f8db1f5ae50bd9456960bed307c2ef2b89b17c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/db12b60b4e40d7736c60720dd7dbdf3169ab8f33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "ACH_SPEED": {
+      "name": "First Dash",
+      "description": "Reach a max speed of 200 km/h",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/73610e4253955438a2016ee134f7c69776af7d3c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b3b781b88d274ddc91dfc5d7107383815a35e470.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.5"
+    },
+    "ACH_PURCHASE_CAR": {
+      "name": "First Step",
+      "description": "Buy 5 cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a90e3247f1631374f7ff1db1796bf29f029635c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/262d68f883ab901e241f0fda6c5d542b0227505a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "ACH_AIR_TIME_3": {
+      "name": "Flight Master",
+      "description": "Stay in the air for 20 seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/0cecf68b44e3d69e6f3babfcf1a67c6db80210fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/aad704fc6d8f6ddd490ae34c78380536cc2a3a43.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "ACH_AIR_TIME": {
+      "name": "Flight Rookie",
+      "description": "Stay in the air for 3 seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/64224af2239bc622a93548e63f4433a525dac9f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/bb4bbfc7c4e2190620154ccabacee2053b8c6055.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.1"
+    },
+    "ACH_FARM_RACE_2": {
+      "name": "Get Set",
+      "description": "Complete 10 single races on at least R4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a1d69d9daa63634d5477cf3d18b128270b338751.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/78a6fadb7e29432118dc5732190075ad35e25ddc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.5"
+    },
+    "ACH_AIR_TIME_1": {
+      "name": "Height Lover",
+      "description": "Stay in the air for 8 seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/74853e69e5f89d97b90151d9ec34a6854184320f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/87a042afc4ce89a6eca97535836e75d4cbd2e7e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.3"
+    },
+    "ACH_FARM_RACE_4": {
+      "name": "High-Level",
+      "description": "Complete 100 single races on at least R1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ac87fe38252fb65a34ceeeed719e7e78dbc10fbe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/76bd77434a971285868c8c5ad93f1e53d7fd9f9d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ACH_LEADERBOARD": {
+      "name": "Initiation",
+      "description": "Take part in any race on the leaderboards",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/51c7cbfbe106187bb19ab0fa2237e84aa34c7a39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a77cd72d4d1cccb28fdfb6fa6fbc99c60a9716df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.0"
+    },
+    "ACH_CHASE_4": {
+      "name": "Invincible",
+      "description": "Win 10 chases in a row without losing",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ddec01a46fe6a1e83c3e0c437a1f62961208ebe2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/0a9ced4c26661f69b6b7757fecc290a943fb4cb2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ACH_LEADERBOARD_10": {
+      "name": "Legend",
+      "description": "Be in the top 10 at the end of an event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/6932e2894f30b93500189cdaaee0efc9fd5eb735.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/d9eded11a95ae0b4a4572144057b9c5fcea07c08.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACH_RACER_3": {
+      "name": "Legend of the Asphalt",
+      "description": "Win any 120 races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/83f8ca1e94073362b85daa06c869ec41189bcdb3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/06453f41d66faa6d5e41ce6ba4641204024bbb16.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "ACH_PURCHASE_CAR_4": {
+      "name": "Legendary Collector",
+      "description": "Buy 70 cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/9a0ab792511aa827cec332650bdaf5c3c2fbd7a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5ce66d9284014f5c0a248614f262429eb4d9c22f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ACH_ELITE_2": {
+      "name": "Master",
+      "description": "Win 20 elite races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/0d4cec5b55cd599e8fd37185167d821b6c712a70.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5592b74b186355f31b43b7aa07dc933b05e42e91.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "ACH_AIR_TIME_2": {
+      "name": "Master of the Skies",
+      "description": "Stay in the air for 15 seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c70c5255319f126bfe907c3614dc1c967d19ee06.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/9dde5f218882f4b84ee3a0b0c90e26e823690ac4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.7"
+    },
+    "ACH_FARM_RACE_1": {
+      "name": "On Your Mark",
+      "description": "Complete a single race on R6",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/018e7a87457f660267606c90566ca2fe2179e85d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/046d65034648f91b69cfb45bd53b216ce0f9d11a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.0"
+    },
+    "ACH_LEADERBOARD_50": {
+      "name": "Professional",
+      "description": "Be in the top 50 at the end of an event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/dbbc48fc0871b90f37e2f618a65aac1d9c120d4d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2eb456961dfe1552889beb88ba68e099dc2f70d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACH_TUNING_MASTER_3": {
+      "name": "Rebuild Legend",
+      "description": "Modify all car components to at least elite class",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2ebc8e6d0383b3b2f4db2bce2c69672ae2a13e5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2b592f4dee2ea4d1cf863771658b93b9df111e31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACH_RACER_1": {
+      "name": "Recruit",
+      "description": "Win any 10 races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/eeb1ebf7c3493d3222facfc24c86ceecae2ac1e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b29dd77c435a78251ba0c8d4faf5f207ff6163bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.0"
+    },
+    "ACH_SPEED_2": {
+      "name": "Speed Master",
+      "description": "Reach a max speed of 400 km/h",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/026b8cef71879348b24792e5a061aca8c1d552d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/dbbf41d3242415ef67bb43e796c7096fdf76e5c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "ACH_SPEED_1": {
+      "name": "Speedy Maneuver",
+      "description": "Reach a max speed of 300 km/h",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/3f065262d49084f6a7fec2659d5037b85ba28b4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/76358e2915765b3e0a6557ca4a931e801b9228a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.9"
+    },
+    "ACH_SPEED_LEAGUE_BETS_10": {
+      "name": "Thrilling",
+      "description": "Place 10 bets in Speed League mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/f8fe3a868ca923e0e4b7a62cf4194a893b7fe8b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a3416f8fa5bf97b00824c8684169ef975ff98f34.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACH_FARM_RACE_3": {
+      "name": "Time Is Money",
+      "description": "Complete 10 single races on at least R2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/3ced6bb389a01d776d246bccbc00a3a50268be3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fa7e7f6c19eeb2d695e729bf21e8485041abf6aa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACH_SPEED_LEAGUE_LOST_CARS": {
+      "name": "Time to Walk",
+      "description": "Lose a car in Speed League mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/28ac0a9776f5f4720cc29d904e79eed0769c0e26.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/16bfeaf1fcbcba04963877c659b370d2b1d38bcf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ACH_TUNING_MASTER_2": {
+      "name": "Tuning Master",
+      "description": "Modify all engine parts to at least elite class",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/45a96309735146939bf3b09bfa71c862ea0cc44c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c121db7ffd641d23c42fd6d2f1c7dd1e3f6fabc3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "ACH_PURCHASE_CAR_1": {
+      "name": "Variety Lover",
+      "description": "Buy 15 cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2df381e9c128e76d18bbb754489b0cc8abf88536.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/77ab481e21cae0a3ccbb82444b79ee60c6fd3b31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

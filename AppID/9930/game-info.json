@@ -1,0 +1,466 @@
+{
+  "appid": "9930",
+  "name": "Test Drive Unlimited 2",
+  "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9930/header.jpg",
+  "achievements": {
+    "ACHV_CASINO_DLC_ONE_OUT_OF_38": {
+      "name": "1-in-38 Chance",
+      "description": "Casino: Win a straight-up bet at Roulette",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/182d7c5458373b50956d58ebae77cd6787fe2231.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "ACHV_PROGRESS_HAWAI": {
+      "name": "Aloha!",
+      "description": "Make it to Hawaii",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/bfc23a1cb2c9adcb027170fefaa63f07a9025445.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "32.2"
+    },
+    "ACHV_SOC_CODRIVER": {
+      "name": "Better than a GPS",
+      "description": "Invite 10 players to drive with you in your car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/c8144fccc8c22e9977285d104c1b88d700c6eea6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "ACHV_COLL_CASH_DISPENSER": {
+      "name": "Big Spender",
+      "description": "Spend 1 million dollars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/bdebcfa133a27c6c728e596b3e2c6a94db82a511.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "32.0"
+    },
+    "ACHV_COLL_CAR_DECORATOR": {
+      "name": "Car-tist",
+      "description": "Decorate 5 different cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/a8981d25de5eeb383f061e004b47a101ed71ab71.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "6.7"
+    },
+    "ACHV_CASINO_DLC_FASHION_VICTIM": {
+      "name": "Casino Fashion Victim",
+      "description": "Casino: Buy all clothes available in the Casino Clothes Shop",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/0ca12c9a2ff3aa5d09ce2cdf9f2fa313be6dd21b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "ACHV_SOC_CLUB_VS_30_WON": {
+      "name": "Club Basher",
+      "description": "Win 30 Club vs Club challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/afeec820dbe927691c71249152e959caf45bc6ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.5"
+    },
+    "ACHV_RACE_COCKPIT_ADDICT": {
+      "name": "Cockpit Addict",
+      "description": "Drive 500 km (311 miles) using the cockpit view (any game mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/ab4c61a0792bf086b7368ad383353af01487e1e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "15.0"
+    },
+    "ACHV_SOC_MULTI_COOP_150_KM": {
+      "name": "Co-op Challenger",
+      "description": "Drive 150 km (93 miles) in \"Keep Your Distance\" and \"Follow the Leader\" modes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/d7716a9362a5493a0fca77d97367ac38134aa967.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "ACHV_RACE_ALL_CHAMPS_AND_CUPS": {
+      "name": "Coronation",
+      "description": "Win all championships & cups",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/e187b6aec449b2dcdea5fdcfa71344d8e4c1b3b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "6.5"
+    },
+    "ACHV_CRUIS_200_KM": {
+      "name": "Cruising",
+      "description": "Drive 200 km (124 miles)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/71360be94b267159a74fcbeb438bfdec86f89276.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "53.4"
+    },
+    "ACHV_CASINO_DLC_APERO": {
+      "name": "Drinks",
+      "description": "Casino: Have 10 cocktails at once at a poker table",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/a8008ec0962ca7c9f80ccc79fa967d382070c0eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.5"
+    },
+    "ACHV_CRUIS_FROG_CASH": {
+      "name": "Easy Money",
+      "description": "Earn $100 000 with F.R.I.M.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/4823a2c720900de387bfd230d5ade1defd9e27fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "6.1"
+    },
+    "ACHV_CRUIS_WIN_ALL_EVENTS": {
+      "name": "Events Accomplished",
+      "description": "Achieve all missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/6d120d1a90a460c0b7caa27a9b5914aa8a70cd9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "3.8"
+    },
+    "ACHV_SOC_CLUB_CAR_DRIVEN": {
+      "name": "Exclusive Car",
+      "description": "Drive a Club car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/fb5a636de247c74eb469d7d135c46808ed08f6ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "ACHV_SOC_ALL_CLUB_CARS_DRIVEN": {
+      "name": "Exclusive CarS",
+      "description": "Drive all Club cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/1d04aeda6f4bfe2dbb567a79c8e8b73bafdaa47f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACHV_COLL_FASHION_VICTIM": {
+      "name": "Fashion Victim",
+      "description": "Change your clothes or hairstyle 40 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/c5e78741dbc239e7c28712ad64aafea7a56cd52e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "ACHV_RACE_SUSTAINED_HIGH_SPEED": {
+      "name": "Fast and Luxurious",
+      "description": "Drive at 400 km/h (249 mph) during 5 sec. (any game mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/b842b05029dcff2a3f07b182631c59e9a69f1c6b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "19.1"
+    },
+    "ACHV_SOC_FUGITIVE": {
+      "name": "Fugitive Wanted",
+      "description": "Outrun the police 30 times in Online Chase Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/596b7ca1b6df4cb50c4fe96dd8995dca973b4ddb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.1"
+    },
+    "ACHV_COLL_MILLIONAIRE": {
+      "name": "Get rich or try driving",
+      "description": "Possess 1 million dollars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/3b733829c28d3e81461f0c7f6c9eda3bac20e4b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "25.5"
+    },
+    "ACHV_COLL_ALL_CARS": {
+      "name": "God of Cars",
+      "description": "Own all purchasable cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/afd71fab88480a9c370fda8afb2699d453306c57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "5.5"
+    },
+    "ACHV_CRUIS_FROG_MAX_BANK": {
+      "name": "Hard earned money",
+      "description": "Bank the maximum level of F.R.I.M. (10)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/236bcfadb0483952ef3094a6e95f93d3af0ef3fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "14.0"
+    },
+    "ACHV_CRUIS_WIN_10_EVENTS": {
+      "name": "Helping hand",
+      "description": "Succeed in 10 missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/faa72431b62d93caf37d56d12cc6bac094c167fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "16.6"
+    },
+    "ACHV_CRUIS_1_TREASURE_HUNT_CAR": {
+      "name": "Hey! What's this car?!",
+      "description": "Own 1 bonus car (treasure hunt)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/a3aa2794d687641c31e0332e5f52ca06bf578bcd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "15.4"
+    },
+    "ACHV_CRUIS_5_VIEWPOINTS": {
+      "name": "Ibiza Photographer",
+      "description": "Find 5 viewpoints on Ibiza (photographer)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/0908e9615a4c1135ddea2c2f728b6e797588386a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "8.0"
+    },
+    "ACHV_RACE_INSTANT_CHALLENGE_CASH": {
+      "name": "Instant challenge, easy cash!",
+      "description": "Earn $10 000 in instant challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/09629ac6e4879be3891f6ddb05e6202376d7a31b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "12.3"
+    },
+    "ACHV_CASINO_DLC_ISLAND_KEEPER": {
+      "name": "Island Caretaker",
+      "description": "Casino: Wake up the Island caretaker",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/b0bf0af90654636ae066b4c9fc0ad1a54b81aa43.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACHV_CRUIS_LONG_JUMP": {
+      "name": "Kangaroo",
+      "description": "Make a 100 m (109 yd) jump (any game mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/1577fea3fb8be89131635107b37d0e54a5d82af8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "25.1"
+    },
+    "ACHV_SOC_KYD_IMPOSSIBLE": {
+      "name": "Keep your distance",
+      "description": "Drive for 15 sec. above 100 km/h (62 mph) with 8 players  in \"Keep Your Distance\" mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/b8237c7448895915ab083db9843c54a5527bf061.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "ACHV_RACE_IBIZA_CUP_I_WON": {
+      "name": "King of Ibiza",
+      "description": "Win Ibiza Cup, area 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/ad0485a0b61e204569a6230b2c1d4c4677edd622.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "17.4"
+    },
+    "ACHV_RACE_C4_LICENSE": {
+      "name": "Learning",
+      "description": "Obtain The C4 license",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/e4e7e99de4647d1a0adc01ed2feb94238e052ab9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "63.7"
+    },
+    "ACHV_PROGRESS_LVL_60": {
+      "name": "Level 60",
+      "description": "Reach level 60",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/f17457b58dc088c68966b0c1bc9c15e44e453c58.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "3.1"
+    },
+    "ACHV_SOC_SHERIFF": {
+      "name": "Marshall",
+      "description": "Arrest 30 outlaws in Online Chase Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/535e7a62a04749e14d39375054890c81058bc55b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "ACHV_SOC_CRC_ADDICT": {
+      "name": "Me against all of you",
+      "description": "Play 40 challenges in the Community Racing Center",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/bf2eb68bff323b4f735e8f2daefc7f5d878569b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "ACHV_RACE_MULTI_WIN_ALL_MODES": {
+      "name": "Multi-Challenger",
+      "description": "Win 5 challenges in each multiplayer mode (Race, Speed, Speedtrap)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/26f8a7a133e9de6392f7f8e738dab56b49c7f721.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "ACHV_COLL_MUMMY": {
+      "name": "Mummy",
+      "description": "Complete 20 multiplayer challenges with bandages",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/ebfc02d06786c95cdf2c7adc0b8d3254112fa649.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "ACHV_COLL_CARAVAN": {
+      "name": "My Beautiful Caravan...",
+      "description": "Own 1 house (caravan)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/4ad6a68e8ec1d41bcff81eacb7233da60c219175.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "78.9"
+    },
+    "ACHV_SOC_CLUB_INNER_150_KM": {
+      "name": "My Club and Me",
+      "description": "Drive 150 km (93 miles) in intra-Club challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/255f2f6398ea34508888fa08980d3482f73f57b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACHV_COLL_OWN_ALL_CATEGORIES": {
+      "name": "One of each",
+      "description": "Own a car from each category (A7-A6-A5-A4-A3-A2-A1, C4-C3, B4-B3)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/0f8291ad865bd0219006eea502da30e2fa99f044.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "13.9"
+    },
+    "ACHV_RACE_ALL_LICENSES": {
+      "name": "Racing School Master",
+      "description": "Obtain all licenses",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/bad2e0bf6a6fd903ba57756c6dfaa04220eb2f76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "9.7"
+    },
+    "ACHV_CASINO_DLC_TEST_DRIVE_READY": {
+      "name": "Ready to play TDU2?",
+      "description": "Casino: Get the luxury car displayed in the entrance hall",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/3b6139d1b3c896515f41c4467e761db31d0e30b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "ACHV_CRUIS_RECKLESS": {
+      "name": "Reckless Driver",
+      "description": "Drive around and hit 100 IA controlled cars and destructible objets",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/9493b775f6905d62ee6e7349a4e5ed47bd5e1ca5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "47.7"
+    },
+    "ACHV_CRUIS_ALL_VIEWPOINTS": {
+      "name": "Reporter",
+      "description": "Find all viewpoints (photographer)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/74d2413031a94d79c6be9001891430f27d0ae38f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "ACHV_CASINO_DLC_RISKS": {
+      "name": "Risk Taker",
+      "description": "Casino: Give up a Three of a Kind while playing Video Poker and win the next hand",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/3508d46f332cbfde6bd1cf48dcfbe0ba92e0c85e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "ACHV_CRUIS_1000_KM": {
+      "name": "Road Eater",
+      "description": "Drive 1000 km (621 miles)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/c6bbcb6832c694cbae0712b7bb02a8b3d5eb09bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "33.2"
+    },
+    "ACHV_RACE_RADARS": {
+      "name": "Say \"Cheese\"!",
+      "description": "Get clocked by the radar 100 times (Speedtrap game mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/ac7f840181b10db4d2a73c09b65692b0ab1c1609.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "11.8"
+    },
+    "ACHV_COLL_SMALL_CAR_COLLECTION": {
+      "name": "Small Collection",
+      "description": "Own 3 different cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/956b99e267dcfe8f26ebd0db377273134eb2c59b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "42.0"
+    },
+    "ACHV_SOC_JOIN_AND_INVITE_100_FRIENDS": {
+      "name": "Social Butterfly",
+      "description": "Join and invite friends 100 times (any game mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/24008d73b62e26448fffe1ea3d055058f8029be0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "ACHV_CASINO_DLC_SOCIAL": {
+      "name": "Socializing",
+      "description": "Casino: Unlock all cocktails and emotes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/eb6fb7c01437e4da09acbdf71d8a59404d69a65a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.1"
+    },
+    "ACHV_COLL_ALL_HOUSES": {
+      "name": "Subprime crisis?",
+      "description": "Own one house of each level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/99c1865985389aa7506925a12d7e428febc14c67.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "7.1"
+    },
+    "ACHV_RACE_FIRST_CHAMPIONSHIP_WON": {
+      "name": "The Beginner",
+      "description": "Win a championship",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/23a063718fb25bee7a512ed00831c67208fc8e5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "54.8"
+    },
+    "ACHV_CRUIS_5000_KM": {
+      "name": "The Explorer",
+      "description": "Drive 5000 km (3107 miles)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/1079e36f410fd74b30291ba7cb34a976a703c2c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "11.2"
+    },
+    "ACHV_RACE_CAR_MAX_UPG": {
+      "name": "Tuning Addict",
+      "description": "Tune a car to the max level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/dc766c4ab28010919c9599f5ec3fd4ea3c7b39a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "10.0"
+    },
+    "ACHV_CRUIS_ALL_TREASURE_HUNT_CARS": {
+      "name": "Tyrannosaurus wrecks",
+      "description": "Own all 6 bonus cars (treasure hunt)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/51cefdc7c46b80921c6c7fba0d9ceccee5ad9c76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "4.7"
+    },
+    "ACHV_CASINO_DLC_VIP": {
+      "name": "V.I.P.",
+      "description": "Casino: Become VIP of the Casino by reaching level 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/90441784369f5a590fda184f3f268c29b1650e5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "3.1"
+    },
+    "ACHV_CASINO_DLC_BOUNTY_HUNTER": {
+      "name": "Wanted",
+      "description": "Casino: Get the right look to get the reward",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/fd3ffe0d8952021264ad18c0789ea3fd427375f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "ACHV_CASINO_DLC_WESTERN": {
+      "name": "Western",
+      "description": "Casino: Play the \"duel\" emote at the same time as your rival at a poker table for two",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/bf930cbdb2c32e534c1f2e1858a57d335b0697a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9930/94ec5b7f9392eb2e702d19dd17ae70c03ea1eba9.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

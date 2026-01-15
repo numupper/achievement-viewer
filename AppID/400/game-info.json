@@ -1,0 +1,145 @@
+{
+  "appid": "400",
+  "name": "Portal",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+  "achievements": {
+    "PORTAL_GET_ALLGOLD": {
+      "name": "Aperture Science",
+      "description": "Earn gold medals on all Portal challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_get_allgold.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_get_allgold_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "PORTAL_GET_ALLBRONZE": {
+      "name": "Basic Science",
+      "description": "Earn bronze medals on all Portal challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_get_allbronze.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_get_allbronze_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "PORTAL_DETACH_ALL_CAMERAS": {
+      "name": "Camera Shy",
+      "description": "Detach security cameras from the walls.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_detach_all_cameras.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_detach_all_cameras_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "PORTAL_BEAT_2ADVANCEDMAPS": {
+      "name": "Cupcake",
+      "description": "Beat two Portal advanced maps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_2advancedmaps.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_2advancedmaps_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.1"
+    },
+    "PORTAL_KILL_COMPANIONCUBE": {
+      "name": "Fratricide",
+      "description": "Do whatever it takes to survive.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_kill_companioncube.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_kill_companioncube_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.2"
+    },
+    "PORTAL_HIT_TURRET_WITH_TURRET": {
+      "name": "Friendly Fire",
+      "description": "Knock down a turret with another turret.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_hit_turret_with_turret.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_hit_turret_with_turret_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.6"
+    },
+    "PORTAL_BEAT_4ADVANCEDMAPS": {
+      "name": "Fruitcake",
+      "description": "Beat four Portal advanced maps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_4advancedmaps.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_4advancedmaps_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "PORTAL_BEAT_GAME": {
+      "name": "Heartbreaker",
+      "description": "Complete Portal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_game.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_game_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.1"
+    },
+    "PORTAL_GET_PORTALGUNS": {
+      "name": "Lab Rat",
+      "description": "Acquire the fully powered Aperture Science Handheld Portal Device.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_getportalguns.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_getportalguns_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.0"
+    },
+    "PORTAL_LONGJUMP": {
+      "name": "Long Jump",
+      "description": "Jump 300 feet.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_longjump.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_longjump_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "PORTAL_ESCAPE_TESTCHAMBERS": {
+      "name": "Partygoer",
+      "description": "Make the correct party escort submission position decision.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_escape_testchambers.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_escape_testchambers_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.4"
+    },
+    "PORTAL_GET_ALLSILVER": {
+      "name": "Rocket Science",
+      "description": "Earn silver medals on all Portal challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_get_allsilver.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_get_allsilver_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "PORTAL_INFINITEFALL": {
+      "name": "Terminal Velocity",
+      "description": "Fall 30,000 feet.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_infinitefall.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_infinitefall_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "PORTAL_TRANSMISSION_RECEIVED": {
+      "name": "Transmission Received",
+      "description": "..?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/cfc27e918907ca28d9a4b77f7f4537cf52b4bfa2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/d3a7fbca2549d043955d33cb5eaf30259dcf41ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "PORTAL_BEAT_6ADVANCEDMAPS": {
+      "name": "Vanilla Crazy Cake",
+      "description": "Beat all six Portal advanced maps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_6advancedmaps.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_6advancedmaps_bw.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

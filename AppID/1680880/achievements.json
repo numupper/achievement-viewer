@@ -1,0 +1,214 @@
+{
+  "ABOMINATIONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ARCHIVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CAMP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHALLENGE_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHALLENGE_FIRST": {
+    "earned": true,
+    "earned_time": 1690639415
+  },
+  "CHALLENGE_TEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHAPTER_01_CLEAR": {
+    "earned": true,
+    "earned_time": 1690383763
+  },
+  "CHAPTER_02_CLEAR": {
+    "earned": true,
+    "earned_time": 1690402069
+  },
+  "CHAPTER_03_CLEAR": {
+    "earned": true,
+    "earned_time": 1690474518
+  },
+  "CHAPTER_04_CLEAR": {
+    "earned": true,
+    "earned_time": 1690732063
+  },
+  "CHAPTER_05_CLEAR": {
+    "earned": true,
+    "earned_time": 1690734918
+  },
+  "CHAPTER_06_CLEAR": {
+    "earned": true,
+    "earned_time": 1690750183
+  },
+  "CHAPTER_07_CLEAR": {
+    "earned": true,
+    "earned_time": 1690990266
+  },
+  "CHAPTER_08_CLEAR": {
+    "earned": true,
+    "earned_time": 1690991328
+  },
+  "CHAPTER_09_CLEAR": {
+    "earned": true,
+    "earned_time": 1690994800
+  },
+  "CHAPTER_10_CLEAR": {
+    "earned": true,
+    "earned_time": 1691237834
+  },
+  "CHAPTER_11_CLEAR": {
+    "earned": true,
+    "earned_time": 1691787506
+  },
+  "CHAPTER_12_CLEAR": {
+    "earned": true,
+    "earned_time": 1691791743
+  },
+  "CRAFT_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CRAFT_FIRST": {
+    "earned": true,
+    "earned_time": 1690404682
+  },
+  "CUFF_ATTACK": {
+    "earned": true,
+    "earned_time": 1690734574
+  },
+  "EQUIPMENT_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FAIRYSTEP": {
+    "earned": true,
+    "earned_time": 1691695556
+  },
+  "JUSTCOUNTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LEAPFROG": {
+    "earned": true,
+    "earned_time": 1690473286
+  },
+  "LOCATION_FIFTY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LOCATION_HUNDRED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LOCATION_TEN": {
+    "earned": true,
+    "earned_time": 1690668390
+  },
+  "MAGICBOOST_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAGIC_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAGIC_BREAK": {
+    "earned": true,
+    "earned_time": 1690664412
+  },
+  "MAGIC_ELECTRIC_SHOCK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAGIC_FLOWER": {
+    "earned": true,
+    "earned_time": 1690401219
+  },
+  "MAGIC_IVY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAGIC_TANTA": {
+    "earned": true,
+    "earned_time": 1691787945
+  },
+  "MONUMENT_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MONUMENT_FIRST": {
+    "earned": true,
+    "earned_time": 1690472168
+  },
+  "MONUMENT_TWENTY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PARKOUR_DISTANCE": {
+    "earned": true,
+    "earned_time": 1691700119
+  },
+  "PARKOUR_TIME": {
+    "earned": true,
+    "earned_time": 1690666283
+  },
+  "PHOTOSPOT_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SKILLTREE_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SKILLTREE_FIRST": {
+    "earned": true,
+    "earned_time": 1690389597
+  },
+  "SPRING_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPRING_FIRST": {
+    "earned": true,
+    "earned_time": 1690405777
+  },
+  "STAYING_AIR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STEALTH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUBCON_DANCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUBCON_PRAY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUBCON_TRADE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUBQUEST_CINTA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUBQUEST_CIPAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TANTACAT_ALL": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

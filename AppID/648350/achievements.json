@@ -1,0 +1,38 @@
+{
+  "IssueVehicleCommand": {
+    "earned": true,
+    "earned_time": 1618689980
+  },
+  "Release_AnyDinosaur": {
+    "earned": true,
+    "earned_time": 1611148787
+  },
+  "Release_Triceratops": {
+    "earned": true,
+    "earned_time": 1611148787
+  },
+  "RepairABuilding": {
+    "earned": true,
+    "earned_time": 1618689855
+  },
+  "ResearchAnItem": {
+    "earned": true,
+    "earned_time": 1611147947
+  },
+  "TranquiliseADinosaur": {
+    "earned": true,
+    "earned_time": 1650146091
+  },
+  "Tranquiliser_Running": {
+    "earned": true,
+    "earned_time": 1650146091
+  },
+  "MedicateADinosaur": {
+    "earned": true,
+    "earned_time": 1650147000
+  },
+  "AddBuildingUpgrade": {
+    "earned": true,
+    "earned_time": 1650147900
+  }
+}

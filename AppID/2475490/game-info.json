@@ -1,0 +1,172 @@
+{
+  "appid": "2475490",
+  "name": "Mouthwashing",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475490/header.jpg?t=1767975716",
+  "achievements": {
+    "Noclip": {
+      "name": "Any% Glitched",
+      "description": "Take the Mouthwash bottle from Polle within 35 seconds of starting Chapter 14",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/c7b3910ca0e990e3f27c6b39cc4d7dbc18543a16.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/15a1707e9ebbdb172242371cb0a94b32b1797372.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "IdCard_Anya": {
+      "name": "Anya",
+      "description": "Find Anya's employee card",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/a56150f44b8a06807f9cece2b629dcd31a872677.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/45980bc3c6faf13474cd49d6e6179cadb6cd90f6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.9"
+    },
+    "OpenCargo": {
+      "name": "Cheater",
+      "description": "Open the door to Cargo before acquiring the Code Scanner",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/1e2d606e08e205ec4c9d8e5ca2533ba5a7ac34f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/ce97797031136fca40d534b27485b67f11a50391.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "IdCard_Curly": {
+      "name": "Curly",
+      "description": "Find Curly's employee card",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/e912f28a63a0016432c04a8e9900b53cecb49d2c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/f56348824418761d12bae43a8f52b0b1a43183f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "IdCard_Daisuke": {
+      "name": "Daisuke",
+      "description": "Find Daisuke's employee card",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/978df97df842f216c32305d0d5418dcbab633bf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/72edf684db9a391c6b8681498b6e2ee96cb3b7c4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "Developer": {
+      "name": "Developer",
+      "description": "Open the developer console",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/52b7d46bbb060d32f1b31398d8b89ede42b88b88.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/5de03b9fb65add4bb98c5191c693be32ddf6814c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.4"
+    },
+    "CurlyScare": {
+      "name": "Friendly Introduction",
+      "description": "Find Curly hiding next to the TV",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/71cbeb39f1a5a6707a09ad545901fb0e35a22f6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/df02a22b10aceb82c43284420aa94b2c1850e653.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "StoryEnd": {
+      "name": "Go Home",
+      "description": "Finish Mouthwashing",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/46a83dba06a29cc9fa57e50c96b730e92040689b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/c4ed16da0332152e5a3a95889e17c0d32ac62db0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "76.1"
+    },
+    "StoryStart": {
+      "name": "I Hope This Hurts",
+      "description": "Start Mouthwashing",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/9b47ee0762936c3516e4874c95d0ef7724322760.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/466c2346b02708828a5ce85ef14849f57df05e7f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.4"
+    },
+    "IdCard_Jimmy": {
+      "name": "Jimmy",
+      "description": "Find Jimmy's employee card",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/3fc2f9dc8fa71f71cb069bcb53f09da824acc59a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/2444e6e9b9c14f17163fe4d866101eed52f19f1f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "CurlyMouth": {
+      "name": "Sock Puppet",
+      "description": "Repeatedly open and close Curly's mouth",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/071ddf7a7a1da945f37050e82fadc2d4d0a847cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/721b16a564386c49d2867953f8e32df268fdcd90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.3"
+    },
+    "IdCard_Swansea": {
+      "name": "Swansea",
+      "description": "Find Swansea's employee card",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/404a52ce97d6aa98da2ecee89469dc8d762b96b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/b75c27550d2bbe4ccee4ed84ad45b396b95f4f87.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.1"
+    },
+    "GunCase": {
+      "name": "Taking Notes",
+      "description": "Open the Pony Express Protection Kit™ without returning to Cockpit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/c8f2f0179b53284f7f6b1c86ebae1e34788b285c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/8ae65de9d32bd04a9b7be724eacc05d870b28142.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.9"
+    },
+    "SwanseaDeath": {
+      "name": "The Good Ending",
+      "description": "Get killed by Swansea 10 times in the graveyard",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/85d87db0684df3ccc9dd034055e6daf5ee381960.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/1a615238ef054f3d23333554600ad0fbe5f84b38.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "UseMouthwash": {
+      "name": "The Name Of The Game",
+      "description": "Use a bottle of Mouthwash",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/a44c0c207f3d7e24c1401dbcde7321a356143047.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/eb9ae21e7a6ba063b96b7a73ef4843f03cabdae8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.0"
+    },
+    "SwanseaShoot": {
+      "name": "Trickshot",
+      "description": "Shoot Swansea in the graveyard right after spinning 360 degrees",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/0575b47e63e8771c00f70cc0453ccaa257965d6a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/90de7f32517333b2ef173b60d1dd6cfd2e1dc484.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "PartyDrink": {
+      "name": "Wasteful",
+      "description": "Mix the Pony Express Specialty Mocktail™ at Curly's birthday party",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/dff96c4f4f0efd71eac3373afd5207c396a9ce82.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/f41d9b3c6cfcc099533f932865a35d3e1a7c971b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.4"
+    },
+    "Yimpy": {
+      "name": "Yimpy",
+      "description": "Lock eyes with Yimpy for 10 seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/23b4a3642a7e1c541aa428a8510e08573381ca96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/431e140f83c9aa7aaa46a34451b7524abc428bf6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

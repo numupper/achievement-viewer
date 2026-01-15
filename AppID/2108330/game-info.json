@@ -1,0 +1,451 @@
+{
+  "appid": "2108330",
+  "name": "F1® 23",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2108330/header.jpg?t=1743526253",
+  "achievements": {
+    "ach_a_dozen_pieces": {
+      "name": "A Dozen Pieces",
+      "description": "Successfully complete 12 R&D Upgrades.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/e5277c49025cecf78297aa1d8b999a6758635551.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/aad39f8fa3a91275bb011832f3bf493173657666.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.1"
+    },
+    "ach_all_in_a_weekends_work": {
+      "name": "All in a Weekend's Work",
+      "description": "Be the fastest in all practice sessions, take pole position and win the race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/9199abe9c356d48605177b6645a8899665577cd4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/a2f844891040c89088b790687ce19816c0a6b81c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "ach_challenge_yourself": {
+      "name": "Challenge Yourself",
+      "description": "Redeem a completed Goal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/a3511d687fc5c133cabafc1fbed9eaccc91f554d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/562236e60b969a4e7313d8ecabeb549ef77f498b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.7"
+    },
+    "ach_crucial_combo": {
+      "name": "Crucial Combo",
+      "description": "Line up on the grid in an optimal position and have an optimal pit stop in the same race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/5625e809dd6577976964beaa020f15b72c37cccf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/5699e44fe97c0ea3c1693cfb3949accedd756c93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "ach_eagle_eye": {
+      "name": "Eagle Eye",
+      "description": "Spectate an online race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/aceaccb7e46c03e894ed794e689d10167093413f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/a5b3653b24b7e9e9b96f1d763b01dde99e400e8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ach_elite_racer": {
+      "name": "Elite Racer",
+      "description": "Reach the Elite Division in F1 World Ranked.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/6cb8453a41b4e7acfac7348c204f09b7839a9246.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/22d9366dbeb8e824fc4fe7634035cb813b23ecad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "ach_engineer": {
+      "name": "Engineer",
+      "description": "Equip an item.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/a424a43650052ebfbec86db17792e9490d0b5880.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/9507325331cf45bf3e8bce8880ae1164a3ed1126.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.3"
+    },
+    "ach_familiar_faces": {
+      "name": "Familiar Faces",
+      "description": "Complete Chapter 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/1aa98ce7036037976ad4727b65cb551c4c6023dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/bf98fb9226598f66859d3cbbd522efadcf5b5c82.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.4"
+    },
+    "ach_filling_in_the_gaps": {
+      "name": "Filling in the Gaps",
+      "description": "Complete 20 entries in the Compendium.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/e5e9ceefa2bbd8657e083e3d286baa5b34a6c3f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/76bd2e0f89b0f3d631908fa7331714761e1ec15d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ach_for_all_those_back_at_the_factory": {
+      "name": "For all Those Back at the Factory",
+      "description": "Win the Constructors' Championship.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/ecc6687470683f3b1d4aa3cac9a94aaab28e0ac3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/a67f069d5b4d75d3fd861e66bb7e7a7ca61c6328.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "ach_friendly_competition": {
+      "name": "Friendly Competition",
+      "description": "Lock out the front row alongside your friend in Two Player Career.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/1657950ddc1f69b207ba2276a0986be9a28ceaf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/da3f33bb7581614e34fc897cdd89d7bb8e94defb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "ach_gathering_dust": {
+      "name": "Gathering Dust",
+      "description": "Earn and display a trophy in your trophy cabinet.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/f5a52638469c91f62d4641d7b0975b2d2d724683.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/3619900387509fe3c875c25b2e0797136f2cc436.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "ach_getting_on_the_step": {
+      "name": "Getting on the Step",
+      "description": "Achieve your first podium.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/d68f546c59a8a135c4c573f4f3f54e1ccc9d8746.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/c42e1ca874820ce573032fd4029e58f31b2d7489.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.6"
+    },
+    "ach_going_the_extra_mile": {
+      "name": "Going the Extra Mile",
+      "description": "Complete an optional objective in a Chapter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/6f081f79a0d2f901b17982de5164351f8b468fc8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/4e5b611af414cba8b9677d2ee97b395526062720.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.6"
+    },
+    "ach_golden_touch": {
+      "name": "Golden Touch",
+      "description": "Reach the Gold Division in F1 World Ranked.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/9bcf39c37868a0913944e7185ad09298af51c7fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/699826510be3104c809e36367567b29cb2fe6997.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "ach_hitting_a_bullseye": {
+      "name": "Hitting a Bullseye",
+      "description": "Complete 50 Races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/2f963c7c4ffdae523b20abbeef53600715108920.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/395e29e2aa2f8f9821624d7590de35eb2da161ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "ach_hitting_a_century": {
+      "name": "Hitting a Century",
+      "description": "Complete 100 Races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/6ae268056f20c8cbcc8c4305d912ee9f9c9191f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/c9f001b1196aced2ca397c3c68cac02d02660f8c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "ach_hitting_a_season": {
+      "name": "Hitting a Season",
+      "description": "Complete 23 Races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/8cc03bb44e2c453bd17bd0064a165e90971d70ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/370c5ee67f964da035e76e9b94e0619cb768e62a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "ach_lightning_round_the_world": {
+      "name": "Lightning Round the World",
+      "description": "Set the fastest lap of the entire race at 20 different tracks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/357124c24494c4b7ff7cdb0c20d856f4f7b98af0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/a23240dbeffee64d0d67f29e0147f77e57e49023.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "ach_living_up_to_expectations": {
+      "name": "Living up to Expectations",
+      "description": "Redeem 10 completed Goals.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/eef98190a6b8aacc8674d0f10d0b2767f30a7252.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/54eb060af18c9f941af412fc7013476385c0433a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ach_loyal_bond": {
+      "name": "Loyal Bond",
+      "description": "Retain the services of your second driver in My Team for a second season.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/518ec972ff8fca8c675c31cb01b795192cbea386.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/78f61476ffa7fa9f1e5db9bb590a3849974e1c2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ach_making_history": {
+      "name": "Making History",
+      "description": "Complete Chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/ba176086e60baf2f4da7f35f868ac6f4147220d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/03fd3b08b755c9c8ab6391b9f4f478c5570f1ceb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "ach_media_darling": {
+      "name": "Media Darling",
+      "description": "Achieve Level 10 Reputation in Braking Point.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/eacb3da37835d51d3e4e92835ce0f5ebc2afede9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/62cf3d5f51a6b9b56f6d2d24f088c36a8bcef694.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ach_network_success": {
+      "name": "Network Success",
+      "description": "Win an online race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/a4202bbbafe2aeaabaafb3d79dda49f033a8341d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/9b402580315b2323f5b08d8a7002573cdc8d58e0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.7"
+    },
+    "ach_oil_and_water": {
+      "name": "Oil and Water",
+      "description": "Score points in a Medium Session Length or higher wet race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/cadbb6814344230e27782754a489592e8207dd7f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/8dc435b6515dc8e4534088e690487088587a3626.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "ach_on_the_top_step": {
+      "name": "On the Top Step",
+      "description": "Win your first race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/1fd0fe0787ddb693142949869cee608cb990fe68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/78ccf498be81a624d382430b3d242b3242babdd3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.6"
+    },
+    "ach_one_for_the_book": {
+      "name": "One for the Book",
+      "description": "Complete an entry in the Compendium.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/c58573d88b2fcf3554274f4dbd6e2cad12c7e5e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/c4adaa7982dff465fed617f958c76df67615ba26.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "ach_peak_performance": {
+      "name": "Peak Performance",
+      "description": "Achieve Level 10 Performance in Braking Point.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/42624cbcc8f81d793ae917ac934d2599c014b9be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/9308e3fea6197323ad5ced3b00b3f7ec4260b645.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ach_proving_them_wrong": {
+      "name": "Proving Them Wrong",
+      "description": "Complete Chapter 17.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/fb182d242ab7ed62e157b81b774e8dd022fe962e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/794339d098ff2b7103d9cfe931b8af8b482c52b3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "ach_recycle": {
+      "name": "Recycle",
+      "description": "Craft an item from a blueprint.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/0788b541a131698523ad09038a6282d03367e06e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/182c76018b8f456506c8996ed42a065365748f6b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ach_reduce": {
+      "name": "Reduce",
+      "description": "Dismantle an item.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/1d9f02b03c5e943fa4baf804adfd966cfd6e8980.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/88b804ddfd4bf48cafa55e44d7d6d58a93e532b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.7"
+    },
+    "ach_reuse": {
+      "name": "Reuse",
+      "description": "Upgrade an item.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/d610dae0a4d0cff6c4331f85afc2a5af2b5ee692.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/9e265d920b1be35451018862b0acb8b083204c4e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "ach_saturday_night_drama": {
+      "name": "Saturday Night Drama",
+      "description": "Finish on the podium after starting last at Las Vegas.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/67293c8c2bc679df20411e20a0292cfedde35bef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/b8f3dde32a7b387b95c9dcef37b53f707ab2cd2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ach_seasoned_rookie": {
+      "name": "Seasoned Rookie",
+      "description": "Score the most points across a full F2 Weekend using Medium Session Length or higher.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/3d70badc10b5093beea0edc832b850c37c21c1d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/2ba5c744b34e5c2d0fe9d4e8bafc8b7d429ebd3b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ach_setting_up_for_success": {
+      "name": "Setting up for Success",
+      "description": "Achieve your first pole position.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/3ec96bdcb31537f3b052d6e20c4c1ac8050054b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/66ec920527b931f9539fa10350228009fd1125a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.5"
+    },
+    "ach_sharing_the_love": {
+      "name": "Sharing the Love",
+      "description": "Develop a component in every R&D Department.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/2952e4c6410d771eed92590249b99bd53547cb2a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/8cdde1301f69e8196e664795d1a40cfc8c0f73e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.5"
+    },
+    "ach_shot_in_the_dark": {
+      "name": "Shot in the Dark",
+      "description": "Take a photo using photomode at Bahrain, Jeddah, Qatar, Abu Dhabi, Las Vegas and Singapore at night.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/24ee5c8b9919b91d4a066ae735b260865e8f9e28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/3cb837097a0e0598cf55e8f1ad190e63ed03a53b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ach_smooth_operator": {
+      "name": "Smooth Operator",
+      "description": "Achieve Safety Rating A in F1 World.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/c3efe70491cfc5c7b0f59582ee60b80a4dc710e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/dfc88f7d5264c53e873fae5977517b17a4992b39.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "ach_spinning_around": {
+      "name": "Spinning Around",
+      "description": "Complete 25 clean laps in Time Trial.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/a9d91646f292b419fd0061a9e91a0aa30b6eeac4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/e95df0224a71bc72c4d929037b4edb49c8843d1c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "ach_spring_cleaning": {
+      "name": "Spring Cleaning",
+      "description": "Change the appearance of your My Place environment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/53027aa10cb90696d04a1c4abc9b954c545fb2ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/b51f0ce073065b364c03f3d79f00323d4d997e74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "ach_switcheroo": {
+      "name": "Switcheroo",
+      "description": "Beat your friend in Two Player Career after qualifying behind them.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/bcdff7b1ff94681c19f4f8dbe0d5836e801d9642.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/7e07201d8af4a52be820557d515222385e9409a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "ach_team_orders": {
+      "name": "Team Orders",
+      "description": "Out qualify your teammate in career.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/08da35ee96d1b9e4ef9140193966b7a8bf5d5ba7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/2d1cfeac76036f93e75016b67d14fc7921252057.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.5"
+    },
+    "ach_tinkerer": {
+      "name": "Tinkerer",
+      "description": "Equip a Unique Item.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/88b4a0931767786682b1a5c430956754917e886b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/5f695ad1a3fcbeccfc569a24f7d82a3e779c643c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "ach_ultimate_collector": {
+      "name": "Ultimate Collector",
+      "description": "Complete 50 entries in the Compendium.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/740248e6d445dcd7c2798a829a988a2478afee0d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/7323437fafd9862dad489cb5fd6e498d0a990293.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach_under_the_microscope": {
+      "name": "Under the Microscope",
+      "description": "Save a captured highlight in Theatre Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/27a38d4cf93762a28749b83afca395e2ee9d7adb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/c5bf7c2f04f5858759048f4afb04f0766ab453da.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach_undisputed_winner": {
+      "name": "Undisputed Winner",
+      "description": "Win the Drivers' Championship.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/c1d54df96fdd2663f7c2ed03ea0bc42c392d1b34.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/fc5a7625e0b83bbc1c667801a20071962fe19812.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.7"
+    },
+    "ach_ups_and_downs": {
+      "name": "Ups and Downs",
+      "description": "Play your first ranked game in F1 World.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/b4fdbd39414acdba80d2924d501bcad79dc0b027.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/83f5a4b68921ea78f5d6f3af68e53beb7da3fbab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ach_wait_i_know_you": {
+      "name": "Wait, I know you?",
+      "description": "Reach a Team Acclaim level of 20 in My Team.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/6f893b9aaa082156d4d77ba1c72054d4ba9f0e91.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/8c185b288904598dd8117845deadefe4fbc532a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "ach_writing_a_new_chapter": {
+      "name": "Writing a new Chapter",
+      "description": "Complete Chapter 9.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/867814bf741c5b433b8effa9bf587655a55c59fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2108330/6615f88b36619545551eb2c89a638dbecfd111b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,181 @@
+{
+  "appid": "295790",
+  "name": "Never Alone (Kisima Ingitchuna)",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/295790/header.jpg?t=1728941906",
+  "achievements": {
+    "FinishedChapter02": {
+      "name": "Bola Expert",
+      "description": "Nuna and Fox evaded a stranger.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/cfc7af85b3c202a24c47514d3fe3736c2a93dbf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/30052b58fb7512cc8587785cfb159d475e865ea1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.2"
+    },
+    "FinishedChapter07": {
+      "name": "Caribou Feet",
+      "description": "Nuna and Fox restored what once was.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/968f3cf599772ce739307eef6f4aa99126cfc1f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/1d1bd42445392870a32eb926c6c1d99cd6e29efc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.2"
+    },
+    "FinishedChapter00": {
+      "name": "Close Call",
+      "description": "Fox saved Nuna from a dangerous predator.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/d125fb656c8fbbd7ce78c088675a1358da01d2bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/c62a531960a0ed50e80deac8e65ad900e9640bf4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.4"
+    },
+    "Insights_Forest": {
+      "name": "Dendrologist",
+      "description": "You found all Cultural Insights in the Forest.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/722d3c5c3d69148ec6f352878c704bd9faf82092.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/7df01c91d599253081abaf35085cd98f91b66d7f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "FinishedChapter04": {
+      "name": "Highs and Lows",
+      "description": "Nuna and Fox kept their heads in the Northern Lights.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/7f0ce2ca1cc8212124acc6b69550cfb71911062d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/0df92befff3678af972f3791f4a95b5aaee77bda.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "FinishedChapter01": {
+      "name": "Homecoming",
+      "description": "Nuna safely returned to her village.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/1a338aa8887632b2110837ebca8b89556c394715.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/5e0dd756901cc7f3923796f080bd9e821d4e9f9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.1"
+    },
+    "Insights_All": {
+      "name": "Insightful",
+      "description": "You found and viewed all the Cultural Insights.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/3e35f88105b476593c2b8a57e422d541112803db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/1241e7c0d1fec2ee9251feb64f126a8b11b51cfe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "FT01_FinishedLake": {
+      "name": "Respect For All Things",
+      "description": "Nuna and Fox defeated a formidable foe.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/765a3f956850d098a788841934196ee9d81590ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/17a3345f5dea57cdae8fea5b6bb98d8a8312d203.jpg",
+      "hidden": true,
+      "group": "Never Alone: Foxtales",
+      "percent": "8.1"
+    },
+    "FT01_Insights_All": {
+      "name": "River Experts",
+      "description": "You found and viewed all the Cultural Insights.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/da7d85ff28bdd6cfb0b5d5e54438be0919f25a26.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/abee7c8934b6a3765e18f9ad43e001d9e3bef582.jpg",
+      "hidden": true,
+      "group": "Never Alone: Foxtales",
+      "percent": "4.7"
+    },
+    "FinishedChapter03b": {
+      "name": "Sea and Air",
+      "description": "Nuna and Fox touched the sky.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/eef4d8d817fa1189eb5fa988626e19756d15c012.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/03ae55ace90c8b9a022f19da76c216c7342a96f9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.9"
+    },
+    "Insights_Coastal": {
+      "name": "Seaside Lessons",
+      "description": "You found all Cultural Insights in the Coastal Village.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/ed4e22b9a4c63411ae08c5a1c8a3c23598f33252.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/a629f5775292a32eb27ed97234ed29e70778877a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "FinishedChapter03a": {
+      "name": "Swallowed",
+      "description": "Nuna and Fox encountered an old enemy and a new friend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/8e4f321b2bed452b2eff3c182575291db947b35c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/10354dc8367c553fac9cad8b773736408ed0c4f8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.3"
+    },
+    "Insights_Whale": {
+      "name": "Swimming Through History",
+      "description": "You found all Cultural Insights in the Whale Spirit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/4bd3c0c0a474736c1e1a9b74068ec9cfbfc27e1c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/89e02e533acdf5c28b00fccdfd1d4e3ec919461e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.9"
+    },
+    "Insights_IceFloes": {
+      "name": "The Cold Truth",
+      "description": "You found all Cultural Insights in the Ice Floes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/603fa9891920f60dad548a662c7f854deedbcefd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/23c8b6f393d5d8cfd5bbc976f400471c1726096b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "FinishedChapter05": {
+      "name": "The Old Ways",
+      "description": "Nuna and Fox defeated their strongest foe.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/509f663acab5f514084d97c5ea55b9b87c6b7366.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/e87b5da600891338a7551a401a7e1fe34fca7eb1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.3"
+    },
+    "FT01_FinishedRiver": {
+      "name": "There Was a Village",
+      "description": "Nuna and Fox left the destroyed village behind.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/a98e972a9ee1bdea43a3fc963d0ce16b22d9c5ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/2cb77866e0ad46e38c55fda77b85bb71036055d4.jpg",
+      "hidden": true,
+      "group": "Never Alone: Foxtales",
+      "percent": "8.8"
+    },
+    "FT01_FinishedOcean": {
+      "name": "Trying to Set Things Right",
+      "description": "Nuna and Fox continued after the Mouse.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/c9f573abfb56c1de70a60921ab909c1415e1ff9d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/28bcb0e68f9117e6cf1de8c0e1e78f49e0a4a876.jpg",
+      "hidden": true,
+      "group": "Never Alone: Foxtales",
+      "percent": "10.2"
+    },
+    "Insights_Tundra": {
+      "name": "Tundra Expert",
+      "description": "You found all Cultural Insights in the Tundra.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/5607fd082e8a95bd0a9f814d9eb8c10df0e726c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/f9b89c223b32eacd11101b714b019860b93d35df.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.8"
+    },
+    "Insights_TundraVillage": {
+      "name": "Village Historian",
+      "description": "You found all Cultural Insights in Nuna's Village.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/f00c885a760110430fa98dda870a972de833edb4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/295790/f10d80860a89e2c939cf1006789887db3befcdbb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

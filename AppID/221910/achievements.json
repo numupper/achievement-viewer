@@ -1,0 +1,42 @@
+{
+  "TSP_430": {
+    "earned": true,
+    "earned_time": 1663494937
+  },
+  "TSP_888": {
+    "earned": true,
+    "earned_time": 1663495064
+  },
+  "TSP_ACHIEVEMENT": {
+    "earned": true,
+    "earned_time": 1663487779
+  },
+  "TSP_BEATTHEGAME": {
+    "earned": true,
+    "earned_time": 1663451566
+  },
+  "TSP_COMMITMENT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TSP_GOOUTSIDE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TSP_JUMPING": {
+    "earned": true,
+    "earned_time": 1663494656
+  },
+  "TSP_SPEED": {
+    "earned": true,
+    "earned_time": 1663496820
+  },
+  "TSP_UNACHIEVABLE": {
+    "earned": true,
+    "earned_time": 1663502779
+  },
+  "TSP_WELCOMEBACK": {
+    "earned": true,
+    "earned_time": 1663449324
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "appid": "707030",
+  "name": "POSTAL 4: No Regerts",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707030/header.jpg?t=1726332007",
+  "achievements": {
+    "cheevo_09": {
+      "name": "4 can play that game!",
+      "description": "Kill 4 fast food Banditos during the Mexi-Cleaner errand with the Fournicator.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/961db9f2bfa10164082a4754155214cba415f707.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "cheevo_11": {
+      "name": "And remember, respect is everything!",
+      "description": "Reach maximum Heat level with the fuzz and survive.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/a511ca3616224082bcb1e3e6751d9256ce0984d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "cheevo_07": {
+      "name": "Breezy, not sleezy",
+      "description": "Get all 10 petition signatures while wearing the drag outfit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/fdab79e36cc2b889dbe315a835d3876a70edb720.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "cheevo_18": {
+      "name": "Can we fix it? No we can't!",
+      "description": "Hit all barrels with emigrants during the Border Smuggler errand.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/d29dfd79a250e9efc323359c4a16014e3e54f82e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "cheevo_05": {
+      "name": "Don't forget to wash your hands!",
+      "description": "Flush after taking a piss in a toilet.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/d1c604ed3c95a17ee3314d736ba4b54afcfeadd1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "cheevo_19": {
+      "name": "Dude Vinci Code",
+      "description": "Collect all of the Royale Collection paintings.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/cbcf950b5cb25411a8655c3bd03786f288201c6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "cheevo_17": {
+      "name": "Highscore, what does that mean?",
+      "description": "Beat all high scores in the Scooter Challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d1835a10eb276aa6f2c6661268463e64dee0f1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "cheevo_08": {
+      "name": "Holocaust: Part Trois",
+      "description": "Reunite with an old enemy, again.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/41c89d2d6893456e3f914e174770ad7ae3272d23.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "cheevo_01": {
+      "name": "I Wanna Dance With Somebody",
+      "description": "Discover the secret crack den.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/861d5b6644bb53c67282286e128a8f8255e02691.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "cheevo_14": {
+      "name": "Lame of Thrones",
+      "description": "Install all bidets in the Wipe Compound without killing anyone.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/1a7f5bf53bf4883e8778a46426d05c26590ce9ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "cheevo_10": {
+      "name": "Look ma, I'm a HOBO!",
+      "description": "Construct your homeless beggar sign.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/083c00f87cbf2617335a8e3f6f89e221b28f0b06.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.4"
+    },
+    "cheevo_13": {
+      "name": "Lynched",
+      "description": "Kill all of the Mountain Men while searching for Champ.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/c46d45d03f2c5b7ef8dadc688b7b43364270f289.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "cheevo_12": {
+      "name": "Mean Kitty",
+      "description": "As Cat Dude, kill 10 chicks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/2fff4f1299a85c00fda621dcaad0708f7d5764cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "cheevo_02": {
+      "name": "No Way Trailer Home",
+      "description": "Finish the same errand with all 4 Dude voices.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/467e206cddff67911fea62a30ac8be3a13b21458.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "cheevo_20": {
+      "name": "One of Uwe's Best",
+      "description": "Finish all Rampages (aka Going POSTAL challenges).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/3d6c556fc477aae613f8c5a2f9e527aa4e613345.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "cheevo_04": {
+      "name": "One Side, Gramps",
+      "description": "Run over 50 people with the Mobility Scooter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/ad5f2914255191d2f25759c21e07cc6694d6d982.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "cheevo_23": {
+      "name": "Passion of the Christ 2: Crucify This",
+      "description": "Complete the game with no kills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/3a7e740a83d9fa464d66fd59e2f3018ca875eed2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "cheevo_06": {
+      "name": "PISSASSO",
+      "description": "Turn 10 toilets yellow with piss.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/4d1c3e7d4d1775a5019d8142e664e3c0dd1054db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "cheevo_22": {
+      "name": "Roadhouse",
+      "description": "Complete the game by only using kicks to kill people.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/5c9d4fb5995fb8d73170e886284a05f846dfec88.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "cheevo_16": {
+      "name": "Scooter Tutor",
+      "description": "Beat the Fix Race errand by crossing the finish line with a fully bloodied Scooter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/a38968fa682db2a6fdcb56a0631defb60772cdde.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "cheevo_21": {
+      "name": "Still playing with dolls! ",
+      "description": "Collect all Krotchy, Kunny, and Larry collectibles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/354505c719d7cc49061f5ab66bfa18de303bdab9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "cheevo_03": {
+      "name": "We still ain't got no budget!",
+      "description": "Kill 100 pigeons from thrown cages.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/6fe39aed80d981f67a54cc56b6d6395f5ce2053e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "cheevo_15": {
+      "name": "Yippee Ki-Yay",
+      "description": "Kill 7 people at the same time using the Revolver's Dude Eye.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/b4f62a346faed14b6dadd2228f3da045d1d52bf0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/707030/8d9d8d3c582267e569f6a1212e11afacb12030fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

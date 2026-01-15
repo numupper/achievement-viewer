@@ -1,0 +1,460 @@
+{
+  "appid": "1666250",
+  "name": "Circus Electrique",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666250/header.jpg?t=1763577275",
+  "achievements": {
+    "ACHIEVEMENT_18": {
+      "name": "Accomplished Veteran",
+      "description": "Level up to level 10 with any performer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/282dec73e36d32f891f1eb894006b9f5d9279c33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/94b9606c71fe8643f1af0af36afc7c8c8b95d24b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ACHIEVEMENT_43": {
+      "name": "Amazing!",
+      "description": "Fully fill the Amazemeter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/e5124eccd7a71b6972669b85fc69f12121d8a70a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/458b1a156317e47b8f88f25e22ad8aa38c42f0a1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.1"
+    },
+    "ACHIEVEMENT_06": {
+      "name": "Around the Clock",
+      "description": "Reveal the secret of the Big Ben.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/7897626f7bbfc8699d69a12e5ec094164fa5e0da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/663267ba797b6463eb4ffe8f1b4a0a34e5e54969.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Bar Brawler",
+      "description": "Win a pub fight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/ecec5937823e2d810e5a4db45af97a6ec45a2683.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/59d9071b5275940cd5d539af55239842ff24f993.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.6"
+    },
+    "ACHIEVEMENT_08": {
+      "name": "Built in a Day",
+      "description": "Level up any building.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/23c9dc4ecea8fd35f295f639e4aca1e7a1dd5972.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/8f5bd0f11a262c1873ddf31ce62ec5b617b22bdd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.8"
+    },
+    "ACHIEVEMENT_07": {
+      "name": "Circus Electrique Proudly Presents...",
+      "description": "Announce your first Circus Show at the Circus Tent.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/b1e7e6534f8e79bbdc991ea446a9a531c8b7bf4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/17ed4602d3cf50fb4e1f52b86b071c68b274ae18.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.4"
+    },
+    "ACHIEVEMENT_26": {
+      "name": "Circus Maximus",
+      "description": "Reach the maximum Circus Fame level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/059ba7cbf962e9e7f1e4b446e7df2e23b29a699f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/c3c6ab157bbf955221289bec0cdbd771d9ba1d6a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ACHIEVEMENT_05": {
+      "name": "Circus Versus Circus",
+      "description": "Confront Eli Edwards at the Circus Mecanique.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/452177ed0241806c0611c102bac3ce80695a34f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/a36e832882314b301eef63fc6def5f0b25bed84e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "ACHIEVEMENT_27": {
+      "name": "City Savior",
+      "description": "Complete the game on Easy difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/09828ab1b6db2075f7c0c3fee97f1f375e3aaf47.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/bb992dfa9869bec168adbf8898c42d93ef9be4a2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACHIEVEMENT_49": {
+      "name": "Clown Care",
+      "description": "Win a battle with four clowns in your team.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/f1d8c27b1b1431ba7cc3c7c1fa8d6bfcb84b1a4b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/b219ce5505bb08566beec45ae93933b17be68b30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "Club Champion",
+      "description": "Win the last battle in any of the Clubs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/c4572070327a9b06fa9f47a45a7706f4b224430d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/2e8b96741413d37dfb62a07ff690ccb889c9234e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "Club Member",
+      "description": "Play a battle in any of the Clubs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/4bb5188f31ff5aaa54e4d5b3da805f08f438db69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/a30a2cba190c77534f8bff4350716618f054aad5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "ACHIEVEMENT_42": {
+      "name": "Devastating Blow",
+      "description": "Eliminate four enemies at the same time by using a Super Skill in a battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/9d47a5e70b5267ed79bc0df5ac5b26fb767ab65f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/c8be8b3c76cd797f15509ac56dee57efafedd194.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACHIEVEMENT_17": {
+      "name": "Dirty Dozen",
+      "description": "Have at least 12 performers on your roster.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/bf6bde98c2b153e55e46980e401438beed474a6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/78915b5089392b1990f71c5ac9c0f48e627f43f6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Fan Service",
+      "description": "Earn the main prize from the fans.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/765f3978af11d69b70bfdc90f7969463fe3c7855.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/77053bd78fcaf4a4d91e7be9632afad81ae38b07.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.5"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "Flawless Presentation",
+      "description": "Fulfil the maximum potential of a Circus Show with at least 4 performers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/1ac3f7de87e4be3a60f9f887fc00f772bfd77026.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/2b69a8e2606df51b90eab251a5b29d9d1a165068.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "ACHIEVEMENT_01": {
+      "name": "Grand Opening",
+      "description": "Finish the Prologue.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/17d52ce1a8075855fed18e13e7b2f35db52a68f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/8a8fd431fe75b6d2c7670982b4669c9645ac3152.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.7"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "Grand Slam",
+      "description": "Win the last battle in all of the Clubs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/63bf23beac60a2182d7a166b758a9da6075e088d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/7c4fc26ee8eb68b549b22b0f19c72915b337b8b7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACHIEVEMENT_50": {
+      "name": "Guest Stars",
+      "description": "Win a battle with four former Circus Mechanique performers in your team.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/3558a8710af14aa82dd56f63f94685a50a7c0bb2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/416e49527929e63772baff5da97293906de62883.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "Hundred Percent Fifth",
+      "description": "Reach 100% completion in the fifth district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/9bb603a06e1e36027f3bfc53bc96cdb0dedd9e6f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/4f0494d53e0d5f625288d9adba7bb2f6f7ee24dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Hundred Percent First",
+      "description": "Reach 100% completion in the first district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d678c019d1988d9f35ef1a0766bf92b95f78d9f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/5fca911687717f0dc8e318ae88cb6e6cead5f42a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ACHIEVEMENT_23": {
+      "name": "Hundred Percent Fourth",
+      "description": "Reach 100% completion in the fourth district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d75bfbf443d3aeffb0f07e6c3cb47928e91e672e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/70ef88960244cf59a80db18a29cbeccc8c6bb6d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "Hundred Percent Second",
+      "description": "Reach 100% completion in the second district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/a231d688af75e991becff19024a7bffa70505804.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/f687e87f9719b200e505597039694aa5e41bcdc6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ACHIEVEMENT_25": {
+      "name": "Hundred Percent Sixth",
+      "description": "Reach 100% completion in the sixth district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/957520d98c62c8ea5fd6f6e15cbc9214ce17f1b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/a71f039b17da9bb64799acbb85306c0bf94d1570.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "Hundred Percent Third",
+      "description": "Reach 100% completion in the third district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/9333a5541122961742c5208f63ad38b740adc012.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/706548653b2b5b7f0ca359e384df936c35353be9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "King of District 1",
+      "description": "Become king of the first district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/b0802b42f2556a765a5b2348a8ab88d01110a2a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/3bb09a26ccbc61cef3b01061c8b1f114af5cc4d7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "King of District 2",
+      "description": "Become king of the second district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/3c51838f44eee4a87e686baa241cb44f3dd67266.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/45255cf3c94a724ba37f2f1a67537c7a9ebe8d31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "King of District 3",
+      "description": "Become king of the third district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/2205dc7ac88af0fdfbf32d3083e2f864e19d71c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/570651103f1bbe662a7ae3d1bc885e3c6a60a90a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "King of District 4",
+      "description": "Become king of the fourth district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/c233c35a222da48a1b1f05a12c6d94f68bb2b43f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/687525ae1fd95bbc1147ea4c45848117fb089a83.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "King of District 5",
+      "description": "Become king of the fifth district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/245f32fe9ec37242c5a8f9788f13c5eedf413130.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/ab76ad589bd8dc6700381c7aefb9567033344380.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "King of District 6",
+      "description": "Become king of the sixth district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d3aa66fedfc79673b0e891bc08af5b8c6c48f3f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/8a5b3464398c00586316470faf3a43b52fc2d74d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACHIEVEMENT_44": {
+      "name": "Last Man Standing",
+      "description": "Win a battle with only one of your performers standing until the end.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/94223b4ee607b0575a091f11f0a8cf92e5f95e60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/98ab5d625739d4756bd3947ff1b501b9ed8e18ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACHIEVEMENT_03": {
+      "name": "Lion Tamer",
+      "description": "Investigate STEEM Headquarters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/b37a276e80720d81dc86060c0712ee32fb0d6adf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d1f51fdc05a963e4b2e3ce7bb5c1a2861f7e9e4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "London Liberator",
+      "description": "Complete the game on Hard difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/bb457695e5bb42d35ea84927ef50784cad280118.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/fa10a2f490c67b68dae8f0e8e1bdcfc133dd7e46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Lucky Day",
+      "description": "Open a hidden route by winning the shell game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/3325f6962709977c2ce82d32929e626ef3541c8a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/a24a30f428d00e7b6ebd00bf83093cb2ee4723a1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "ACHIEVEMENT_40": {
+      "name": "Marketing Manager",
+      "description": "Hire a paperboy to boost Circus Show results.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/2a43995f3a8a82619e8c8d8fc94d246fe33b4894.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/984f35ffc4a4f2fa8bbe33d99a767283b7e0b87e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.4"
+    },
+    "ACHIEVEMENT_47": {
+      "name": "Mobile Infantry",
+      "description": "Use at least 5 movement actions in a single battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/654cf0db30d34b0f794ed79e636bb3d997002964.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/2b78a172af07eee4078674baf6d0a5187bee678c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "More Brain Than Brawn",
+      "description": "Solve a problem in the city without fighting.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/0dd99f2abda60e7c3f7dfda89237264f2c2c8265.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/e9b2c85c33bd01c037aa4437c995c23e0b4693c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.8"
+    },
+    "ACHIEVEMENT_04": {
+      "name": "One More Thing...",
+      "description": "Attend the STEEM press event.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/64ca724afba696053e97045fc0d1d652dc4b8b40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/f3af7352dfdce1ad24eb06750e1a24c60b75e6f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "ACHIEVEMENT_09": {
+      "name": "Path of Learning",
+      "description": "Level up any skill of any performer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/755e5c8cc60b68ce53935628d7df6612da6dda75.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/04f2e9ae25ef1e8c103ac91d44354c576ed73251.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.7"
+    },
+    "ACHIEVEMENT_39": {
+      "name": "Perfect Chemistry",
+      "description": "Announce a Circus Show with fully filled chemistry bar.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/4bcfa502c9f063b1a486afc0a1ca7a467947a117.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/40c2cfd06465c4f5265e9c7f401243c66a9b4b1e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ACHIEVEMENT_02": {
+      "name": "Perfect Illusion",
+      "description": "Solve the mystery of the missing London Bridge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/7fa0df045f528675352211aefdc4c8b779519357.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d64a56eff074300c239e42fa73f00cb36ec174e0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.6"
+    },
+    "ACHIEVEMENT_41": {
+      "name": "Self Defense",
+      "description": "Win your first battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/3dd077353c03ff015a8bafa14e4aca16a438eb11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/5b10120655eaabcf8f9c15a695c9e58f985a7d96.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.8"
+    },
+    "ACHIEVEMENT_45": {
+      "name": "Spirits High",
+      "description": "Win a battle with all performers standing and having full devotion in the end.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/185af1bab3566668f9841b2a2eff0c6d84a76008.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/352d37f219ddba4e09bd5e34eac78e72ecf8752f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "ACHIEVEMENT_38": {
+      "name": "The Greatest Show",
+      "description": "Announce a Circus Show with 3 x 7 star rating.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/2d32ee40b0bb4659aa95c0e3429260f82b4bb959.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/5e4db2a93c821a78e869e18e57a22edbb64588f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Time Travel!",
+      "description": "Use a Time Capsule on any district.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/565fa9a6c6ba8c9e07d7e4633f37dc710d09230d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/a1fe628cad1373061ff01ab8dd0ebad28ea04a58.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Unmatched Skills",
+      "description": "Level up all skills of any performer to maximum level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/080b91737871a57ad8840fd72e22c625a750c836.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/ba6828169577de1883363e81a1beed4d90a64835.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "ACHIEVEMENT_46": {
+      "name": "Versatile Tactics",
+      "description": "Use all skills of all performer at least once in a single battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/f8249975e1ee0c20fa2df2a9a2cb8cbb92c68c10.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/cb289ba24eb5218d10e5dafad75e1bc13f5a5bc9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACHIEVEMENT_48": {
+      "name": "Vicious Busters",
+      "description": "Defeat 1000 enemies",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/dfe6dadb3f22553e60e89d2bdb331ddc85591953.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/8f7cb048687120a50ca95e0912a3232fbcafdf99.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "Victorian Victor",
+      "description": "Complete the game on Normal difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/400886a997b6b9b2d92af093503a95b33d9b018a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/4862a1f0c18ceadf2839c4305c2f7b13fca6ac58.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

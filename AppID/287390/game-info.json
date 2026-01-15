@@ -1,0 +1,451 @@
+{
+  "appid": "287390",
+  "name": "Metro: Last Light Redux",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287390/header.jpg?t=1725444535",
+  "achievements": {
+    "air": {
+      "name": "Air!",
+      "description": "Spend 30 minutes' worth of Filters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/f093ae771a87ed18df7a15ecf6b41dae0de2a44e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.6"
+    },
+    "antibiotic": {
+      "name": "Antibiotic",
+      "description": "Kill 100 Mutants.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/14af650943d49ca9ce964f58e70526d622fbfbe2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.9"
+    },
+    "back_to_the_past": {
+      "name": "Back to the Past",
+      "description": "See all Visions in the Dead City.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/87e027d3aa7062536a5448c458a3ff92d32d49cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.1"
+    },
+    "big_momma": {
+      "name": "Big Momma",
+      "description": "Kill the Rhino.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/84affe9236e0db6c02e1e8c64685fb53826955ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.1"
+    },
+    "cest_la_vie": {
+      "name": "C'est la vie",
+      "description": "Destroy D6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/965ab39aed09da5db26c40ab25df3a4892ca69c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.5"
+    },
+    "max": {
+      "name": "Cheers!",
+      "description": "Drink at every occasion.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/3493207175fcf7befcd0ef5be77df4f599cd60ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.1"
+    },
+    "clean_jailbreak": {
+      "name": "Clean Escape",
+      "description": "Escape the chasing Nazis on the REICH level without being caught once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/101bb01d90356cd5f8ca6ea4c54d8c97bf29c7ff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.2"
+    },
+    "commando": {
+      "name": "Commando",
+      "description": "Rescue the Women and Children on the BANDITS level without raising alarm.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/c078b816399d9d3bc1e5b6ce8c85f06cbc32fb8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "derailed": {
+      "name": "Derailed",
+      "description": "Kill all armed enemies on the REVOLUTION level, including all reinforcements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/269f58c9e9b442a335bd3684dcbbe0dbe3faeb69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "developer": {
+      "name": "Developer",
+      "description": "Spend 1 hour on the DEVELOPER level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/01fe0ae6832a381cfd9518496f85252fe4f1f8b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "edison": {
+      "name": "Edison",
+      "description": "Turn off 40 Lights without breaking them.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/a909ab4f19330f1676bb720794a511adef3d8c30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.6"
+    },
+    "engineer": {
+      "name": "Engineer",
+      "description": "Use 10 Lever Switches.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/fa163f7c7baf1cbe5de9945ef1d68933b23bca3a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.2"
+    },
+    "ever_vigilant": {
+      "name": "Ever Vigilant",
+      "description": "Disarm 10 Traps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/484cbb6b52b57025efec8e82b98344de6826bde4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "forest_guardian": {
+      "name": "Forest Guardian",
+      "description": "Save the Bear from the Watchmen after the fight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/f0591fd4162f62abf0aa7f8836a3ede5825af6f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.9"
+    },
+    "freedom": {
+      "name": "Freedom!",
+      "description": "Free the Prisoners.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/eae37ab04fb266c296f9a83056b75a9a466e0b46.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.1"
+    },
+    "heil_reich": {
+      "name": "Hail Reich!",
+      "description": "Complete the HEAVY SQUAD level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/66ab78ab38061a7c1ab03e5a231582af1b17d103.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "atas": {
+      "name": "Heads Up!",
+      "description": "Complete the PAVEL level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/29b0c00ff38c756c5ab0986c374f6d81a76ffc18.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "invisible_intruder": {
+      "name": "Invisible Intruder",
+      "description": "Complete the SEPARATION level without killing or raising alarm.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/a2c01e0709d04ddafb13a6fcec57134aa0c0d656.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "invisible_savior": {
+      "name": "Invisible Savior",
+      "description": "Complete the FACILITY level without killing or raising alarm.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/38589f44ee8ccbec5ade3dc716eda3b64d8e0b68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "invisible_soldier": {
+      "name": "Invisible Soldier",
+      "description": "Complete the REVOLUTION level without killing and raising an alarm.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/343a92feec9e1f6740090ed09fc7b46f2817f5e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "kshatriya": {
+      "name": "Kshatriya",
+      "description": "Complete the KSHATRIYA level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/1ccce297c2d72aac9af61075872e6f46fbaa4247.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "safecracker": {
+      "name": "Master Thief",
+      "description": "Open 10 locked safe boxes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/e8a8e24a25850b2edcdbff3a5d37363a7176cddb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "mouse": {
+      "name": "Mouse",
+      "description": "Complete the ECHOES level undetected by the Watchmen.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/f81fa92da6e93109a6c795891ad0a1972fad2fae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.7"
+    },
+    "no_shooting_allowed": {
+      "name": "No shooting allowed",
+      "description": "Kill 10 enemies in a row with Throwing Knives.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/d8fd48d2e61467a6a86a5b6f91a49ef6c0210fc5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.8"
+    },
+    "nowayout": {
+      "name": "No Way Out",
+      "description": "Complete the KHAN level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/cd5bc718dfa9ffed6896aff20be1e6fe971b2e37.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "not_a_rabbit": {
+      "name": "Not A Rabbit",
+      "description": "Finish the ASHES level without taking a hit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/71a94ed3ab9b3ae1ccd47a111db242d22923555f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "patron_of_the_arts": {
+      "name": "Patron of the Arts",
+      "description": "Watch the entire Theater Show.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/855ab5c74dc8553381290a059ffdd5bd9d6d8da3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.5"
+    },
+    "published": {
+      "name": "Published",
+      "description": "Complete all 43 of Artyom's hidden Diary pages.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/ae8f1b419e46ee21063003f8b057ad57828ce7e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "pyromaniac": {
+      "name": "Pyromaniac",
+      "description": "Burn 50 Cobwebs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/72e9ba73a75f763ebc7746319d2fc92203d6782d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.3"
+    },
+    "rabbit": {
+      "name": "Rabbit",
+      "description": "Complete training sequence.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/85503a93f75f2384bcecabc2cff9300fed7d41a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.3"
+    },
+    "rain_man": {
+      "name": "Rain Man",
+      "description": "Complete the BRIDGE level without a kill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/fed8eb9bed1bec9b3ad8d7786501f547bfacd479.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "redemption": {
+      "name": "Redemption",
+      "description": "Save D6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/1424f9015d8daad8f50dbb02e99b0bb2a406d300.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "reunion": {
+      "name": "Reunion",
+      "description": "Find and return the crying child's Teddy Bear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/d87d48594760597ed31171e3e07c2c37b04e4eaa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.6"
+    },
+    "revelation": {
+      "name": "Revelation",
+      "description": "Make Moskvin tell the truth with help from the Dark One.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/e24eb80db8930b965e1bac6661c728a17c3d1930.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.6"
+    },
+    "revenge": {
+      "name": "Revenge",
+      "description": "Kill Pavel.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/64ba62fe06a00678c2588c0dcafdd78daf7e0304.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "saboteur": {
+      "name": "Saboteur",
+      "description": "Complete the SNIPER TEAM level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/6f2e73153123a35189fb52e677b0ad0074cc5706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "savior": {
+      "name": "Savior",
+      "description": "Remove your mask when Lesnitsky demands it.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/f8bc2458c2647ff96e68914bb354dc23cc48e1fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "scram": {
+      "name": "Scram",
+      "description": "Kill the Watchmen attacking the Railcar without taking any damage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/acf3bc03a5be05b985c5f2a162d1c792efc61a23.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "secret": {
+      "name": "Secret",
+      "description": "Find out about the Reds' plans.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/0385bea6e1984f2bb69cd6950f4fe4cd68bb639f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.5"
+    },
+    "shadow": {
+      "name": "Shadow",
+      "description": "Stealthily kill 15 Enemies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/1ba4cdfbb83656c5df5923c59aaaa8aa496b10bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.7"
+    },
+    "soldier": {
+      "name": "Soldier",
+      "description": "Kill 100 Human Enemies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/22a66dc13d7ef9e8532cfba82f99f0d0ff754e00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.0"
+    },
+    "spartan": {
+      "name": "Spartan 2034",
+      "description": "Complete the game in Spartan Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/627f58066a491121368ec96728da1dd54d1991fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "survival": {
+      "name": "Survivor 2034",
+      "description": "Complete the game in Survival Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/7d65a479163e6e2f7f3d11c9b2d624a6060fef6b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "testcomplete": {
+      "name": "Test Complete",
+      "description": "Complete the TOWER level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/bcc33bd6611b993dcbf454fadb5e7138ca6f1126.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "sunsetofhope": {
+      "name": "The Sunset of Hope",
+      "description": "Complete the ANNA level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/25d866ed7d7cdfc2b68a3cdc8623f99d8aa665c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "through_fire": {
+      "name": "Through the Fire",
+      "description": "Complete the SPIDER LAIR level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/3a085a5b12e9dc0600e00cd886debdb8a584ad02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "tortoise": {
+      "name": "Tortoise",
+      "description": "Make 10 Spiders flip belly-up.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/4ec73e4cf6c3f53441e8fe5b60eefaec2570861d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.4"
+    },
+    "veteran": {
+      "name": "Veteran",
+      "description": "Choose three primary weapons that use different ammo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/03459f040462c9a4635bbfdbec66153cc9caedb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.9"
+    },
+    "within_a_hair_of_death": {
+      "name": "Within a Hair of Death",
+      "description": "Escape from the Red Line.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/a5a761ed85270215e5db3e7b5efe896a34ba0abc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

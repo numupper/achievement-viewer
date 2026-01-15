@@ -1,0 +1,586 @@
+{
+  "appid": "1249970",
+  "name": "Test Drive Unlimited Solar Crown",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249970/header.jpg?t=1762440286",
+  "achievements": {
+    "ACHIEVEMENT_61": {
+      "name": "Adopting the lifestyle",
+      "description": "Beat the second challenger of a clan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/258fbe7366734287a416b2714b490672b6176b9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/508bd3c6ce3c37ec93c03c1aa58bca9f5c97ab60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ACHIEVEMENT_51": {
+      "name": "At the wheel",
+      "description": "Take a photo at the bottom of the Hong Kong Observation Wheel",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/219fd6532a410582c426e449fa42f23434ef9419.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/9b88e51d4d18f48dab2b1dc9e3846434af2e5c51.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ACHIEVEMENT_18": {
+      "name": "Big air",
+      "description": "Pull off a jump of over 100 m (109 yd) long",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f164b19dbbbc5773cbb72f30544dfc2e382a67de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d0e8d2103bef56a88c0b678c79228901e65372c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.6"
+    },
+    "ACHIEVEMENT_42": {
+      "name": "Blood is thicker than water",
+      "description": "Complete 10 clan races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/e6861df6d82ad8819e757dc8014489a9627c9a5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/6823e3d3d85c75c4d2b90993d23e701b628846f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "ACHIEVEMENT_48": {
+      "name": "Calling all cars",
+      "description": "Acquire a car of each category",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/06502b6a0abd1d5aa9bca8395c33d301d16d8c7a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/765821daf5422f3faf5e5e2b8dae70a3dd506833.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "Circuit slugger",
+      "description": "Complete 10 Circuit races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/ac9563597c47089db829f54a6f4f7e08dcd4633b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/4bce63ef5fe6e55912e6a93deeba2f682a4cc0bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.0"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Deep impact",
+      "description": "Reach Influence level 10",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/853aeb352eb00c9b816075348329458b4c2e1e00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7e9a12973ddda06b983e2dc5dd6595778203d35c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.4"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "Dress to impress",
+      "description": "Wear only Epic or Legendary clothes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d4be9245a8e9f3ff0573bbe5630a24b220cbbf14.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/53e7a47d88552ce3b7c8d3c7edd22a0acb8e7817.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Driftin' H.K.I",
+      "description": "Pull off a drift of over 100 m (109 yd) long",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b8ecccfb8e4e1c3a7dd22d7684ae582fc4683596.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/df42efb8806a50dca1ae34e1308b7a49406d7173.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.4"
+    },
+    "ACHIEVEMENT_39": {
+      "name": "Easy as 1-2-3",
+      "description": "Finish in 1st place three times in a row in a Circuit race",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/16766b548b91ca69843cd605d668f77bb6757167.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/2eb953dd59261b6d8f494a4f4a8ca84964666c95.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "ACHIEVEMENT_49": {
+      "name": "Emotional",
+      "description": "Use 50 emotes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a46f89510e84b666c8e4a36098e472701fd3b255.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/c73403ab294dbda9890b754917d38ecd73bde305.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACHIEVEMENT_7": {
+      "name": "Every trick in the book",
+      "description": "Pull off all FRIM actions once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/4257201ddb180af604257cd2b1951878e2b862b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/075c7091b22c3606106706c97adf02b353922ea9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ACHIEVEMENT_53": {
+      "name": "Everything the light touches",
+      "description": "Visit all districts of Hong Kong Island",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/930f6ff1d117fafa3b54635ffb3b2fa8f5432305.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/08dbcc7911a012f9d868bb62a4a7e5934be11a3a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.5"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "Face off",
+      "description": "Change your appearance at the Beauty Salon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/9fdbf4d28a4da303167cb3d7197c642799b65744.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f4e402606e400c89078b0e82d74456e15af196d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "ACHIEVEMENT_54": {
+      "name": "Fashion victim",
+      "description": "Acquire 150 clothing items",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/544e22fc19618fc52b09f38626713c2a7afb3cf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/0b25b03f4ad60022ce6d6dc430ca7916faf9373f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACHIEVEMENT_60": {
+      "name": "First rung",
+      "description": "Beat the first challenger of a clan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/861597a533d70a0394c5c6865cd712bbb15cf077.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a933738b472feb8625e752459edc9676093d8bef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.4"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "Flag bearer",
+      "description": "Reach Influence level 30",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/fc6d6950dfa3bd0fb64fffe249cf259b58955cbf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/af8a0d979f33ec0ecb17026fedd483f6636a1309.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ACHIEVEMENT_17": {
+      "name": "French horsepower",
+      "description": "Drive 50 km (31 miles) in a 2CV",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/12756626770ec6a5e37e792f36f9f6cae92ab609.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f7025201ecc35284cbb2add611f2ec7179ec143f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ACHIEVEMENT_59": {
+      "name": "From hero to zeroes",
+      "description": "Make a total of $1,000,000",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/8951568abbaed9d28ef980ea12f093eace6f6002.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/14e88b52a72532f7508af3f9478cea63953bdb15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "ACHIEVEMENT_55": {
+      "name": "Gone in Sixty Seconds",
+      "description": "Acquire 50 cars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/96fa8f91467985efdcf19de042de39df8c87fbfc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/567f0ee414a40e25d4182373e1493148221937a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "GPS coordinator",
+      "description": "Find all Dealerships, Gas Stations, Workshops, clan HQs and Meeting Points",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/fa7d2dc9b5dd726e89ac6ce6331f0f435f160a2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/3660b6fdd014d0cb971976b71da7d12698165963.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "Hammer time!",
+      "description": "Repair a car at a Gas Station",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/9d71685e5cb7de877ad47cb1b3eb0c1b02a5bc0d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/878d27ad637ce9fe96f9724ae344dcee899e3a34.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.6"
+    },
+    "ACHIEVEMENT_4": {
+      "name": "High society",
+      "description": "Reach Reputation level 50",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/69b1a7ec7e6eaf2d16e6ef86d26e68b4e2516a5c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/65985ee18ae49ffc1b1b126e5db32c07d3a6e8f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ACHIEVEMENT_63": {
+      "name": "Honor roll",
+      "description": "Beat the fourth challenger of a clan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/65bc477a26664d7ea92acea9fd817fe2a984ce53.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/8b91f4f016b903b20457d20a2967d5dddac38c6e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACHIEVEMENT_64": {
+      "name": "I am legend!",
+      "description": "Beat the last challenger of a clan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/cc4b8d0a3122e3eb6e282051d08ad57c8ceb9b58.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/3d3ecea1baf0a1b949749a6a639e6846509d7f10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "I came, I was spotted, I conquered",
+      "description": "Rack up 200 speed trap stars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/70bc960ad18823ad3911cf046ecc56e0bc334f33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/e37e465c29bf6285a8be876cde7c2dcfaf4511fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "I could do this all day",
+      "description": "Complete 100 races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/8ebec95e9874cea57e09662577184b681ec3c833.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/83d0e9c848bb122ef8f1d158526fc68c638430a5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "It's over, I have the High Ground!",
+      "description": "Complete 10 Domination races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/62232f320ac7549d186cc0648366a5076637b0e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d634b835d7ebe5166d3dc5a86d607370193448f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Join the club!",
+      "description": "Join a clan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/6c6ea051ac0609783a4ef9b188c1aa0cc51fa412.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a6b5c703652701294507a42684016b63e235e000.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.8"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "Keeping up with the car dashy one",
+      "description": "Complete 10 Sprint races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/18f983663eb11427c343eed1f60d07edac296bc9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d3d91782cc8a8e8581523a4105e3d95409cece62.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.9"
+    },
+    "ACHIEVEMENT_57": {
+      "name": "Like a phoenix from... scrap metal?",
+      "description": "Repair a car from wrecks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/8ea3a815467cc1029d50c3447446cffc962ef756.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/005361981d10dd8f82c3d8734d14886a1c67104d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ACHIEVEMENT_6": {
+      "name": "Living dangerously",
+      "description": "Reach FRIM level 10",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/cd6cb3e304354331fa85b149d5d616cd52c6c903.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a69d18b77591c4a77187ac03801a68822b4e8de6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Look, no hands!",
+      "description": "Win a race with Expert-level driving assists",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/3bf026077b9a23a83f6f393143a3a734d151be1c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/189f854de92673e23aff8e1de898758ea3351aa0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACHIEVEMENT_38": {
+      "name": "Lurker",
+      "description": "Complete 10 Hot-Heads or High Stakes races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a36ef85ea147279480e5c805f84326ee5f647fc7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/6fcc11764b7dd8b016b9bce0fc3e0d39b863cc3f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "Mapmaker",
+      "description": "Discover 50% of all the roads",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/ee1f9f6870c9a7a3c80932b5b994caba54d95010.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b4acaa449b1922894a0d0e11e4582920eb777d92.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "ACHIEVEMENT_56": {
+      "name": "Metal detector",
+      "description": "Find a wreck for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/de58ba095f08585bb3374501198dfb2305cd8c4e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d8f7db5f47b35d7b8c4be25e170b4f6d028467f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.7"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "New look new you",
+      "description": "Change outfit for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/1a947e90bb0405b6d40e162e0c79fdcd9d7a8541.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/0311eecd9ab8e63fc7adab4003082d94c9fccf62.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.9"
+    },
+    "ACHIEVEMENT_2": {
+      "name": "No longer a nobody",
+      "description": "Level up Reputation for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/175f635906ac6451a324147a369ffa3379b5ef62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b0c4206056fc25df436efbe6ae6df06fde5cb3bb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.1"
+    },
+    "ACHIEVEMENT_44": {
+      "name": "Nomad",
+      "description": "Complete 40 different races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/357087096f65898abf24b25f8944bad8f280ebd4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/4c7da292c2a45de193ed5a272676d31cdc33ba34.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "ACHIEVEMENT_1": {
+      "name": "Not just a pretty face",
+      "description": "Finish creating your avatar",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/6672a8bfca3c6622e30a79ece2835a5f4a3fc5a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a72ebaee4674dc66ce82ed24d26de434ad44a0ad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.9"
+    },
+    "ACHIEVEMENT_26": {
+      "name": "Once a mechanic, always a mechanic!",
+      "description": "Install a Legendary part for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/cda22359d90b6044acbb09e65c2126415db7dee5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/551cfebbdf5d37dd034a96728766135cbd99f9a2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.8"
+    },
+    "ACHIEVEMENT_50": {
+      "name": "Oops, nice photo of my thumb",
+      "description": "Take a photo for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/72d77d91f3d1fd02de6a0f8c9f722c8379ae7de3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d579438dfba8bcf74abf419900209b6b8a1c7154.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "ACHIEVEMENT_52": {
+      "name": "Peakaboo",
+      "description": "Take a photo at the top of Victoria's Peak",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a6fcdea195c7b93a04b4bcc7babfe416751a15bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/56e6ee28a5bed5fe114bcf5d9aecb99b05fce4e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_45": {
+      "name": "Phileas Fogg",
+      "description": "Complete 80 different races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/eb1551cef619e0091020464d190dabb5d0e88872.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/12581e0b0cf2d8164d9a9456edf07802cfab906b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "ACHIEVEMENT_3": {
+      "name": "Quick learner",
+      "description": "Reach Reputation level 20",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/831e1e1642869d0a04f988e6d4f77784b63f4b97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/59fa62b1714d140c631f564763a4223efd46aa77.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "ACHIEVEMENT_25": {
+      "name": "Quick start",
+      "description": "Reach 0 to 100 km/h (62 mph) in 2.5s",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f6d3e0bd7a964f9af64b688ce55dcc130a8c1ebf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7c5489cb852a7a68479cf6bc517afe2370907e64.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.0"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "Rising Star",
+      "description": "Achieve a rank in the Solar Crown",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/51f3826b13aad6ddee11c259e45445c09a882530.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/0bdce5ab1d047547dc7ad56814dea297bd4725af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACHIEVEMENT_62": {
+      "name": "Something to prove",
+      "description": "Beat the third challenger of a clan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/76126812591829c364df336806c992bab7f74b68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b9ab92a0751dd9baa08460b50faf5bdd4c6dd637.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ACHIEVEMENT_9": {
+      "name": "Start racing",
+      "description": "Complete the race against Vivian",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/aef039314bb1697bf4007495d47d48890159d0f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b4229128b985278f16c70eb47f9917671540a923.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.7"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Stay above 248 mph!",
+      "description": "Reach 400 km/h (248 mph) for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/9d30071a17becfc5907676699d43ace70baba882.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/1e2ed560e64f18858da9b5d4cae19320f6338e1c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "ACHIEVEMENT_46": {
+      "name": "Strength in numbers",
+      "description": "Join a group for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/00666bb43c136841b0ad89c246c8bfbe001e3397.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f697875413786255713c434ccd4b2f65683d4cd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "ACHIEVEMENT_58": {
+      "name": "Team Work",
+      "description": "Help take your clan to victory in 5 clan races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/53dbbfaaf7ec01775e7ecee18def10a1d4005a67.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/22f926c3263b79a4ea5b8c69f16ee734db08fcbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.2"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "The body beautiful",
+      "description": "Create a custom livery",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/4e247efedbf046943b9651a3950163837ac757ab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f6ac731028d1c36b92131375c0ab23c44d0bbae2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.8"
+    },
+    "ACHIEVEMENT_47": {
+      "name": "The Crown Jewels",
+      "description": "Complete all Crown Jewel races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/2f713863384929c05b5608a23f13647fcb946262.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f45c8d7476bf435c21625e61d6cae9bd21c15f63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "ACHIEVEMENT_43": {
+      "name": "The fast and the furious",
+      "description": "Complete a Hot-Heads and a High Stakes in the same season",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/6b1278950da1ad2e27387a1043a3b1b81eaec844.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/165a28a1ca516173311fdc802bc9f5f886e6b279.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "Time to kill",
+      "description": "Complete 10 Time Attack races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7eead6cb8c77ccdbf59583f5b015ebdabe89d7fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/615756722953b299c46eec68276464bda5478edb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Treasure hunter",
+      "description": "Collect 100 Radiant Prizes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/e9d0e2d3edbf036b90db98fef22f0e963fe05405.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/411fb5e509fbd2950b8ba87d314df4c5570143d1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "ACHIEVEMENT_8": {
+      "name": "Tried and tested",
+      "description": "Take a test drive",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/3bc63ccc02eebfcef7425338a8b8876b5197bad8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f5b8166f2fda7a819ff6c88933169ce02f45436a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.7"
+    },
+    "ACHIEVEMENT_5": {
+      "name": "Turning tricks",
+      "description": "Reach FRIM level 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/3575919fa95e4a6907b2cfc510c397c3535a5e01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/c7d3631f47037907d51637924737d1534fc51b08.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "ACHIEVEMENT_23": {
+      "name": "Unstoppable",
+      "description": "Rack up 50 speed trap stars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/27769a3ae235ad5fce7e908125fb530802872f8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/14f8b5569b8dbcced543bed92ef90c202251ae79.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.6"
+    },
+    "ACHIEVEMENT_40": {
+      "name": "What brakes? ",
+      "description": "Finish in 1st place three times in a row in a Sprint race",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/9b227178dc2edfafe54b1fb199955df6597fe4f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/ea1bb25f225de75041e275cb31a9e452653d927b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "ACHIEVEMENT_27": {
+      "name": "Workshopaholic",
+      "description": "Install all Legendary parts in a car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/e99fa98dc172604638f4f5c6786adffe629fafe4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7979fe5a54772dbfb27d2ef5561119e2bc19fedc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ACHIEVEMENT_41": {
+      "name": "World domination",
+      "description": "Earn the maximum points possible in a Domination race",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a771a7f94eb391300138210833b2d2ff9716894c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/bbbd34a3a8455c1cee2fa4c766378a2ef0c6ddd4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "Your clan can eat my dust",
+      "description": "Defeat 10 players from the rival clan in Instant Challenge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/255dd785f08fa24d14ae1e6a1d197b1d14240612.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/9254af348779b7fdd923735b0d0c4180597bcd6f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    }
+  },
+  "platform": "Online Fix",
+  "blacklist": [],
+  "uses_db": false
+}

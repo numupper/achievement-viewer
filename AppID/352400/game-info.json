@@ -1,0 +1,451 @@
+{
+  "appid": "352400",
+  "name": "LEGO® Jurassic World",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352400/header.jpg?t=1745540350",
+  "achievements": {
+    "ALL_MINIKITS": {
+      "name": "… Don't You Mean Extinct?",
+      "description": "Collect all Minikits in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d00ce11c1ec4aa74418386ce4cc685b5bf824a71.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/092b8f362f36fb1b9b7a6893d99fd03cfd291781.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "COMPLETE_ALL_STORIES": {
+      "name": "65 Million Bricks In The Making",
+      "description": "Complete All Story Levels",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/888e27af7cffd07da38ad198f69b0a752845409c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/82b282ec1dec25be081aac3ca03501af277623e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.4"
+    },
+    "COMPLETE_STORYEVENT19": {
+      "name": "A New Alpha",
+      "description": "Complete Under Attack",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/f8ab50af8b81b5803f6c519a9611beb0692ee9c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/6c14b4b6bd1f8ca722684ec9da2feed67ae76c98.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.2"
+    },
+    "CUSTOMISE_CHARACTER": {
+      "name": "All I Got Was This T-Shirt",
+      "description": "Create a custom character",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/bc52788f3d8b3c75eb84489e04713377b6e19dbb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/60d6712ff280493bc6b23194153018fe0dea3e9b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "ANYBODY_WANT_A_SODA": {
+      "name": "Anybody want a Soda?",
+      "description": "As Dennis Nedry, throw a soda can at another character",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/0ba2bff8c81279dd112d5f3dbea00ac473f0936e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/3c915ea2e47cc46a1792a4bf3b80c3bb07615423.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "COMPLETE_STORYEVENT18": {
+      "name": "Are You Following The Dinosaur?",
+      "description": "Complete Out Of Bounds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a905f7b256e53d92e23be92f77ad1e20535f973c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/354296b542163af547ccf2983852dc2c6816b4fd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.0"
+    },
+    "BINGO_DINO_DNA": {
+      "name": "Bingo! Dino DNA!",
+      "description": "Collect an Amber Brick",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a447e48561d6ee575ff066fb2f7c6961642556a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/4f8e64ab8526e18c9e102a01340d04e828f89d3f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.7"
+    },
+    "BUILDING_BLOCKS_OF_LIFE": {
+      "name": "Building Blocks Of Life",
+      "description": "Build a LEGO object using Mr. DNA",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/25d9f968d1749a129d119de13b899d3654eb0ca5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a85aa4336d920e1f20985fd32e0f9f0901ca33f6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "CLEVER_GOAL": {
+      "name": "Clever Goal",
+      "description": "As a Velociraptor, score a goal in the Jurassic World Petting Zoo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/b3613b4374ee7226a61451c5115328fafc1e2e55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/1a88c44b280d2dfbbd9f749cadfe234477549618.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "COMPLETE_STORYEVENT5": {
+      "name": "Decided Not To Endorse Your Park",
+      "description": "Complete The Visitor Centre",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d7f00edd5bee44ed3586ca8e102f26546ffa1043.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a0e4f96ac7776fdc0b8f9d3c2292880c3a3b65bb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.0"
+    },
+    "COMPLETE_STORYEVENT8": {
+      "name": "Don't Go Into The Long Grass",
+      "description": "Complete The Hunted",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/ba131ab3b5eb53e9de2344b94235f0297824c56e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/0de77bc82f60047aa25754880a94cc077c4739fb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.7"
+    },
+    "DO_YOU_THINK_HE_SAURUS": {
+      "name": "Do-You-Think-He-Saurus?",
+      "description": "Sneak past a Dinosaur using Camouflage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/245df35d2e46f79901f63964f88b3875813e5e4e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/f33f1031bb38b4eb3803921224557a411d135f83.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.9"
+    },
+    "COMPLETE_STORYEVENT14": {
+      "name": "Family Reunion",
+      "description": "Complete Eric Kirby",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/afab5a3409c5abbd222c65676b0e6986447f8b47.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/4b92d9b0df42f05cac46ae2e9755d33abeda3941.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.7"
+    },
+    "COMPLETE_STORYEVENT17": {
+      "name": "Full Jurassic World Experience",
+      "description": "Complete Gyrosphere Valley",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/1b669a30a30888a52dffacfc41c6df2af86e04d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/eeb0f98b2dfbe28dec388287fed37c24bf31d64a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.0"
+    },
+    "COMPLETE_STORYEVENT15": {
+      "name": "Going Home",
+      "description": "Complete The Bird Cage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/0021e690f9f27970c5feff91a17994e8ecd71b13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/393e66b119d3e67ae781f1016b5fba364339ff33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "HELLO_JOHN": {
+      "name": "Hello John!",
+      "description": "Set both Free Play characters as John Hammond (or variant of him)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/717fabb0e0e090d4d10287d36986053a45b4523a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d8a98489728c80ace499a465a23968589b30ec6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "HEAL_A_DINOSAUR": {
+      "name": "Helping Hand",
+      "description": "Heal A Dinosaur",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/fffbccf70b1f0d30eb81e3e7f1cd07f17f38c867.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/db23e0b4cecc9b0be95052545dc1606ef6ccf650.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.2"
+    },
+    "COMPLETE_STORYEVENT13": {
+      "name": "Is This How You Make Dinosaurs?",
+      "description": "Complete Breeding Facility",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/600d987924db5b5ba2571ee49d65b4d758532409.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/97f74aa0d7baa52dad448f9b42782337f1e0da24.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.5"
+    },
+    "COMPLETE_STORYEVENT10": {
+      "name": "Just Follow The Screams",
+      "description": "Complete San Diego",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/81c41a7338fefff1cbf2cccda57a1323943b6025.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/baedbac34cd2fea9e335985c176e6d9ef9a840df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.1"
+    },
+    "COMPLETE_STORYEVENT7": {
+      "name": "Mommy's Very Angry",
+      "description": "Complete InGen Arrival",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/ce2a3815cb864d44488d0f5fef006a589e43dddb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/60da025c6ce6e58494376bda234ff91a7686e97a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.6"
+    },
+    "MUST_GO_FASTER": {
+      "name": "Must Go Faster",
+      "description": "Complete All Races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/432e104a9be4efec2183b7dfc67676ac1fb9f088.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/8d01922cdcb962f0128d3f10c2c74ba238d0bc7d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "LIFE_FINDS_A_WAY": {
+      "name": "Next Time It'll Be Flawless!",
+      "description": "Achieve 100% Completion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d2b694fa7c79680bd0bdfcd3179e76272e32ea6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/eedd7220e40816c7033694c4cf18ffbf99123811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "COMPLETE_STORYEVENT12": {
+      "name": "Nobody Move A Muscle",
+      "description": "Complete The Spinosaurus",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/4d8b00b697f67d51aa0eaf4c318b28bfb6921df8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d353195146b318c1985f646c7b8feab0e8bd865a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "NOT_MACHINE_COMPATIBLE": {
+      "name": "Not Machine Compatible",
+      "description": "Try to use a hacker terminal as Alan Grant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/630113f6d7c3f5bac8b2a71a373e9e0d150228b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/0d1d07a623e29e569aa39c2e3ddf385ee6a24b2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "COMPLETE_STORYEVENT11": {
+      "name": "Not On InGen's List",
+      "description": "Complete Landing Site",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/58816abb0b0098d7406aa2b2be27e1b1a3d8abf9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/9178524fb83ed31e25b0859d9939bc81c7aebde1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.5"
+    },
+    "COMPLETE_STORYEVENT3": {
+      "name": "Objects In The Mirror",
+      "description": "Complete Park Shutdown",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/34f5a41e5c5b4d669650d35a6bdcb776b5e6a137.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d6d653dc900fb77bbf61736cc0758aa394049c93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.9"
+    },
+    "OBSERVE_AND_DOCUMENT": {
+      "name": "Observe And Document",
+      "description": "Complete All Photographs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/8332fa75e8cba93d608ed960baf379678d615c27.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/b97eaa64cf779be9f171d53ad1c35fb04c9b0420.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ONE_BIG_PILE_OF_BRICKS": {
+      "name": "One Big Pile Of Bricks",
+      "description": "Collect All Red Bricks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/63c4b851104d2d6f61af96f84eb1566c95b00e80.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/2cabc899caac0b0a5c1ce3728fc15e9615b0e002.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "PACK_HUNTER": {
+      "name": "Pack Hunter",
+      "description": "Set both Free Play characters as Raptors",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/fe0ec4ea0a0a85231f145b46ea564557f0e722c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/1a4c49ffef7adde16ffd615aa66187e787e23bdb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.8"
+    },
+    "REASON_TO_FEAR_MAN": {
+      "name": "Reason To Fear Man",
+      "description": "Defeat 50 Compy Goons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/5df9db7bc794e47f203a42cd0806b57b4385f8c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/58cfcf175a88e7718fe0508d668204069ec82584.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "REMEMBER_TO_WASH_YOUR_HANDS": {
+      "name": "Remember To Wash Your Hands",
+      "description": "Complete a Dropping Rummage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/62287a45252072e159b2e4960bdc96923878ad01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d03a32a4f66ed330043c372b4cb62d96020311ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.2"
+    },
+    "RESCUE_WORKERS_IN_PERIL": {
+      "name": "Send The Helicopters",
+      "description": "Rescue all Workers in Peril",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/45f297a4f500e897a1ae09e1be7b5063a2b599e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/5cee2a997bef97b2942b72900ff85183f2ad71a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "SOMETHING_HAS_SURVIVED": {
+      "name": "Something Has Survived",
+      "description": "Obtain ''True Survivor'' in any level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/c1efa8913494abe0fec02fb44c068b01c03c60dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/70253b59806b9350d40e8f0978f0d9efa8e3fee1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.2"
+    },
+    "SPARED_NO_EXPENSE": {
+      "name": "Spared No Expense",
+      "description": "Collect 65,000,000 studs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/c3cbdf0e17b81aa54fb07e4b65e69a0939a53685.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/b603d614d51f7e69b6d58b3324dbbae8a77b18cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "SURVIVIAL_EXPERT": {
+      "name": "Survival Expert",
+      "description": "Collect ''True Survivor'' on all levels",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/ef74c196f75a9e4a515000a7cd858e92846f1baf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/0409c76e17e0c67b4a93872d840c03389a4171e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "COMPLETE_STORYEVENT6": {
+      "name": "That's How It All Starts...",
+      "description": "Complete Isla Sorna",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/69b60c8ac5cd3c0262953d4353c4457090fbc11b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/3066d1674f98e7579bb53ab40a1db7b0bbea1829.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "COMPLETE_STORYEVENT2": {
+      "name": "The Calm Before The Storm",
+      "description": "Complete Welcome To Jurassic Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a1177b0f208e276d8633aa177a3e2d0dd32570e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/3223a16903caba12ac9c2251f76f4d314e8d3591.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.9"
+    },
+    "THE_CONCEPT_OF_ATTRACTION": {
+      "name": "The Concept Of Attraction",
+      "description": "Enable Stud Magnet Red Brick",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/fca186b4af3ca139dfddf57921972c29a9395da6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/0fdc8e1f37784f9135f3d8b5bee5ebd5581702ff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "THE_HUMAN_PIECE_OF_TOAST": {
+      "name": "The Human Piece Of Toast",
+      "description": "Give Timmy a shock",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a5daa86eff58e01ebd01a7098735f64a08fd64f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/4ede25ad4a7d70e339cd63ed0336f8acb5e2cc8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ALL_AMBER_BRICKS": {
+      "name": "The Legacy of John Hammond",
+      "description": "Collect All Amber Bricks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/b36f61be4ac79cf6f6d4ca4ca0f7b45964acc2b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a866775a0a2e017bdf8b4945b2a941c74f97a02b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "COMPLETE_STORYEVENT16": {
+      "name": "The Park Is Open",
+      "description": "Complete Welcome To Jurassic World",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/1f2cdc2eb9949e17be4e21d2c7e66ff2f9e10c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d3bed4c17c9250bfc6a492e786bbcc2063174f89.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "COMPLETE_STORYEVENT20": {
+      "name": "We Need More Teeth",
+      "description": "Complete Main Street Showdown",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/5a5d15a16593568a716d74b8929338a6a25482c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/96af3af6a1806581a8c0aa56f14082d39c989a9f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.2"
+    },
+    "OUR_FIRST_GENETICALLY_MODIFIED_HYBRID": {
+      "name": "We Want To Be Thrilled",
+      "description": "Place a custom Dinosaur in a Paddock",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/9ac09e8fcecab7bbb735628e45fd9c13224fdfea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/7b8c099c09a0268d3bdad7a2451ac870df5e4406.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.0"
+    },
+    "COMPLETE_STORYEVENT1": {
+      "name": "Welcome To Jurassic Park",
+      "description": "Complete Prologue",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/30730230e8809765942df96afa04d94f0967455a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/954406423bac4ccae8d122bf00ce88b51a01bd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.6"
+    },
+    "NEW_DINOSAUR": {
+      "name": "Went And Made A New Dinosaur",
+      "description": "Create a custom dinosaur",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/0f83fc04ca789d57b5755028d442016d8440e868.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/91925acbadbe0ba93a813c3789cbb205c1df5969.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.2"
+    },
+    "COMPLETE_STORYEVENT4": {
+      "name": "We're Being Hunted",
+      "description": "Complete Restoring Power",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/abc5bcc263331354f0ab1fa7ac813fe346658ac6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/5c8bca1451c4ef5644c7a29c610f9ffab5c96327.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.5"
+    },
+    "ALL_MINIKITS_IN_LEVEL": {
+      "name": "We're Out Of A Job…",
+      "description": "Collect all Minikits in any level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/b553972a0c1df34be34ade56beccb6bcd0e0fa2b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/5fe23285caa7668d2302f1a47854111c81bd4b27.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "COMPLETE_STORYEVENT9": {
+      "name": "What About The Others?",
+      "description": "Complete Communications Centre",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/0771efd6c46478f101a7e328654e4455d329bc4e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/8a0b8876f0885c9c0b670e2219abbd76832df8ad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.6"
+    },
+    "HEAL_ALL_DINOSAURS": {
+      "name": "What Lysine Contingency?",
+      "description": "Heal all Dinosaurs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/c05a4375142f9224ac31a238380e6ea21579a622.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/4b7d3796e514370bbff8066895845ba40427115a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,98 @@
+{
+  "ACH_AQUARIUS_A": {
+    "earned": true,
+    "earned_time": 1711125316
+  },
+  "ACH_AQUARIUS_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ARIES_A": {
+    "earned": true,
+    "earned_time": 1710941088
+  },
+  "ACH_ARIES_B": {
+    "earned": true,
+    "earned_time": 1711125776
+  },
+  "ACH_CANCER_A": {
+    "earned": true,
+    "earned_time": 1711124274
+  },
+  "ACH_CANCER_B": {
+    "earned": true,
+    "earned_time": 1711126160
+  },
+  "ACH_CAPRICORN_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CAPRICORN_B": {
+    "earned": true,
+    "earned_time": 1711193028
+  },
+  "ACH_GEMINI_A": {
+    "earned": true,
+    "earned_time": 1711126579
+  },
+  "ACH_GEMINI_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LEO_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LEO_B": {
+    "earned": true,
+    "earned_time": 1711127894
+  },
+  "ACH_LIBRA_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LIBRA_B": {
+    "earned": true,
+    "earned_time": 1711022390
+  },
+  "ACH_PISCES_A": {
+    "earned": true,
+    "earned_time": 1711022309
+  },
+  "ACH_PISCES_B": {
+    "earned": true,
+    "earned_time": 1711187802
+  },
+  "ACH_SAGITTARIUS_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SAGITTARIUS_B": {
+    "earned": true,
+    "earned_time": 1711127119
+  },
+  "ACH_SCORPIO_A": {
+    "earned": true,
+    "earned_time": 1711025858
+  },
+  "ACH_SCORPIO_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TAURUS_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TAURUS_B": {
+    "earned": true,
+    "earned_time": 1710940915
+  },
+  "ACH_VIRGO_A": {
+    "earned": true,
+    "earned_time": 1711124774
+  },
+  "ACH_VIRGO_B": {
+    "earned": true,
+    "earned_time": 1711126495
+  }
+}

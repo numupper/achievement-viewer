@@ -1,0 +1,184 @@
+{
+  "AchEvt_BusterOfTanks": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 2
+  },
+  "AchEvt_CatchThis": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10.0,
+    "progress": 1.0
+  },
+  "AchEvt_Choke": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20.0,
+    "progress": 1.0
+  },
+  "AchEvt_CloseEncounter": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_CoolInACrysis": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_CrysisControlled": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_DeltaActOne": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_DeltaActThree": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_DeltaActTwo": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_EasyDarlin": {
+    "earned": true,
+    "earned_time": 1719675834
+  },
+  "AchEvt_EmptyPlatform": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_EnjoyFireworks": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_EveryOccasion": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 8,
+    "progress": 4
+  },
+  "AchEvt_ExpeditionTeam": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_FollowingOrders": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_GoingUnderground": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_ImAMarine": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_ImComingHome": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_ItsOnLikeKyong": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_KeenObserver": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 3
+  },
+  "AchEvt_KnockKnock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_LittleTroubleParking": {
+    "earned": true,
+    "earned_time": 1719672380
+  },
+  "AchEvt_LivinUp": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_LongDistance": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_MyRifle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_NanoNinja": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5.0,
+    "progress": 1.0
+  },
+  "AchEvt_NoFlyZone": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5.0,
+    "progress": 1.0
+  },
+  "AchEvt_OneCarefulOwner": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_PerfectSoldier": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_ProAircraft": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_SpecialForces": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 200,
+    "progress": 170
+  },
+  "AchEvt_SpeedSprint": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 3000,
+    "progress": 528
+  },
+  "AchEvt_Strickland": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_TeamRaptor": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 400,
+    "progress": 170
+  },
+  "AchEvt_VeryStrangeReadings": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_WeaponsMaster": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 9,
+    "progress": 6
+  },
+  "AchEvt_WithoutQuestion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_YouKnew": {
+    "earned": true,
+    "earned_time": 1719677315
+  },
+  "AchEvt_YouOnYourOwn": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEvt_Zoology": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

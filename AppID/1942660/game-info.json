@@ -1,0 +1,577 @@
+{
+  "appid": "1942660",
+  "name": "WWE 2K23",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942660/header.jpg?t=1730480315",
+  "achievements": {
+    "WWE23_a_briefcase_built_for_two": {
+      "name": "A Briefcase Built for Two",
+      "description": "The Legacy - Win the Tag Team MITB Briefcase.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/cd6d000e1ec0bc09cbd3d8cfb4aef000e91d31b9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/1b88f1148e4001a7d7e09f743515de4147bdd4a8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "WWE23_a_good_start": {
+      "name": "A Good Start",
+      "description": "Complete a Proving Grounds Tower in MYFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/8c155100f044d009b80124ea677a6c4c757a8423.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/9db86b6019a6db12d13f54a85ee4c3975b518cf4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "WWE23_a_lasting_legacy": {
+      "name": "A Lasting Legacy",
+      "description": "The Legacy - Complete The Legacy MyRISE story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/55d043d3bb5cef4d78b53833af64438cbdde5a7a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/1fd936f08f05220246e23652a9b67fdbe585b054.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "WWE23_a_lock_and_a_legend": {
+      "name": "A Lock and A Legend",
+      "description": "Complete both The Lock and The Legacy MyRISE stories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/dc4c62ce3654fde502e63ae0c5a00a7b52a700dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/867af08c050bac3808b5da69834feff4e04136fb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "WWE23_a_natural_heel": {
+      "name": "A Natural Heel",
+      "description": "Use a Dirty Move Payback in a normal 1-on-1 match without getting disqualified (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/d40ecad5dff8e51810905284c101683c11a8dfbb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/ce0d41e98bd4e423e09bd7c41d561490f53c6f7b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "WWE23_a_new_head_of_the_table": {
+      "name": "A New Head of the Table",
+      "description": "Beat Roman Reigns in a 1-on-1 match on Legend difficulty using no Paybacks (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/4fb3d95f095b49488c092e59248e4b90b9658ebd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c731d49e42acfab1c93daec52411f1bc41041fe7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "WWE23_a_promising_start": {
+      "name": "A Promising Start",
+      "description": "Complete a Lifetime Challenge in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/11a2f7cfff7bf5acc591b565126695988ac79841.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/a635380b44209cb1ad759d8900dddc5b99b28013.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "WWE23_a_stunning_achievement": {
+      "name": "A Stunning Achievement",
+      "description": "Win a match without being stunned on Legend difficulty (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/910e45435c12589beb42840df5b4a1856a8bba9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/2797ae502de27eaf233871dfbf9086b337df039e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "WWE23_apex_competitor": {
+      "name": "Apex Competitor",
+      "description": "The Lock - Compete in the Apex Tournament.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/2a2dcf7295009e3752910581bfcb73af85c9995c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/ceaa468c839f811c81d297d6bca453bcf4d1b9c6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "WWE23_basic_thuganomics": {
+      "name": "Basic Thuganomics\t",
+      "description": "Complete One Objective in Showcase Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/dbed1161b609e5edb1981df414f218ffdab2c338.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/2ba036352ca085e3b7850f3efe69334136e40d1e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.3"
+    },
+    "WWE23_battle_of_rivals": {
+      "name": "Battle of Rivals",
+      "description": "Choose a rival's Action from the Rivalry Menu in Universe Mode (Classic or Superstar Mode).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/289909f2c31bdc7679ab3631a1befed8e30243dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/9f909192943228669e434ab0f5c4f8427ac3d099.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "WWE23_beginners_luck": {
+      "name": "Beginner's Luck",
+      "description": "Complete ALL Intro Challenges in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/8ab2d89bf0bcf31e4db35ec222bda1bd1275b9c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/d50a0b5a3585dc01296247df7fd8952eac9d883a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "WWE23_blast_from_the_past": {
+      "name": "Blast from the Past",
+      "description": "The Legacy - Confront the past.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/610655bc09ed719b5f11491293a34f8b016b56dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c95b7bbdb3c6e05ebc4bb40949fcba401c33911e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "WWE23_brand_management": {
+      "name": "Brand Management",
+      "description": "Win a Season With Each Brand in MyGM.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/9f75d5693381dcaec7d1f65ce4b78da0d5d648a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/e463a779f42bb4397c7678eb06b3a7416741763b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "WWE23_breathe_easy": {
+      "name": "Breathe Easy",
+      "description": "Win a match without completely exhausting your stamina meter (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/3ca9fa2f7de27c7a8f769af1fbab307c22790c18.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/7f7698022a5b6626cb48ccd015c0e3d168e65dec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.5"
+    },
+    "WWE23_briefcase_winner": {
+      "name": "Briefcase Winner",
+      "description": "Win a Limited Time Briefcase in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/6ab781b0b575256c810b4fb6608c77886deddca0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/61d31b68a439080523639e4b99b3539a985787a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "WWE23_business_just_picked_up": {
+      "name": "Business Just Picked Up",
+      "description": "The Lock - Join The Hurt Business.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/98a55b074abdeb504d8a0f4f11391bcfd744c7e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/2efa96faaa4231ecf013920a3285eae99ae2488f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "WWE23_champion_for_a_day": {
+      "name": "Champion For A Day",
+      "description": "Complete all 3 of a day's Daily Challenges in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/fb91c1aa8b09c3c39e6fcd56f3f49e6370e91bb7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/e609e78a477cd8544cbec5ad2e5803a03001d9e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "WWE23_chapter_and_verse": {
+      "name": "Chapter and Verse",
+      "description": "Complete a Proving Grounds Chapter in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/3624006bc9f82eec2b839db89cabccd2a49e77a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/48eedad5192de41e061f2c830e47cde9b3acbae0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "WWE23_choice_and_consequences": {
+      "name": "Choice and Consequences",
+      "description": "The Legacy - Make a choice during a Main Event Match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/2c256f0ccaa1ff257e068f6f7a76c6c7919777bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/15eec9a8a2cb421b396f2f90b0b2c8736f7f7aae.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "WWE23_daily_progress": {
+      "name": "Daily Progress",
+      "description": "Complete a Daily Challenge in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/d3d7d973ea0a8d0ff484fcaaefc0c158c88441ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/272dd5e4bea164e004c2f7e471f5f2a48249898b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "WWE23_dropped_the_baggage": {
+      "name": "Dropped the Baggage",
+      "description": "The Legacy - Betray your tag team partner.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/efe10451e7f91c23a6c17e4fb20267c5ef4a6219.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/74a35f2bc9a78eabb27881122f329e5997795a61.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "WWE23_evolution_revolution": {
+      "name": "Evolution Revolution",
+      "description": "The Lock - Join Evolution.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/7ac0d80f2287e588277937aae73705bbdb5bda62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/b8117657131defe19752c1a6c168e649f12e8192.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "WWE23_faction_wars_champion": {
+      "name": "Faction Wars Champion",
+      "description": "Win 100 Faction Wars Matches in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c956383ee3041264b1055adb62383ddbdc1f8607.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/45b5634563d5b01a10c44f066f0b181e3d267942.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "WWE23_fatal_4_way": {
+      "name": "Fatal 4-Way",
+      "description": "Completed a 4 Brand Season in MyGM.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c3924d3c4aee331890ff9a291910c6044dd40560.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/e8922b032a8f940b4a0dfdaa81e0d3281b74158a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "WWE23_fit_for_a_queen": {
+      "name": "Fit for a Queen",
+      "description": "The Legacy - Win the Queen's Crown Tournament.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c2f5685e64a08873e69c926dcc5993fe57ac8d05.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/f79f4f1148d8346b02ca091824e8de4d5d32ca7b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "WWE23_future_endeavored": {
+      "name": "Future Endeavored",
+      "description": "The Lock - Call out WWE Management.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/21e412f9c7a1d6a3afb01ff0d8e2c8e0d8125989.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/daf01dd08d1d7bf3e57ae87765dc3e76f3b11647.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "WWE23_here_comes_the_boom": {
+      "name": "Here Comes the BOOM!",
+      "description": "Create a custom entrance with custom Pyro.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/59b65f2152ca62f83dd23cb5df08323a57b453b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/aaf3d49f5082e83d5dd855621398a1e76f75664b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "WWE23_here_to_stay": {
+      "name": "Here to Stay",
+      "description": "The Lock - Complete The Lock MyRISE story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/aee9ae95d92b5d5dd48c73adc72cf0c0d2f41142.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c7622e69cd5e14406279c41313a7ff369ea76610.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "WWE23_honoroary_uce": {
+      "name": "Honorary Uce",
+      "description": "The Lock - Convince Roman Reigns to join your faction.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/00a76fae62f001f4bd76a4803bce4e78f4975b98.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/a1eff8e4effd194c0f48dbb208752c5da4060838.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "WWE23_hustle": {
+      "name": "HUSTLE",
+      "description": "Win One Match in Showcase Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/03257d9ea9fb09b5e870965595cabd88bb4caf80.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/ac43e49955532c792570a9431277e869c19fe831.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.4"
+    },
+    "WWE23_i_made_this": {
+      "name": "I Made This",
+      "description": "Create an item using your own image made in create an image.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/589f8701bdf4f0e7b7a11ff05953133d9c5cf2f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/29778934b997272490906d800dcb29134eb8208b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "WWE23_lifetime_of_hard_knocks": {
+      "name": "Journey of a Lifetime",
+      "description": "Complete 15 Lifetime Challenges in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/3b2067113dd6c3edfcdd939f2569fad3ea19eaac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/29fbe624e3e3dcd1a9c6b35bd4d00f3b49eb686b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "WWE23_leader_of_the_pack": {
+      "name": "Leader of the Pack",
+      "description": "The Lock - \"Lock\" in your faction choices.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/72d96d7380b7904949295ec182cddc3ed21ab628.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/ba0ed50206944eec5c34bf950e6b1bcb39314c39.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "WWE23_loyalty": {
+      "name": "LOYALTY",
+      "description": "Win All Matches in Showcase Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/4b7426e6767ec3faf9feba964e7921c8cc6d7e1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/14229417244d4bd2f304dfb9a23bd80ecb24e800.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "WWE23_loyalty_confirmed": {
+      "name": "Loyalty Confirmed",
+      "description": "Earn a Loyalty Reward in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/404a1caa4816be48849ecd53233b34ca0c96109e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c7292b32b43cc207ca8bcd1ff432e51a0ed52446.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "WWE23_matchwork": {
+      "name": "Matchwork",
+      "description": "Booked all possible match types during a single season of MyGM.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/36b89227dcc3fa6e32284ef51cd7065ed264c48f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/3e34af7ddd34356d1582ed14cf409a0f8b2cc8c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "WWE23_tranquilo": {
+      "name": "Nerves of Steel",
+      "description": "Kick out of three high-intensity pins on Legend difficulty (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/db31920ca6b267893a95ae87fc18cd4b8b557e62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/7b141f5784a4ef6128387c1d6220d45adf500e10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "WWE23_never_felt_more_alive": {
+      "name": "Never Felt More A-LIVE",
+      "description": "Win 10 LIVE Events in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/ade68e9f1fb92f665d82e42860401a9b012770bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/6c05bedaba7f65d28b0c3b4268b6891ff7ee28e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "WWE23_nope_not_a_fluke": {
+      "name": "Nope, Not a Fluke",
+      "description": "Win any 1-on-1 match type via Leverage Pin on Normal difficulty or higher (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/13e52686dd8d9a14cb85073cbbf13c7f619e4950.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/804b9b6449ddf10755b13840e6897647e5f36fe7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "WWE23_on_top_of_the_mountains": {
+      "name": "On Top of the Mountain(s)",
+      "description": "Finish First in Ratings After 3 Full Seasons in MyGM.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/cf05ffb0e648b0f868508692b9d6479400c614b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/7cb2c927c09dfa834fadbbc1f91730b937e44074.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "WWE23_ones_all_you_get": {
+      "name": "One's All You Get",
+      "description": "Win a match without giving up a 2-count pin on Legend difficulty (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/193a9c4def9db92304487754297dc6b76836f5f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/b71357b8d5a5c4d0eca65afb9ab6f2be3c681a63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "WWE23_paid_in_full": {
+      "name": "Paid in Full",
+      "description": "Win a match after having successfully used both assigned Payback abilities (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/a7ae3101ad515f4ee7bb1fd60763febb8f31fcfa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/36fbd8c088472484e4ce02bdfc6e7f692373d893.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "WWE23_pillage_and_plunder": {
+      "name": "Pillage and Plunder",
+      "description": "Introduce three weapons into a WarGames match and win (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/b21009687694df8099880c0e5063b1a4422e7575.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/4d00272e25d220d0ddb69282248a6fa9e7fd9ada.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "WWE23_pump_up_the_slam": {
+      "name": "Pump Up the Slam",
+      "description": "Earn 10 different Slammies in MyGM.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/20f502a406457a5c1d15d064c1df747bcccadef2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/31be764850caf2c0c10ce252d44ff028fd8d0f81.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "WWE23_respect": {
+      "name": "RESPECT",
+      "description": "Complete All Objectives in All Matches in Showcase Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/4d5f5aaa3403f1475926e5220c54a19bd6cf5c61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/7a14223971d726e272d3f280b371d992bf216639.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "WWE23_smack_to_the_future": {
+      "name": "Smack to the Future",
+      "description": "The Legacy - Embrace the future.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/3e925aaa277d886ad18ddbd463f6d2e93f00eee0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/ef99976c0fdfffe56808f55af5e2ea1eae7748f8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "WWE23_stacked_like_cordwood": {
+      "name": "Stacked Like Cordwood",
+      "description": "Using John Cena, perform a 1-on-2 Attitude Adjustment Finisher (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c7ef704b945bb3500b8fed0db997f44953dcd38b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/1272d791097f8f04b777c7ccddd3ca7ba1aa7770.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "WWE23_step_into_the_battle": {
+      "name": "Step into the Battle\t",
+      "description": "Enter your first rivalry in Universe Mode (Superstar Mode only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/49d6c9575a83287b5ae1a5a0aa1322a416455e00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/6ccdd7df49b5794a38983577b166bf67c5d84872.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "WWE23_stole_the_show": {
+      "name": "Stole the Show",
+      "description": "The Lock - Steal the NXT UK Championship and Heritage Cup.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/db0e5f28899d55c249359408a9bed51eedb85ef7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c56b85a9e01bdb56dd7a6e5d9f2b98bf9d656637.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "WWE23_taste_of_victory": {
+      "name": "Taste of Victory",
+      "description": "Win a match in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/0fc205ba6f3d64efdb69794ddf48f448c21df9f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/0fca281db434360139341fd0b08e417bbb632b7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "WWE23_teachers_pet": {
+      "name": "Teacher's Pet",
+      "description": "Complete all objectives within the Tutorial (Play Mode).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/dfa1666eb8a088592769aa29e0532ffafe5cca70.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/e4f6ff038bf9a320169d5def2e8dffc9e78c5326.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "WWE23_thats_random": {
+      "name": "That's Random",
+      "description": "Use Random to create a Head Item, Body, and Attire Color for a custom Superstar.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/b2f42a181ef412d9643b795705cef984a6076d4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/67f626e2e5725354d2b25058d52f3bc0ae6510af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "WWE23_the_final_move": {
+      "name": "The Final Move",
+      "description": "Choose a rival's Outcome from the Rivalry Menu during a Premium Live Event in Universe Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/a4fe323989fc1639e97fa0d186181a690b428c29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/b2a10251a6ff56f8e3ab747d453481d56220525d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "WWE23_the_irresistible_force": {
+      "name": "The Irresistible Force",
+      "description": "Have at least 50 Momentum at any time in a rivalry in Universe Mode (Superstar Mode).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/a1c22b964b5092e3bdce274d199fde58ab433b27.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/c903cf1c83e88f6960b3d852b29ba7a5f4f5289d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "WWE23_the_new_and_vicious_wargames": {
+      "name": "The New and Vicious WarGames",
+      "description": "With the team disadvantage, win a 4-on-4 WarGames match on Legend difficulty (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/1db0f3bda903be58b2cdd19903246bf6d3dc10de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/d92653ca7d16007fb938e9a5d0a9a0612491b4f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "WWE23_the_ring_is_sacred": {
+      "name": "The Ring is Sacred",
+      "description": "Win a Normal 1-on-1 match on Legend difficulty without manually exiting the ring (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/e8e2dc7db76265a9ba19ee1e4b36cde806bdb6f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/ad58731eacf47a690d6bae56b2e2b6ad8a19e44c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "WWE23_to_the_winner_go_the_spoils": {
+      "name": "To the Winner go the Spoils",
+      "description": "Choose your Outcome in a rivalry and win the finale match at a PLE in Universe (Superstar Mode).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/48fef5b6687965377ae61016c8c1b5e0ddd2bd57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/978de827233d5eca983ff0f97dcbe58f31636716.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "WWE23_unbreakable_bond": {
+      "name": "Unbreakable Bond",
+      "description": "The Legacy - Stay loyal to your tag team partner.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/158398c3cbd15e22ab2549e18bde66b5576a6e50.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/2323f5d4cb899428d0fb097baadab64dd52b704e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "WWE23_unfinished_business": {
+      "name": "Unfinished Business",
+      "description": "As Kofi Kingston, beat Brock Lesnar in a normal 1-on-1 match on Legend difficulty (Play Mode vs AI).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/73c307859d7aee11b9579dd227c2131b15259de7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/2d265c1b1439897635336ece7af7b9ae10fffb57.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "WWE23_weekly_winner": {
+      "name": "Weekly Winner",
+      "description": "Complete a Weekly Tower in MyFACTION.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/54cf55f0dee22796b06475997cc06bc0fc82f3ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/e9bcde503e1676f0a26c81a799e022a11abd984f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "WWE23_word_life": {
+      "name": "Word Life",
+      "description": "Complete All Objectives in One Match in Showcase Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/afd737bface7cbcfc61a116bc5c1c4b1d5af8de9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/a7986044d10f551e061972de92f646393f18f886.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "WWE23_you_cant_see_me": {
+      "name": "You Can't See Me!",
+      "description": "Defeat \"Super\" Cena.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/594df2dddcdedcf081ccadafd0db4d5f58ed64fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1942660/136871e8672107ab7f53f05a13636676b47a4cc0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,460 @@
+{
+  "appid": "1113000",
+  "name": "Persona 4 Golden",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg?t=1763530422",
+  "achievements": {
+    "ACHIEVEMENT_014": {
+      "name": "A Favor for Marie",
+      "description": "Register a Skill Card.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/005b7caea2ce7b25ab049697b59761a0a374310f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/93ae3cf51cb5e26d67ee3456bc69fc8b0c420195.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "ACHIEVEMENT_049": {
+      "name": "A New Quiz King",
+      "description": "Win the Miracle Quiz Finals.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c74cb22ae99b38e76cbe2e32c04152df37419be9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/bc20d32b02ce7eeb38343db2adc3b4e25cf3e19a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "ACHIEVEMENT_001": {
+      "name": "A Prince Appears",
+      "description": "Rescue Yukiko Amagi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/5198e5c30d8c1881d0934f23d53f5fb0efd985da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/76e85446addc88f4e44f554de6bcfc90c43fe8d6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.4"
+    },
+    "ACHIEVEMENT_032": {
+      "name": "A Special Lady",
+      "description": "Enter a special relationship with someone.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/5df9e71c7b679467748ed958649e581d5d5fb129.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2b51cf3c6fc6c21a2c53c6da7f7a29a161097633.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.2"
+    },
+    "ACHIEVEMENT_041": {
+      "name": "A True Bond",
+      "description": "Max out a Social Link.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/8e398d3ded97ade63708bcd9a3593ac32791fd27.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c694aee24c2c9c276e190c62a50dbfbf64d04057.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.1"
+    },
+    "ACHIEVEMENT_002": {
+      "name": "A True Man's Stand",
+      "description": "Rescue Kanji Tatsumi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c40ed4f04d9f9bb98b2a7407f1c7a9cfcbbea702.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4d06f507c9fe52530601324b74b9919649316deb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.1"
+    },
+    "ACHIEVEMENT_047": {
+      "name": "Advantage Mine",
+      "description": "Enter a battle with Player Advantage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/ac47911c524d8f7ed52fd3dba787dec8cf4ff7be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/1383fb9ebfa191848a8219176b086e96b632eebe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.5"
+    },
+    "ACHIEVEMENT_044": {
+      "name": "An Acquired Taste",
+      "description": "Drink the coffee at Chagall Café.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/313190ed675928bec78662fd0ebc080909cb82a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4c013aebc3479ff0d8df4ab5ea422be51919225b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.4"
+    },
+    "ACHIEVEMENT_048": {
+      "name": "Big Bro is Worried",
+      "description": "Visit Nanako in the hospital 3 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/f0d0129e6e963c5e7eb6eec65372ae4aad47acfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/7fc678b2954e33af7935e390eff176cddb261e6b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "ACHIEVEMENT_005": {
+      "name": "Boarded-Up Lab",
+      "description": "Rescue Naoto Shirogane.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/9f02c04df0df32b8e54ecf6d7349e86de4d48bbd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4ffa755c0cd0328d2a4df71b6fb2f50ce640abf9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "ACHIEVEMENT_042": {
+      "name": "Bond Maniac",
+      "description": "Max out 10 Social Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/f625b0686927fe412f00174057efa407212f2b8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/3fbe206841ca2682990cc2a64e55dcf8d064de1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.4"
+    },
+    "ACHIEVEMENT_007": {
+      "name": "Breaking Through the Fog",
+      "description": "Secure Tohru Adachi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/703187cdf797621c8a8644761719c0e59b047a97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/bba3cf1669c35b0733fa90e1c5df340ce7213e5e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.4"
+    },
+    "ACHIEVEMENT_046": {
+      "name": "Bug Hunter",
+      "description": "Swing the net with perfect timing.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/85d430b91423b2b8cbcbfe8c783e6cf33b10bd8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/679e56798045afbbb2fbf6d6f4c6083fb57bbac8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "ACHIEVEMENT_015": {
+      "name": "Card Collector",
+      "description": "Register 100 Skill Cards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c524d04c8b9576b3e95879a20ec619640b441b0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/dfd26ce0c35790170e1bf792bf7a9cff02bdd005.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACHIEVEMENT_026": {
+      "name": "Compulsive Reader",
+      "description": "Read all books.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/5ce677747ac869154f78dc74bff1eeca62e24f60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/41ba4ac3c775d2da5d8f295a51ee71231babab16.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ACHIEVEMENT_031": {
+      "name": "Cooking With Gas",
+      "description": "Make 5 perfect boxed lunches.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e564bc32afad55635dd1529d66af1f3da5d27321.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/295e5204af88a4e9b72ce71aeed391e4a475af89.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "ACHIEVEMENT_016": {
+      "name": "Displaying Adaptability",
+      "description": "Switch Personas 5 times in 1 battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/0a1bd43fdcbb6f6d76c74110ce46fd51160067d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/76faceba2a5826ea014ab3bcb6005c6e999d0e80.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.2"
+    },
+    "ACHIEVEMENT_038": {
+      "name": "Fashion Plate",
+      "description": "Fight a battle in costume.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/fa4e584399cff16c91f32016ca25c9efcd0e31d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/7e011c13f08415002ffcbee4a2a3f70a8fbdd1fb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.9"
+    },
+    "ACHIEVEMENT_021": {
+      "name": "Fill Your Hand",
+      "description": "Get 50 Sweep Bonuses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/da449a0ec36e6d3abe867c06c40b78e9286eded4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/7c41531bca95ea78fc20b16a79e791f1e060a849.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.3"
+    },
+    "ACHIEVEMENT_040": {
+      "name": "Fishing Master",
+      "description": "Catch the Sea Guardian.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/0771eafd35db4f7289cc0bdb484286efff84bf26.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/fb51affc9f125c2115e0a48766fbd85649204720.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "ACHIEVEMENT_025": {
+      "name": "Food Fighter",
+      "description": "Finish Aiya's special dish.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/1d494ab2c8cb73f88451451785317675ef467d3d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/8897c5a76c69a3297917d1d4614a922acf8d00c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "ACHIEVEMENT_010": {
+      "name": "Fusion Expert",
+      "description": "Perform 50 Persona fusions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/3be85c333025b559d96b7f51dcc724a9fa75be09.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/7b24d51c6c0b5614994a40cd2bf9e6673cb424ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "ACHIEVEMENT_004": {
+      "name": "Game Over",
+      "description": "Secure Mitsuo Kubo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4f641693274a9736038a319489ec2f03e0fac6bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/70d7ede3f3505671839e2c5ca32a3ea60ffeebc1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "ACHIEVEMENT_018": {
+      "name": "Going Nova",
+      "description": "Deal over 999 damage in 1 attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/27f4b6c46c92e440e2bbb8afddf6706628289087.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/7f5274b298e7a86269de5a07657063464f531d30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.8"
+    },
+    "ACHIEVEMENT_000": {
+      "name": "Golden Completed",
+      "description": "Earn all achievements",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c1a02cc344cbcb6d900fb9b06a0eecff31cd9c77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/94fc6fe0f4c161a893fd72a5222b0768dbb822d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACHIEVEMENT_029": {
+      "name": "Granter of Your Desires",
+      "description": "Buy 5 things from Tanaka's Amazing Commodities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/46d3c17ff77ef32bfecf4c4db35ef13d8127d1c7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/d64ff2ef53365b3e9395c99aaa1928ed3d6beb9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.0"
+    },
+    "ACHIEVEMENT_022": {
+      "name": "Grasping at Greed",
+      "description": "Defeat a Golden Hand.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c6c0360238508736fbfa5b78362c1bf430586b33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e2646d5c50c9110c57a88c4a37f24d0bc6fc4376.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.1"
+    },
+    "ACHIEVEMENT_017": {
+      "name": "Hardcore Risette Fan",
+      "description": "Hear 250 of Rise's navigation lines.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/8794d302679c4a6167f31d3aa810e05da75c2b05.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/dc05b4e6f152d117a100e97d7e4f4c43fcf447c4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ACHIEVEMENT_039": {
+      "name": "Head of the Class",
+      "description": "Rank #1 in your class on an exam.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/452e0abc20182e84962d76f970ce666613de0230.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c3348a6b0f8daf29ad5a27763b5ccefe87310581.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.6"
+    },
+    "ACHIEVEMENT_027": {
+      "name": "It's Working Today",
+      "description": "Buy an item from the Capsule Machine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/662864d38bf77a08b584904a018327daff0af07b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/9f09e42e66868e7993ce4731ef7a3f74556080bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.8"
+    },
+    "ACHIEVEMENT_043": {
+      "name": "Legend of Inaba",
+      "description": "Max out all Social Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4c65ba0a37d902342938a2e2458476d9251b5af6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/a193066a37d45ec905acab0997bef4a529c70ed2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACHIEVEMENT_028": {
+      "name": "Lucky Me!",
+      "description": "Win a prize from the vending machine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/31b02eeff15581f7aacbe54f8fedec0f9a0cba37.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2c89065bfbe1093acc569741de6894d10908cd60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.8"
+    },
+    "ACHIEVEMENT_036": {
+      "name": "Moderate Bookkeeper",
+      "description": "Register over 50% of the Compendium.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/6cc83f4a48d50fb6fd74cee4a7703fa12172d3bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/a0c36ea7c30ee95a287180db3871cfd168e2cb33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "ACHIEVEMENT_045": {
+      "name": "Movie Buff",
+      "description": "Go to 3 movies at 30 Frame.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/ca044896da3477684e021da666b87eadcd07d454.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2f0808aa727a5d68a375e5a7338332753850c588.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "ACHIEVEMENT_033": {
+      "name": "Mr. Perfect",
+      "description": "Max out all social qualities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/a37322754f719a549c6e063077bb3ec9b09e34a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/f226622faed735932b8ff5c3b36e14ba492e4cda.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.4"
+    },
+    "ACHIEVEMENT_023": {
+      "name": "One Who Has Proven Their Power",
+      "description": "Defeat Margaret.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/413cfb397da00793afc127a01dd11a45dc391680.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/30bd7e53b3feabe3025c096317b5843106296270.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACHIEVEMENT_013": {
+      "name": "Persona Shopper",
+      "description": "Buy a Persona from the Compendium.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/65e75d6cbf1e9e0e5476c8794fa8088ed9c1afc3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/cd6c5d8fab3bc7ac7e83cc6a005b801bbc6c2ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.4"
+    },
+    "ACHIEVEMENT_030": {
+      "name": "Seize the Moment",
+      "description": "Buy a special croquette from Sozai Daigaku.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/13ff763391bbcc4f2bc11bf8e041f0e80c26cc48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c1c66a701ba3dee5feca2ce6483fe00ae24c626d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.4"
+    },
+    "ACHIEVEMENT_019": {
+      "name": "Skilled Commander",
+      "description": "Perform 50 All-Out Attacks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/f302e1bfea103c74007564f72147e9b7d66ed2e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2932f047f46812edf1de9157899a91a8adbbd3c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.7"
+    },
+    "ACHIEVEMENT_011": {
+      "name": "Special Fusion Expert",
+      "description": "Use 4 or more Personas in a special fusion.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/da8923110fbefd0c77a4fa11df628128d67ecff8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/f96b71041d8cfaab308d995a6b5a63afafb9ca25.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "ACHIEVEMENT_020": {
+      "name": "Tactical Fighter",
+      "description": "Exploit enemy weaknesses 100 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4363e0c527ee7c88a89992bfb97d4d7d79c6e3a7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e6cc82eae3c961595550f76651938010e1d12c24.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.2"
+    },
+    "ACHIEVEMENT_003": {
+      "name": "The Lounge Is Closed",
+      "description": "Rescue Rise Kujikawa.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/38184c401c7e8267d6f10458ce02bd8d4f7a5da6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c551f254724a92bb686fdd632b16dab51bab2188.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.3"
+    },
+    "ACHIEVEMENT_012": {
+      "name": "The Nose Doesn't Always Know",
+      "description": "Experience a fusion accident.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/ce38bb70da05ca3da73c8127bc4ecd8e9c683619.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/ef2c9a7e2f93dfe78969911256ed30c54d4e1741.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.1"
+    },
+    "ACHIEVEMENT_034": {
+      "name": "The Other Self",
+      "description": "Obtain the Persona Izanagi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/d38661052c70338e7853d7fa9c9e0462608bbb4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c9c4090bc8d024fbb91cd6fc1c7ac5550889736c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.3"
+    },
+    "ACHIEVEMENT_035": {
+      "name": "The Power of Truth",
+      "description": "Create Izanagi-no-Okami.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/915c92cb5df202808f9f6fea40f6330ddb662240.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/8286ff86ea04659ffa0a87f6129bb6751bf98fa4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACHIEVEMENT_024": {
+      "name": "The Reaper Becomes the Reaped",
+      "description": "Defeat The Reaper.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2892ec5ba2e46b9b0f8cac651eda81dd618674bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/17bf4572b251037486782e92e9480ad039dc3047.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "ACHIEVEMENT_006": {
+      "name": "The Return of the Angels",
+      "description": "Rescue Nanako Dojima.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/af6a4d7bb324fa77c211b33041ae66be53761133.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2f4225b181a7d4b9b4f96a3f3ddef3d19837c5c4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.5"
+    },
+    "ACHIEVEMENT_009": {
+      "name": "The Truth In Your Hands",
+      "description": "Defeat Izanami.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e6a2dcb5ea47fff73fd1f2f7b6f15e8a4089104e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/448f77fff13f5a83fac1c33f5dbb213d858a9d28.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.2"
+    },
+    "ACHIEVEMENT_037": {
+      "name": "Thorough Bookkeeper",
+      "description": "Complete the Persona Compendium.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/f8864dcb1c85b87863c414a0a0e6eb27cbe11abd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/a88059c987ea524d7295b4d1301c42e8a26fa8fb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACHIEVEMENT_008": {
+      "name": "Welcome Back",
+      "description": "Rescue Marie.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/93ac780aad9001321e2ab55a7690273c79927054.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/5031592f6fa8f249a3df55284727c5f03a1f41ad.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,739 @@
+{
+  "appid": "397540",
+  "name": "Borderlands 3",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg?t=1750802377",
+  "achievements": {
+    "Achievement_23": {
+      "name": "100-Proof",
+      "description": "Clear all the Eridian Proving Grounds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/c82996b5526341200286a8954647c4e8df8d0613.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/8e9b31cf13b269ffe77d19d9349dd2685590877e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "Achievement_16": {
+      "name": "A Hundred Names For Sand",
+      "description": "Discover all named locations on Pandora.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/91c491962e4c1f3844150b524627e12e169e8ad8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/16e90335b3c4ade6215cd7be67d825f1c4dbb03b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "Achievement_59": {
+      "name": "A Hunter, Through And Through",
+      "description": "Find and kill all four rare spawns.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/18f134071bf0a7f338b97dfb330ce36099d41793.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/473fcaefd2a47522a6ea71440133d4f160760178.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Guns, Love, and Tentacles",
+      "percent": "5.7"
+    },
+    "Achievement_21": {
+      "name": "À La Carte",
+      "description": "Complete 20 Side Missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a9746b6ab1402b5f6ef502d5dacb18cb1122641c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f632a93bfc266cb796e996e5df90ba7b43fbf2cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.6"
+    },
+    "Achievement_46": {
+      "name": "A Proper Hand-Off",
+      "description": "Complete mission “All Bets Off”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/1f9d1aec84f40a513fa95e509595eeaf7102e9e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/0a6d2afdb607b9504dde99a47ca4578154c6cd03.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+      "percent": "16.5"
+    },
+    "Achievement_39": {
+      "name": "Apocalypso!",
+      "description": "Complete mission “The Great Vault”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a0a5679f54b702b82a0a2d81d1826eae66016042.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/41ae9ecb71f7d8071fe859eb6b039d06259e573b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.4"
+    },
+    "Achievement_26": {
+      "name": "Barreled Right Over Them",
+      "description": "Kill an enemy with an exploding barrel.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/6305092460caa062c0b88d5395483deb46b4740b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/21fe681125302b250e0ff6e00e902cc22eb22efb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.3"
+    },
+    "Achievement_4": {
+      "name": "Biggest Badass In The Borderlands",
+      "description": "Reach level 50.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/5448028b896d9a4360e0abc6471e6aac00ca4502.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/b23e4d9dce8d23721114b02c1f9b00fbe11cb232.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.9"
+    },
+    "ACHIEVEMENT_80": {
+      "name": "Blood Sucking Freak",
+      "description": "Defeat Hemovorous the Invincible.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/cd713e3b908fb3e227035b2433f17359423e9d2a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/4fc11cdf8c371eaa611f6e61a19c30cd6010e5c1.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Director's Cut",
+      "percent": "5.8"
+    },
+    "Achievement_5": {
+      "name": "Bolt-Ons",
+      "description": "Unlock 10 Character Heads or Skins.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/4661a30faeb37bb53a6646d4bf1478f9327f3c56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/7c9d906b50d8211ce17dfbeae32b19d791908d27.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.6"
+    },
+    "Achievement_68": {
+      "name": "Bounty: Hunted",
+      "description": "Complete mission “Where It All Started”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/95dcdd86c3717971cff5e1dd3b86c0f585cf7175.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/ede2f3bd8011dc0e3a1782a51d174c63add4c890.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Bounty of Blood",
+      "percent": "13.0"
+    },
+    "Achievement_71": {
+      "name": "Brain Pain Train Slain",
+      "description": "Defeat Locomöbius.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/43e5668527d4703969bfbe5e85e46b2ad3aeaf22.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/6bc8199e860ec6ed825b19577de6c76a493357d0.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Psycho Krieg and the Fantastic Fustercluck",
+      "percent": "12.6"
+    },
+    "Achievement_41": {
+      "name": "Bye, Felicia!",
+      "description": "Complete mission “Divine Retribution”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/952d5e58d19ca2f1780fe011456d410f429fb4b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f6ac30415e2c9d53a354a6764436edd7a6026e8a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.5"
+    },
+    "Achievement_18": {
+      "name": "City Slicker",
+      "description": "Discover all named locations on Promethea.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f3fffe1e954909547a3b072ac1a60c4aac4815f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/36ca2b0bd3a2bc3d6058f09f16428ab8a1dd495b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACHIEVEMENT_78": {
+      "name": "Complex Made Simple",
+      "description": "Explore the entire Stormblind Complex.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/90bae5373363a400fcffe70c90fe6287fa5d36fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/adc1b715fb7125993bf302d38bd54c1f712a9fd3.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Designer's Cut",
+      "percent": "4.4"
+    },
+    "Achievement_38": {
+      "name": "Cross The Streamers",
+      "description": "Complete mission “Blood Drive”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/544966677904670c1e3f008eff07c445468b88b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/33d74c9ec5120bf6685a9f789243c3c538e8d729.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.0"
+    },
+    "Achievement_44": {
+      "name": "Damn, Gina",
+      "description": "Get all Vault Rewards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/b240a30e93e20ac89a6662dda5693ab6d05ad8e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f912ccaa62ee5bd084e49d2c5813964239b44c22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.1"
+    },
+    "ACHIEVEMENT_79": {
+      "name": "Demysteriouslierified",
+      "description": "Solve all murder mysteries for Ava's podcast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/c9d690aad564e14a00ba27a8d18872bf53ef6c1f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/4955772c5373fb6ba131d99b34e0fb857642e335.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Director's Cut",
+      "percent": "4.3"
+    },
+    "Achievement_51": {
+      "name": "Don't Be A Stranger",
+      "description": "Return for a chat with the Clapstructor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/68e9258c0f0cb997bd884af741f411766d551e78.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a7317f0fbb7ae39d2e1eb0567a32b89449349f57.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+      "percent": "9.9"
+    },
+    "Achievement_11": {
+      "name": "Dropping Loads",
+      "description": "Win a live grenade at a Slot Machine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/74644bb234de625b7fe80e521e900d8fc3d7d9cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/e8ac760e1347f6e20b8051605ce04a0530f9178b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.2"
+    },
+    "Achievement_19": {
+      "name": "Exoarchaeolo—You Get The Gist",
+      "description": "Discover all named locations on Nekrotafeyo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/06a93118c349d13328a1e40bf7b072be13bb63dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/21f97b84e5eb715c4bf5582ae1ef28d596885b91.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "Achievement_27": {
+      "name": "Feelin' A Little Stabby",
+      "description": "Kill an enemy, knifing them with a gun blade.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/9ea2f20f50d0a21a6b2cdb8dd2d2240a1613cff4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/eff29d6310bb9a7a4e3a675ebbf9d8c6fbc4b712.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.5"
+    },
+    "Achievement_47": {
+      "name": "Firebug",
+      "description": "Sabotage all statues for Ember.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/900eca253336b33e887b0bc32b41eb0f9f19a3b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/03956e40307f634c47a1ed3682a9f7399bdcd3da.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+      "percent": "8.4"
+    },
+    "Achievement_42": {
+      "name": "Florida Man",
+      "description": "Down yourself by grenade or explosion.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/ef5e5994a5f289c27fc5d2e8ee88cdfcaca80fff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/8587cdb333597d50ce6b9013d6bb4ad5ff92a11a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.7"
+    },
+    "Achievement_75": {
+      "name": "Fustercluck Off",
+      "description": "Complete all side missions and crew challenges in Krieg's Mind.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a96fba3223a9dce726abea4e83e6adc276d1fcbd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/972c07c565a46c198225104fa513da169fd50658.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Psycho Krieg and the Fantastic Fustercluck",
+      "percent": "3.6"
+    },
+    "Achievement_22": {
+      "name": "Getting A Little On The Side",
+      "description": "Complete all Side Missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/6093cc3f69497239090da29be67d5c4a344ebf69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/7d7f42308298c6c404f4a769220d001283820731.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "Achievement_66": {
+      "name": "Getting Off Track",
+      "description": "Complete mission “Off the Rails”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a67620e7fba36d7152f154cf93bf65a4d2c971e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/b9fadfca2b49803b6870156322497be56d93fecb.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Bounty of Blood",
+      "percent": "13.5"
+    },
+    "Achievement_35": {
+      "name": "Gone From My Sight",
+      "description": "Complete mission “Beneath the Meridian”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/599c554eafc2132609461040eb55aac633dd3b1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/99a58e14f33e98b1aab822c49c09d347e2d11574.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.3"
+    },
+    "Achievement_12": {
+      "name": "Good Against Remotes Is One Thing",
+      "description": "Get a perfect score at the Firing Range on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/5e2d9f1ed48a42479886370a867e1b8df0726e47.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/45a06e0ba5188dca3f5267b79457143640c239ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "Achievement_56": {
+      "name": "Good One, Babe",
+      "description": "Watch Deathtrap kill 50 enemies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/c63027b09e17ce6e561c77de4ec5a7636c468275.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/ebe1cac8d746a563b800cae7733097481e16cbf2.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Guns, Love, and Tentacles",
+      "percent": "1.7"
+    },
+    "Achievement_24": {
+      "name": "Got Big Game",
+      "description": "Defeat all of Hammerlock's Legendary Hunts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/59b522503bd8a1e8693e020f15ff756079a0fbbb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/2561392a337f8b0bd7acf44a1dd876dfe3db3c42.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "Achievement_10": {
+      "name": "Gun Pals!",
+      "description": "Send an item to a friend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/b8de674ad4ccb2885ff173596c8b1768cac7458e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/8fed9b45b749fa19542623934d25d743f22df960.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "Achievement_37": {
+      "name": "Heir To An Empty Castle",
+      "description": "Complete mission “Cold as the Grave”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/ae5fc1985199f7af045634d1c9f19fcb8f439a4e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/5fee11d7f026c81c05adba4c6feb01245f508a57.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.3"
+    },
+    "Achievement_63": {
+      "name": "Helpful Hunter",
+      "description": "Complete all side missions on Gehenna.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/2018a181287d381a07c52f3680ab847beba17717.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/d29a340ce1fc1d8b722034fb8582525037abc4a0.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Bounty of Blood",
+      "percent": "4.7"
+    },
+    "Achievement_61": {
+      "name": "How The West Was Done",
+      "description": "Complete all plot missions, side missions, and crew challenges on Gehenna.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/62db76e60a59f58f42a4b287cbb181b6b2ca062b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/ccaa956f52ea4443db4e91f7871fb231311ce773.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Bounty of Blood",
+      "percent": "2.5"
+    },
+    "Achievement_40": {
+      "name": "I Am A Goddess, A Glorious Female Warrior",
+      "description": "Complete mission “In the Shadow of Starlight”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/9c8b7a0d223d3dad59d0f03930f43646dcdc4f1c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/b00550dbd8b26ece7a5070ab83f7ac6d61d62ca1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.1"
+    },
+    "Achievement_8": {
+      "name": "I Hope You Didn't Tea-bag",
+      "description": "Win a duel.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f10c0f74b4b223f0cfe16d68d11c971a0b22b1f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/3b3c35db1b5a6c8862a088dce3ec010f3244831b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "Achievement_34": {
+      "name": "I Mustache You A Question",
+      "description": "Complete mission “Atlas, At Last”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/bf2005db5bfaf9ad639ad86d63052fbdb1d82323.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/3b9221d39582579cf0c261a86774431d42fb1fe8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "Achievement_60": {
+      "name": "I'm Floudering Up Here",
+      "description": "Listen to 25 fish jokes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/918640f0009f2d9060e9e27a8f86dc475311eb48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/dee6e024439bc19b8271caa4fffac0facc831c13.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Guns, Love, and Tentacles",
+      "percent": "2.5"
+    },
+    "ACHIEVEMENT_76": {
+      "name": "In the Eye of a Murdercane",
+      "description": "Win a round of Arms Race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/35da8205c54e52ea915d1eff9666c47d4b5a61f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a7bdb06e682acb5e2e51d846910629ab49c44ad8.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Designer's Cut",
+      "percent": "10.2"
+    },
+    "Achievement_57": {
+      "name": "Industrious In The Face Of Cosmic Terror",
+      "description": "Complete all Crew Challenges and Side Missions on Xylourgos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/076f153b98f6eb10e736e20c8240c6c9f659949f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/d2bc31515b6e58bbe6156e1858f522667ca31445.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Guns, Love, and Tentacles",
+      "percent": "4.2"
+    },
+    "Achievement_65": {
+      "name": "It's A Wash",
+      "description": "Complete mission “The Name of the Law”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/c6b0d535eb2179bfe5773dd3b67f8dc3e5ccb15b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/7f82ba59817128e3dfb69a8b4ec688f09ff7d25e.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Bounty of Blood",
+      "percent": "14.7"
+    },
+    "Achievement_48": {
+      "name": "Killer Look",
+      "description": "Complete the Mayor's outfit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/82fa77fef53472e2caf2202d0001640b22e914b9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/8ed7de251eec184ee609987d9f17d36d05e63673.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+      "percent": "5.1"
+    },
+    "Achievement_54_Fixed": {
+      "name": "Love Is The Fifth Dimension",
+      "description": "Marry your friends.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/42d3929fcb2454e6785ed27a6fe9af8f8a966eaa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/ae3c6dae49e8037e3fc3a93d6dd33d64c808cc59.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Guns, Love, and Tentacles",
+      "percent": "13.1"
+    },
+    "Achievement_20": {
+      "name": "Master Of All You Survey",
+      "description": "Discover all named locations.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/5babbe20a009073ea29d7c001a9589aa96d43358.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/cb77877709e5d7954520389afb500e7a35f15a41.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "Achievement_69": {
+      "name": "Meat and Greet",
+      "description": "Complete mission “Enter the Psychoscape”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/5c4fb6f12a8051c6c28a2e822cc5b0bf3341967a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/dbb04f16706553ad5cc4e280a2e297fa936f2c92.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Psycho Krieg and the Fantastic Fustercluck",
+      "percent": "14.9"
+    },
+    "Achievement_6": {
+      "name": "Mechani-Cool",
+      "description": "Unlock 10 Vehicle Parts via hijacking.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/688f13ba3d86a1b67fc3c03f34030f8150923ea1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/3b17a0fa30ca69a2b3aa2d63ad031bef08361b0e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.8"
+    },
+    "ACHIEVEMENT_81": {
+      "name": "Might Beyond Sight",
+      "description": "Destroy 50 mysterious Eridium piles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/5faea3758d7ea589c0ae31bb16a03c63f803bbd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f67364b2f7f8ffa9ba2701e32cf00a957bb274e7.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Director's Cut",
+      "percent": "1.6"
+    },
+    "Achievement_13": {
+      "name": "My Name Is Earl",
+      "description": "Buy 20 cosmetic items from Crazy Earl.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/cba8bb0ceb868eeaa74e7d6bcf17d0f48692c65f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/95ee09b774b8916f7a10d6c8b963737c574184da.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "Achievement_33": {
+      "name": "NOG It Off",
+      "description": "Complete mission “Hostile Takeover”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/8f1e01ec1ad1f3c7fed94e085b5af9bf200c1e6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/83af7b4fbf2ccf4792c519d9b822b7d01145c1b3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "Achievement_55_Fixed": {
+      "name": "Older Than The Trees",
+      "description": "Kill the Wendigo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a3afcaed76b47a3127ea78ef5362c1d14bd43765.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/658cb05464ccedd4079d2c1e34f3397a3e8429e6.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Guns, Love, and Tentacles",
+      "percent": "14.0"
+    },
+    "Achievement_29": {
+      "name": "On Fleek",
+      "description": "Equip purple-rated gear or better in every slot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/aaab8116d5605e85b3fad8d9a302f0df06a5c560.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/0cea04e7f90c6df99a4975162d9f276398ee4605.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "Achievement_53_Fixed": {
+      "name": "Party's Still On!",
+      "description": "Find the party.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/6a6600d5a0e4dfa411d1a0dd627203beb857c822.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/058e832ad1384249a29ae195286a1dd4b6adf7b9.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Guns, Love, and Tentacles",
+      "percent": "16.2"
+    },
+    "Achievement_73": {
+      "name": "Red Wrath and Beyond",
+      "description": "Defeat Psychoreaver.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/d5076489c39195fbd694eb0d60c8116a50e0126f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/843adbb4ae09616499535cd91401b8c59b42250d.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Psycho Krieg and the Fantastic Fustercluck",
+      "percent": "11.8"
+    },
+    "Achievement_30": {
+      "name": "Rewards Card",
+      "description": "Earn a Loyalty Package from each weapon manufacturer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/7179fd0e9b5ca91bd5e865961ff6ddeb1f17249a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/44369333081eba34fead06773e26ed11448915c0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "Achievement_67": {
+      "name": "Ruin On The Horizon",
+      "description": "Complete mission “Riding to Ruin”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f1c1bbdd98fd6311f1f15c403e063be5b04242e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/fe5efd8080b86372df2c79f5f6a64104eaa26c63.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Bounty of Blood",
+      "percent": "12.7"
+    },
+    "Achievement_49": {
+      "name": "Scovillain",
+      "description": "Destroy all of Mr. Torgue's hot sauces.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/23391d4380dfccd36844d5752c5f68cba032303f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/ebc728464772d53b39bbb196d64847cc518f6f96.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+      "percent": "10.2"
+    },
+    "Achievement_50": {
+      "name": "Shoe Money Tonight",
+      "description": "Get a 21 in the blackjack minigame.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/41dc56c51263bf0d9f09cf016e3b3443b20990e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/71b97979caadd38353a558b0616d813a1eb25bd0.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+      "percent": "9.9"
+    },
+    "Achievement_15": {
+      "name": "Slaughterhouse 3",
+      "description": "Complete all the Circles of Slaughter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/d95dcdab2f99033b769175db94392a19d124aa39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/e4efacf68b9bc9628be8df1179ef596458c298ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "Achievement_32": {
+      "name": "So Long, Pandora!",
+      "description": "Complete mission “Taking Flight”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/fcabd1404abdae1e2e4f9f4dc15c502d7ce35a5f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/8885f4e96a82ba59d6344afec7de423d3955643e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.4"
+    },
+    "Achievement_2": {
+      "name": "Star Bound",
+      "description": "Reach level 10.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/cc5264fcbfc184d1c2a74e0375ff9b63ae514429.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a83018993d9f98aca11cc62181d8d82a19010413.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.5"
+    },
+    "Achievement_9": {
+      "name": "Stay Away From The Light",
+      "description": "Revive another player.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/2d9216e6324f3cae93a6fbcc275f7da178af0f78.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/75c3869a189ea1bb07dacc5a91031d584c60b423.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.7"
+    },
+    "Achievement_43": {
+      "name": "Stay Golden",
+      "description": "Use a Golden Key.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f9c426c01b6fed8184ad35ef8baf170914c8f1c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/b601fd9b49dd85e79b8edfe69ce0ea56b259131a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "Achievement_28": {
+      "name": "Stick It To 'Em",
+      "description": "Kill two or more enemies with a single sticky grenade.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/701189a9685d596cc4989baa12a2370d0665a851.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/65e324dc5925377b023723d3d5e2d6bf52938789.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "Achievement_64": {
+      "name": "Stone Cold Killer",
+      "description": "Complete mission “Blood from a Stone”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/e8514a5937752659d35232adc13f7ed011b7f2c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/e78d169b9241f14eedb31e850399195a280f6b7f.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Bounty of Blood",
+      "percent": "16.0"
+    },
+    "Achievement_17": {
+      "name": "Swamped",
+      "description": "Discover all named locations on Eden-6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/5b00d96948b169d95846b242aade921c2755de84.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/302d72649f3bcdbaac92d0362463aea4b950daf6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "Achievement_14": {
+      "name": "Tales From The Eridian Slab",
+      "description": "Decipher all of the Eridian Slabs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/b99eef0fbed070279d89e3c4358bd3cd83c84559.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/c976d966daebaab65e266d14a0c906fa248ab69d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "Achievement_36": {
+      "name": "That Was Cold",
+      "description": "Complete mission “Lair of the Harpy”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/aef1624b2c8d613853bb0450fa19ba9c73f3f579.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/bb74933f059954ac1e9f34bc8489a1fa00b6759d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.5"
+    },
+    "Achievement_62": {
+      "name": "That's Quite Challenging",
+      "description": "Complete all crew challenges on Gehenna.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a564d8629ad6d43354f5a6438f05c165382a5f6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/ce6b834944695316bfb87e2cebedc8bc93b9b5ab.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Bounty of Blood",
+      "percent": "2.8"
+    },
+    "Achievement_70": {
+      "name": "The Blast and the Furious",
+      "description": "Defeat Evil Lilith.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/666b44cae089729a64d45b01ea48532d6aec5776.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f03930ffbcd87bd4c87b77d7a7be46ba686437c1.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Psycho Krieg and the Fantastic Fustercluck",
+      "percent": "13.6"
+    },
+    "Achievement_7": {
+      "name": "Tips Appreciated",
+      "description": "Tip Moxxi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/4fa2f74efaef0c7541e2f8d9830b226f64b502e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/2a929715ee348c9a184b42c2002d707401bfe275.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.6"
+    },
+    "Achievement_72": {
+      "name": "Trauma Center",
+      "description": "Defeat Dr. Benedict.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f53ed4f5029da28e14129f889b6b886aaca407f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/37cf68c4a73ca8f59d9870e575467442711ace76.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Psycho Krieg and the Fantastic Fustercluck",
+      "percent": "12.0"
+    },
+    "ACHIEVEMENT_77": {
+      "name": "Treat Yo Self",
+      "description": "Extract 100 pieces of gear from Arms Race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/879be8d99935d05411007d4a9068ce8a17fb22aa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/e19d6759d4d3dc0eb968fc17a69c432eb8070f45.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Designer's Cut",
+      "percent": "1.6"
+    },
+    "Achievement_45": {
+      "name": "Ultimate Vault Hunter",
+      "description": "Unlock all Borderlands® 3 Achievements!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/983b1e50eab9344a77098e395f27eaf49276dc8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/ffcb781938303ba2880e7fafa07d9e9861ff33c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "Achievement_3": {
+      "name": "Vaulting Your Way To The Top",
+      "description": "Reach level 25.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/fe244de65cb6dd4762984afce5cfceabc200df69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/e17ccd58afcb6cb39d7fdc889ec4118bf34dd4b6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.8"
+    },
+    "Achievement_31": {
+      "name": "Welcome To The Crimson Raiders",
+      "description": "Complete mission “Children of the Vault”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/17f5329016d2413b4529fa59691a5401aaa7d9d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/2d7ae8feeebffb76af770f48b7d69bc0926d6f26.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "92.5"
+    },
+    "Achievement_58": {
+      "name": "Whispers On The Wind",
+      "description": "Collect all ECHO logs on Xylourgos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a1f7574580bb3dd0bfd77d02f3b01cf37b9c4df9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a5d43c6b58f9a237e67f65ad1e3aaea00e4525c3.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Guns, Love, and Tentacles",
+      "percent": "2.0"
+    },
+    "Achievement_52": {
+      "name": "Who Collects The Collector?",
+      "description": "Defeat the wandering Debt Collector.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f12dfd30c418b9f22ecbeaea88b7fb41947c5471.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/4c2640104a9b8b3503a3d0aef560dcb75839b9c0.jpg",
+      "hidden": false,
+      "group": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+      "percent": "2.8"
+    },
+    "Achievement_74": {
+      "name": "Ye Who Enter",
+      "description": "Open the gates to Vaulthalla.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/0243d0bec6a4ed99670b2cf5fc29de4b39d3b625.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/25ecf2b95f2bab0e4579977701b5a7b78edaccb9.jpg",
+      "hidden": true,
+      "group": "Borderlands 3: Psycho Krieg and the Fantastic Fustercluck",
+      "percent": "3.8"
+    },
+    "Achievement_1": {
+      "name": "You Got Skills",
+      "description": "Reach level 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/c1e128a95fc3ac46b2eeb5e749b6f6e8a91041cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/1f8b25f73156c1cb800667936c9d17921fe61786.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "94.2"
+    },
+    "Achievement_25": {
+      "name": "Zer0ed In",
+      "description": "Defeat all of Zer0's Targets of Opportunity.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/8b651d0d3a3344b062b89cf7f2cb2c647ee44947.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/1965cdab4ea96289d180fcea3878d8ccbe209259.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

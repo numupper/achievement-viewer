@@ -1,0 +1,406 @@
+{
+  "appid": "1985810",
+  "name": "Call of Duty®: Black Ops Cold War",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg?t=1731607699",
+  "achievements": {
+    "CP_ACHIEVEMENT_CP_RUS_DUGA": {
+      "name": "Ashes to Ashes",
+      "description": "Complete Ashes to Ashes in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/4824582fe5990a99c3e9f7dc54a1a3253934d4c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/034edfbe4433a48dc726b54b4317d3d127a69e3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "CP_ACHIEVEMENT_CP_NAM_PRISONER": {
+      "name": "Break on Through",
+      "description": "Complete Break on Through in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/be4dacc38463507d9024a1c0ca282cd6c18bc39c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/829e38af7da0b512f8eaed6c89de91cd3068e966.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "CP_ACHIEVEMENT_CP_GER_STAKEOUT": {
+      "name": "Brick in the Wall",
+      "description": "Complete Brick in the Wall in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/e2de0712668ec7df47255ba87ad02109c0d27f27.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/c9af62e2b00c68ff9e208236387948b3fac5a2ea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "MP_ACHIEVEMENT_SCORESTREAK_KILLS": {
+      "name": "Calling It In",
+      "description": "Get 50 kills with lethal Scorestreaks in Multiplayer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/f5a5d8301f5c4de3e7f4e536d76a3a5b166cba28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7ebad2ac02d47077a5fd4419153fd770038e404e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "ZM_SILVER_WW": {
+      "name": "Carpe D.I.E.M.",
+      "description": "In Die Maschine, free the lost Decompressive Isotopic Estrangement Machine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/b3edd89489dcd8685796ffdad6ed9e499c69f9b9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/b56b2d5629c39a99ef8a53d2bb468a3ae4f2c29a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "CP_ACHIEVEMENT_COMBAT_HARDENED": {
+      "name": "Combat Hardened",
+      "description": "Complete the Campaign on Veteran or Realism difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/df785beda43c85e5c488683cc62919a83058d4ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/158b8aa012a14141437efb670e99d07e25d4879e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "CP_ACHIEVEMENT_COMBAT_RECRUIT": {
+      "name": "Combat Recruit",
+      "description": "Complete the Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/b3a591c64e1eee3a85fc4bc4742bd2c1b9a9685b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/538ebdcf982f50fef900834892ad577c7e8e8f69.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "ZM_SILVER_CRAFT": {
+      "name": "Craftwork",
+      "description": "In Die Maschine, craft 14 different types of items in one match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/03108110204c0f7a87a8a39f42ac79f09532a51a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/fd93746a077a431293e22ff677183c9d6b6f5996.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "CP_ACHIEVEMENT_CP_RUS_KGB": {
+      "name": "Desperate Measures",
+      "description": "Complete Desperate Measures in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/ed7c6cd6e416b3c4797d6ec4461bfb63d482ce22.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7db20ce0331d8eb81e48a887cb7c21768b23ec1c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.3"
+    },
+    "DOA_ACHIEVEMENT_DUNGEONDIVER": {
+      "name": "Dungeon Diver",
+      "description": "Visit every corner of a Deadly Dungeon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/39d210438cdc910cca69de9c286b53b2b4242494.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/0f413c9adaa604d8ecc32f09f60412dc84178158.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "CP_ACHIEVEMENT_CP_RUS_YAMANTAU": {
+      "name": "Echoes of a Cold War",
+      "description": "Complete Echoes of a Cold War in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7d150979d393ebda2df9471f9c3eebec5853decd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/8fb0ad92366001171102d55dd37e86040465796a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.6"
+    },
+    "CP_ACHIEVEMENT_CP_NIC_REVOLUCION": {
+      "name": "End of the Line",
+      "description": "Complete End of the Line in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/1fd5d34a716247d01e5b9f1e0762913369c6763a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/c44299446b52f83cd9634d36753db4398bbf0f72.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "ZM_SILVER_START": {
+      "name": "Entamaphobia",
+      "description": "In Die Maschine, stay in the Yard for 15 rounds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/05262b683eb18e5f8bb028803fe1e58343981bb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/085c8acb1a76453aa686c57677296916f2f5ba56.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "CP_ACHIEVEMENT_EVERYONE": {
+      "name": "EVERYONNNNNNEE!",
+      "description": "Kill 25 enemies with the AC-130 while defending the rooftop in End of the Line.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/db809b8ae6ef5c5094256ea9f7716dceccf69b05.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9d14c6520c8fc35cc254ab0c015dc10b7acc3626.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.0"
+    },
+    "CP_ACHIEVEMENT_EXPLOSIVE_FINIISH": {
+      "name": "Explosive Finish",
+      "description": "Kill 12 enemies with explosive barrels while riding the server lift during Echoes of a Cold War.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/524f92c302e364ed2bb3108ca780a8e32724c359.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/4b5f91e904377b7da087d98dbdfca525db6f465f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "CP_ACHIEVEMENT_FIRING_RANGE": {
+      "name": "Firing Range",
+      "description": "Knock down 15 metal targets on Main Street in Redlight, Greenlight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/5058e1fa9fe2b076c94e0d7f802723fc3e49e4f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/c35d1bf9d0b7a7dce6c084bf57186f2ac758b3aa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "DOA_ACHIEVEMENT_FATED": {
+      "name": "Forever Fated",
+      "description": "Find your destiny in the Room of Fate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/6c539558b8c806a9961f82acccdf703f35e66457.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/8323d9401cefe8bb52525489d73d55bde3d6f7f1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "DOA_ACHIEVEMENT_5_PIECE": {
+      "name": "Fowl Five Piece",
+      "description": "Get a chain of 5 chickens strung together in Dead Ops Arcade.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9ccfee644cc8ae92490794d80c81dcd8b77f4446.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/6fdd487db739348129a3fadd35f2830228608b2c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "CP_ACHIEVEMENT_CP_NAM_ARMADA": {
+      "name": "Fracture Jaw",
+      "description": "Complete Fracture Jaw in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/8f7ca12a4abffce3cb9e15084f8f2a2f296afca3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/a4ae739f9c2526acac6f58c3b04ad35af7534e3b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "MP_ACHIEVEMENT_MATCH_WINS": {
+      "name": "Go the Distance",
+      "description": "Win 50 matches of Multiplayer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/0a4f86783374936866ee5015f43eae823396a465.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9867f8dc803706873497c18ac8085652d832bb85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "ZM_SILVER_PAP": {
+      "name": "Heavy Metal",
+      "description": "In Die Maschine, forge the Pack-A-Punch machine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/767b61f6b9d7d46b9da65189ffd8cd2c4334475d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9ffc31e6311f317be94c88c76c01a3a907c67bcc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.9"
+    },
+    "CP_ACHIEVEMENT_JACK_ALL_TRADES": {
+      "name": "Jack of All Trades",
+      "description": "Get five kills each with an LMG, SMG, AR, and Shotgun.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/a16683d4c363b315b88e6034fb19ec5e8a5613a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/875a7579765931b3118745a0be5e8c509b3b197e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "CP_ACHIEVEMENT_BODY_SHIELD": {
+      "name": "Keep Your Friends Close...",
+      "description": "Perform Body Shield five times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/81cf207ffe315fd24ef84ba3eb92fa5fbbd3fb75.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9be90da14b0ea3b404fa85ddbb8f24025c7c1338.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "MP_ACHIEVEMENT_VEHICLE_KILLS": {
+      "name": "Mean Machine",
+      "description": "Get 100 Kills as the driver, pilot, or passenger of a vehicle in Multiplayer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/0065a366a6e88262ef5c574f7586095d7b2789c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/acd1be919e99f96881849a06131898464567d2d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "CP_ACHIEVEMENT_MIND_TRIP": {
+      "name": "Mind Trip",
+      "description": "See all seven memory endings and play through all four path ends in Break on Through.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/26a9acbc40a8a89f9977504caf1ef55ea96d636a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/1d1ba1fa9fc66855b9e21786b3eae68415e96480.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ZM_SILVER_WING": {
+      "name": "Nightmare at 20 Feet",
+      "description": "In Die Maschine, kill 100 enemies without leaving the top of the crashed plane wing.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/a8372761b9c2f5c67dc7f30c5fc9df9c7ecc8098.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7cf6e15ae053af2425adeb341fe019811a221319.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "CP_ACHIEVEMENT_CP_TAKEDOWN": {
+      "name": "Nowhere Left to Run",
+      "description": "Complete Nowhere Left to Run in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/92b70db3bf4762cfb7a188a019c54493b71d4e04.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/4bae11fb4d770b725571357a5f0bcfd9833cceaa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.2"
+    },
+    "CP_ACHIEVEMENT_OLD_FAITHFUL": {
+      "name": "Old Faithful",
+      "description": "Kill 200 enemies with an AR.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/f7181296a98171e5912249e7d77cb95ad270cc1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/ca940806ca30750a38d27d9a2bdd93a8cfd1e0f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.1"
+    },
+    "CP_ACHIEVEMENT_CP_SIDEMISSION_TAKEDOWN": {
+      "name": "Operation Chaos",
+      "description": "Complete Operation Chaos in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7fda6b26b510096663cd1a5f93b03f2653ff904a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/56798126182d1f6d580974f86978e73abb20a6e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "CP_ACHIEVEMENT_CP_SIDEMISSION_TUNDRA": {
+      "name": "Operation Red Circus",
+      "description": "Complete Operation Red Circus in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/96f6d17bdef6a83032d1115d326c52dfe8b56d09.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/0153fbd703ab09abcb37b78bd78bf9978280666a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.5"
+    },
+    "MP_ACHIEVEMENT_SQUAD_WIPES": {
+      "name": "Party Patrol",
+      "description": "Get 10 squad wipe medals in Fireteam.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/940bc3b30787f9a956bce5b55db1b4b939e84e18.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/77ccbbaa5e3c4e357f457b3e18bf2d098e4f6762.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "CP_ACHIEVEMENT_PATRIOT_ARROW": {
+      "name": "Patriot Arrow",
+      "description": "Kill an enemy with the bow while ziplining in Echoes of a Cold War.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9faf1a3cdef1ba148b70eaffb5d7691f9d41620c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/439147bdddbe45bc1f5a2f0b5732d05165d3743c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "CP_ACHIEVEMENT_CP_RUS_AMERIKA": {
+      "name": "Redlight, Greenlight",
+      "description": "Complete Redlight, Greenlight in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/be49c6738d9e49916397540f3a6414828d23b9cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/909354647600dfd3cc7e03bf05a12c8601043347.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.2"
+    },
+    "DOA_ACHIEVEMENT_FIDOLINA": {
+      "name": "Reunited with Fidolina",
+      "description": "Defeat the Mamaback and save your dear friend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/98e41395a8771bef24ce2d5a3f17bc266eedac36.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/58ae0e05aa60cc1e9d7b8d295a6e5ef91bbdc4e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "CP_ACHIEVEMENT_SCORCHED_EARTH": {
+      "name": "Scorched Earth",
+      "description": "Destroy all enemy vehicles and mortar teams while defending Firebase Ripcord in Fracture Jaw.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/fe9bcc58a0f60846261030fef7a9a9a6071d8267.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/e353e65cee940a8ac1c0fcda0822d76960ac8709.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "CP_ACHIEVEMENT_SCORCHED_EARTH2": {
+      "name": "Scorched Earth II",
+      "description": "Blow up all trucks and guard towers on the approach to the monastery in The Final Countdown.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/666ac53c89993a15e336904ce512567367792abf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/82166f7a9831c5797aec89ff96f6346ac6e69054.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ZM_SILVER_PA": {
+      "name": "Seal the Deal",
+      "description": "In Die Maschine, close the rift.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/2b89bd4ea452e6b03afde1c553653ef8f51f2e1c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/4b9e121763e7eaf80cb152acee6549c868bc74d0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ZM_SILVER_SIX": {
+      "name": "Six Pack",
+      "description": "In Zombies, upgrade 6 Perk Skills to Tier III.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/a44c3443ac7384453ed5cd7ec4cbd531f02ef7b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/40f04d2585880d68f5403e78aa192f2000c028d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "ZM_SILVER_UPGRADE": {
+      "name": "Socket-to-me",
+      "description": "In Zombies, upgrade a skill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/b1c2c5ca2a272bf886c8153746c9c96f8e313129.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/5241cadbde68dff44158b94f41d8a9886bc9413e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "DOA_ACHIEVEMENT_ESCAPEWILD": {
+      "name": "Survive the Wild",
+      "description": "Escape from the deep dark Wild.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/601f58aecad655ecb2a2329231e362cd2869f8b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/938158a43480943f128cf60e8d79b69aee0368ad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "CP_ACHIEVEMENT_CP_RUS_SIEGE": {
+      "name": "The Final Countdown",
+      "description": "Complete The Final Countdown in Campaign on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/db2126af272de50188b09d6a534168283ef89ed4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/3e12a39fa3f94f6e88c16a63b274fe50dd1c3e6d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "MP_ACHIEVEMENT_ELIMINATIONS": {
+      "name": "The Fixer",
+      "description": "Get 200 Eliminations in Multiplayer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/e4338ea08f8c883e6dcd54e3277ef3511f3162d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/d2ca12defc3ac8d579a190292feba1f0edc386ba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.9"
+    },
+    "CP_ACHIEVEMENT_RED_DOOR": {
+      "name": "The Red Door",
+      "description": "Disobey Adler’s order to go through the door in Break on Through.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/6666756f168536fba786aafa1199428f4cd5c47e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/4efa66636af8f96412781b0ba142e1b468d925c0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ZM_SILVER_MEGA": {
+      "name": "Two Birds, One Stone",
+      "description": "In Die Maschine, kill the two split Megatons with one shot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/952cb9611f2c03cb2f7c68c4f6fe0e1a93b24751.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/650300dcec1393402140c0ecc27b05727e92ab4e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

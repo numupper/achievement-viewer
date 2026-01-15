@@ -1,0 +1,122 @@
+{
+  "APPLEINGOAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEATBUTCHER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEATCROWANDAH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEATKING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEATNAECKEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEATPESTA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEATREAM3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEATSKOGSRA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BOOKREAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BREWEDPOTION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COLLECTOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETEGAME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINDCROWANDAHFIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINDGNOMEFIG": {
+    "earned": true,
+    "earned_time": 1716624991
+  },
+  "FINDGUBBEFIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINDLEMUSFIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINDNAECKENFIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINDNILSFIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINDPESTAFIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINDSISTERFIG": {
+    "earned": true,
+    "earned_time": 1716624166
+  },
+  "FINDSKOGSRAFIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINDTRICKSTERFIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINDTUVAFIG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "IRONMAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "JUMPEDONMUSHROOMS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PINECONEOUTOFCAVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PROPERFUNERAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PUSHEDGNOMEINMEAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SAVEDALLGNOMES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SKOGSRA100STABS": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

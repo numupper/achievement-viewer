@@ -1,0 +1,406 @@
+{
+  "TROPHY_NAME_ALL_PICS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_ALL_WEAPONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_ARMORED_MELEE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_BANDICOOT_HIGH_SCORE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_BEAT_CRUSHING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_BEAT_GAME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_BLIND_FIRE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_BUDDY_MELEE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_C4_APC_EXPLOSIONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_C4_KILLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_C4_MULTI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_CLIFF_DIVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_CL_GRENADE_LAUNCHER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_COMBAT_NO_KILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_COMBAT_NO_KILL_HARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_COMBO_BUDDY_TAKEDOWN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_COVER_FIRE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_DAMAGE_VARIETY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_DOLPHINS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_E3_DEMO_FAIL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_ELENA_JEEP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_ENEMY_DROP_GRENADE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_EVERY_WEAPON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_EXPLOSION_MULTI_KILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_FAST_LOCKPICK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_FINISH_EASY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_FINISH_EXPLORER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_FINISH_HARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_FINISH_NORMAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_FINISH_SPEEDRUN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_FINISH_UHARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_FIRST_PICS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_FROM_THE_HIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_GOLD_WEAPONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_GRENADE_VEHICLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_HEADSHOT_HIGH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_HEADSHOT_LOW": {
+    "earned": true,
+    "earned_time": 1757849811
+  },
+  "TROPHY_NAME_HEADSHOT_ROPE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_HEAD_CHAIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_HELMET_STEALTH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_HOYSALA_TOKEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_HUB_SPEED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_JEEP_COMBO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_JEEP_JUMP_TIME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_JEEP_QUICK_KILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_JEEP_SUICIDE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_JOURNAL_ENTRY_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_JOURNAL_ENTRY_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_JOURNAL_NOTE_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_JOURNAL_NOTE_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_KILL_TYPE_TIMED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_KNOCK_ROCKS_DOWN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_LAST_BULLET": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_LEAPFROG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_LEDGE_PULLDOWN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_LEMUR_CITY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_LUDONARRATIVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_MARCO_AQUEDUCT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_MARCO_POLO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_MARK_ENEMIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_MELEE_DRIVER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_MELEE_ONLY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_NO_DEATH_100_KILLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_NO_KILL_CHOPPER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_OPTIONAL_CONVO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_OPTIONAL_DIALOG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_PICK_LOCKS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_PICK_LOCKS_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_PICK_LOCK_DANGER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_PLATINUM_SP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_PUZZLE_NO_DAMAGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_RAM_MOTORCYCLES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_REENTER_STEALTH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_RELIC_FINDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_ROPE_SWING_CHAIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_ROPE_VEHICLE_DESTROY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_ROULETTE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_SCO_TRIAL_SOLVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_SHADOW_PUZZLE_FAST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_SHARPSHOOTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_SILENCE_PISTOL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_STEALTH_CHAIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_STEALTH_COMBAT_SHRINE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_STEALTH_KILL_HIGH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_STEALTH_KILL_LOW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_SULLY_PHOTO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_SWORD_FIGHT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TLL_PLATINUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TOP_CLOCKTOWER_CITY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TOWER_YOGA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TOY_GUN_TARGETS": {
+    "earned": true,
+    "earned_time": 1668375264
+  },
+  "TROPHY_NAME_TREASURE_1": {
+    "earned": true,
+    "earned_time": 1668101942
+  },
+  "TROPHY_NAME_TREASURE_50": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TREASURE_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TREASURE_ENTHUSIAST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TREASURE_FINDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TREASURE_HUNTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TREASURE_MASTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_TREASURE_RELIC": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_VERTICAL_TAKEDOWN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TROPHY_NAME_ZIPLINES": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

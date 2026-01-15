@@ -1,0 +1,371 @@
+{
+  "appid": "211970",
+  "name": "Test Drive®: Ferrari Racing Legends",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/211970/header.jpg",
+  "achievements": {
+  "A_Good_Foundation": {
+    "name": "A Good Foundation",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_A_Good_Foundation-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_A_Good_Foundation-TDFRL.png",
+    "hidden": false,
+    "percent": "12.32"
+  },
+  "Foot_in_the_door": {
+    "name": "Foot in the door",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Foot_in_the_door-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Foot_in_the_door-TDFRL.png",
+    "hidden": false,
+    "percent": "9.74"
+  },
+  "The_Rookies": {
+    "name": "The Rookies",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_The_Rookies-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_The_Rookies-TDFRL.png",
+    "hidden": false,
+    "percent": "73.85"
+  },
+  "The_250_Challenge": {
+    "name": "The 250 Challenge",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_The_250_Challenge-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_The_250_Challenge-TDFRL.png",
+    "hidden": false,
+    "percent": "48.53"
+  },
+  "Drivers_Training_101": {
+    "name": "Drivers Training 101",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Drivers_Training_101-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Drivers_Training_101-TDFRL.png",
+    "hidden": false,
+    "percent": "36.28"
+  },
+  "Seasonal_Changes": {
+    "name": "Seasonal Changes",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Seasonal_Changes-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Seasonal_Changes-TDFRL.png",
+    "hidden": false,
+    "percent": "30.98"
+  },
+  "The_Big_League": {
+    "name": "The Big League",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_The_Big_League-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_The_Big_League-TDFRL.png",
+    "hidden": false,
+    "percent": "23.59"
+  },
+  "Celebration_Tour": {
+    "name": "Celebration Tour",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Celebration_Tour-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Celebration_Tour-TDFRL.png",
+    "hidden": false,
+    "percent": "22.79"
+  },
+  "Champs_Day_68": {
+    "name": "Champ's Day 68",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Champs_Day_68-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Champs_Day_68-TDFRL.png",
+    "hidden": false,
+    "percent": "22.53"
+  },
+  "Dino_Challenge": {
+    "name": "Dino Challenge",
+    "description": "Complete this Golden Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Dino_Challenge-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Dino_Challenge-TDFRL.png",
+    "hidden": false,
+    "percent": "20.87"
+  },
+  "Driver_For_Hire": {
+    "name": "Driver For Hire",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Driver_For_Hire-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Driver_For_Hire-TDFRL.png",
+    "hidden": false,
+    "percent": "30.70"
+  },
+  "512_Pro_Championship": {
+    "name": "512 Pro Championship",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_512_Pro_Championship-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_512_Pro_Championship-TDFRL.png",
+    "hidden": false,
+    "percent": "21.46"
+  },
+  "Season_74": {
+    "name": "Season 74",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Season_74-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Season_74-TDFRL.png",
+    "hidden": false,
+    "percent": "20.60"
+  },
+  "Quattrovalvole_Cup": {
+    "name": "Quattrovalvole Cup",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Quattrovalvole_Cup-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Quattrovalvole_Cup-TDFRL.png",
+    "hidden": false,
+    "percent": "19.76"
+  },
+  "Season_79": {
+    "name": "Season 79",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Season_79-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Season_79-TDFRL.png",
+    "hidden": false,
+    "percent": "18.23"
+  },
+  "GTO_Pro_Challenge": {
+    "name": "GTO Pro Challenge",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_GTO_Pro_Challenge-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_GTO_Pro_Challenge-TDFRL.png",
+    "hidden": false,
+    "percent": "17.65"
+  },
+  "Champs_Day_84": {
+    "name": "Champs Day 84",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Champs_Day_84-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Champs_Day_84-TDFRL.png",
+    "hidden": false,
+    "percent": "17.01"
+  },
+  "40th_Anniversary": {
+    "name": "40th Anniversary",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_40th_Anniversary-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_40th_Anniversary-TDFRL.png",
+    "hidden": false,
+    "percent": "16.25"
+  },
+  "Season_90": {
+    "name": "Season 90",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Season_90-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Season_90-TDFRL.png",
+    "hidden": false,
+    "percent": "14.91"
+  },
+  "Competizione": {
+    "name": "Competizione",
+    "description": "Complete this Silver Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Competizione-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Competizione-TDFRL.png",
+    "hidden": false,
+    "percent": "14.58"
+  },
+  "Freelance_Driver_Chapter_1": {
+    "name": "Freelance Driver, Chapter 1",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Freelance_Driver_Chapter_1-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Freelance_Driver_Chapter_1-TDFRL.png",
+    "hidden": false,
+    "percent": "32.01"
+  },
+  "Prototype": {
+    "name": "Prototype",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Prototype-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Prototype-TDFRL.png",
+    "hidden": false,
+    "percent": "25.10"
+  },
+  "F355_Pro_Trofeo": {
+    "name": "F355 Pro-Trofeo",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_F355_Pro-Trofeo-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_F355_Pro-Trofeo-TDFRL.png",
+    "hidden": false,
+    "percent": "23.28"
+  },
+  "Prototype_Sports_Cup": {
+    "name": "Prototype Sports Cup",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Prototype_Sports_Cup-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Prototype_Sports_Cup-TDFRL.png",
+    "hidden": false,
+    "percent": "19.17"
+  },
+  "50th_Anniversary": {
+    "name": "50th Anniversary",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_50th_Anniversary-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_50th_Anniversary-TDFRL.png",
+    "hidden": false,
+    "percent": "18.23"
+  },
+  "F50_GT_Supercup": {
+    "name": "F50 GT Supercup",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_F50_GT_Supercup-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_F50_GT_Supercup-TDFRL.png",
+    "hidden": false,
+    "percent": "17.10"
+  },
+  "Freelance_Driver_Chapter_2": {
+    "name": "Freelance Driver, Chapter 2",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Freelance_Driver_Chapter_2-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Freelance_Driver_Chapter_2-TDFRL.png",
+    "hidden": false,
+    "percent": "16.54"
+  },
+  "The_Enzo_Tribute": {
+    "name": "The Enzo Tribute",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_The_Enzo_Tribute-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_The_Enzo_Tribute-TDFRL.png",
+    "hidden": false,
+    "percent": "15.96"
+  },
+  "Challenge_Stradale": {
+    "name": "Challenge Stradale",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Challenge_Stradale-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Challenge_Stradale-TDFRL.png",
+    "hidden": false,
+    "percent": "15.69"
+  },
+  "The_Nordschleife": {
+    "name": "The Nordschleife",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_The_Nordschleife-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_The_Nordschleife-TDFRL.png",
+    "hidden": false,
+    "percent": "14.85"
+  },
+  "FXX_Invitationals": {
+    "name": "FXX Invitationals",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_FXX_Invitationals-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_FXX_Invitationals-TDFRL.png",
+    "hidden": false,
+    "percent": "13.95"
+  },
+  "430_Redline": {
+    "name": "430 Redline",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_430_Redline-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_430_Redline-TDFRL.png",
+    "hidden": false,
+    "percent": "13.68"
+  },
+  "Freelance_Driver_Chapter_3": {
+    "name": "Freelance Driver, Chapter 3",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Freelance_Driver_Chapter_3-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Freelance_Driver_Chapter_3-TDFRL.png",
+    "hidden": false,
+    "percent": "13.51"
+  },
+  "Scuderia_Spec": {
+    "name": "Scuderia Spec",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Scuderia_Spec-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Scuderia_Spec-TDFRL.png",
+    "hidden": false,
+    "percent": "13.04"
+  },
+  "Modern_Ferrari_World": {
+    "name": "Modern Ferrari World",
+    "description": "Complete this Modern Era Mission.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Modern_Ferrari_World-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Modern_Ferrari_World-TDFRL.png",
+    "hidden": false,
+    "percent": "12.17"
+  },
+  "Old_Timer": {
+    "name": "Old Timer",
+    "description": "Complete the Golden Era.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Old_Timer-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Old_Timer-TDFRL.png",
+    "hidden": false,
+    "percent": "20.90"
+  },
+  "Mid_Life_Master": {
+    "name": "Mid Life Master",
+    "description": "Complete the Silver Era.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Mid_Life_Master-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Mid_Life_Master-TDFRL.png",
+    "hidden": false,
+    "percent": "14.56"
+  },
+  "Modern_Miracle": {
+    "name": "Modern Miracle",
+    "description": "Complete the Modern Era.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Modern_Miracle-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Modern_Miracle-TDFRL.png",
+    "hidden": false,
+    "percent": "12.19"
+  },
+  "All_Time_Great": {
+    "name": "All Time Great",
+    "description": "Complete all the Eras.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_All_Time_Great-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_All_Time_Great-TDFRL.png",
+    "hidden": false,
+    "percent": "11.07"
+  },
+  "Ranked_Amateur": {
+    "name": "Ranked Amateur",
+    "description": "Reach the rank of Amateur.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Ranked_Amateur-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Ranked_Amateur-TDFRL.png",
+    "hidden": false,
+    "percent": "33.93"
+  },
+  "Ranked_Semi_Pro": {
+    "name": "Ranked Semi-Pro",
+    "description": "Reach the rank of Semi-Pro.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Ranked_Semi-Pro-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Ranked_Semi-Pro-TDFRL.png",
+    "hidden": false,
+    "percent": "18.18"
+  },
+  "Ranked_Pro": {
+    "name": "Ranked Pro",
+    "description": "Reach the rank of Pro.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Ranked_Pro-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Ranked_Pro-TDFRL.png",
+    "hidden": false,
+    "percent": "13.42"
+  },
+  "Ranked_Champ": {
+    "name": "Ranked Champ",
+    "description": "Reach the rank of Champ.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Ranked_Champ-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Ranked_Champ-TDFRL.png",
+    "hidden": false,
+    "percent": "9.52"
+  },
+  "Ranked_Ace": {
+    "name": "Ranked Ace",
+    "description": "Reach the rank of Ace.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Ranked_Ace-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Ranked_Ace-TDFRL.png",
+    "hidden": false,
+    "percent": "7.79"
+  },
+  "Ranked_Legend": {
+    "name": "Ranked Legend",
+    "description": "Reach the rank of Legend.",
+    "icon": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img/Icon_Ranked_Legend-TDFRL.png",
+    "icongray": "https://raw.githubusercontent.com/numupper/achievement-viewer/refs/heads/user/AppID/211970/img_g/Icon_Ranked_Legend-TDFRL.png",
+    "hidden": false,
+    "percent": "6.00"
+  }
+},
+  "platform": "GFWL",
+  "blacklist": [],
+  "uses_db": false
+}
+

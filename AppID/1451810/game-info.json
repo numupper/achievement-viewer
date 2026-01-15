@@ -1,0 +1,352 @@
+{
+  "appid": "1451810",
+  "name": "LEGO® 2K Drive",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451810/header.jpg?t=1751037667",
+  "achievements": {
+    "ACH_GO_THE_DISTANCE": {
+      "name": "3K Drive",
+      "description": "Drive 3000 miles (4828 km)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/88336047ef8f152b9852a56e8ef58054591d24eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/e67ee0656b5d6bb36dba04b42f3bb2b862cb8770.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACH_BALD_TIRES": {
+      "name": "6K Drive",
+      "description": "Drive 6000 miles (9656 km)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/aad4d9688ddf96713df4aace70a086e96aa1538b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/b65e2b8d8ac2066e7341aee8336e16416faf65de.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACH_CLUTCHS_PUPIL": {
+      "name": "A Charismatic Mentor",
+      "description": "Receive your first Checkered Flag in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/249e96d7f1074b1045038ec7e0bfc030e9731c14.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/364598ecf4456713313b749e96d6e52d90fac9f7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.4"
+    },
+    "ACH_PERK_HUNTER": {
+      "name": "All Perked Up",
+      "description": "Collect 10 Perks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/18335fc790f008129e1fdaac245dee2aafa4e4de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/0e7ced373daa6c4b2fda8bcc96b2adee7a245dec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ACH_HV_FLYER": {
+      "name": "Bat-Buds",
+      "description": "Find all the batpacks in Hauntsborough in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/f7d9d01e456f4433df852f7e8c15903c2cca5dd4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/c25ef85bfe12a9c57844217a591e02bb8513a7f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACH_BB_CHAMPION": {
+      "name": "Big Butte Champion",
+      "description": "Beat the Big Butte Grand Brick Arena race in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/c01ef44291d53cac91efdc4d7061781357b81223.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/5017dee1722b1cd73b1666a9081f3a6a7f0a0f4f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "ACH_DESTRUCTION_ENTHUSIAST": {
+      "name": "Brick Separator",
+      "description": "Destroy 1000 objects",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/1fcd3f23352ea5bc09a553175c915c8a1e62231f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/df72aa80d973580365fd36e4120dbe8c57b3cfcb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "ACH_SKID_ROAD": {
+      "name": "Couldn't Have Drifted Better Myself",
+      "description": "Drift 5000 meters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/e84a665d3834c6a5c461311c0215db205651bbb5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/26acaf7e22f3d2339af7ca42f6652f0d16cea47b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.9"
+    },
+    "ACH_WELCOME_BB": {
+      "name": "Cruising Big Butte County",
+      "description": "Drive around in Big Butte County in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/0d45204033682f55bc5d14ae20b35be61c11799f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/4110ff881ccf42395efb225265a8d310a3254a02.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.4"
+    },
+    "ACH_WELCOME_HV": {
+      "name": "Cruising Hauntsborough",
+      "description": "Drive around in Hauntsborough in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/9e4bd9fd814de95a9b52c0416ee4a318bdd0087f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/82dcc5904f8e6ec6214540323175bdda80530e6a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "ACH_WELCOME_FV": {
+      "name": "Cruising Prospecto Valley",
+      "description": "Drive around in Prospecto Valley in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/c6d5cfafc10567dadca12e28a91c55b14e2276bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/d31cdd7b6cc721d8f6c9b892ce16c83ff70ba53d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "ACH_MOWING_EXPERT": {
+      "name": "Crystal Clear",
+      "description": "Mow down all weed patches in the world in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/a8c5416be0a8fbcf908aa14b08bd26e5dbdf9ee6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/447023d2281db87aac3046bd5e730224ac889170.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACH_ALL_QUESTS": {
+      "name": "Folk Hero",
+      "description": "Complete all quests in the world in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/c75fda9ac19cd2b29aba07c860a301b0ef8bf06d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/dfb915f4eafe15fd68169ef7e3d1b6a2389916c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ACH_EXPLORER": {
+      "name": "Free Banana Smoothies",
+      "description": "Discover all the Garages in the world in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/4c83bc586adc5f189273703b4f27c4764255ede3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/f941726e0972c3d24e1b8c2357251ee7749a6198.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "ACH_HV_CHAMPION": {
+      "name": "Hauntsborough Champion",
+      "description": "Beat the Hauntsborough Grand Brick Arena race in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/050e1a9fed84fce08ebcf5fc9bc9f312cc48b9ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/2c10b765f6d1939f45b5cb858015d72ba820fc20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACH_MISSILE_EXPERT": {
+      "name": "Heat Seeker",
+      "description": "Hit opponents with missiles 15 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/12b1145347753acc1ac49be62d83efbbdd0f64bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/7d9cf9031da3df2ea3f046124a93cf3d081d980e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "ACH_STUNTMAN": {
+      "name": "Higher Orbit",
+      "description": "Spin 1080 degrees in the air without using a jetpack",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/5026e77fe20acefcf9410f4f00c222f7f6345366.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/be7bbb1cc25f7a9931388026b5207a48605b635e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ACH_SOCIAL_BUTTERFLY": {
+      "name": "Honk Means Hello",
+      "description": "Talk to 150 folk",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/b10f4f318ca60a12d32f55927240158fa46d16e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/a123e5c98b22bac7dafdeaae11e5f3f9123dbe6e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACH_JUMP_KING": {
+      "name": "Hop Upington",
+      "description": "Jump 100 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/0128d03353dd5c3a2f3d5e3f01a2cf40ad48b540.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/c9696f088ec9794d3cfa182f8bed29aff46a0da4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "ACH_BOOM": {
+      "name": "It Used To Work",
+      "description": "Wreck 100 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/efcf5276af209477a9c2db89ce2e033cab209a6f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/84eed37eda69b1e9c72d01e7d4f3d1aa1374a00b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACH_BB_FLYER": {
+      "name": "Jet-Setter",
+      "description": "Find all the jetpacks in Big Butte County in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/f03cabffa195190eb077bdc7f1ca661e113427a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/2dfa73f513cce3c0d8049c42742e446f6d7df9fd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACH_BIG_COLLECTOR": {
+      "name": "Just the Start",
+      "description": "Collect 50 new vehicles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/bd81a1ce737111f01e5b17bee3a80653cd7cc713.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/1e0ad2b318c8de492281f59338331ec7b600943b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "ACH_GREAT_REFLEX": {
+      "name": "Missile Misser",
+      "description": "Avoid 50 missiles by jumping over them in races",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/87d0cc5b4cb6e36523962d6f1ab2ec9c0428d6bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/2e1e7872a4f54a2cfb152ef6bd6e9b757861c7d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ACH_CHALLENGER": {
+      "name": "New Challengers",
+      "description": "Play 10 races or mini-games in Play With Everyone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/6fc2ee43abd7f60b9ffa47d0b53001aa9d046cea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/55f7708c96ae04801b4a2a1dc448608029055f4e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACH_HV_COLLECT": {
+      "name": "Paranormal Procurer",
+      "description": "Find all the Collectables in Hauntsborough",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/0602ff183fb6506a0f04c204d0406577fae64649.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/d53dca5dd24ec60108a113830034b9fdc8cf80ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACH_FV_CHAMPION": {
+      "name": "Prospecto Champion",
+      "description": "Beat the Prospecto Valley Grand Brick Arena race in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/fc2d1bf62042f963f70ddfe35291de8ce7018003.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/eed6924d586644403c686192c3a09b37112774e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ACH_TINKERER": {
+      "name": "Read the Manual",
+      "description": "Complete all the chapters of the Go-Kart tutorial in the Garage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/c87730f52cbbe7a454852034eae9011cbb69c9b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/f941726e0972c3d24e1b8c2357251ee7749a6198.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACH_ROADRAGE": {
+      "name": "Road Hog",
+      "description": "Destroy 200 traffic vehicles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/b87790da2cc7ed71b487338da1516a3686b18e56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/0c61280fdce7837409cb976f6932b61cbda4fd9a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.5"
+    },
+    "ACH_BB_COLLECT": {
+      "name": "Roadshow Ready",
+      "description": "Find all the Collectables in Big Butte County",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/4e6a0bb7a953bccd96bad13ade2141ec83d67841.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/1279a24d0c5a4f99f277e592373b3689b6e57da2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ACH_FV_FLYER": {
+      "name": "Rotor-Coaster",
+      "description": "Find all the rotorpacks in Prospecto Valley in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/51bacdfdc9e7328fc06c33a6d6d85cd5d7df03ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/65c1dbc82b3134762d787eeae2ee6f34f7ed68ca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ACH_MASTER_PUNTER": {
+      "name": "Sidewalk Hog",
+      "description": "Punt 200 pedestrians into the air",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/1c02d5564326863fb47ad9f99281331a67615918.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/9f4485b1017165f4089afecc727b02c62932a31f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.2"
+    },
+    "ACH_BRICKYARDIA_CHAMPION": {
+      "name": "Sky Cup Champion",
+      "description": "Beat the Sky Cup Grand Prix race in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/bc11ea4883c9ff8a2bb9c9b29e7dbbc61c6bf16a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/ca3bf614a476a3c4e8de8c1af8cd12a1b16e64c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACH_GOLD_OTG": {
+      "name": "The Golden Ending",
+      "description": "Earn a Gold Medal in every On-the-Go event in the world",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/315ddf273f070d555dcd749ef70ffb0671c0d6bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/8e5f4c89f2ad4d95753f9e960cdd3d965cc5880b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACH_MANY_FACES": {
+      "name": "The Pit Crew",
+      "description": "Collect 15 new drivers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/3b97229155d1bd68757fa1769bf7230a1e96f873.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/1d461afd76d4298b800f4b33be77926918dd3a3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ACH_FV_COLLECT": {
+      "name": "Township Treasurer",
+      "description": "Find all the Collectables in Prospecto Valley",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/b72e8df1c2ff8e383314e8f31631a0de496c2256.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/d1e7d196e4752dcef542a6ac72ac94f6b200f29f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "ACH_JACK_ALL_TRADES": {
+      "name": "What's This Button Do?",
+      "description": "Use every type of power-up at least once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/6b15de6121fffc70b0d31680d7fcea3c4ad59f31.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/88e001274d4e32d58b287af82d46ea93369d55e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "ACH_OUTPERFORMER": {
+      "name": "XPerienced",
+      "description": "Get to Level 30 in Story mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/a7813d934afa36ce158859205c655fa1dd092b98.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/385bcf546bbfbecb5afd694970df8bac3bc26810.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ACH_HAVOC_WREAKER": {
+      "name": "You BREAK Stuff!",
+      "description": "Destroy 15000 objects",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/0cef327075d0b3d464c41521b35a217ec9e03a6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/c9f473f80bf421913da96ac8362a864ebfc12791.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

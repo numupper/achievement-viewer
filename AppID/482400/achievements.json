@@ -1,0 +1,186 @@
+{
+  "ActivateRadShield": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BuyAmmoFromDepot": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CollectAllAchievements": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CollectAllMedia": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CollectBestHardware": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CollectGuns": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CollectRapier": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CollectWrench": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteCyberspaceLevels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteGame": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteMaxDifficulty": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ConsumeJunkFood": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DefeatCortexReavers": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DefeatDiegoV1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DefeatDiegoV2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DefeatDiegoV3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DefeatShodan": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DestroyAntennaRelays": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DestroyMedicalComputerNodes": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DestroyMiningLaser": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DisableSafetyOverride": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindHiddenDoor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindHiddenSkulls": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindRifftraxLog": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FragGrenadeMultiKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HackEnemies": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "InsertIsolinearChipset": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "InstallModkits": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "IonBounceKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "JettisonBetaGrove": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KillDiegoWithRapier": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KillWithBerserk": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LeftHealingSuite": {
+    "earned": true,
+    "earned_time": 1686241659
+  },
+  "MonitorDropKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PlasmaCoreMultiKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RailgunMultiKill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RepairSubsystemRelay": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SalvageJunk": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SolveChess": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SolvePuzzles": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "StartReactorCountdown": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "StorageJump": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UseAllPatches": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UsePowerStation": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VendingMachineGrenade": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ZeroSecurity": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

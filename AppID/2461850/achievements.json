@@ -1,0 +1,68 @@
+{
+  "Ch1_ThorBattleComplete": {
+    "earned": true,
+    "earned_time": 1720771177,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Ch2_ArenaBattleComplete": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Ch3_LakeEmpty": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Ch4_DefeatIlltauga": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Ch5_DefeatSjavarrisi": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Ch6_DefeatGothi": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Ch6_ReachBorgavirki": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Collect_Faces": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 17,
+    "progress": 0
+  },
+  "Collect_Totems": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 18,
+    "progress": 1
+  },
+  "New_Narrator": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "Photo_Mode": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  }
+}

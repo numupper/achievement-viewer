@@ -1,0 +1,460 @@
+{
+  "appid": "1408610",
+  "name": "Call of the Wild: The Angler™",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408610/header.jpg?t=1737626002",
+  "achievements": {
+    "ACHIEVEMENT_042": {
+      "name": "A Rod for your own back",
+      "description": "Catch any 10 unique fish species in Izilo Zasendulo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/a2a58152e6a7fe0dadf3ff371595afe91198eebb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/00e9e973b1558c03b9fe84c6e8e8eedbf0ca2f07.jpg",
+      "hidden": false,
+      "group": "Update 5",
+      "percent": "2.2"
+    },
+    "ACHIEVEMENT_039": {
+      "name": "Aguas Claras Conquistador",
+      "description": "Max your reputation score in Aguas Claras.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/d726f6bb40f362042fe093b8c9c1cd19aad55c11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/b919f0bc040794793b5362adf3b2265f203296b5.jpg",
+      "hidden": false,
+      "group": "Update 4",
+      "percent": "0.6"
+    },
+    "ACHIEVEMENT_049": {
+      "name": "All Betsu Off",
+      "description": "Max your reputation score in Kamuibetsu.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/15d6efd3077deef24cbe136ff7d2ae07484ed370.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/4aaf6f4072335f227dd09b8b98df48793f265d94.jpg",
+      "hidden": false,
+      "group": "Update 6",
+      "percent": "0.4"
+    },
+    "ACHIEVEMENT_040": {
+      "name": "All Good Kings Must Come to an End",
+      "description": "Complete 'The King's Path' mission in Aguas Claras.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/73584ad9671e87537d1396e906d1dcfcc3fe813c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/7d96f337a6cbcacfcabd9bd475cdcaa95a5bc393.jpg",
+      "hidden": false,
+      "group": "Update 4",
+      "percent": "1.7"
+    },
+    "ACHIEVEMENT_026": {
+      "name": "Big Fish Small Pond",
+      "description": "Reach level 50",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/40e63df19fe28ed0a1549cbc627e50b15a2abc84.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/3da7b96a77f9569124c3a0be00849df317afee1d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ACHIEVEMENT_029": {
+      "name": "Buckaroo",
+      "description": "Complete all Warden missions in the Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/afc1fdc8b12f75de2031f4374c0e90a0c4010e6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/7a99aa5314d36d496c82bfa5baacd932be111742.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACHIEVEMENT_036": {
+      "name": "Cache and Carry",
+      "description": "Complete all Caching challenges and Scavenger Hunts in Trollsporet Nature Reserve.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/1dc743857dce2737f1e176cfceef776f137b0adf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/41e541b27fa94ed06d59429b815e336d59fb2d49.jpg",
+      "hidden": false,
+      "group": "Update 2",
+      "percent": "1.3"
+    },
+    "ACHIEVEMENT_002": {
+      "name": "Can you smell what the Rod is Hooking",
+      "description": "Catch 3 bronze ranked fish",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/45c6d626d618fe19799a068434c7aad5bdd18589.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/fee72978b27a9906f24601be74e61e4b4d4c630c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.3"
+    },
+    "ACHIEVEMENT_038": {
+      "name": "Claras Mud",
+      "description": "Find all collectibles in Aguas Claras.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/93eebbc613692fc75b6836028bc32bda36eefe33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/18d73114a6b3f6a86bd8c1731356ca9d7e0043e0.jpg",
+      "hidden": false,
+      "group": "Update 4",
+      "percent": "0.4"
+    },
+    "ACHIEVEMENT_046": {
+      "name": "Club Crawl",
+      "description": "Join all three fishing clubs in Izilo Zasendulo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/c907d3a9d102a1cefc3ea9f3c67713aa120d15ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/7eda1fdb86e04b7a4e5e2dcc17ae927519ec6c3f.jpg",
+      "hidden": false,
+      "group": "Update 5",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_022": {
+      "name": "Diamond in the Rough",
+      "description": "Catch a diamond ranked fish",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/3f91f62a5450cd271d70434a1ea3713542c0229b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/8195db18e37131a09483c8edb2d6208979230a15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "ACHIEVEMENT_001": {
+      "name": "Fish Just Got Reel",
+      "description": "Catch a fish",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/150d537c444f1b4ba198b52fe530b14ada0604bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/5ce6a0d28cd8939e19b2e44da494acd49e6fd481.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "92.5"
+    },
+    "ACHIEVEMENT_005": {
+      "name": "Fish Out of Water",
+      "description": "Catch a fish in a Lake, River, and Pond in Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/00819059190e7aa02f3a5b96ec4a6bed83cfa6ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/06af75b125580f6e42211cffc554c98e82d37ab4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.9"
+    },
+    "ACHIEVEMENT_035": {
+      "name": "Fish upon a Star",
+      "description": "Complete all fishing challenges in Trollsporet Nature Reserve.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/9a013c2ae804b8992e19a13c40d21658bc9f0036.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/099e141bf89dbc1db969f0a7841fbe15f3ed7102.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.7"
+    },
+    "ACHIEVEMENT_015": {
+      "name": "Going for Gold",
+      "description": "Catch a gold ranked fish in under 1 minute",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/fbf7b12a4c12a5e8d96ad3c04a7083a00380bde0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/267cd3521b11aa3cf9d7f6fc3f219692517437a5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "ACHIEVEMENT_028": {
+      "name": "Golden Ridge Ranger",
+      "description": "Max your reputation score in the Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/78728890e402bee12b4e6decd48b303a4843065a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/5d0321227e53d27aa10cacaf183f2e38c19904c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_014": {
+      "name": "Goldfish?",
+      "description": "Catch a gold ranked fish",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/44b12aec75fb5d048acfb1e9294a4d8649ab69b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/bd957672e43f3a611fc5be188815f5430f9e9584.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.3"
+    },
+    "ACHIEVEMENT_030": {
+      "name": "Gonna Need a Bigger Boat",
+      "description": "Catch a fish of 44 lbs (20 kg) or more.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/9ca65f3109d3ed2cc3dc575ca6af2e3848a33c8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/085b23d1f192cf4584c1a977bd86d22428ce9868.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "ACHIEVEMENT_024": {
+      "name": "Have Fish, Will Travel",
+      "description": "Find every Point of Interest in the Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/ffdd89e681101ea489a7d70487c9ab997f11b684.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/263b10d5a3f11240079ce0f3e30c97aba541a588.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_017": {
+      "name": "Head for Heights",
+      "description": "Reach the highest peak in Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/8ed132d05bb6e2401051f99a2fcf8428d844da08.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/3b0d914a8b42526bd0296649df5b401130cddd5e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACHIEVEMENT_003": {
+      "name": "Hey Good Hookin",
+      "description": "Complete the Golden Ridge Reserve tutorial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/8afb1955db565e53c3df926807c828564cb16eaf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/5b0332b6fe0c44935dcc91e211f41c6090592492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.6"
+    },
+    "ACHIEVEMENT_013": {
+      "name": "Hook, Line and Sinker",
+      "description": "Set up 4 unique fishing tackles to use from the Quick Menu",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/7c550de2f55f35ed82175ee1af7d82765a22d2fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/135403804406bf791736d72a722265cd567f44a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "ACHIEVEMENT_021": {
+      "name": "I'm Hooked!",
+      "description": "Catch 100 Fish",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/f700121e3d62456a88bae5980de05a51ad0caab5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/a630e7fd87307d00b4264d6baab2b1b05f5c4869.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "ACHIEVEMENT_006": {
+      "name": "I'm on a Boat!",
+      "description": "Get in a boat for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/fa7075cfee71924035bddd9e6dd1ad3fa469d6ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/0e4e2c2676bc33e838ee114363280985df0329bb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.7"
+    },
+    "ACHIEVEMENT_012": {
+      "name": "I'm the Captain Now",
+      "description": "Purchase a boat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/dea012f31d3785bced4ec70e79e378fcff0f699b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/408293bc1f9115d8031a1c8629f170557baecebe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.9"
+    },
+    "ACHIEVEMENT_043": {
+      "name": "Izi does it",
+      "description": "Find all collectibles in Izilo Zasendulo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/df99781c55ed236eac7eca5a0f2c96aa18fe6b53.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/9bf93a04c11293fba13ecf17684ef9f882f39bb5.jpg",
+      "hidden": false,
+      "group": "Update 5",
+      "percent": "0.3"
+    },
+    "ACHIEVEMENT_051": {
+      "name": "Journey's End",
+      "description": "Complete Scale Mail, Railway Fishing and Ainu Adventure in Kamuibetsu.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/04d1e85144b506ca97feee27824dcfba1a82231e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/1abe31ca609d9dc0520c2a73dddd93730540a2f4.jpg",
+      "hidden": false,
+      "group": "Update 6",
+      "percent": "1.1"
+    },
+    "ACHIEVEMENT_019": {
+      "name": "Lake Me up Before You Go Go",
+      "description": "Travel 100km by boat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/525670a3597b4d14acd0ba601ff0ed71417a0674.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/7bcbabe9e0245d3ca8545097018c107c83837c06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACHIEVEMENT_010": {
+      "name": "License to Gill",
+      "description": "Reach level 10",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/b56f27dbe2fd17eca99c6f8cc9b0fe0afe6cc4e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/cbb7faef7e79e2e7dbd3581a7ab2f7d89a0f2916.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.1"
+    },
+    "ACHIEVEMENT_037": {
+      "name": "Live by the Rod, Diez by the Rod!",
+      "description": "Catch any 10 unique fish species in Aguas Claras.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/1a15a98038431607eed4907182185bbe85e3e649.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/1152cd2b231650c89ddc93674b2653710f9f684e.jpg",
+      "hidden": false,
+      "group": "Update 3",
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_027": {
+      "name": "Lost and Flounder",
+      "description": "Find all collectibles in the Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/72c74333cfe010b614471b99054370596fe4d6b9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/aabd36427322663b723959063bbf18d504bd67d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ACHIEVEMENT_020": {
+      "name": "Marathon",
+      "description": "Travel the distance of a marathon on foot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/cf4d48f29267924e5b2fc3de4bd8d071d5af1c48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/11938ade3777c591d1a48ccdb52e5bdace35cdeb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "ACHIEVEMENT_007": {
+      "name": "More Fish in the Sea",
+      "description": "Catch 3 unique fish species in Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/79a255b062fc6e63af2b280a0a8567efd1032a48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/640ffb8f71d64422876b55d5901a78dd4271e4bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.8"
+    },
+    "ACHIEVEMENT_011": {
+      "name": "More than a Tourist",
+      "description": "Complete the Golden Ridge Reserve Self Guided Tour",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/90626b382328d726073793fbea253995d3c9c576.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/98e53ce78ce64fddb96a191421c9691b74152d4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "ACHIEVEMENT_023": {
+      "name": "No Fin left to give",
+      "description": "Spend 100,000 credits",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/f9ed9d5ab97ec1bcec9bc916584b1ee24b488a65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/f5596c643e35c6f3a7ac3f37ed7c4ae8181e9546.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "ACHIEVEMENT_050": {
+      "name": "Northern Soul",
+      "description": "Complete 'Hokkaido Forever!' mission in Kamuibetsu.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/3da171deddbf186775c63289d91835871fbdf7b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/504d63e60c4f543900ca8f352052561fcbb44d7d.jpg",
+      "hidden": false,
+      "group": "Update 6",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_033": {
+      "name": "Norway Jose",
+      "description": "Find all collectibles in Trollsporet Nature Reserve.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/45d025f1d0b2a03909daa30a4cd89fe5f8f7a2d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/07565f8c029e1dc6a53d591c7b90f59d920af302.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.5"
+    },
+    "ACHIEVEMENT_044": {
+      "name": "Paleontologist",
+      "description": "Max your reputation score in Izilo Zasendulo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/71e185650113298a89639b0e97c781d0bcd832f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/92d3c1ad48180bde23e4bb737caa8f72a87b369c.jpg",
+      "hidden": false,
+      "group": "Update 5",
+      "percent": "0.4"
+    },
+    "ACHIEVEMENT_004": {
+      "name": "Ready to Rod and Roll",
+      "description": "Use the Rod Assembler to put together a tackle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/5071c96803a3ce40b15510aaf99a1633c1f3e9c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/38ae4bfac6a232c06987f82857583e1abd237cea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.4"
+    },
+    "ACHIEVEMENT_032": {
+      "name": "Rod and Troll",
+      "description": "Catch any 14 unique fish species in Trollsporet Nature Reserve.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/081771cbf58323617af6f09cd0aac376d34aac1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/6c1c540380466d3461b78ae6ae0c829308b0b8a4.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.6"
+    },
+    "ACHIEVEMENT_008": {
+      "name": "Scaling up",
+      "description": "Catch a silver ranked fish",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/1bfb2d036f3dba178aff126d33b79dc0802b9333.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/15de49e08f343f311f512281cca4a52d9f128b6b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.1"
+    },
+    "ACHIEVEMENT_016": {
+      "name": "School's Out for Summer",
+      "description": "Catch any 12 unique fish species in Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/f26bb8d7233859acc0a5bec96d7e8690fde6a5e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/d64aa83ca473b8cbd6b8c313b16dad08aa1f8c10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.3"
+    },
+    "ACHIEVEMENT_045": {
+      "name": "Snap Happy",
+      "description": "Complete the 'It's a Snap' mission in Izilo Zasendulo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/f1e3792826c32a80d8d6bebd6de43cffd7c7e0c7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/8e08eb271d96ea7d30acbc68f42375c386104a01.jpg",
+      "hidden": false,
+      "group": "Update 5",
+      "percent": "1.2"
+    },
+    "ACHIEVEMENT_025": {
+      "name": "Taylor Made",
+      "description": "Complete ten of each Shopkeeper mission type in Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/3d4b19f1fae10ffa71004760308de27ee3de42e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/f4d34b0aa1530419d66533325a54f67c7066f70b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACHIEVEMENT_018": {
+      "name": "The Beetles ",
+      "description": "Complete the \"Beetle infestation\" Warden Missions in Golden Ridge Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/849b2abd550d49337618f7c06df191ef6a431476.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/bcab63eb49e993b2bbad242134bfe251b56561a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ACHIEVEMENT_009": {
+      "name": "Things that go Splash in the Night",
+      "description": "Catch a fish at night",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/65a2ac7210fcf3c73b9380f69c3db4a3b38ad946.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/ec63a5ac145885864023e5f23eb4c88bd80ecd5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.3"
+    },
+    "ACHIEVEMENT_041": {
+      "name": "Three Square Meals",
+      "description": "Complete Taste of Tomatito, Cream of Camarón and Lucía's Day in Aguas Claras.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/a94c0df537a042aa83c6644df66f80209ac7504b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/91ad4f5585de2406027a0720c5e09aa7f38d0281.jpg",
+      "hidden": false,
+      "group": "Update 4",
+      "percent": "1.6"
+    },
+    "ACHIEVEMENT_034": {
+      "name": "Trollsporet Tale Teller",
+      "description": "Max your reputation score in Trollsporet Nature Reserve.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/553e1938fb45fc49d51f0fbc49388569d9f2717c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/b2006ff0108d29ed12af7b1bdc1519f8925ab486.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.4"
+    },
+    "ACHIEVEMENT_048": {
+      "name": "Viking Buffet",
+      "description": "Find all collectibles in Kamuibetsu.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/4dcccffa7e82ba09f8053c36cee1a5d45957f6b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/d5a88680ed7e1cb2488c36b85a40ebb8930508fe.jpg",
+      "hidden": false,
+      "group": "Update 6",
+      "percent": "0.2"
+    },
+    "ACHIEVEMENT_047": {
+      "name": "Way of the Rods",
+      "description": "Catch any 10 unique fish species in Kamuibetsu.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/613e4c7e4b8909acdc4c947efbbc80a786b9fa5d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/213d6116eb8a6112a47752108412fa96a1b0a29d.jpg",
+      "hidden": false,
+      "group": "Update 6",
+      "percent": "1.8"
+    }
+  },
+  "platform": "Epic Games",
+  "blacklist": [],
+  "uses_db": false
+}

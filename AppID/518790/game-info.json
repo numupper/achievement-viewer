@@ -1,0 +1,1450 @@
+{
+  "appid": "518790",
+  "name": "theHunter: Call of the Wild™",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/a444f68c73ce903da950ab3351cffe6710cee6d7/header_alt_assets_24.jpg?t=1765292276",
+  "achievements": {
+    "ach_124": {
+      "name": "A Match for the Widowmaker",
+      "description": "Harvest a cape buffalo downed by the King 470DB",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "2.1"
+    },
+    "ach_148": {
+      "name": "A Reddish Carpet",
+      "description": "Complete the mission 'Red Carpet'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "1.5"
+    },
+    "ach_131": {
+      "name": "A Sample of Parque Fernando's Finest",
+      "description": "Complete Parque Fernando's Trophy Collection",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "0.5"
+    },
+    "ach_143": {
+      "name": "A spark, a blaze, ashes",
+      "description": "Witness the forest fire",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/c92755a828d13513a1206c0a0d46e22486774c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bd8ed5023c3e2c1f41410dbbe1c04148502b9873.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "3.9"
+    },
+    "ach_144": {
+      "name": "A Step Closer to Sourdough",
+      "description": "Complete the Yukon Valley main mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "3.1"
+    },
+    "ach_132": {
+      "name": "A World Class Hunting Reserve",
+      "description": "Harvest seven unique animal species in Parque Fernando",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "2.3"
+    },
+    "ach_121": {
+      "name": "An Experienced Senior Warden",
+      "description": "Harvest every animal species in Vurhonga Savanna",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "5.6"
+    },
+    "ach_068": {
+      "name": "Art Critic",
+      "description": "Find all of the cave paintings in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.5"
+    },
+    "ach_168": {
+      "name": "Ascended",
+      "description": "Complete the mission 'The Ascent'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "2.5"
+    },
+    "ach_127": {
+      "name": "Ave María, it works!",
+      "description": "Restore power to the Parque Fernando Hunting Lodge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "1.7"
+    },
+    "ach_098": {
+      "name": "Bear Bug",
+      "description": "Harvest 50 black bears",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.7"
+    },
+    "ach_076": {
+      "name": "Bear Hug",
+      "description": "Harvest a brown bear with a single shot from a distance of less than 25 meters (27 yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ea03ea93601ebd23a16df5b74b5c9f13774d923.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "3.3"
+    },
+    "ach_073": {
+      "name": "Bear Minimum",
+      "description": "Harvest 50 brown bears",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.8"
+    },
+    "ach_165": {
+      "name": "Bear with Me",
+      "description": "Complete the mission 'Bear with Me'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "5.1"
+    },
+    "ach_167": {
+      "name": "Bear... with Her!",
+      "description": "Complete the mission 'Inner Peace, Outer Chaos'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "2.9"
+    },
+    "ach_014": {
+      "name": "Beatty Arc",
+      "description": "Complete Paul Beatty's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ach_164": {
+      "name": "Better put this back up",
+      "description": "Complete the mission 'A Dangerous Reaction'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "6.7"
+    },
+    "ach_142": {
+      "name": "Bev Parker Arc",
+      "description": "Complete Bev Parker's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "0.8"
+    },
+    "ach_007": {
+      "name": "Bhandari Arc",
+      "description": "Complete Vinay Bhandari's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ach_093": {
+      "name": "Blacktail Stalker",
+      "description": "Harvest 50 blacktail deer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.2"
+    },
+    "ach_029": {
+      "name": "Blind Shot",
+      "description": "Hit an animal that is barely visible",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "ach_109": {
+      "name": "Boars Night Out",
+      "description": "Harvest a wild boar at night with a handgun",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.3"
+    },
+    "ach_097": {
+      "name": "Bringing Home The Bacon",
+      "description": "Harvest 50 wild boars",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.8"
+    },
+    "ach_120": {
+      "name": "Brother Arc",
+      "description": "Complete Brother's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "0.6"
+    },
+    "ach_045": {
+      "name": "Bucket List",
+      "description": "Spot every trophy animal species in Hirschfelden Hunting Reserve and Layton Lake District",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ach_108": {
+      "name": "By The Book",
+      "description": "Harvest a moose with Quick Kill bonus and pass the harvest check.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "17.4"
+    },
+    "ach_032": {
+      "name": "Call Of The Wild",
+      "description": "Use all callers once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/b6fc4c2cc9914221060eeed23d4f2319ea19b313.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/a63cee7149fa540d14d7b8812a21131144a3b526.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ach_123": {
+      "name": "Camouflage",
+      "description": "Spot 50 lesser kudu",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "1.4"
+    },
+    "ach_084": {
+      "name": "Camper",
+      "description": "Harvest an animal from a hunting structure in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "1.8"
+    },
+    "ach_130": {
+      "name": "Carolina's Greatest Hits, Shot-For-Shot",
+      "description": "Complete all of Carolina's Challenge Targets",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e5830dc41be7cd4dfcba7178b7a2dafbb8d82675.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "0.7"
+    },
+    "ach_071": {
+      "name": "Children Of The Night",
+      "description": "Harvest 50 Siberian musk deer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/a286a6c5735222020b039a35ea7743bf4a297f7c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.7"
+    },
+    "ach_134": {
+      "name": "Chinita Arc",
+      "description": "Complete Beatriz Cabrera's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "0.6"
+    },
+    "ach_110": {
+      "name": "Coat Of Many Colors",
+      "description": "Harvest a blond, brown, and cinnamon-colored black bear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.4"
+    },
+    "ach_156": {
+      "name": "Commitment",
+      "description": "Complete Sole Santiago Serrano's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "0.5"
+    },
+    "ach_013": {
+      "name": "Connors Arc",
+      "description": "Complete Emily Connors's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/0037a90dcd07107cc5cd5cb59ce44ee5e21b6c5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ach_095": {
+      "name": "Coyote Calling",
+      "description": "Harvest 50 coyotes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.7"
+    },
+    "ach_152": {
+      "name": "Cuatro Colinas Arc",
+      "description": "Complete all of the Cuatro Colinas mission arcs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "0.5"
+    },
+    "ach_102": {
+      "name": "Cupid",
+      "description": "Harvest a European bison with a single shot to the heart using a bow",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.2"
+    },
+    "ach_101": {
+      "name": "Date Night",
+      "description": "Harvest a male and a female roe deer from the same herd",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "7.5"
+    },
+    "ach_083": {
+      "name": "Deadeye",
+      "description": "Harvest a Siberian musk deer with a single shot from a rifle from a distance of more than 250 meters (274 yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e5830dc41be7cd4dfcba7178b7a2dafbb8d82675.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "1.6"
+    },
+    "ach_104": {
+      "name": "Death From Above",
+      "description": "Harvest a whitetail deer from a hunting structure using a bow",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e5830dc41be7cd4dfcba7178b7a2dafbb8d82675.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.0"
+    },
+    "ach_088": {
+      "name": "Deer Devil",
+      "description": "Harvest 50 red deer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.7"
+    },
+    "ach_100": {
+      "name": "Deer Spotting",
+      "description": "Spot 12 unique red deer from a distance of less than 25 m (27 yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.4"
+    },
+    "ach_065": {
+      "name": "Deer Whisperer ",
+      "description": "Identify a call from every trophy animal species in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "10.3"
+    },
+    "ach_086": {
+      "name": "Detective",
+      "description": "Find all expedition notes in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e0cf611abc1e4d0c38d6036b58e4f947d4b87715.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.5"
+    },
+    "ach_041": {
+      "name": "Diamonds Are Forever",
+      "description": "Earn a diamond rating on a harvested animal",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4e9d81ab07f15d63e35dfcccd71e608244f17014.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4ee99adf8b2a3da28ab64c47b1f7562a90481f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "ach_055": {
+      "name": "Dimitri \"Dimi\" Pushkin Arc",
+      "description": "Complete Dimitri \"Dimi\" Pushkin mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/0037a90dcd07107cc5cd5cb59ce44ee5e21b6c5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.6"
+    },
+    "ach_053": {
+      "name": "Dr. Anatoly Barnyashev Arc",
+      "description": "Complete Dr. Anatoly Barnyashev mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.6"
+    },
+    "ach_054": {
+      "name": "Dr. Columbus Neidell Arc",
+      "description": "Complete Dr. Columbus Neidell mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/0037a90dcd07107cc5cd5cb59ce44ee5e21b6c5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.7"
+    },
+    "ach_136": {
+      "name": "Dr. Mariana Luna Arc",
+      "description": "Complete Dr. Mariana Luna's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d5d981f2d9d7a1ce7e79a67536c6448e311cd4a8.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "0.7"
+    },
+    "ach_058": {
+      "name": "Dr. Svetlana Isakova Arc",
+      "description": "Complete Dr. Svetlana Isakova's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/0037a90dcd07107cc5cd5cb59ce44ee5e21b6c5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.9"
+    },
+    "ach_046": {
+      "name": "Eavesdropping",
+      "description": "Identify a call from every animal species in Hirschfelden Hunting Reserve and Layton Lake District",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "ach_094": {
+      "name": "Elk Enthusiast",
+      "description": "Harvest 50 Roosevelt elk",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.2"
+    },
+    "ach_106": {
+      "name": "Elk Talk",
+      "description": "Identify a mating call from a Roosevelt elk from a distance of less than 25 meters (27 yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/89594f8094a07fb67b73b1d6886cf40232e5e45a.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.8"
+    },
+    "ach_019": {
+      "name": "Expert Marksman",
+      "description": "Hit an animal from 200+ meters (219+ yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e5830dc41be7cd4dfcba7178b7a2dafbb8d82675.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.5"
+    },
+    "ach_149": {
+      "name": "Faith",
+      "description": "Complete Padre Abbas' mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "0.5"
+    },
+    "ach_087": {
+      "name": "Fallow Fanatic",
+      "description": "Harvest 50 Fallow deer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.3"
+    },
+    "ach_008": {
+      "name": "Fleischer Arc",
+      "description": "Complete Albertina Fleischer's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ach_091": {
+      "name": "Fox Fever",
+      "description": "Harvest 50 red foxes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ea03ea93601ebd23a16df5b74b5c9f13774d923.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.0"
+    },
+    "ach_103": {
+      "name": "Fox Watch",
+      "description": "Harvest a red fox from a surveyed lookout point",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.0"
+    },
+    "ach_056": {
+      "name": "Georgy Grankin Arc",
+      "description": "Complete Georgy Grankin's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.6"
+    },
+    "ach_147": {
+      "name": "Ghost",
+      "description": "Harvest an albino gray wolf",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "0.8"
+    },
+    "ach_035": {
+      "name": "Globetrotter",
+      "description": "Visit all regions in Hirschfelden Hunting Reserve and Layton Lake District",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/c92755a828d13513a1206c0a0d46e22486774c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bb3a84276dab0cc574c8f90e8baf817d8f305436.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach_159": {
+      "name": "Gobble gobble",
+      "description": "Harvest 50 turkeys",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "2.3"
+    },
+    "ach_042": {
+      "name": "Goldmember",
+      "description": "Earn a gold rating on a harvested animal",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4e9d81ab07f15d63e35dfcccd71e608244f17014.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4ee99adf8b2a3da28ab64c47b1f7562a90481f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.3"
+    },
+    "ach_146": {
+      "name": "Grizzled Veteran",
+      "description": "Harvest your first grizzly bear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "10.7"
+    },
+    "ach_141": {
+      "name": "Hank Pepper Arc",
+      "description": "Complete Hank Pepper's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "0.6"
+    },
+    "ach_049": {
+      "name": "Head, Shoulders, Knees, And Toes",
+      "description": "Down an animal from each stance",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "ach_163": {
+      "name": "Heavy Weight",
+      "description": "Down a plains bison with one single shot using the Alexander Longbow",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "0.9"
+    },
+    "ach_072": {
+      "name": "Hello Lynxy",
+      "description": "Harvest 50 Eurasian lynx",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.6"
+    },
+    "ach_022": {
+      "name": "Hero Of Hirschfelden",
+      "description": "Harvest an animal in every subregion in Hirschfelden Hunting Reserve",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ea03ea93601ebd23a16df5b74b5c9f13774d923.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "ach_015": {
+      "name": "Hirschfelden Arc",
+      "description": "Complete all Central Europe missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ach_129": {
+      "name": "Hitting the Mark",
+      "description": "Complete one of Carolina's Challenge Targets",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e5830dc41be7cd4dfcba7178b7a2dafbb8d82675.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "0.9"
+    },
+    "ach_010": {
+      "name": "Hope Arc",
+      "description": "Complete Richard Hope's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach_154": {
+      "name": "Hubris",
+      "description": "Complete Gerhardt Baden's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "0.7"
+    },
+    "ach_075": {
+      "name": "Hunting The Hunter",
+      "description": "Harvest a Eurasian lynx that is hunting or eating",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "1.7"
+    },
+    "ach_033": {
+      "name": "Insomniac",
+      "description": "Down an animal at night",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "ach_044": {
+      "name": "It's Something",
+      "description": "Earn a bronze rating on a harvested animal ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4e9d81ab07f15d63e35dfcccd71e608244f17014.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4ee99adf8b2a3da28ab64c47b1f7562a90481f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.4"
+    },
+    "ach_028": {
+      "name": "Jack Of All Trades",
+      "description": "Harvest different animals using each of the four weapon types",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/3d2939cc1fba1192b348bd1397618b832e9c5bf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/f3118b4dbd8ba8d781129e717e1b3ae81c085c06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "ach_005": {
+      "name": "Jäger Arc",
+      "description": "Complete Gerlinde Jäger's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ach_137": {
+      "name": "Juliana Ferrari Arc",
+      "description": "Complete Juliana Ferrari's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "0.5"
+    },
+    "ach_151": {
+      "name": "Justice is served",
+      "description": "Complete the Cuatro Colinas main mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "1.5"
+    },
+    "ach_057": {
+      "name": "Katerina Khasavovna Arc",
+      "description": "Complete Katerina Khasavovna mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d5d981f2d9d7a1ce7e79a67536c6448e311cd4a8.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.6"
+    },
+    "ach_140": {
+      "name": "Kayla Johnson Arc",
+      "description": "Complete Kayla Johnson's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "0.6"
+    },
+    "ach_016": {
+      "name": "Layton Lake District Arc",
+      "description": "Complete all Pacific Northwest missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ach_030": {
+      "name": "Leave No Animal Behind",
+      "description": "Harvest a wounded animal",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.6"
+    },
+    "ach_020": {
+      "name": "Legendary Marksman",
+      "description": "Hit an animal from 400+ meters (438+ yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e5830dc41be7cd4dfcba7178b7a2dafbb8d82675.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "ach_081": {
+      "name": "Let It Fly",
+      "description": "Harvest a Eurasian lynx with a bow",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/701adf38786a71bd8d20d5eecc91f90c15db4714.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "1.7"
+    },
+    "ach_096": {
+      "name": "Long Live The King!",
+      "description": "Harvest 50 moose",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.9"
+    },
+    "ach_023": {
+      "name": "Lord Of The Lakes",
+      "description": "Harvest an animal in every subregion in Layton Lake District",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ach_040": {
+      "name": "Make It Count",
+      "description": "Down an animal with your last round of ammunition",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/701adf38786a71bd8d20d5eecc91f90c15db4714.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.0"
+    },
+    "ach_119": {
+      "name": "Maritz Arc",
+      "description": "Complete Dana Maritz's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "0.6"
+    },
+    "ach_135": {
+      "name": "Matmat Arc",
+      "description": "Complete Matias Mateo's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "0.6"
+    },
+    "ach_117": {
+      "name": "Mboweni Arc",
+      "description": "Complete Maria Mboweni's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "0.8"
+    },
+    "ach_059": {
+      "name": "Medved-Taiga National Park Arc",
+      "description": "Complete all Medved-Taiga National Park missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.6"
+    },
+    "ach_021": {
+      "name": "Moby Deer",
+      "description": "Harvest an albino deer in Hirschfelden Hunting Reserve or the Layton Lake District",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ach_047": {
+      "name": "Nerves Of Steel",
+      "description": "Down an animal while having an elevated heart rate",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "ach_122": {
+      "name": "Njabulo's Sorrow",
+      "description": "Find Rambolo, the last rhino of Vurhonga Savanna",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "2.9"
+    },
+    "ach_017": {
+      "name": "Novice Marksman",
+      "description": "Hit an animal from 50+ meters (55+ yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e5830dc41be7cd4dfcba7178b7a2dafbb8d82675.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.1"
+    },
+    "ach_105": {
+      "name": "Old Fashioned",
+      "description": "Harvest a blacktail deer with a single shot from a rifle using only iron sights from a distance of more than 150 meters (164 yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/a286a6c5735222020b039a35ea7743bf4a297f7c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.6"
+    },
+    "ach_077": {
+      "name": "One By One",
+      "description": "Harvest 5 reindeer from the same herd",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "2.1"
+    },
+    "ach_158": {
+      "name": "Opportunism",
+      "description": "Complete Jose Ruiz Hernández's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "0.6"
+    },
+    "ach_139": {
+      "name": "Oscar Freeman Arc",
+      "description": "Complete Oscar Freeman's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "0.8"
+    },
+    "ach_118": {
+      "name": "Ospreay Arc",
+      "description": "Complete Flip Ospreay's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "0.6"
+    },
+    "ach_067": {
+      "name": "Paleontology 101",
+      "description": "Find all artifacts in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.5"
+    },
+    "ach_079": {
+      "name": "Peppe's Challenge",
+      "description": "Harvest 5 animals from the same herd with a single shot to the heart using a bow in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.5"
+    },
+    "ach_025": {
+      "name": "Persistence Is Futile",
+      "description": "Find 100 tracks from the same animal",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.9"
+    },
+    "ach_070": {
+      "name": "Pilgrim",
+      "description": "Find all of the Nenet monuments in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.6"
+    },
+    "ach_039": {
+      "name": "Potty Humor",
+      "description": "Examine 100 droppings",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/89594f8094a07fb67b73b1d6886cf40232e5e45a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.1"
+    },
+    "ach_157": {
+      "name": "Rebirth",
+      "description": "Complete Don Del Bosque's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "0.5"
+    },
+    "ach_064": {
+      "name": "Right There, Right There!",
+      "description": "Spot every trophy animal species in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "7.0"
+    },
+    "ach_089": {
+      "name": "Roe Warrior",
+      "description": "Harvest 50 roe deer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.2"
+    },
+    "ach_074": {
+      "name": "Rudolf's Bane",
+      "description": "Harvest 50 reindeer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "1.0"
+    },
+    "ach_166": {
+      "name": "Sabotage",
+      "description": "Complete the mission 'Old Haunts'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "3.6"
+    },
+    "ach_138": {
+      "name": "Sandy Murray Arc",
+      "description": "Complete Sandy Murray's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "1.0"
+    },
+    "ach_034": {
+      "name": "Scarecrow",
+      "description": "Scared 1000 unique animals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/c2468b1b6fd5708561bb072fbc98fbb4edf316d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/681ada512cb6a35cf31c9de2342abd856111d555.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.1"
+    },
+    "ach_026": {
+      "name": "Seeing Is Believing",
+      "description": "Spot 10 animals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.4"
+    },
+    "ach_150": {
+      "name": "Shady Dealings",
+      "description": "Harvest Fantasma, Ogro, and Sombra",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ea03ea93601ebd23a16df5b74b5c9f13774d923.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "0.6"
+    },
+    "ach_066": {
+      "name": "Shed Hunter",
+      "description": "Collect all antler sheds in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e0cf611abc1e4d0c38d6036b58e4f947d4b87715.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.5"
+    },
+    "ach_082": {
+      "name": "Shotgun!",
+      "description": "Harvest a reindeer with a shotgun and a 100% quick kill bonus",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e5830dc41be7cd4dfcba7178b7a2dafbb8d82675.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "1.3"
+    },
+    "ach_063": {
+      "name": "Shutterbug",
+      "description": "Photograph every trophy animal species in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/713987c9e9a08f75387102f1b77c9aafb1eb5069.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/134383c2068d8fee40b82165746c23596b8bad6a.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.6"
+    },
+    "ach_107": {
+      "name": "Side By Side",
+      "description": "Harvest two coyotes from the same pack with a shotgun",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.9"
+    },
+    "ach_043": {
+      "name": "Silver Lining",
+      "description": "Earn a silver rating on a harvested animal",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4e9d81ab07f15d63e35dfcccd71e608244f17014.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4ee99adf8b2a3da28ab64c47b1f7562a90481f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.0"
+    },
+    "ach_018": {
+      "name": "Skilled Marksman",
+      "description": "Hit an animal from 100+ meters (110+ yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/701adf38786a71bd8d20d5eecc91f90c15db4714.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.9"
+    },
+    "ach_006": {
+      "name": "Sommer Arc",
+      "description": "Complete Robert Sommer's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ach_080": {
+      "name": "Spirit Animal",
+      "description": "Harvest a spirit-colored brown bear with a handgun",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.7"
+    },
+    "ach_125": {
+      "name": "Springbok City",
+      "description": "Harvest 25 springbok",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "2.4"
+    },
+    "ach_027": {
+      "name": "Stalker",
+      "description": "Spot 100 animals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "ach_024": {
+      "name": "Stay On Target",
+      "description": "Find 50 tracks from the same animal",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.2"
+    },
+    "ach_161": {
+      "name": "Thanksgiving!",
+      "description": "Harvest a diamond turkey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "2.4"
+    },
+    "ach_060": {
+      "name": "The Apex Hunter",
+      "description": "Complete Dr. Alena Khasavovna's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "1.1"
+    },
+    "ach_090": {
+      "name": "The Bigger They Come...",
+      "description": "Harvest 50 European bison",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.6"
+    },
+    "ach_126": {
+      "name": "The Lion of Vurhonga",
+      "description": "Harvest an animal in every subregion in Vurhonga Savanna",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "1.7"
+    },
+    "ach_003": {
+      "name": "The Marathon",
+      "description": "Travel a distance of 26.2 miles (42.195 kilometers) on foot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/c92755a828d13513a1206c0a0d46e22486774c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bb3a84276dab0cc574c8f90e8baf817d8f305436.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.0"
+    },
+    "ach_001": {
+      "name": "The Mile",
+      "description": "Travel a distance of 1 mile (1.609 kilometers) on foot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/c92755a828d13513a1206c0a0d46e22486774c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bd8ed5023c3e2c1f41410dbbe1c04148502b9873.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.6"
+    },
+    "ach_048": {
+      "name": "The Old Fashioned Way",
+      "description": "Down an animal with an unscoped rifle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/3d2939cc1fba1192b348bd1397618b832e9c5bf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/f3118b4dbd8ba8d781129e717e1b3ae81c085c06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "ach_002": {
+      "name": "The Scandinavian Mile",
+      "description": "Travel a distance of 6.2 miles (10 kilometers) on foot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/c92755a828d13513a1206c0a0d46e22486774c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bb3a84276dab0cc574c8f90e8baf817d8f305436.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.4"
+    },
+    "ach_153": {
+      "name": "The Slam of Glory",
+      "description": "Harvest 1 diamond male ibex of every species in Cuatro Colinas",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "0.5"
+    },
+    "ach_128": {
+      "name": "The Truth is in the Milanesa",
+      "description": "Complete Carolina Vargas' mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "1.2"
+    },
+    "ach_004": {
+      "name": "The Ultramarathon",
+      "description": "Travel a distance of 100 miles (160.934 kilometers) on foot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/c92755a828d13513a1206c0a0d46e22486774c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bb3a84276dab0cc574c8f90e8baf817d8f305436.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ach_050": {
+      "name": "This Is Not A Zombie Game",
+      "description": "Down 10 animals by hitting the brain",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/d442bfc0ad4621af142efbccb8aa819b23136c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e5830dc41be7cd4dfcba7178b7a2dafbb8d82675.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "ach_085": {
+      "name": "Tourist",
+      "description": "Find all of the landmarks in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e0cf611abc1e4d0c38d6036b58e4f947d4b87715.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.5"
+    },
+    "ach_155": {
+      "name": "Tradition",
+      "description": "Complete Antonia Acosta Gonzalez's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "percent": "0.5"
+    },
+    "ach_062": {
+      "name": "Trailrunner",
+      "description": "Visit all regions in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/c92755a828d13513a1206c0a0d46e22486774c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bd8ed5023c3e2c1f41410dbbe1c04148502b9873.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "2.1"
+    },
+    "ach_011": {
+      "name": "Trampfine Arc",
+      "description": "Complete Jonathan Trampfine's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ach_069": {
+      "name": "Trapper",
+      "description": "Find all of Grankin's traps in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/9b8fe3871ebab1d9965fd946dfc33565c0c53931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "0.6"
+    },
+    "ach_009": {
+      "name": "Tressler Arc",
+      "description": "Complete Marwin Tressler's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ach_099": {
+      "name": "True Dedication",
+      "description": "Find a feeding track, drinking track and a resting track made by a fallow deer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/e0cf611abc1e4d0c38d6036b58e4f947d4b87715.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "7.1"
+    },
+    "ach_078": {
+      "name": "True Musk",
+      "description": "Harvest a Siberian musk deer with a heart shot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ea03ea93601ebd23a16df5b74b5c9f13774d923.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "3.0"
+    },
+    "ach_061": {
+      "name": "Tsar Of The Taiga",
+      "description": "Harvest an animal in every subregion in Medved-Taiga National Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "percent": "1.6"
+    },
+    "ach_037": {
+      "name": "Up Close And Personal",
+      "description": "Hit an animal while undetected within 15 meters (16 yards)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "ach_133": {
+      "name": "Vicente Vargas Arc",
+      "description": "Complete Vicente Vargas' mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Parque Fernando",
+      "percent": "0.6"
+    },
+    "ach_012": {
+      "name": "Vualez Arc",
+      "description": "Complete Fiona Vualez's mission arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ach_115": {
+      "name": "Vurhonga Savanna Arc",
+      "description": "Complete all the Vurhonga Savanna Mission arcs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "0.6"
+    },
+    "ach_116": {
+      "name": "Warden Missions Arc",
+      "description": "Complete the Warden Mission arcs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "percent": "0.6"
+    },
+    "ach_162": {
+      "name": "When they ruled the earth",
+      "description": "Take a picture of the dinosaur footprints",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/c92755a828d13513a1206c0a0d46e22486774c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bb3a84276dab0cc574c8f90e8baf817d8f305436.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "0.5"
+    },
+    "ach_092": {
+      "name": "Whitetail Hunter",
+      "description": "Harvest 50 whitetail deer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.0"
+    },
+    "ach_038": {
+      "name": "Wildlife Paparazzi",
+      "description": "Photograph every trophy animal species in Hirschfelden Hunting Reserve and Layton Lake District",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/b3a9d7b38028e3f7eecb1302067f14d97419a6f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/134383c2068d8fee40b82165746c23596b8bad6a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "ach_160": {
+      "name": "You give love a bad name",
+      "description": "Down 10 animals by hitting them in the heart with the Alexander Longbow in a single shot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/6c3e52ec04bcf23a56962556cd36416fd0338885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "percent": "0.4"
+    },
+    "ach_145": {
+      "name": "Yukon Valley Arc",
+      "description": "Complete all the Yukon Valley mission arcs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1b209dd881d8cf567b0cbbef985a760dec3e870d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
+      "hidden": false,
+      "group": "theHunter: Call of the Wild™ - Yukon Valley",
+      "percent": "0.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

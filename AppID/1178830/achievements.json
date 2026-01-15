@@ -1,0 +1,122 @@
+{
+  "ACHIEVEMENT_CARBOOM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_DEFU100": {
+    "earned": true,
+    "earned_time": 1643889854
+  },
+  "ACHIEVEMENT_DEFU50": {
+    "earned": true,
+    "earned_time": 1643734275
+  },
+  "ACHIEVEMENT_DIFF2": {
+    "earned": true,
+    "earned_time": 1645443759
+  },
+  "ACHIEVEMENT_DIFF3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_DZ100": {
+    "earned": true,
+    "earned_time": 1643737565
+  },
+  "ACHIEVEMENT_DZ50": {
+    "earned": true,
+    "earned_time": 1643733121
+  },
+  "ACHIEVEMENT_FARDEFU20": {
+    "earned": true,
+    "earned_time": 1643733413
+  },
+  "ACHIEVEMENT_FIREAI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_GER01": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_GER02": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_HIDEKILL": {
+    "earned": true,
+    "earned_time": 1673958894
+  },
+  "ACHIEVEMENT_IOPR01": {
+    "earned": true,
+    "earned_time": 1643888562
+  },
+  "ACHIEVEMENT_IOPR02": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_KILLBOSS": {
+    "earned": true,
+    "earned_time": 1645443639
+  },
+  "ACHIEVEMENT_KILLJULING": {
+    "earned": true,
+    "earned_time": 1643888281
+  },
+  "ACHIEVEMENT_KILLTIANYUA": {
+    "earned": true,
+    "earned_time": 1643731716
+  },
+  "ACHIEVEMENT_KILLTIANYUB": {
+    "earned": true,
+    "earned_time": 1644600006
+  },
+  "ACHIEVEMENT_META01": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_META02": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_SKILLDFS": {
+    "earned": true,
+    "earned_time": 1643892301
+  },
+  "ACHIEVEMENT_SKILLHJQ": {
+    "earned": true,
+    "earned_time": 1643814211
+  },
+  "ACHIEVEMENT_SLZ100": {
+    "earned": true,
+    "earned_time": 1643738926
+  },
+  "ACHIEVEMENT_SWORD01": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_SWORD02": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_VEPR01": {
+    "earned": true,
+    "earned_time": 1643737704
+  },
+  "ACHIEVEMENT_VEPR02": {
+    "earned": true,
+    "earned_time": 1644600902
+  },
+  "ACHIEVEMENT_WEEK": {
+    "earned": true,
+    "earned_time": 1645443761
+  },
+  "ACHIEVEMENT_YUXI20": {
+    "earned": true,
+    "earned_time": 1643892987
+  },
+  "ACHIEVEMENT_YUXI50": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "appid": "1055540",
+  "name": "A Short Hike",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/header.jpg?t=1755182478",
+  "achievements": {
+    "AteToast": {
+      "name": "Crispy",
+      "description": "Eat a piece of toast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/8540e6d8f99aae722c53c57361ba0e14d86f5713.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/8982103d183836bb08b5977221068cea159e94a7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.5"
+    },
+    "TenFeathers": {
+      "name": "Feather Finder",
+      "description": "Collect 10 golden feathers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/4bbe1630aac92a82eb5ea1e0f1eeec8e0022da4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/ed9e1b7fbd63e41598eb1f0547abe0f5664b2732.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.8"
+    },
+    "AllFeathers": {
+      "name": "Feathers Forever",
+      "description": "Find every feather.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/accd4767b580b6a6036709f45bdb6799f98586ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/af10049f4965b59673029b716ba63ab13c9a58ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "AllPlants": {
+      "name": "Green Thumb",
+      "description": "Water every sprout.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/103faa846390a465accd3989c760a46123e78042.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/a20cd10bf073a55cabe30b4d5c42f1ec7e86a033.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "10.5"
+    },
+    "ReachedSummit": {
+      "name": "Hawk Peak",
+      "description": "You made it to the top!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/3a9e17c8280aaefec09440b678fb24839206a0e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/c6d3a5c5124ca1f8de7e64e417747756091ef674.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.7"
+    },
+    "FastBoat": {
+      "name": "Not A Scratch",
+      "description": "Complete the boating challenge in under 45 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/deae25f73851fa92f7224095caa7deaf382a7e3c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/b2b1ed7af02c3adb41253e5f375df65fc7800b51.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "12.6"
+    },
+    "ExtinguishCampfires": {
+      "name": "Only You Can Prevent Campfires",
+      "description": "Put out 4 campfires.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/3d23c7960912a92814001cf359d28b5269c4db78.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/c0e23adc3b2d7fdb12e05dfe0ed8456623a5b969.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "12.7"
+    },
+    "AllRaces": {
+      "name": "Parkour Master",
+      "description": "Beat each parkour race once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/096e7e8b2ceb7f375993fa8d1ff70fe8dcb9c9be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/f4bca53be828a125226a83c44089bb04520dc5ab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "PhotoTaken": {
+      "name": "Photo Friends",
+      "description": "Get your photo taken.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/bde376f1b64670f0c14d9dfb756af5f3decdf6aa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/8f62c1447503fc06bb45f7751619023165c55590.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "20.6"
+    },
+    "BeachstickballChamp": {
+      "name": "Remember This Day Forever",
+      "description": "Get the commemorative hat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/6715b192acec49410ebc2d862decccd51c640747.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/95a95730a5f838dd111d253e93e510416c15df77.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.7"
+    },
+    "FinishedGame": {
+      "name": "The End",
+      "description": "Take a nice long nap.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/ce93fb28f7bbe32272e36856cf6cfb56dd32d399.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/39d1e58d46de8ef54d4080dc89d7329ae9a11e74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.4"
+    },
+    "AllFish": {
+      "name": "The Fish Are Biting Today",
+      "description": "Trade every species of fish from the journal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/a8b711f203fa2859f68163a21ebd8570ab651e7c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/a6893c87557a2a4f69edea996b3910c234f10dca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
