@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a36a159f97c560fb56c7f8a3aeba7f67780dfcaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "TROPHY_NAME_FINISH_NORMAL": {
       "name": "Charted! - Moderate",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b8635ebc75fd0b402043d1e734a7f5ee71d5e7cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "TROPHY_NAME_STEALTH_CHAIN": {
       "name": "Just the Wind",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/27d4e235219d0748b1738b72def2c9d341948ed3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "TROPHY_NAME_BEAT_GAME": {
       "name": "Legacy Found!",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/fe833bf70be6716957f7f84cc981fde51b95821c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "TROPHY_NAME_MARCO_AQUEDUCT": {
       "name": "Marco Po-No",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/fa91f2215f8b479e0b54c909dee5f714bde1d2f9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "TROPHY_NAME_RELIC_FINDER": {
       "name": "Shake For Your Fortune",
@@ -820,7 +820,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/bc8438c94e58395350e9a9d46e3a9f2bb136e4f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "TROPHY_NAME_TREASURE_50": {
       "name": "Treasure Hunter",

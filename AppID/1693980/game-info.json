@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/8882e70d7ee1a200174faf5bab65cbd3abf3ff7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.3"
+      "percent": "50.2"
     },
     "ach20": {
       "name": "Autofire",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/9e33a43e536bd9a573f135592f0001b7205c683c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.6"
     },
     "ach42": {
       "name": "Brute Force",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/7e03a8708ae92b95e333d4e969acfba198e5567c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "ach19": {
       "name": "Built To Order",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/c47ca247373d1867e3e1938f3013e9ccd3b9fbf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "46.9"
     },
     "ach24": {
       "name": "Eviscerator",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/78517f01efc7380828f3e7f4eda0f40995fa5f0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "ach12": {
       "name": "Exodus",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/1545ed1e308ab16fc9467cf245184b6b65ea0739.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "ach13": {
       "name": "Final Regeneration",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/76bd157b0dc1b8a11ad24777c70d9f49ab5cea21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "ach46": {
       "name": "Marked",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/3cc5bf902e4002e6a5795e40e8ff47727049e6a4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "ach26": {
       "name": "One Gun",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/2643860ed1f4e61e97e0d49e31dc6002a9041f82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "ach28": {
       "name": "Story Teller",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/c8a03de68a0ab6bd8c829b12ad44c62cb360ad5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "ach40": {
       "name": "There's Always Peng!",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/b03841c16bb6dfbfaf8038faacb22149e4457fcd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "ach05": {
       "name": "True Believer",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/607605539b63d594a2768d3fee98cc886b60f015.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.1"
     },
     "ach17": {
       "name": "Trusted Contractor",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/ab12263a9f015598e36c2e6f7372fd3ef8945863.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "ach33": {
       "name": "Wishbone",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/5b0cf03881b87467f2c0a40311f20be9595f528b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "ach39": {
       "name": "Z-Baller",

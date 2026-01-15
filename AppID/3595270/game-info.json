@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/945422387abd6a75d4d3cce45e061a4355a0c0c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "jup_sp_timeforanewplan": {
       "name": "Dialed In",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5bacfd37aeea95085777427a261c9d7f2adcaf87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "jup_sp_fullsweep": {
       "name": "Elevator Out of Order",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a853db347e1c26456fb076e05aa4072d0e31fc9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "jup_sp_fightorflight": {
       "name": "Floater",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/510d1a83a1c5ac7ed351fbfba2a51072244c0365.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "jup_sp_professionalhoarder": {
       "name": "Gearhead",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/1d1e306ac763228d6f1db6f713a127e351cd9614.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "jup_sp_haveyoutriedturningitoff": {
       "name": "Have You Tried Turning it Off and On?",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/b7bd0784d5af0a6889edab968927abfdc0d8c40c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "jup_sp_driveby": {
       "name": "High Wire Act",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/8ee8e353ede38a8d6d56d6c1e83f97a65b6e42e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "jup_sp_whatthehellkindofnameis": {
       "name": "Never Bury Your Enemies Alive",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/3f9381cb41da9c2e4b24a5e6fb32f90b73ad8210.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.7"
     },
     "jup_sp_boundandmagged": {
       "name": "No Such Thing as Too Many",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5e8931310e39b79f01172186ffbed68af17e3d53.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "jup_ob_oneagainstall": {
       "name": "One Against All",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/d905fc22a00a31e0b3361c8bae8568b235ab8448.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "jup_ob_seeingred": {
       "name": "Seeing Red",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/20a0f6a0f9c884e487c49a0bcacf03f14c0cd13d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "jup_sp_shotblocked": {
       "name": "Shot Blocked",
