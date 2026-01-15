@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "Canopener": {
       "name": "Can-opener",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.3"
     },
     "Harvester": {
       "name": "Harvester",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "Murderer": {
       "name": "Murderer",

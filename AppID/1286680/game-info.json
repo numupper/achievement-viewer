@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/a740293173e46e858bb4c3ed5ac048b463d2d06e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "Achievement_38": {
       "name": "Controlled Chaos",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/d5f5c49f946c8f2864fd9455a5578844d6b5fb30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "Achievement_5": {
       "name": "Quest Get!",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/bce17252c6a4ae711db77efab569d49d17ba2d22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.8"
     },
     "Achievement_10": {
       "name": "Rude Sails of Magic",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/5c185b49682dcfc9b557f7a3c9e9bde611412a2b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "Achievement_28": {
       "name": "Take This",

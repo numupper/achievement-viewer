@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d7fd4be2332acdccfcd8f77cb02175a3b6638b86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "Achievement_GOSCC_41": {
       "name": "Armaments Azure",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/2d8fb59e71f967e8b2d8c0ee770228b3cc03013d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     },
     "Achievement_GOSCC_38": {
       "name": "Best Dressed",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/1d6e75850ae553f421d33848b2715ed18a1d049d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "Achievement_GOSCC_5": {
       "name": "Initiate",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/7b986846a3157bb0103b62869dba939e701da9d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "Achievement_GOSCC_55": {
       "name": "Master of Carmine",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/0a99d6017be7f812c0f62fc52f5f3662e1b09f6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "Achievement_GOSCC_46": {
       "name": "Periapt Viridian",

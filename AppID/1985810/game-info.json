@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/875a7579765931b3118745a0be5e8c509b3b197e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "CP_ACHIEVEMENT_BODY_SHIELD": {
       "name": "Keep Your Friends Close...",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/3e12a39fa3f94f6e88c16a63b274fe50dd1c3e6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "MP_ACHIEVEMENT_ELIMINATIONS": {
       "name": "The Fixer",

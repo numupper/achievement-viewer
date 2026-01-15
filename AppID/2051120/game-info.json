@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/434f370b74038b2e433d40e6fbf0fead26511229.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "ML_ACHIEVEMENT_05": {
       "name": "Like lightning!",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/cc76129caf45395873d5fb74c28146fb5a362cd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "ML_ACHIEVEMENT_19": {
       "name": "Well begun…",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bcccbbdd8bbcc3eb1cf9a35d8410e5b30f452da6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.6"
+      "percent": "66.7"
     },
     "ML_ACHIEVEMENT_41": {
       "name": "You're good at this!",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4f980cccc3edc3c4bc1df18560979713333a7df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     }
   },
   "platform": null,

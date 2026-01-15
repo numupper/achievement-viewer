@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/830ee08e01cfa98f62d391ab2888584cc03a759b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "CompleteAct2": {
       "name": "A Fear Within",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/f34ea344f8beb796749187ed4a9180a22383a67c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.8"
+      "percent": "73.7"
     },
     "BeginTheJourney": {
       "name": "Hear my Plea",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/6dacb86ead4c2e794e4f68f7d3ec1fb7224af162.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.0"
+      "percent": "80.9"
     },
     "UnlockAllAbilities": {
       "name": "Honour the Ancestors",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/af0c43ac5c70c52bed8ea61ada430b8d391376e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "Kill3Enemies1Tornado": {
       "name": "I am the Sun",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/c3f7bdb306dc86aee5549b5491fb15157c0fc763.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "CompleteCodex": {
       "name": "Lore of the Land",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/2f87251413db4cf2ea85fce953a44eca32a10edd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "33.0"
     },
     "UpgradeAllAbilities": {
       "name": "Shaman of All Trades",

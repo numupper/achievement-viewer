@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/5f88b8ba83070f94675f56103e2e3a1c22a0fa3f.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "AZTEC_VICTORY": {
       "name": "Aztec Victory",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c3b3cc4956b5255219c09f5da88d2d0c837e3eb7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "POMPEII_BABYLONIAN_VICTORY": {
       "name": "Babylonian Victory",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d2dceec8826386da4c30bc7c8a28541056111a1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "ACHIEVEMENT_BULLS_EYE": {
       "name": "Bull's Eye",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/40e6de1cefc54512abd5e14225abf29f1b10b46d.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Battle for Greece",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "BYZANTINES_VICTORY": {
       "name": "Byzantine Victory",
@@ -946,7 +946,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/413c0b47232cff2b8926b467e3a5e1e19dfb06f9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "ACHIEVEMENT_FAST_FOOD": {
       "name": "Fast Food",
@@ -1009,7 +1009,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4067f9433903a6be01d9e5aeb37f73b192147400.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "ACHIEVEMENT_FIRST_CITIZEN": {
       "name": "First Citizen",
@@ -1171,7 +1171,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/285a6dee54e29705234fb8b243dcb97752b70bb7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "ACHIEVEMENT_GREECED_LIGHTNING": {
       "name": "Greece'd Lightning",
@@ -1999,7 +1999,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/18022140fe5d49574522ce14fb54f27fd87efc52.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "49.4"
+      "percent": "49.5"
     },
     "ACHIEVEMENT_NUMBERS_BEAT_EVERYTHING": {
       "name": "Numerous As the Grains of Sand",
@@ -2143,7 +2143,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/689ce29ba367b58d602d77762c9ea48b82d09902.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ACHIEVEMENT_POLITICAL_ANIMAL": {
       "name": "Political Animal",
@@ -2170,7 +2170,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "48.7"
+      "percent": "48.8"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2449,7 +2449,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/fe3d3ca872c548328206fe888ae43d04842bd1cd.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "ACHIEVEMENT_SHUT_UP_LA_HIRE": {
       "name": "Shut Up La Hire!",
@@ -3016,7 +3016,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/692530f3676cb0691b45a7b0651d75f191836fd9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "29.7"
+      "percent": "29.8"
     },
     "ACHIEVEMENT_MODERATE_AI": {
       "name": "With Moderation",
@@ -3052,7 +3052,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c8a447407a01b8c36706d58e42794402571784dd.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "WU_VICTORY": {
       "name": "Wu Victory",

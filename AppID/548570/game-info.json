@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/b84e48556f93481ec1e6c93e2e4e4cc63877899b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "ACHIEVEMENT_041": {
       "name": "Crushed",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/2e12f383e623ab38cc8323479109c26e8019beeb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "ACHIEVEMENT_028": {
       "name": "Goon De-leet",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/cc9632f8da28e8f6b14bad650c877bec8f663f1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     }
   },
   "platform": null,

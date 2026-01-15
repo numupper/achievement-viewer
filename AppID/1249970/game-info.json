@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/765821daf5422f3faf5e5e2b8dae70a3dd506833.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "ACHIEVEMENT_33": {
       "name": "Circuit slugger",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7e9a12973ddda06b983e2dc5dd6595778203d35c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "ACHIEVEMENT_32": {
       "name": "Dress to impress",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/2eb953dd59261b6d8f494a4f4a8ca84964666c95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "ACHIEVEMENT_49": {
       "name": "Emotional",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/af8a0d979f33ec0ecb17026fedd483f6636a1309.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "ACHIEVEMENT_17": {
       "name": "French horsepower",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/14e88b52a72532f7508af3f9478cea63953bdb15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.5"
     },
     "ACHIEVEMENT_55": {
       "name": "Gone in Sixty Seconds",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a69d18b77591c4a77187ac03801a68822b4e8de6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "ACHIEVEMENT_11": {
       "name": "Look, no hands!",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b4acaa449b1922894a0d0e11e4582920eb777d92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "ACHIEVEMENT_56": {
       "name": "Metal detector",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d8f7db5f47b35d7b8c4be25e170b4f6d028467f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.6"
     },
     "ACHIEVEMENT_30": {
       "name": "New look new you",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/0311eecd9ab8e63fc7adab4003082d94c9fccf62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "ACHIEVEMENT_2": {
       "name": "No longer a nobody",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b0c4206056fc25df436efbe6ae6df06fde5cb3bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.1"
+      "percent": "85.0"
     },
     "ACHIEVEMENT_44": {
       "name": "Nomad",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/4c7da292c2a45de193ed5a272676d31cdc33ba34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "ACHIEVEMENT_1": {
       "name": "Not just a pretty face",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d579438dfba8bcf74abf419900209b6b8a1c7154.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "ACHIEVEMENT_52": {
       "name": "Peakaboo",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/22f926c3263b79a4ea5b8c69f16ee734db08fcbc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.1"
     },
     "ACHIEVEMENT_28": {
       "name": "The body beautiful",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f5b8166f2fda7a819ff6c88933169ce02f45436a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.6"
     },
     "ACHIEVEMENT_5": {
       "name": "Turning tricks",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/c7d3631f47037907d51637924737d1534fc51b08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.6"
     },
     "ACHIEVEMENT_23": {
       "name": "Unstoppable",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/ea1bb25f225de75041e275cb31a9e452653d927b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.4"
     },
     "ACHIEVEMENT_27": {
       "name": "Workshopaholic",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7979fe5a54772dbfb27d2ef5561119e2bc19fedc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "ACHIEVEMENT_41": {
       "name": "World domination",

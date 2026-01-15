@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/2f404cdfa93e6feaa708948345cf57cd23749ea1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "DLC_AV004_1": {
       "name": "Eight Million Stories",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/c5b998ab9363487c9ae2d1749ea0081889371f08.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "ONE_FOR_THE_FILE": {
       "name": "One For The File",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/07af930da82b7b12d14676b1ac98d5f09fce08a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.7"
+      "percent": "65.6"
     },
     "DLC_AA005_5": {
       "name": "Out Of The Frying Pan",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/65c431b0903970b76f27365366abf657b9dfe95b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "PATROL_DESK_COMPLETE": {
       "name": "Police Academy",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/041ff27977f3b091bb08ffc6e04f7643ce4d2ed4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.2"
+      "percent": "68.1"
     },
     "PUBLIC_MENACE": {
       "name": "Public Menace",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/542ac1f365ee4b0ad1ae44945fcc56704d8f557e.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "DLC_AV002_2": {
       "name": "Spare A Dime",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/73077a9d1486cd0537a44c5fc4bda64feebf9117.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.4"
     },
     "THE_STRAIGHT_DOPE": {
       "name": "The Straight Dope",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/1d5780580b3e9d699d9cb8cfbb8b9b6a7343d0e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "THE_UP_AND_UP": {
       "name": "The Up And Up",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/004c986a45678f5667782bf321b9ac68683ff454.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.5"
     },
     "WOODEN_OVERCOATS": {
       "name": "Wooden Overcoats",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/c64d9a0079ff82809cef75867b8d6b1074bb7bc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     }
   },
   "platform": null,

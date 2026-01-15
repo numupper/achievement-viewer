@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/2bd14911557d11038bc5caf0ebef40e740c64040.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "ACH_55": {
       "name": "Archivist",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/2324870ab87a52a1337c2b300fbb4be746c24066.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "ACH_31": {
       "name": "Combat Master",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/0970476023bbd702020e081978157c69bd280eb0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACH_51": {
       "name": "Don't Look Up",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/4ae288a46f9417823553b3d09a350e29ba3aca82.jpg",
       "hidden": false,
       "group": "Dying Light 2 Stay Human: Bloody Ties",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "ACH_13": {
       "name": "Family First",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/01792b1d43da8cabbe3277f032767d56a84fd22e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "ACH_22": {
       "name": "Find Anything Interesting?",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/369322e468a473dfaafb31909e302eef4c7c5a44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.8"
     },
     "ACH_7": {
       "name": "Get Outta My House!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/7c2fcf385486c4c2e6cb60977421f27f92576cf2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.4"
     },
     "ACH_52": {
       "name": "Get the Point?",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/d3a88ba6aaaea2d921a47c4a3e8c3cc405579805.jpg",
       "hidden": true,
       "group": "Dying Light 2 Stay Human: Bloody Ties",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "ACH_58": {
       "name": "Nemesis",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/1a085a9bb435967f0a987ac5eadacf5cf25d3df5.jpg",
       "hidden": false,
       "group": "Dying Light 2 Stay Human: Bloody Ties",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "ACH_39": {
       "name": "Night Hunter",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/914067d5b237d4aa8d80cbc4e121b21e3c26c958.jpg",
       "hidden": true,
       "group": "Dying Light 2 Stay Human: Bloody Ties",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "ACH_28": {
       "name": "Oh, So This Is How It Works!",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/868808855638d6deed8d1623a7e8cf8a1782d49c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "ACH_30": {
       "name": "Parkour Master",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/522ef615c5df41bb0e662625f1b8bcfa4b8907f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "ACH_45": {
       "name": "That's Teamwork!",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/424b2722315a63eb37492eb9980ca1c8ecf70915.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.7"
     },
     "ACH_64": {
       "name": "True Champion",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/3b4150b3a7c2e945df2fe909b83db807c190e04b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ACH_17": {
       "name": "Tube Map",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/36c54186cd42e5bc70a841e159e53b5bf31790ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     }
   },
   "platform": null,

@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/ef8c1132de4509dee02dc00a0a21f8ab5277fb9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.6"
     },
     "MEDAL_038": {
       "name": "Miniature Crown Collector",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/603fa8530fa7eacc20ac9ffac14bc6857bfd2577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "MEDAL_039": {
       "name": "Miniature Crown Master",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/112661e8da6815076bf791b50996e4938e71e709.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "63.0"
     },
     "MEDAL_030": {
       "name": "Power Is Everything",

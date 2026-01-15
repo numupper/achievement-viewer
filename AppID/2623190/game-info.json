@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/8343d211a9f1e964e276b3c925d443d49ba92886.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "Isles_Aspirant": {
       "name": "Aspirant, Shivering Isles",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/9688ed30602b88e3383e59ecd0e4fc6c70f79825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "Arena_Bloodletter": {
       "name": "Bloodletter, Arena",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/ea5c569bff76c238080edaac18f056bbcb40f8ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "Arena_Brawler": {
       "name": "Brawler, Arena",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/7a1cdcda90427701fe9c4088ff82107fec1e7be1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "Main_ChampionOfCyrodiil": {
       "name": "Champion of Cyrodiil",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/8652ea9eb5e9bbcd3385ca2321aa10ffc9efb553.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "Main_DestroyedTheGreatGate": {
       "name": "Destroyed the Great Gate",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/20c02fec92222a4c231e47c4d5db0a5a9a5867da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "Main_EscapedTheImperialSewers": {
       "name": "Escaped the Imperial Sewers",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/072e2b1ed59cc7d3237a1b43b6bf49b894626df4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "Brother_Listener": {
       "name": "Listener, Dark Brotherhood",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/cafd586c9e690d9e83a4cf86b793c4f2b9612e7c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "Thief_Shadowfoot": {
       "name": "Shadowfoot, Thieves Guild",

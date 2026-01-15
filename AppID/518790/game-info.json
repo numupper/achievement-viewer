@@ -1,7 +1,7 @@
 {
   "appid": "518790",
   "name": "theHunter: Call of the Wild™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/a444f68c73ce903da950ab3351cffe6710cee6d7/header_alt_assets_24.jpg?t=1765292276",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/a444f68c73ce903da950ab3351cffe6710cee6d7/header_alt_assets_24.jpg?t=1768380258",
   "achievements": {
     "ach_124": {
       "name": "A Match for the Widowmaker",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
       "hidden": false,
       "group": "theHunter: Call of the Wild™ - Yukon Valley",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "ach_141": {
       "name": "Hank Pepper Arc",

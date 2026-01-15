@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/bd41fbf298b2e4f7c6b9624e6691b8dfc3d56169.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "AchievementShrinkHouseID": {
       "name": "A Center for Ants?",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/02bdba16af47d42f7a9534c45ff6f2c435b9345e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.4"
     },
     "AchievementLootBoxID": {
       "name": "Black Market",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f709d5c02e6739a0b04f37b62ad13ea9b018c53d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.2"
     },
     "AchievementBatGoatID": {
       "name": "Car Cave",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/5de8bc882947c4492e3a58c9b976d16d1502c834.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.0"
     },
     "AchievementCastleRenovationID": {
       "name": "Forgotten Sorority",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8ddaa6c8362f5b2ed33559e618a14b4dd9f6e09e.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "AchievementGoatQueenID": {
       "name": "Goat Queen",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8644945b453160b7752e6c56a70e17d0d864d4ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.1"
     },
     "AchievementMultiverseCharonsBoatID": {
       "name": "Hell of a Ride",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/cec7c42803f37ce1ad5c202ae8508358e3da4ad8.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "AchievementMultiverseHistoryLessonID": {
       "name": "I Love History",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/78f44882c466a9e0a7b3935472a4ebc5f42e96f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "AchievementBossID": {
       "name": "New Goat Order",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/bc6054c754747e368947f4bdd77f6966e7bb3e0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.8"
+      "percent": "60.7"
     },
     "AchievementBoulderID": {
       "name": "Raider of the Lost Parking Garage",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/7612310a5241717db342558f94c99eb17250c4ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "AchievementStratosphereID": {
       "name": "Reach the Stratosphere",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/1fb55ca4e56eb89831f2763779dd8a22008599c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "AchievementBecomeHumanID": {
       "name": "San Angora: Become Human",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/542c12d7ce6e1ed24d6731619066d010c7eb67ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "AchievementInteriorDesignID": {
       "name": "Secret Society",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/2f475bacc8bdffad75b4318207e46323a1a745b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "AchievementPortalsID": {
       "name": "Shadow Syndicate",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "37.9"
     },
     "AchievementMultiverseIntroCartID": {
       "name": "This Took Half My Life",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a4454b4b3c22a7dfccc515db8bc20c6473ae7b2e.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "2.0"
+      "percent": "1.9"
     },
     "AchievementAliensID": {
       "name": "Welcome to Earth",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/648a1c8791d66d139c2d95ebe6a66e3a303999fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "AchievementGatorID": {
       "name": "What a Waste of Money",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/78c65362cf015a3e925d656e3615f2d2a188328a.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "AchievementClownID": {
       "name": "Where is it?",
