@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/94b9606c71fe8643f1af0af36afc7c8c8b95d24b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "ACHIEVEMENT_43": {
       "name": "Amazing!",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/8f5bd0f11a262c1873ddf31ce62ec5b617b22bdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.9"
+      "percent": "68.8"
     },
     "ACHIEVEMENT_07": {
       "name": "Circus Electrique Proudly Presents...",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/17ed4602d3cf50fb4e1f52b86b071c68b274ae18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.5"
+      "percent": "86.4"
     },
     "ACHIEVEMENT_26": {
       "name": "Circus Maximus",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/b219ce5505bb08566beec45ae93933b17be68b30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "ACHIEVEMENT_16": {
       "name": "Club Champion",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/45255cf3c94a724ba37f2f1a67537c7a9ebe8d31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "ACHIEVEMENT_32": {
       "name": "King of District 3",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d1f51fdc05a963e4b2e3ce7bb5c1a2861f7e9e4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "ACHIEVEMENT_29": {
       "name": "London Liberator",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/e9b2c85c33bd01c037aa4437c995c23e0b4693c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "63.8"
     },
     "ACHIEVEMENT_04": {
       "name": "One More Thing...",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/04f2e9ae25ef1e8c103ac91d44354c576ed73251.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.7"
+      "percent": "84.6"
     },
     "ACHIEVEMENT_39": {
       "name": "Perfect Chemistry",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d64a56eff074300c239e42fa73f00cb36ec174e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.6"
     },
     "ACHIEVEMENT_41": {
       "name": "Self Defense",

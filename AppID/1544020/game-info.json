@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/ae8c596e94e333e5851be4679a56a9ac1e211183.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "KILL_2HEAD_HAZARD": {
       "name": "Bear Trap",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/e6ea9712984eb43250062124809af6f81139d79c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "STORY_SNOWCAT": {
       "name": "Crash Site",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/0c6ee6024d9f10ffbbc70fc98ac9ddca9dc9e610.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "GRP25ENEMIES": {
       "name": "Get a Grip",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/69e756ed9c1618f7b763e548c21034b5101929d5.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Riot Bundle",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "KINETIC_HAMMER": {
       "name": "It's Time",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/3b15f6b9dd423ea685eff93e8c9ed20e3811e15e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "STORY_MINETOWN": {
       "name": "What Lies Beneath",

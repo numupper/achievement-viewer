@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/d2470107f6f8d42be27a8010d6a990b65fd5432f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "69.0"
     },
     "Campaign_AdoptStoryElephant": {
       "name": "An Elephant Never Forgets",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/ebe9c9bd28c4c4410b235801c1fdf27e524eae73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.2"
     },
     "Campaign_AllGold": {
       "name": "Gold Career",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/52bd229637430547ce3112fd9ae70f7c33ed742e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.0"
+      "percent": "47.9"
     },
     "Franchise_Loans": {
       "name": "Loaner",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/38e4e6c4f55962f333fe947c1500c4c256a7563a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "Campaign_AnySilver": {
       "name": "Silver Award",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/0a47401454761897bb46966aa77a062faabcca9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.3"
+      "percent": "79.4"
     },
     "Game_Startup": {
       "name": "Welcome to Planet Zoo",

@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/b5b85bbdc69abe845758b1c09fb276f5f96a6405.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "BRANCH04": {
       "name": "Managing People",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/8d7f9672c7a7b58344460c811a09267b1baf13ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "RPG18": {
       "name": "Need to Know",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/1a785ae63f4f0a4abf872460e5d18689c1f086c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "RIDDLER04": {
       "name": "The Right Question",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/2447eed4f3ec107102ce6453ab6c758277b2f150.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "RPG12": {
       "name": "Trial By Fire",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/994bb54de878ed0a3594fcd818256c85b4ed34da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.9"
+      "percent": "78.8"
     },
     "RIDDLER01": {
       "name": "Turn and Turn Again",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/7444bec75a253f35a0ef6760ab468f773a11d699.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "BRANCH02": {
       "name": "War Machine",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6a2a15363a365ad11906074e93c96e961ec1eae1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "BRANCH03": {
       "name": "Welcome to the Jungle!",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/e93e6c9e8161b6b4a7be42dfe9b392e3f2e730d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.6"
     },
     "BRANCH01": {
       "name": "Winged Vengeance",
