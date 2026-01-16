@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/f8721fe810d5b7d356a64c5e08a3f7ad1ef80c70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.6"
     },
     "NEW_ACHIEVEMENT_5_4": {
       "name": "5 Dismount Strikes",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/6388186ff132225802eee734af673c4646842d76.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "NEW_ACHIEVEMENT_5_11": {
       "name": "All Animal Figurines found",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/b4d621863134dba1d253b7739b6a46feaa78aa2f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "NEW_ACHIEVEMENT_4_28": {
       "name": "Completed the Second Expedition",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/f1ea0f924e9a851e5417d99cced3d0744aefeac7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.4"
     },
     "NEW_ACHIEVEMENT_4_10": {
       "name": "Defeated the Sawtooth",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/3f5a3a5cea6acb2527c22c2393373986150dbd03.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     },
     "NEW_ACHIEVEMENT_3_8": {
       "name": "Downed 23 Grazer dummies",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/f24d0de888152809e88f6c4f87729928859233e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "NEW_ACHIEVEMENT_3_20": {
       "name": "First Bandit Camp cleared",

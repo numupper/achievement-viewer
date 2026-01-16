@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/371d4d39edc5149967f57513a2b1cabd5c8b97bd.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "sat_zm_chewonthis": {
       "name": "Chew On This",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/6f91428d3780cabdba165f1df41c6bd56c5441c1.jpg",
       "hidden": false,
       "group": "Call of Duty®: Modern Warfare® III - Campaign",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "t10_sp_mission_sabotage": {
       "name": "Consolation Prize",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/3e70404809eb5c5885be54a0ea2796e39aa0e8c2.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "t10_sp_contract_covert": {
       "name": "Covert Agent",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/00c46a654608d593b31edcba8d36214e0e0cc7aa.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "t10_sp_sandbox_full": {
       "name": "Full Clear",

@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/805f60987cf36aeb808fb8f6926a525e100c197a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "AchEvt_DeltaActThree": {
       "name": "Delta: Act III",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/9292d6b363956cb39ac232b7949e0dded671caf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.0"
     },
     "AchEvt_ImAMarine": {
       "name": "I'm A Marine, Son!",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/89d004a081a0ad0cbb7c72ed485f16027e60eea6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "AchEvt_ProAircraft": {
       "name": "Pro-Aircraft",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/269acfe935e1d68538ead0fc3bdaf921dc26675a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     }
   },
   "platform": null,
