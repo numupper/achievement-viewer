@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/5713263a8747f457e3a2fa24c39291b27616f387.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.4"
+      "percent": "80.3"
     },
     "BREAK_EGGS": {
       "name": "Egg Breaker",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/d9021b2d0a21ddf906f90f47093d4ab40986c587.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "FIND_AIRSHIP": {
       "name": "Escape",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/305d6a035fa2a39a3e1ccc191cf8a5a7fec77884.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.4"
+      "percent": "59.5"
     },
     "HACK_HQ": {
       "name": "Hacker",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/6a95654359352d51daf0e7cd52ec236b7c16fe4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.0"
+      "percent": "65.9"
     },
     "QUACK_100_TIMES": {
       "name": "Quack Enthusiast",

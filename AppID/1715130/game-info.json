@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/80ccf11e6597a17b99b54b6bb7cef0abae919a03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "AchEvt_CoolInACrysis": {
       "name": "Cool In A Crysis",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/805f60987cf36aeb808fb8f6926a525e100c197a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "AchEvt_DeltaActThree": {
       "name": "Delta: Act III",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/9292d6b363956cb39ac232b7949e0dded671caf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "AchEvt_ImAMarine": {
       "name": "I'm A Marine, Son!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/832d3cd8402bd6a1386485e35618a0b01b9e2b96.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "AchEvt_SpeedSprint": {
       "name": "Marathon Man",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/2cb91ac6b411280f7a0961d8d896a1595c048b5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.3"
+      "percent": "50.4"
     },
     "AchEvt_NanoNinja": {
       "name": "Nano Ninja",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/89d004a081a0ad0cbb7c72ed485f16027e60eea6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "AchEvt_ProAircraft": {
       "name": "Pro-Aircraft",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/7f323573ca43f22c677d638798c8694b73972a6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.5"
     },
     "AchEvt_EveryOccasion": {
       "name": "Something For Every Occasion",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/58863a789ecf8dfb39dae042d1413a688a9f2f52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.4"
     },
     "AchEvt_Strickland": {
       "name": "Strickland Would Be Proud",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/69b7c9ba75d7671ee9d0a5ed6d1deb5261a8e491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "AchEvt_TeamRaptor": {
       "name": "Team Raptor",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/269acfe935e1d68538ead0fc3bdaf921dc26675a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     }
   },
   "platform": null,

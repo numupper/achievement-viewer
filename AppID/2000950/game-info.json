@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/119b5623df717ccc50d7a65d1555763c08229faf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "HOTSWAP": {
       "name": "Hot Swap",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/dab56f1770f462913b64681a9852c43a5ee51cf0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "LOVEFROMABOVE": {
       "name": "Love from Above",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/94004b2a9c518be40cd68ea1c5d8c6829a86bd9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "WILDFIRE": {
       "name": "Wild Fire",

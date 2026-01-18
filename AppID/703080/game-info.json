@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/30565d4b55266911a3bbce88f5809bb6c8b7c804.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.4"
     },
     "Animal_ManyBirth": {
       "name": "Baby Boom",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/9ae82485d298f55e9ecd3e369f8f6deaba937e6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.0"
+      "percent": "65.9"
     },
     "Campaign_AllBronze": {
       "name": "Career Complete",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/f49c2a25c269617f6e62e8a0ae8ac0f9b8f8d044.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "Franchise_FirstFranchise": {
       "name": "Franchise Zoo",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/15ca828008705cc03f20b77dbab4887328544a52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.4"
     },
     "Campaign_AllSilver": {
       "name": "Silver Career",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/cd2e459e0571c90a6ebfbaa20a3cf06a2aacb34d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     }
   },
   "platform": null,

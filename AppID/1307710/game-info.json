@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/461919be2cce3b1ce4d16a6b7c5d35c38f4dc0d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "202": {
       "name": "CLOCK'S TICKING",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/3829c22d55aada618ed05f9c089b916d87ab6b1e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "23": {
       "name": "Race Driver 3",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/90dafefc78ca18aa1e6e3eb6f24a0f9739dcb7fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.7"
+      "percent": "61.8"
     },
     "37": {
       "name": "Ramp it up!",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/c935f20019d026d190a7d753f6fb75d7927bbda4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "39": {
       "name": "Reiko fan club",
@@ -814,7 +814,7 @@
       "percent": "1.2"
     }
   },
-  "platform": null,
+  "platform": "EA",
   "blacklist": [],
   "uses_db": false
 }

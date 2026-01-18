@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/84bf152b401e5044987ac731e180725bfc6d79e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "ach_collectible_all_wingsuit_ring": {
       "name": "All the Right Moves",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/0e1dff4561a2d868895867624542bc6892e43fe2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ach_complete_campaign_tornado": {
       "name": "What If I... Dive Down?",

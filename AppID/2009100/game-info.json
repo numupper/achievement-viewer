@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/12c39041f49db6f3509aa01a9e09c47252c76191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "Achievement_GOSCC_15": {
       "name": "A Perfect Cycle",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/f964557e93ef59e1dcec7c429d895f54cbad103e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "Achievement_GOSCC_14": {
       "name": "Geas Aristeya",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d2fac66c78af60c7f9fdc3b54dee9f968c7b0df4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "Achievement_GOSCC_67": {
       "name": "Good Boy",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/b2c964463696c4923a29bcd8bde37bb97cd9d4a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "Achievement_GOSCC_23": {
       "name": "Witch-Taker",

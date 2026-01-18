@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/717e5ad2ed38acf5fbe1a814a738b28124f86432.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "SP_BIRD_OF_PREY": {
       "name": "Bird of Prey",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/85f2e1811ee865781ed0e71021af7262126dd22a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "ZM_DEAL_WITH_THE_DEVIL": {
       "name": "Deal With the Devil",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/6d74e5849a1d53d81340922838bebef8e4320a0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "SP_GOTTA_TRY_THEM_ALL": {
       "name": "Gotta Try Them All!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/30685a5ca3dfb54cf84970b1f9c7c7f76b9fffd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "MP_LEET_SKILLS": {
       "name": "Leet Skills",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/7151fa0448502b3ff2a8312675054fc6d6d77970.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "SP_PHNX_EXTINGUISHED": {
       "name": "Phoenix Extinguished",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/dc2853c246bc5a57b36820a69d4cc4b5c02490fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "SP_PIED_PIPER": {
       "name": "Pied Piper",

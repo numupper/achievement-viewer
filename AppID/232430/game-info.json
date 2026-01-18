@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/232430/9287e3b24e882192e12a67b77a36f08c8b02f01f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "Wet Bandit": {
       "name": "Wet Bandit",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/232430/5ce5eb54ed659df84621d20f527634443015e179.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     }
   },
   "platform": null,
