@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/5713263a8747f457e3a2fa24c39291b27616f387.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.3"
+      "percent": "80.4"
     },
     "BREAK_EGGS": {
       "name": "Egg Breaker",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/d9021b2d0a21ddf906f90f47093d4ab40986c587.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.6"
     },
     "FIND_AIRSHIP": {
       "name": "Escape",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/88689670aabb5d7c8fbd32ee8cf223bec172ac85.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.6"
     },
     "FLAWLESS_BOSS_FIGHT": {
       "name": "Flawless",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/6be0b2918b1cedffdb5e43915ba756cc26ee325a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "23.9"
     },
     "BUY_GAMER_FUEL": {
       "name": "Gamer",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/2779a695013662eb02bc9631b803499037cae0db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.2"
+      "percent": "77.3"
     },
     "COLLECT_RADIO_LAST": {
       "name": "Music Lover",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/6a95654359352d51daf0e7cd52ec236b7c16fe4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "66.0"
     },
     "QUACK_100_TIMES": {
       "name": "Quack Enthusiast",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/545dcd67ffb0fbd745a670ad043f513556eae2ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.8"
+      "percent": "78.9"
     }
   },
   "platform": null,

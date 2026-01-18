@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/115c38ddf7cee127ee8dd48d2ec99792ba3bcd4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "BIZARREYETBONAFIDE": {
       "name": "Bizzare Yet Bonafide",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/658e6be98861e62eafd88ae8efde13a5f57c4abf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "BLOODPACT": {
       "name": "Blood Pact",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/03c72d29de73daa966b276da91fa3a8e00930d58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "60.1"
     },
     "ACT10": {
       "name": "Chapter 10",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/dc9dabd225d68a6b27ec04d3f8fe79152a416b08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.3"
     },
     "ACT3": {
       "name": "Chapter 3",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/e324b6f1ed60205f5d72cdeb9e843a98c24dee7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "ACT4": {
       "name": "Chapter 4",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/5c6a2bd01c8b6c812d555e08cd1ebaf0ac733364.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.8"
+      "percent": "46.9"
     },
     "ACT7": {
       "name": "Chapter 7",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/7b23b53835419a327956f7123a1ffb1bcb02d5c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "ACT9": {
       "name": "Chapter 9",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/df2b218d2d2750a78f432e07f92eda4482576203.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "JUSTAFLESHWOUND": {
       "name": "Just a Flesh Wound",

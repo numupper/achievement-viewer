@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/bdfa4e3393688cce6e7c968e4bcc4fb48f968415.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.9"
+      "percent": "57.0"
     },
     "FOREVERHOME": {
       "name": "Forever Home",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/2279e343e47471327b8bbf9f88704ca7315a7f99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.5"
     },
     "NOISY": {
       "name": "Noisy Nelly",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/76945e3c3432e1d28f45e3b4c5f71288cda000d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "SMELLY": {
       "name": "Smelly Business",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/f0bc1a0347b2231be389038e37f73dfa9f1899f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     }
   },
   "platform": null,
