@@ -4,14 +4,14 @@
     "earned_time": 0
   },
   "BACKSTABBLIND": {
-    "earned": false,
-    "earned_time": 0,
-    "max_progress": 5.0,
-    "progress": 0.0
+    "earned": true,
+    "earned_time": 1768745103,
+    "max_progress": 5,
+    "progress": 3
   },
   "BUY_ALL_WEAPONS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768740587
   },
   "DESTROY_FACTORY_CRATES": {
     "earned": false,
@@ -96,8 +96,8 @@
     "progress": 7
   },
   "KILL_2HEAD": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768754985
   },
   "KILL_2HEAD_HAZARD": {
     "earned": false,
@@ -134,8 +134,8 @@
     "progress": 0.0
   },
   "PERFECT_DODGE_GRUNT": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768752077
   },
   "PRINT_UPGRADE": {
     "earned": true,
@@ -174,8 +174,8 @@
     "earned_time": 1768664547
   },
   "STORY_HANGAR": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768743269
   },
   "STORY_MINETOWN": {
     "earned": false,
@@ -186,15 +186,15 @@
     "earned_time": 1713013460
   },
   "STORY_SNOWCAT": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768742337
   },
   "STORY_TOWER": {
     "earned": false,
     "earned_time": 0
   },
   "STORY_TUNNELS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768753479
   }
 }
