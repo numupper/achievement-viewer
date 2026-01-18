@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/940558f91bc78a0b303c5600d7065e0fd1b7f76b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.3"
     },
     "DLC_AV004_2": {
       "name": "A Good-Looking Corpse",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/3f03a987c75a1bb5eed621914668010215bcaab3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "VEHICLE_COLLECTION_LEVEL2": {
       "name": "Auto Collector",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/b359f72b2d0f91dd040be88bc57f9a33ba791116.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "DLC_AV004_5": {
       "name": "Give My Regards",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/f26855660fbcd96325aac84b93baab0c6794c9c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "46.9"
     },
     "DLC_AV002_4": {
       "name": "High Flyer",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/1d3d6f65044d38ab129f2c7f04bc8f194bb53876.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "JOHNNY_ON_THE_SPOT": {
       "name": "Johnny On The Spot",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/311615449f52efc8402c836d2cae1b2bd3ec2e18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "LEAD_FOOT": {
       "name": "Lead Foot",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/4ebde5d4b4e8bbc112886b703d4d95bfaf98ea74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "MILES_ON_THE_CLOCK": {
       "name": "Miles On The Clock",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/65c431b0903970b76f27365366abf657b9dfe95b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "PATROL_DESK_COMPLETE": {
       "name": "Police Academy",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/4ffbe2ecf059e69f8884c179c592698217ba9725.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.4"
     },
     "SHAMUS_TO_THE_STARS": {
       "name": "Shamus To The Stars",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/7830887daef70ddeec05ff4565fa3c07b2adc8a5.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "THE_PLOT_THICKENS": {
       "name": "The Plot Thickens",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/541a939fac70201edd5aa5154ae0afd53d2eb806.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.4"
     },
     "DLC_AT004_1": {
       "name": "The Printer's Devil",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/e2fa74c92f4a95f444f68663c6a7e217e54113b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.1"
     },
     "TRAFFIC_STOP": {
       "name": "Traffic Stop",
