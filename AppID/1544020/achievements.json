@@ -86,8 +86,8 @@
     "progress": 21
   },
   "GRP_MELEE_KILL": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768663796
   },
   "KILLMANYWITHHAZARD": {
     "earned": true,
@@ -170,8 +170,8 @@
     "earned_time": 1719920707
   },
   "STORY_HABITAT": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768664547
   },
   "STORY_HANGAR": {
     "earned": false,
