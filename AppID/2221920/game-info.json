@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/61c765fb1b855f9d9be4741ee4b5482b95f0f173.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "FenyxRising_Ach_51": {
       "name": "Better Luck Next Time",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/73504411d60abfbb1535329ab02498a7d2e048a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "FenyxRising_Ach_21": {
       "name": "C-C-C-Combo",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/a8fea36bd643533ad98c1fd12359c1721c5a615d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "FenyxRising_Ach_35": {
       "name": "From the Ashes",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/7f5e2ba7b5242cd7a9a7e04d99084346e70cf6f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "FenyxRising_Ach_5": {
       "name": "God of War",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/d03bbb7c34329745c481f6911b165d7339c91d8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "FenyxRising_Ach_8": {
       "name": "Goddess of Love",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/a5ff6e5b50abd8b471d2ed2436eb8f521c4c041a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "FenyxRising_Ach_6": {
       "name": "Goddess of Wisdom",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/3c6ca3e497734139f9d49125c7b16e25b762a58c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "FenyxRising_Ach_23": {
       "name": "It's A Bird!",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/a783d21f6ed774ea1d8e2c6cef75ceb5e5d2546e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "FenyxRising_Ach_11": {
       "name": "Mission Complete",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/0668a6894f666a3d4b1da1811133f7465d4ec052.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "1.8"
     },
     "FenyxRising_Ach_36": {
       "name": "Not Too Close to the Sun",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/2ac81f0b264be1c958dd26e4768376cd5e4734fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "FenyxRising_Ach_64": {
       "name": "Opportunist",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/bbecdd4caf0a1a803526170e4029dbfd6be46d5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "FenyxRising_Ach_19": {
       "name": "To Good Health",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/73890dff65e355b577ec6deff64d299970a9055c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "FenyxRising_Ach_34": {
       "name": "Toot or Boot?",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/b5b0e2bb1249c5c061a08e4e487c751429b892ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "FenyxRising_Ach_55": {
       "name": "Wardrobe Warrior",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2221920/b3471c059642a59212cbd0708259267c4533a19e.jpg",
       "hidden": false,
       "group": "Immortals Fenyx Rising™ - A New God",
-      "percent": "1.5"
+      "percent": "1.4"
     }
   },
   "platform": null,

@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/8c9553d28f2281af498bf662fa620ce912a02c52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.1"
     },
     "FRIENDLY_FIRE": {
       "name": "Friendly Fire",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/04f36244adc329080e9e03eecfff9a36cf5ab0e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "FROM_GLOOM_TO_GLORY": {
       "name": "From Gloom, to Glory!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6fc264d045fa3d5fcf523ea67d1d5696ec1fe2fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.0"
     },
     "LIGHTNING_ROD": {
       "name": "Lightning Rod ",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/42708b5561262860725199eb991d9aa9ec2485ae.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "PRISMIC_FOCUS": {
       "name": "Prismic Focus",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/1f6a7b91a8bcfe0d0ae372078937053e074b3033.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.3"
+      "percent": "82.2"
     },
     "ROOT_CANAL": {
       "name": "Root Canal ",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/de94b1bdbdc0e5eaae52a51d4012374752fd3ae9.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "ROOTED_IN_REALITY": {
       "name": "Rooted in Reality",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/af6bcd071772f252b59f023299db37b69aeae128.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.4"
     },
     "UNMASKED": {
       "name": "Unmasked",

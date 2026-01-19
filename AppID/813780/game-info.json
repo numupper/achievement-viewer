@@ -946,7 +946,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/413c0b47232cff2b8926b467e3a5e1e19dfb06f9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "ACHIEVEMENT_FAST_FOOD": {
       "name": "Fast Food",
@@ -1342,7 +1342,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/933e9e2f26e6b58e57e8cce5883161ee3210df33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "HUNS_VICTORY": {
       "name": "Hunnic Victory",
@@ -2701,7 +2701,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/ed5933d799a80ed1c33837e1a3d0215fef69a747.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_LONG_LIVE_THE_KING": {
       "name": "The King Is Dead, Long Live the King!",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/dc7985a995c66159731688b05c8dd4649afb5c7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "ACH_S8Exit": {
       "name": "Completed It.",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/4a69a010460cfdea1b3714ef7b8525463eec1766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "27.9"
     },
     "ACH_BlueIntro": {
       "name": "Feeling the Blues",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/9565ce2d0c1bb70bbb287af00f178a1ca492093f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.3"
     },
     "ACH_S8AllGold": {
       "name": "Gold Trophy",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/8668f7d98e20713994d25a01a26fbd3761f7e516.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "ACH_S8MasterRoom": {
       "name": "Master Room",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2ccbb1f77c9ea04e44b6e9e364a0b0d6b3755c40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.1"
     },
     "ACH_S8MaxPoints": {
       "name": "Maxed Out",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/cfd9d72915dfcd5f2d6a152b7b5044a2c55f2a71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "ACH_Sector1": {
       "name": "Sector 1",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/f17de583bb9feb1d59c06d0529b721a1741681e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.4"
     },
     "ACH_Sector5": {
       "name": "Sector 5",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/7bb3006fe89ba6962143156c5dc11b3a0d5d5678.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "ACH_Sector6": {
       "name": "Sector 6",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/40b91a29e635454d4f9bc51f1b998013ddcf3c9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "ACH_Sector7": {
       "name": "Sector 7",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/38bdb44bba695febdbe2f331042bc8b0e9ddd47e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "ACH_S8AllSilver": {
       "name": "Silver Trophy",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/5b0feb4a0044733aacaff384851b7636f1aa4bdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.5"
     },
     "ACH_CollectAll": {
       "name": "The Collector",

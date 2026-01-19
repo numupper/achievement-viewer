@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/4d0f580b8897b5afbdbb10b3bd8d4d6e8ae95d45.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.0"
     },
     "2": {
       "name": "A Trick of the Light",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/a9ff54f3712fdd4cff3acb9dcac4752865b21e65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.0"
+      "percent": "47.9"
     },
     "18": {
       "name": "Frame Fatale",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/95fe5507db9a13b335aa25863be21a2509f36fd7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.7"
     },
     "27": {
       "name": "Patronizing (The Good Kind)",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/ac60e6059060438e153b76a533b3392d51b18283.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.0"
     },
     "21": {
       "name": "Romantically Disentangled",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/884f8d7010ba8d677173fa382b1c613d9d63071a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.2"
+      "percent": "77.1"
     },
     "9": {
       "name": "Tempest Fugit",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/581c4d449318806743603db70e35cff6829d92a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     }
   },
   "platform": null,

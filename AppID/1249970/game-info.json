@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/508bd3c6ce3c37ec93c03c1aa58bca9f5c97ab60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "ACHIEVEMENT_51": {
       "name": "At the wheel",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/9b88e51d4d18f48dab2b1dc9e3846434af2e5c51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "ACHIEVEMENT_18": {
       "name": "Big air",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d0e8d2103bef56a88c0b678c79228901e65372c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "ACHIEVEMENT_42": {
       "name": "Blood is thicker than water",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/6823e3d3d85c75c4d2b90993d23e701b628846f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.2"
     },
     "ACHIEVEMENT_48": {
       "name": "Calling all cars",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/765821daf5422f3faf5e5e2b8dae70a3dd506833.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "ACHIEVEMENT_33": {
       "name": "Circuit slugger",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/4bce63ef5fe6e55912e6a93deeba2f682a4cc0bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.2"
     },
     "ACHIEVEMENT_14": {
       "name": "Deep impact",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7e9a12973ddda06b983e2dc5dd6595778203d35c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "18.9"
     },
     "ACHIEVEMENT_32": {
       "name": "Dress to impress",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/53e7a47d88552ce3b7c8d3c7edd22a0acb8e7817.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "ACHIEVEMENT_19": {
       "name": "Driftin' H.K.I",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/df42efb8806a50dca1ae34e1308b7a49406d7173.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.2"
     },
     "ACHIEVEMENT_39": {
       "name": "Easy as 1-2-3",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/2eb953dd59261b6d8f494a4f4a8ca84964666c95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "36.7"
     },
     "ACHIEVEMENT_49": {
       "name": "Emotional",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/08dbcc7911a012f9d868bb62a4a7e5934be11a3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.1"
     },
     "ACHIEVEMENT_31": {
       "name": "Face off",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f4e402606e400c89078b0e82d74456e15af196d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "ACHIEVEMENT_54": {
       "name": "Fashion victim",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a933738b472feb8625e752459edc9676093d8bef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.8"
     },
     "ACHIEVEMENT_15": {
       "name": "Flag bearer",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/14e88b52a72532f7508af3f9478cea63953bdb15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.2"
     },
     "ACHIEVEMENT_55": {
       "name": "Gone in Sixty Seconds",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/3660b6fdd014d0cb971976b71da7d12698165963.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "ACHIEVEMENT_29": {
       "name": "Hammer time!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/878d27ad637ce9fe96f9724ae344dcee899e3a34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.1"
     },
     "ACHIEVEMENT_4": {
       "name": "High society",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/65985ee18ae49ffc1b1b126e5db32c07d3a6e8f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "ACHIEVEMENT_63": {
       "name": "Honor roll",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/8b91f4f016b903b20457d20a2967d5dddac38c6e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "ACHIEVEMENT_64": {
       "name": "I am legend!",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/83d0e9c848bb122ef8f1d158526fc68c638430a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "14.7"
     },
     "ACHIEVEMENT_36": {
       "name": "It's over, I have the High Ground!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d634b835d7ebe5166d3dc5a86d607370193448f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.3"
     },
     "ACHIEVEMENT_13": {
       "name": "Join the club!",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a6b5c703652701294507a42684016b63e235e000.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.2"
     },
     "ACHIEVEMENT_35": {
       "name": "Keeping up with the car dashy one",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d3d91782cc8a8e8581523a4105e3d95409cece62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "33.9"
     },
     "ACHIEVEMENT_57": {
       "name": "Like a phoenix from... scrap metal?",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/005361981d10dd8f82c3d8734d14886a1c67104d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "ACHIEVEMENT_6": {
       "name": "Living dangerously",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/189f854de92673e23aff8e1de898758ea3351aa0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "ACHIEVEMENT_38": {
       "name": "Lurker",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b4acaa449b1922894a0d0e11e4582920eb777d92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "14.9"
     },
     "ACHIEVEMENT_56": {
       "name": "Metal detector",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d8f7db5f47b35d7b8c4be25e170b4f6d028467f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.7"
+      "percent": "52.2"
     },
     "ACHIEVEMENT_30": {
       "name": "New look new you",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/0311eecd9ab8e63fc7adab4003082d94c9fccf62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "38.9"
     },
     "ACHIEVEMENT_2": {
       "name": "No longer a nobody",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b0c4206056fc25df436efbe6ae6df06fde5cb3bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.6"
+      "percent": "83.0"
     },
     "ACHIEVEMENT_44": {
       "name": "Nomad",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/4c7da292c2a45de193ed5a272676d31cdc33ba34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.0"
     },
     "ACHIEVEMENT_1": {
       "name": "Not just a pretty face",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a72ebaee4674dc66ce82ed24d26de434ad44a0ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.2"
+      "percent": "90.7"
     },
     "ACHIEVEMENT_26": {
       "name": "Once a mechanic, always a mechanic!",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/551cfebbdf5d37dd034a96728766135cbd99f9a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.6"
+      "percent": "67.0"
     },
     "ACHIEVEMENT_50": {
       "name": "Oops, nice photo of my thumb",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d579438dfba8bcf74abf419900209b6b8a1c7154.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.4"
     },
     "ACHIEVEMENT_52": {
       "name": "Peakaboo",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/12581e0b0cf2d8164d9a9456edf07802cfab906b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.5"
     },
     "ACHIEVEMENT_3": {
       "name": "Quick learner",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/59fa62b1714d140c631f564763a4223efd46aa77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.6"
     },
     "ACHIEVEMENT_25": {
       "name": "Quick start",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7c5489cb852a7a68479cf6bc517afe2370907e64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.3"
     },
     "ACHIEVEMENT_22": {
       "name": "Rising Star",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b9ab92a0751dd9baa08460b50faf5bdd4c6dd637.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "ACHIEVEMENT_9": {
       "name": "Start racing",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/b4229128b985278f16c70eb47f9917671540a923.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.4"
+      "percent": "87.9"
     },
     "ACHIEVEMENT_20": {
       "name": "Stay above 248 mph!",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/1e2ed560e64f18858da9b5d4cae19320f6338e1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "ACHIEVEMENT_46": {
       "name": "Strength in numbers",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f697875413786255713c434ccd4b2f65683d4cd2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "ACHIEVEMENT_58": {
       "name": "Team Work",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/22f926c3263b79a4ea5b8c69f16ee734db08fcbc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "26.8"
     },
     "ACHIEVEMENT_28": {
       "name": "The body beautiful",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f6ac731028d1c36b92131375c0ab23c44d0bbae2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.2"
     },
     "ACHIEVEMENT_47": {
       "name": "The Crown Jewels",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/165a28a1ca516173311fdc802bc9f5f886e6b279.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "ACHIEVEMENT_37": {
       "name": "Time to kill",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/615756722953b299c46eec68276464bda5478edb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.1"
     },
     "ACHIEVEMENT_12": {
       "name": "Treasure hunter",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/411fb5e509fbd2950b8ba87d314df4c5570143d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.1"
     },
     "ACHIEVEMENT_8": {
       "name": "Tried and tested",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/f5b8166f2fda7a819ff6c88933169ce02f45436a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.1"
     },
     "ACHIEVEMENT_5": {
       "name": "Turning tricks",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/c7d3631f47037907d51637924737d1534fc51b08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "ACHIEVEMENT_23": {
       "name": "Unstoppable",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/14f8b5569b8dbcced543bed92ef90c202251ae79.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.3"
     },
     "ACHIEVEMENT_40": {
       "name": "What brakes? ",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/ea1bb25f225de75041e275cb31a9e452653d927b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.1"
     },
     "ACHIEVEMENT_27": {
       "name": "Workshopaholic",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7979fe5a54772dbfb27d2ef5561119e2bc19fedc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.3"
     },
     "ACHIEVEMENT_41": {
       "name": "World domination",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/bbbd34a3a8455c1cee2fa4c766378a2ef0c6ddd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "26.8"
     },
     "ACHIEVEMENT_16": {
       "name": "Your clan can eat my dust",

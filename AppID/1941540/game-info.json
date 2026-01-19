@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "Achievement_42_Id": {
       "name": "Cold-Blooded",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.6"
+      "percent": "74.5"
     },
     "Achievement_32_Id": {
       "name": "Live by the Blade",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "59.9"
     },
     "Achievement_33_Id": {
       "name": "Protected",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.1"
     },
     "Achievement_6_Id": {
       "name": "This Thing of Ours",

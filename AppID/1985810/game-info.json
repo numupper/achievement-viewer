@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/034edfbe4433a48dc726b54b4317d3d127a69e3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "CP_ACHIEVEMENT_CP_NAM_PRISONER": {
       "name": "Break on Through",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/c9af62e2b00c68ff9e208236387948b3fac5a2ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.0"
     },
     "MP_ACHIEVEMENT_SCORESTREAK_KILLS": {
       "name": "Calling It In",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7ebad2ac02d47077a5fd4419153fd770038e404e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.6"
     },
     "ZM_SILVER_WW": {
       "name": "Carpe D.I.E.M.",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/8fb0ad92366001171102d55dd37e86040465796a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "CP_ACHIEVEMENT_CP_NIC_REVOLUCION": {
       "name": "End of the Line",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/e353e65cee940a8ac1c0fcda0822d76960ac8709.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "CP_ACHIEVEMENT_SCORCHED_EARTH2": {
       "name": "Scorched Earth II",

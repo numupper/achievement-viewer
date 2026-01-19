@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/2de81ed07969b70578b2d44f9a0ea54b8fea510b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "ach_anger_management": {
       "name": "Anger Management",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/e82286b0fb44913591fedd67675e6c5b08d9ccdb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "ach_knock_down": {
       "name": "Apex Predator",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/eb06f433e48465be3a23c78c566593f52eea1064.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "ach_bookworm": {
       "name": "Bookworm",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4fe970b6ef78f96bf17e1187e91b497d734765fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.5"
     },
     "ach_fetch_me_a_tisha": {
       "name": "Can't Handle the Truth",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/575d79069a2aba58da1b1ea4d619f42aacd07ee7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "ach_finisher": {
       "name": "Coup de Grâce",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f50f17dbb4a927a4c6b1b4cadbf2ece138be2f8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "ach_that_was_close": {
       "name": "Drop The Beat",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d00b8b7cf5f920d2ff51135e75f4355de8ddd5d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "ach_ammo_ran": {
       "name": "Git Gutte!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/11b6acf405470f6f5b981033f6c3859ac817097e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.8"
     },
     "ach_the_vcla": {
       "name": "Go, Bobcats!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/5cace711f3107cf0dd9d34197aaf28526bf2bce9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.9"
+      "percent": "72.0"
     },
     "ach_mind_over_monster": {
       "name": "Humanity Distilled",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/98b9397728484555ba1a987c6be961bc8c5f3f74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "ach_gardening_tools": {
       "name": "Lawn and Order",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/087df6ca08de24a37555e05c36aa8516fbb00280.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "ach_survival_of_the_fittest": {
       "name": "Max Headroom",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/df51e02e5acc4b062bc61de58a6567dee6576604.jpg",
       "hidden": true,
       "group": "Dead Island 2 - SoLA",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "ach_good_eyesight": {
       "name": "Not Even My Final Form",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b500025233cddf06631e24407cc92dcc62b1954f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "ach_brink_of_success": {
       "name": "One of Us",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/ac6ba1b7ec8a6fc88ecac59640821dddbee58ab4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "ach_blueprinted": {
       "name": "Perks of the Job",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/500907995ed66f22e6a6c4626c2cff25911b9820.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "ach_star_performance": {
       "name": "Personal Assistant Personally Assisted",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b589648b3096ad2601d0b29a9ea8f492bbc48c68.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "51.2"
     },
     "ach_pork_chops": {
       "name": "Pork Chopped",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/27999e830ecf109a1d731a7250785099ee5ef30d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "ach_secrets_of_la": {
       "name": "Sharpest Tool in the Box",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/8cf847f3ef7d75cdc56eb92153332e3d6569a369.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "ach_explorer": {
       "name": "Smorgasbord",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b01a91e8f132aea5e24061b7defc3065894ff3b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "ach_whoops_did_i_do_that": {
       "name": "Three's a Crowd",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b9854c0b9225393539c817ac7a3653d852c71c2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     }
   },
   "platform": null,

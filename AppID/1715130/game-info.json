@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/834c08a239781022bb43ebc52db90fc9ee6b599f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "AchEvt_DeltaActOne": {
       "name": "Delta: Act I",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/832d3cd8402bd6a1386485e35618a0b01b9e2b96.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "AchEvt_SpeedSprint": {
       "name": "Marathon Man",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/8ca6f92eeb20aebcbfbc1e5d6e3918f718158b39.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "AchEvt_OneCarefulOwner": {
       "name": "One Careful Owner",

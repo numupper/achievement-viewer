@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/88689670aabb5d7c8fbd32ee8cf223bec172ac85.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "FLAWLESS_BOSS_FIGHT": {
       "name": "Flawless",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/6be0b2918b1cedffdb5e43915ba756cc26ee325a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "BUY_GAMER_FUEL": {
       "name": "Gamer",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/305d6a035fa2a39a3e1ccc191cf8a5a7fec77884.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "HACK_HQ": {
       "name": "Hacker",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/2779a695013662eb02bc9631b803499037cae0db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.2"
     },
     "COLLECT_RADIO_LAST": {
       "name": "Music Lover",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/545dcd67ffb0fbd745a670ad043f513556eae2ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.9"
+      "percent": "78.8"
     }
   },
   "platform": null,
