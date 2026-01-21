@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/248e14a23018e14213bb5180825389b031cea8e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "jup_sp_oldhabitsdiehard": {
       "name": "Back in the Field",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/8e5a3c95c16b0ff4b22cb832f185240cf65dc70a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "jup_sp_engineeringdegree": {
       "name": "I Call Shotgun!",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a30021f0d6fda48d4dd8fc9f50046e16decdff9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "jup_sp_thatsonewaytodoit": {
       "name": "That's One Way to Do It...",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/44a82e1078c17d36d24bb43868d36ef6e15bb294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "jup_sp_yourtaxdollarsatwork": {
       "name": "Your tax dollars at work",

@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/23383422bb8a46535dfcdcb92f3a81ae50094008.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "AchievementBananaLickerID": {
       "name": "Cannibanana",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8644945b453160b7752e6c56a70e17d0d864d4ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "AchievementMultiverseCharonsBoatID": {
       "name": "Hell of a Ride",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/2f475bacc8bdffad75b4318207e46323a1a745b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.7"
     },
     "AchievementPortalsID": {
       "name": "Shadow Syndicate",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/40e969fb4dec43e36a900cb2e78a45352c355a95.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "AchievementTrinketID": {
       "name": "Try Hard 2",

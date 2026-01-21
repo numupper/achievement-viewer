@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/b6775557439a1a368be22faa966e8fc1dd9116a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "ACHIEVEMENT_11": {
       "name": "A sky full of stars",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ce0cb3844e9d270ed5c3661a881ac5f37a8721d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "1.9"
     },
     "ACHIEVEMENT_06": {
       "name": "Booster",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/8859f60b6cd548f056fcd9b0b72d2ded9d620b70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "ACHIEVEMENT_02": {
       "name": "Every pup is the best pup",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a5be3425a8a4849995eb06b4a00d43c8d7f6e47b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "ACHIEVEMENT_01": {
       "name": "First Victory",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ce0cb3844e9d270ed5c3661a881ac5f37a8721d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "ACHIEVEMENT_10": {
       "name": "Just getting started",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ad2b1a9ced4113a8043d5d1c6274f26cfbe5230b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.6"
     },
     "ACHIEVEMENT_09": {
       "name": "Master",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/5d8563e3c12df28ca971e9834d78648b1757cdae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.4"
     },
     "ACHIEVEMENT_05": {
       "name": "Win with Friends",

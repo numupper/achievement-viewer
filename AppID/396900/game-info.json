@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/396900/3a4a549c8000bff6b1ecfe483e1e60fd35017536.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "ACH_USEDSCORPIONAIRBORNE": {
       "name": "Duck hunt",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/396900/e9ab2e82373c7256eaa0ce89cc91ff1a49446f44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "ACH_CUSTOMTOURNAMENT": {
       "name": "I did it my way",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/396900/1dc6507cf47c7ba11deeac3607fe5015a3317f06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "ACH_DESTROYED500OPPONENTS": {
       "name": "Vehicular genocide",

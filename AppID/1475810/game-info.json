@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH_048": {
       "name": "Freeze, Scumbag",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "ACH_011": {
       "name": "Hero of Shibuya",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.8"
     }
   },
   "platform": null,

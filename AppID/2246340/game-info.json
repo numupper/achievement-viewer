@@ -1,7 +1,7 @@
 {
   "appid": "2246340",
   "name": "Monster Hunter Wilds",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1766102696",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1768871237",
   "achievements": {
     "MEDAL_006": {
       "name": "A Bitter Environment",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/5ca64003d9eb6edee2302d7621e7843e4a085dc2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.1"
+      "percent": "71.2"
     },
     "MEDAL_007": {
       "name": "Beyond the Black Wings",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/06f9f9e48b9898935b5e9d2561aac530494c125b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.9"
+      "percent": "62.0"
     },
     "MEDAL_043": {
       "name": "Capture Pro",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/4fc85716e4d250e4feda0e46f8a1315a72f7923e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "MEDAL_034": {
       "name": "Explorer of the Eastlands",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/bfbf7302efe2c91bbe805d7fed2eb78305954799.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.4"
     },
     "MEDAL_048": {
       "name": "Gossip Hunter",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/5bf4bebc16451c8b3c70eab409bd77e3725a8e62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "MEDAL_037": {
       "name": "Miniature Crown",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/c4afd395d932230d1dfc7e0fa9d993b84eb35b87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "MEDAL_027": {
       "name": "Ride-or-die Companion",

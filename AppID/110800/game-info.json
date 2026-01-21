@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/02c3a02b7c3f9a6967ce1cf3fed37037513cb690.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "ASPHALT_JUNGLE": {
       "name": "Asphalt Jungle",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/d81a71426c8c49f6c597b8a06514375d4e6563d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.7"
     },
     "VEHICLE_COLLECTION_LEVEL3": {
       "name": "Auto Fanatic",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/7be4359a910db46aa5c909de5b0154b4dddd1c53.jpg",
       "hidden": false,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "DLC_AV002_1": {
       "name": "Every Herb Bearing Seed",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/13515802c138592beac94b310dfdced9462cb005.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "VICE_DESK_COMPLETE": {
       "name": "No Rest For The Wicked",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/deaaf187e8f8dd28f476269d400ea8468dbdd963.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "ROSCOE_AND_FRIENDS": {
       "name": "Roscoe And Friends",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/73077a9d1486cd0537a44c5fc4bda64feebf9117.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "THE_STRAIGHT_DOPE": {
       "name": "The Straight Dope",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/1d5780580b3e9d699d9cb8cfbb8b9b6a7343d0e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "THE_UP_AND_UP": {
       "name": "The Up And Up",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/004c986a45678f5667782bf321b9ac68683ff454.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.4"
     },
     "WOODEN_OVERCOATS": {
       "name": "Wooden Overcoats",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/c64d9a0079ff82809cef75867b8d6b1074bb7bc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.8"
     }
   },
   "platform": null,
