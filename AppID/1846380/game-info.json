@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/3156dd0553287580f157bd5534cc7012c9e47769.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "Achievement_GOSCC_36": {
       "name": "100 Miles and Runnin'",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/5143c93c7b72e5f6c40d852a5b899ba479d22617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "Achievement_GOSCC_12": {
       "name": "Catch My Drift",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/0a59517b72496bc885819329ba2e8d8d24feb154.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "Achievement_GOSCC_10": {
       "name": "In The Zone",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/5324bc1d5507649bcaca3d664998292add155476.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "Achievement_GOSCC_5": {
       "name": "Lake Better Watch Out",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/f7e9431088401c5ac147c6e64e50654997116bfe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "Achievement_GOSCC_32": {
       "name": "Mixtape",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/b0c3df1b28055a943bcca9b0d9c4b80cc4fff49d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "Achievement_GOSCC_3": {
       "name": "New Crew",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/bef1570b357518c60a02cb07072378b1beb1b7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.3"
     },
     "Achievement_GOSCC_19": {
       "name": "Rebel Without a Pause",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/05fc293d9693e8bdfeb7768e5eacb3b9b1aaeb89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "Achievement_GOSCC_21": {
       "name": "Rydell's Rydes",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/3254dbe9d3dced65a2a5a52bb6320f384af9cecf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "Achievement_GOSCC_15": {
       "name": "Serious Guap",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/6d5b961fc772183b5f2f4546093d3905cfa11da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "Achievement_GOSCC_20": {
       "name": "Style it Out",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/d85cb98924760e622b4c16604c795a0596201f1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "Achievement_GOSCC_30": {
       "name": "Superstar",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/7efd2586c854b16fc472b768e6c5b54dcd4a1be3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "Achievement_GOSCC_24": {
       "name": "Untouchable",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/dde54e210e678633dbf1818018cb8dae6c702a01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     }
   },
   "platform": null,
