@@ -14,8 +14,8 @@
     "earned_time": 1768740587
   },
   "DESTROY_FACTORY_CRATES": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768990513
   },
   "DISARM_ENEMY": {
     "earned": true,
@@ -28,16 +28,16 @@
     "progress": 0.0
   },
   "FIND_ALL_BIOS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768899420
   },
   "FIND_ALL_DATA_DRIVES": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768992038
   },
   "FIND_ESCAPE_POD": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768985152
   },
   "FINISH_CONTAGION": {
     "earned": false,
@@ -48,12 +48,12 @@
     "earned_time": 0
   },
   "FINISH_DLC4": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768993364
   },
   "FINISH_GAME": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768901645
   },
   "FINISH_GAME_HARD": {
     "earned": false,
@@ -104,8 +104,8 @@
     "earned_time": 0
   },
   "KILL_BIOBOT": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768985676
   },
   "KILL_ROBOT": {
     "earned": true,
@@ -116,12 +116,12 @@
     "earned_time": 1719921151
   },
   "KINETIC_HAMMER": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768989165
   },
   "LOCK_UNDER_7SEC": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768905357
   },
   "NOSPEND_2ROUNDS": {
     "earned": false,
@@ -178,8 +178,8 @@
     "earned_time": 1768743269
   },
   "STORY_MINETOWN": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768843653
   },
   "STORY_OUTBREAK": {
     "earned": true,
@@ -190,8 +190,8 @@
     "earned_time": 1768742337
   },
   "STORY_TOWER": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768844485
   },
   "STORY_TUNNELS": {
     "earned": true,
