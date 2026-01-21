@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/8ebaa020a6157d791b7600e9ebd28a18e5ced1f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.3"
     },
     "Achievement_GOSCC_18": {
       "name": "Back At You",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/8c3bc797fdf1b358f981377c63a5739df4e8ed5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.7"
     },
     "Achievement_GOSCC_28": {
       "name": "Bank Shot",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/d38797c9dd8cc2a88ed1cb295f66db28f35cd2d9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "Achievement_GOSCC_4": {
       "name": "Feel the Force",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/aa45e6a725b6d467b813578017b5b1cfd75710ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "Achievement_GOSCC_32": {
       "name": "Green Thumb",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/a1d59f75abaf10787a9f75e2db5b0073aae7932c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "Achievement_GOSCC_7": {
       "name": "The Mantis",

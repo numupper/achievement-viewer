@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.8"
     },
     "MDL_BIG_BROTHER": {
       "name": "Big Brother",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "MDL_CHASING_THE_DRAGON": {
       "name": "Chasing the Dragon",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "MDL_CHECKING_OUT": {
       "name": "Checking Out",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "MDL_CHOP_CHOP!": {
       "name": "Chop Chop!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "MDL_DLC_RTR_EXPLORER": {
       "name": "Explorer",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "MDL_AUTO_PILOT": {
       "name": "Get Rich or Die Flyin'",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "MDL_HARD_TO_KILL": {
       "name": "Hard to Kill",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "MDL_LAST_RESPECTS": {
       "name": "Last Respects",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.6"
     },
     "MDL_MAIL_MAN": {
       "name": "Mail Man",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "MDL_DLC_RTR_MASSACRE": {
       "name": "Massacre",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/5860081359ebdf68b5ada6d7dd9a799a5241c4fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "MDL_DLC_RTR_MILLIONAIRE": {
       "name": "Millionaire",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "MDL_PEDAL_TO_THE_METAL": {
       "name": "Pedal to the Metal",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "MDL_THE_PRICE_OF_OIL": {
       "name": "The Price of Oil",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.4"
+      "percent": "58.5"
     },
     "MDL_THE_PROFESSIONAL": {
       "name": "The Professional",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "MDL_TIME_WELL_SPENT": {
       "name": "Time Well Spent",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/5860081359ebdf68b5ada6d7dd9a799a5241c4fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.6"
+      "percent": "58.7"
     },
     "MDL_VIVA_LA_RESISTANCE": {
       "name": "Viva La Resistenza!",

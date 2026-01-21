@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/5b96a28c0d45ac5b4084077248b85008924c89e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "ACT8": {
       "name": "Chapter 8",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/ece398f6e26018b3c8b4b00cd56eb934bd742bfb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "CREATUREFEATURE": {
       "name": "Creature Feature",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/fdaf3bcbba18921e6cf7a2f4ab13b78e497b4ffc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "FOREWARNED": {
       "name": "Forewarned is Forearmed",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/a9723aa2f216d60b0759c04af6b3b7f7d52be213.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "LASTMANSTANDING": {
       "name": "Last Man Standing",

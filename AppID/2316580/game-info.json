@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/6dacb86ead4c2e794e4f68f7d3ec1fb7224af162.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.9"
+      "percent": "81.0"
     },
     "UnlockAllAbilities": {
       "name": "Honour the Ancestors",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/30e9b76d301ab723ee7485499642dd4231c7318f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "Kill3Enemies1Beam": {
       "name": "I am the Moon",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/7a66d5ef5fccab2eac3804615d38892813aea941.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "CollectAllEchoes": {
       "name": "Listen and Learn",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/51504cf368d8f8975af6be8667c43935f164ea66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "UnlockAllTrinketSlots": {
       "name": "Perk Up",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/5dbac638e48d9f03e2918d783e0a92b764fb87dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "PerfectReloadX10": {
       "name": "Quick Draw",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/55fb1df8169f04a97a9738b2fc579e093efb69a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     }
   },
   "platform": null,

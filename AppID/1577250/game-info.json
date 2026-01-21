@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/0742168bddc317bf8515d76d1ea250e1ea36c934.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.7"
     },
     "BOOKWORM": {
       "name": "Bookworm",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/0cae161a2150aff6da563883fe79475d526c7452.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "ICARUS": {
       "name": "Icarus",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/902f60c6a0b2832749e1fe92c94768b02b20fb5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "RESOURCEFUL": {
       "name": "Resourceful",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/8950cfceca46ace582e8feb7baf64b169b3c06aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "SELF_HELP": {
       "name": "Self-help",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/cff5dd78632a88df303d0e28d7f3db7e97607236.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.4"
+      "percent": "53.3"
     },
     "STALWART_PSYCHOSIS": {
       "name": "Stalwart Psychosis",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/066d3b7bc3b17fbc6f684b010fb4e60f39e8f4b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.0"
     },
     "THE_GREAT_ESCAPE": {
       "name": "The Great Escape",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/494be3553c3a9fd7c8ed8e15ba6cd1731ba6d286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.7"
+      "percent": "70.6"
     }
   },
   "platform": null,

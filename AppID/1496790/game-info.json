@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/d30d1c41c12d3ac981545539f557a3ccc613c2be.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "AC1_HA_BLACKGATE": {
       "name": "Hammer and Icicle",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/7c656a681cda8976bfb67eb727bbb16113312ca9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "DEFEAT_LOS_1": {
       "name": "Out of Their League",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/7e30dea01d6511da559055ed0484a1f89cecf17c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "ALL_SHOWDOWN": {
       "name": "Showdown Sovereign",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/d14831161b02285223fbaa0ea63bcc09ec0460ca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "SECRET_IDENTITY": {
       "name": "Solid Alibi",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/a39b8faaa4254b90cde1ba8e45898a538ae8b68c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "DEFEAT_COO_1": {
       "name": "Talonted",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1db248c76e042f4ea5d726bd0198371b70c64750.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     }
   },
   "platform": null,

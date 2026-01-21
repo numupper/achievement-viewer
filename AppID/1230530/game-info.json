@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "trophy_06_level6_complete": {
       "name": "Godslayer",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "trophy_39_dlc_watcher_challenge": {
       "name": "Painstaking Persistence",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Atlas Fallen: Reign of Sand - Free Upgrade",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "trophy_03_level3_complete": {
       "name": "Powerful Allies",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "trophy_19_elite_enemies": {
       "name": "Slayer",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "trophy_38_summiter": {
       "name": "Summiter",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "trophy_34_collectables": {
       "name": "The Collector",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.6"
     },
     "trophy_10_all_weapons": {
       "name": "Trinity",

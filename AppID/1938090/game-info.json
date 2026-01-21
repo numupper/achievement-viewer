@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/1a28bfe99199e5b3965487d19249a4bd395cd515.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "sat_global_drippedout": {
       "name": "Dripped Out",
@@ -793,7 +793,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/04f71865f03ca8acb5f2f4349612725d2d95568a.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "sat_wc_loremaster": {
       "name": "Loremaster",
@@ -811,7 +811,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/a4575b08d37675a9fbc262d209c654dadca9807f.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "sat_mp_maximumoverdrive": {
       "name": "Maximum Overdrive",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/ac94d639a3757eda81b0cd3784c096a86e52edd1.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "threestarbadsit": {
       "name": "Night Fight",
@@ -1099,7 +1099,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/db2e7c21ca6133713511e94f8a5524357de01c3a.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "jup_ob_seeingred": {
       "name": "Seeing Red",
@@ -1135,7 +1135,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/98820f40318608cf50ae4204313d58ff0d42508a.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 6",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "t10_sp_sabotage_target": {
       "name": "Skewer the Winged Beast",
@@ -1306,7 +1306,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/2a80f430e35f46ab2ca2dc50f1bb0d5d2595168a.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "spfinish": {
       "name": "Time for Pints",

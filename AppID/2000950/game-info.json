@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/30cfe81a70743c8bfd83ceb3097104e50caf6f8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "HANGTIME": {
       "name": "Hang Time",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/63580b2febb3466efbdcabb660d2ae1873e774fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.7"
     },
     "FOGFRAG": {
       "name": "Nothing but Net",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/f4cf8ca09eeabdb2db22ef3036d1ea7af93e51fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "FINISH": {
       "name": "Tea Time",

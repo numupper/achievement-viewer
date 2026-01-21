@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41e907ebe32c4f91255aba9b285863fe948b0356.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "ACHIEVEMENT_CAMPAIGN_BURMESE_COMPLETED": {
       "name": "Cakkavatti",
@@ -1054,7 +1054,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/54fe6d3cebf0e70045d99f98ede527993d864408.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "ACHIEVEMENT_FRANKLY_MY_DEAR": {
       "name": "Frankly My Dear...",
@@ -1099,7 +1099,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/350b466f9fa9bd6c84d8e37154be14d77166297d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "ACHIEVEMENT_GALLEON_BLING": {
       "name": "Galleon Bling",
@@ -1333,7 +1333,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4d50cfedf863e5422438df34f9eea53ce5decf4c.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "ACHIEVEMENT_CAMPAIGN_ATTILA_COMPLETED": {
       "name": "Huney, I Shrunk the Romans",
@@ -1459,7 +1459,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/50e5398471ac1f30a600aef3184b47d2fbef9ae1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "ACHIEVEMENT_CAMPAIGN_MALAY_COMPLETED": {
       "name": "Island Hopper",
@@ -2377,7 +2377,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/cb1de7a7dd1d9a3839364c1fa9f683297e905ee7.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Victors and Vanquished",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "ACHIEVEMENT_SCATTERED_HORDE": {
       "name": "Scattered Horde",
@@ -2404,7 +2404,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/0818c3bb768661725dbf4c13c0d4ab1e457d2a3a.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Lords of the West",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "POMPEII_SHANG_VICTORY": {
       "name": "Shang Victory",
@@ -2836,7 +2836,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3a15cc0872628368dd71d18c15bc50bcfbd9cff3.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ACHIEVEMENT_TOLERANT_PIETY": {
       "name": "Tolerant Piety",

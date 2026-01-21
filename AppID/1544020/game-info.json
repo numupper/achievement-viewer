@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/d0ca15c8ea16b5069101f74545d70be3d625a5b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "STORY_OUTBREAK": {
       "name": "Desperate Times",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/44956d7cf4fc73c172bc6c677adb5e105b008610.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "STORY_ESCAPE": {
       "name": "If the SHU Fits...",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/0c8c588cbbbf94f3170e075d8e3218b81d07e9ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.9"
     },
     "GRP_MELEE_KILL": {
       "name": "In Striking Distance",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/7d4ea8cf2b6d20b1c5d2ff7be91706f9e5584f85.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.1"
+      "percent": "62.2"
     },
     "FINISH_CONTAGION_NO_DEATH": {
       "name": "You Belong Here",

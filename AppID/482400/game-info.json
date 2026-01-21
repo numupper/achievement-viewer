@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "DestroyMedicalComputerNodes": {
       "name": "Decrypted",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "IonBounceKill": {
       "name": "Goldberg’s Ricochet",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.2"
     },
     "CompleteCyberspaceLevels": {
       "name": "Hacker? You Hardly Know’er!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "PlasmaCoreMultiKill": {
       "name": "Neon Annihilation",

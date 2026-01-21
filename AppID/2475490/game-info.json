@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/15a1707e9ebbdb172242371cb0a94b32b1797372.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "IdCard_Anya": {
       "name": "Anya",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/72edf684db9a391c6b8681498b6e2ee96cb3b7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "Developer": {
       "name": "Developer",

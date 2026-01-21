@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030840/c0c088b655ab21500b25b2eba7824437060b0bf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "ACHIEVEMENT_42": {
       "name": "Made Man",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030840/9e4961d4523f227eedce3225c756f170611aa5d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.9"
+      "percent": "72.0"
     },
     "ACHIEVEMENT_18": {
       "name": "That Last Big Score",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030840/82228bcd6097423fb2578d3745e336abc55a17c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "ACHIEVEMENT_26": {
       "name": "That Motor can Move",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030840/379975665609fd48fca54e5090db5bb29693f212.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.8"
     }
   },
   "platform": null,

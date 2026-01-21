@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/36e0781511139581b67f0f4d4326f1c759eee0fd.jpg",
       "hidden": true,
       "group": "Fallout 4 Nuka-World",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "NEW_ACHIEVEMENT_41_0": {
       "name": "Animal Control",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/1bc7c2fe6936667eaea5e6e7f50c5618fd2cfc1a.jpg",
       "hidden": true,
       "group": "Fallout 4 Far Harbor",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "NEW_ACHIEVEMENT_47_0": {
       "name": "Commonwealth Citizen",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/7840bbebb4db20aae77e38ebf93a3997f81c67cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "NEW_ACHIEVEMENT_23_0": {
       "name": "Community Organizer",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/0c45dc9c745bf762b170b2f65a5bf286660a0ac3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "NEW_ACHIEVEMENT_35_0": {
       "name": "Future Retro",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/27a1fda38a29457935a4dac6ce7e14e59cfa4511.jpg",
       "hidden": true,
       "group": "Fallout 4 - Automatron",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "NEW_ACHIEVEMENT_26_0": {
       "name": "Mercenary",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/dfbf0a73220e3db1a9f129672a536c449c8bb1b9.jpg",
       "hidden": true,
       "group": "Fallout 4 - Automatron",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "NEW_ACHIEVEMENT_21_0": {
       "name": "Rockets' Red Glare",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/fe3d3d2cb33711218c8b1231ee02d4539e968b12.jpg",
       "hidden": true,
       "group": "Fallout 4 Far Harbor",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "NEW_ACHIEVEMENT_44_0": {
       "name": "They're Not Dolls…",

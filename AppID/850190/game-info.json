@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b93d2d9bc54bf96c605954a71af6566fc5cb1629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "AchievementContainerPartyID": {
       "name": "Club Mohair",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e36875470d7de7f18eaf7ff121c67c4aef10a369.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "AchievementCrashGameID": {
       "name": "Don't touch the servers",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/843e4258ad8d6abb5685e47090e35f361e20d475.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "AchievementApocTrinketsID": {
       "name": "Live Free and Try Hard",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/7612310a5241717db342558f94c99eb17250c4ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "AchievementStratosphereID": {
       "name": "Reach the Stratosphere",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "AchievementMultiverseIntroCartID": {
       "name": "This Took Half My Life",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/4a96d0de2a9656fcee6a58c64aafcf3f1ce061ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "AchievementBaywatchID": {
       "name": "Who Baywatches the Baywatch?",

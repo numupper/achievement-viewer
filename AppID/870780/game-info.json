@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/803626fa24b62136328ad9c6f8cdff2a0d6a9a2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "AIR_SUPERIORITY_ACHIEVEMENT": {
       "name": "Elevated Mind",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/64587808fa51fa2a79a6cf136232c6b94f7f4b2d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "X_RAYS_ACHIEVEMENT": {
       "name": "Hostile Work Environment",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/0bcb4ed6a5c2caaecb3dbdcdc8f25b8ef35a73e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "UNLIMITED_ACHIEVEMENT": {
       "name": "Master Parautilitarian",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/f24054d26f03ad6bc9b728665f81aed704f71693.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.6"
     },
     "VIVA_PINATA_ACHIEVEMENT": {
       "name": "Vending Spree",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/8ff1c1ad6bde8b8f2a1114f79b67248c3c0474c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "ITS_A_SHIFTING_PLACE_ACHIEVEMENT": {
       "name": "Welcome to the Oldest House",
