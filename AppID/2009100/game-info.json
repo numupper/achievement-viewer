@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/6493bb3cc4a61af5428d3bd4b82bd6d4c2437d84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "Achievement_GOSCC_42": {
       "name": "Armaments Gules",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/5c354bcd2dd0edccb26e2e0fba3bde7820f2cbae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "Achievement_GOSCC_2": {
       "name": "Battlefields Have Memories",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/5918838d17b53f1c8fd9e0dbe49bc557c8da58fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "Achievement_GOSCC_64": {
       "name": "Fowl Play",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/43eb2402e6138ffb25de83c6d8bc810f71fd5d4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.2"
     },
     "Achievement_GOSCC_4": {
       "name": "No More Names",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/de259d95168f276a9a434a8b954e0c8fb45fa116.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "Achievement_GOSCC_12": {
       "name": "Resilience to Sin",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d5b6c111232c7f84df8f30eea28a4d82450eeb16.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "Achievement_GOSCC_26": {
       "name": "Scholar",
