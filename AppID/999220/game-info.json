@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/7e639b5c068cacb6fded95c39c38c98606a3d0cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "Diagnostician": {
       "name": "Diagnostician",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "Torturer": {
       "name": "Torturer",
