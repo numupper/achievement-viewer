@@ -1,29 +1,35 @@
 {
   "PORTAL_BEAT_2ADVANCEDMAPS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1769171285,
+    "max_progress": 2,
+    "progress": 1
   },
   "PORTAL_BEAT_4ADVANCEDMAPS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1769174062,
+    "max_progress": 4,
+    "progress": 3
   },
   "PORTAL_BEAT_6ADVANCEDMAPS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1769181750,
+    "max_progress": 6,
+    "progress": 5
   },
   "PORTAL_BEAT_GAME": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1769167517
   },
   "PORTAL_DETACH_ALL_CAMERAS": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1769160947,
     "max_progress": 33,
     "progress": 22
   },
   "PORTAL_ESCAPE_TESTCHAMBERS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1769161295
   },
   "PORTAL_GET_ALLBRONZE": {
     "earned": false,
@@ -50,12 +56,12 @@
     "earned_time": 1769102140
   },
   "PORTAL_KILL_COMPANIONCUBE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1769158134
   },
   "PORTAL_LONGJUMP": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1769165236
   },
   "PORTAL_TRANSMISSION_RECEIVED": {
     "earned": false,
