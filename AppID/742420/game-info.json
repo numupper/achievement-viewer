@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3241644d53d61c4fb72ca25960481334a5317566.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "kill_tank_driver_with_rail": {
       "name": "Armor Piercing",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/e7c4cc7a8df48b643f177bb8a0d3a8602d8c0d8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "own_100_pieces_of_clothing": {
       "name": "Closet Space",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/834f367fa9489d998cea96ce2aff52fbbf8be9e7.jpg",
       "hidden": false,
       "group": "Saints Row - A song of Ice and Dust",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "get_betrayed": {
       "name": "Et tu?",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "bfhj_complete_mission_2_collectible": {
       "name": "Face Off",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/2fe9be47ca4711e6a9c6537a71720d8b3107fcfe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.3"
     },
     "tourist_finale": {
       "name": "Living the Dream",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "empire_tier_4": {
       "name": "Masters of Santo Ileso",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/c7eb58db16b60035f36a0739d72f695e179a6777.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.9"
     },
     "genki_finale": {
       "name": "Most Dangerous Game",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.5"
     },
     "kill_each_faction_miniboss": {
       "name": "Picking Fights",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4279c9cc2182674111774b200deb0805b422233f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "empire_tier_3": {
       "name": "Power Players",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/a4c102d10566e154a539fb791a2af8ee69886b71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "prank_coop_partner": {
       "name": "Prankster",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/617b168ff8786a951ee86c3c6b96fa11f0ec29d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "do_a_barrel_roll": {
       "name": "The Spins",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7010d8816dc9932252de27a14044bb521267c9f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.6"
     },
     "hit_max_level": {
       "name": "Took It to The Limit",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3232157eea26b27ce1e3cc8221d567df63b23ee3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "disorganized_crime_instaces": {
       "name": "Untouchable",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Saints Row - Doc Ketchums Murder Circus",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "complet_epilogue_mission": {
       "name": "We could go home, or…",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/32acf1e4c5942b7b4897ab78ef76ee9b019dc519.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "44.1"
     },
     "fully_complete_a_building": {
       "name": "Work Ethic",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ff69d9489ad1bd496aa4d701597411352d02139f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "kill_enemy_with_tetherd_object": {
       "name": "Wrecking Ball",

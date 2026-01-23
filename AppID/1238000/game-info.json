@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/538c1d631ceb70aeff61deefb76ea59dde750af5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "Achievement_GOSCC_12": {
       "name": "Friendly Fire",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/276b363d03a8ec7b70fd30d99a383c9394c321fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "Achievement_GOSCC_46": {
       "name": "Full Power",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/5bfd53c5d84080837f3ccd854a0304101ae2b970.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "Achievement_GOSCC_38": {
       "name": "Helping Hand",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/fab55e8aaf8ca3edd88762f910233f85ce8553dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "Achievement_GOSCC_16": {
       "name": "Long-Distance Jump",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/e7bcbf802fcb528a390b42d663256ada4c9e2ebb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "Achievement_GOSCC_17": {
       "name": "Matchmaker",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/44835d92ad31f142739361fac018c9b116e8bd1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.6"
     }
   },
   "platform": null,

@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/2f404cdfa93e6feaa708948345cf57cd23749ea1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "DLC_AV004_1": {
       "name": "Eight Million Stories",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/fa72405db137d89d04d1e51e759445cfe8eb9663.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "KEEP_A_LID_ON": {
       "name": "Keep A Lid On",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/041ff27977f3b091bb08ffc6e04f7643ce4d2ed4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.0"
     },
     "PUBLIC_MENACE": {
       "name": "Public Menace",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/deaaf187e8f8dd28f476269d400ea8468dbdd963.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "ROSCOE_AND_FRIENDS": {
       "name": "Roscoe And Friends",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/779c20bc99a954abeb0bf7bd58bd06851cf0e944.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "STABRITE": {
       "name": "Stab-Rite",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/d6f274d98571c9ab172dfad82dba1c5aaeaab4fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "THE_HUNCH": {
       "name": "The Hunch",

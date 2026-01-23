@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2a03672c72341cf1f4d14eaaf647313b31869565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.1"
     },
     "ACH_DRIFT_DISTANCE_1": {
       "name": "#DriftStarter",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e032729bb3bd1bcf651e7f6018873904851212ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "ACH_CLUB_FALCON": {
       "name": "#Falcon Outlaws",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/108fb49e5e4e7c4f57e3d133a146486ad57f70ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "ACH_CLUB_KANJO": {
       "name": "#Kanjo Spirit",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c86239c2ef44ae99c68aeff9f391691f771dd39c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ACH_CLUB_ROAD_RUNNER": {
       "name": "#Road Runner",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c17b3733778e0636277da68ebca3b1936a6a489b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "ACH_LEADERBOARD_500": {
       "name": "Ambitious Beginner",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b65bc12e13aa98a4a33382e75b05e92585766d81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "ACH_PURCHASE_CAR_3": {
       "name": "Connoisseur",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/aad704fc6d8f6ddd490ae34c78380536cc2a3a43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.3"
     },
     "ACH_AIR_TIME": {
       "name": "Flight Rookie",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a77cd72d4d1cccb28fdfb6fa6fbc99c60a9716df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.1"
     },
     "ACH_CHASE_4": {
       "name": "Invincible",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/d9eded11a95ae0b4a4572144057b9c5fcea07c08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "0.8"
     },
     "ACH_RACER_3": {
       "name": "Legend of the Asphalt",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a3416f8fa5bf97b00824c8684169ef975ff98f34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "ACH_FARM_RACE_3": {
       "name": "Time Is Money",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c121db7ffd641d23c42fd6d2f1c7dd1e3f6fabc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "14.8"
     },
     "ACH_PURCHASE_CAR_1": {
       "name": "Variety Lover",
