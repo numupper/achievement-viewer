@@ -1,7 +1,7 @@
 {
   "appid": "1984270",
-  "name": "Game 1984270",
-  "icon": "",
+  "name": "Digimon Story Time Stranger",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/723bccb3bf302c7c065201b578fbc7030b4e3c41/header.jpg?t=1769036929",
   "achievements": {
     "ACH_ID_22": {
       "name": "A Bond Restored",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "ACH_ID_46": {
       "name": "Agent of Perfection",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "ACH_ID_34": {
       "name": "Darkness Awakens",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "ACH_ID_20": {
       "name": "Historical Truths",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "53.8"
     },
     "ACH_ID_29": {
       "name": "Initial Digivolution",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.5"
     },
     "ACH_ID_10": {
       "name": "Power Uninterrupted",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "ACH_ID_23": {
       "name": "The Final Light",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1984270/f1bfd3d438439373688607fef9aa5cf318cd2ca4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.5"
     },
     "ACH_ID_12": {
       "name": "The Great Guardian",
