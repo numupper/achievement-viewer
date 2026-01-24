@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/2f404cdfa93e6feaa708948345cf57cd23749ea1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "DLC_AV004_1": {
       "name": "Eight Million Stories",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/041ff27977f3b091bb08ffc6e04f7643ce4d2ed4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     },
     "PUBLIC_MENACE": {
       "name": "Public Menace",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/deaaf187e8f8dd28f476269d400ea8468dbdd963.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "ROSCOE_AND_FRIENDS": {
       "name": "Roscoe And Friends",

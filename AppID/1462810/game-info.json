@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/54c69c5fcc582abcf47aef91417b141ee5def506.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "ACHIEVEMENTS_08": {
       "name": "Climbing the Ranks",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/58bb92345388b4e05f4dc7651581c29d64398b90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.7"
     },
     "ACHIEVEMENTS_02": {
       "name": "First Victory",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/2e92caed402c1f17fec2f05d39c83cbc8c6d1ac8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "ACHIEVEMENTS_35": {
       "name": "Globetrotter",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/396f80d20b1b06b7a574e3efe34d38068b6c8a56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ACHIEVEMENTS_44": {
       "name": "Gold Medallist",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/b3599c58f137dc966feda3bfebdbfff1860f02a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.8"
     },
     "ACHIEVEMENTS_21": {
       "name": "Stepping Up",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/c374cb5de89b9efae863936634b194e6a87bdeb5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "ACHIEVEMENTS_34": {
       "name": "Tourist",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/23110e50744ce309dbd9c1ab4506d75e8c4cd50d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "ACHIEVEMENTS_18": {
       "name": "Winner in Finland",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/41edb0a4cb04f602c2aa47735dbddcd27f4484da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ACHIEVEMENTS_16": {
       "name": "Winner in Sardinia",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/f7a2e22a95c31622e4ec5680534a1cfe02262c92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "ACHIEVEMENTS_19": {
       "name": "Winner in Spain",
