@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ddd064d5a662630f0318af3ea63362f7ade60b95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.7"
     },
     "battleAssimilationIsIncomplete": {
       "name": "Assimilation Procedure Interrupted",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3872a1524f172fe988ac2e2b3166edffd094f1fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "researchAnimalDialogue": {
       "name": "Beast Friend",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/61d209294e6c83debaa37a9deb70bd8ac6e73dc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.8"
+      "percent": "52.9"
     },
     "killIvy": {
       "name": "Plyusch Rush",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/9418419b30ed56acb4a4ee3d08306065348649ae.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "researchAnalyzAllMobs": {
       "name": "Scanner",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cf322399dd21a288d540a66aa42a5cdade1e484e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "battleBoxInBottle": {
       "name": "Time in a Bottle",

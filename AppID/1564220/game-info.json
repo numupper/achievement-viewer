@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/cfd9d72915dfcd5f2d6a152b7b5044a2c55f2a71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "ACH_Sector1": {
       "name": "Sector 1",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/0d0855ef812bca00c1ff5609ff0798e0da6fc334.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.0"
+      "percent": "89.1"
     },
     "ACH_Sector2": {
       "name": "Sector 2",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/dc45907ea3a75e88eff3cdb8f55dd9b963332b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.5"
+      "percent": "80.6"
     },
     "ACH_Sector3": {
       "name": "Sector 3",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/f17de583bb9feb1d59c06d0529b721a1741681e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.6"
     },
     "ACH_Sector5": {
       "name": "Sector 5",

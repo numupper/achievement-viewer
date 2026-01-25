@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/c4d255503926658e1d156ff894a200525c32fadd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "frenemies": {
       "name": "Frenemies",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/a78dfd16ccbfd5bd68d005eaa1c4e5d96edd2c3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "fullarsenal": {
       "name": "Full Arsenal",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/ec2619bc46ac722e12eb792a95e4aff0b3ad44db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.3"
     },
     "herekittykitty": {
       "name": "Here Kitty-Kitty",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4162226f9bad466618244635f3b379aedc88000d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "heroforhigher": {
       "name": "Hero for Higher",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/c546a12fb50a6ec011c2b76cb69beaeba3fea87e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "mercenarytactics": {
       "name": "Mercenary Tactics",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4f614094fbaf7e837a525092d6e60fc06a5991f4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "r&d": {
       "name": "R&D",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/76cf5b1453addfbe50700e88840d5740429bd314.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "screwballed": {
       "name": "Screwballed",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5cc32457566a89801f8d3beed90acd73fa82d117.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "shockandawe": {
       "name": "Shock and Awe",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/641a64fe768fa6182317e0e8ce01a21f260d7efb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "terminated": {
       "name": "Terminated",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/1bb8693f4935ff666066b813be7ded43a304875a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "thecatcameback": {
       "name": "The Cat Came Back",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/7dd24ee7144aba931cb42d941dc469282aacd152.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "turningthescrew": {
       "name": "Turning the Screw",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/19358e62f318002d15989067a81c20ef35ec1ee8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "unacceptable": {
       "name": "Unacceptable",

@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/e86fd4d2bc3306277abd9380f79a5fdf6a3d6379.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "ACT2": {
       "name": "Chapter 2",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/8ca8b15499692c9275a4f4baea347db2293f05dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "ACT6": {
       "name": "Chapter 6",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/16206eba35c804a1d577884ae1f26f6df1621b61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "CONSPIRACYTHEORIST": {
       "name": "Conspiracy Theorist",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/380be9809f4d6443559e5ef9ccba4d7a85c4c24a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "PROLOGUE": {
       "name": "Prologue",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/e894016990500cfc49fea28640aa4ea3d1f0c15e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.8"
+      "percent": "79.9"
     },
     "YOUREBREATHTAKING": {
       "name": "You're Breathtaking!",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/a5e1f61cfd9aa39d68137722fafe4c187ea781e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.7"
     }
   },
   "platform": null,

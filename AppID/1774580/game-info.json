@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/b4f423234b489fa2606cffbf4db4571c6559cac3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "Achievement_GOSCC_a42": {
       "name": "A Presence I've Not Felt Since...",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/edac2443959f6ffe6c7966e93471b6f330187760.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "Achievement_GOSCC_a11": {
       "name": "At the Precipice",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/75d8d6b54ff1e9cf8a675d7efa454e44586f40de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "Achievement_GOSCC_a53": {
       "name": "Blood, Sweat, and Tears",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/f91ea8630b59ea500878402171efe902cd031c9b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.2"
+      "percent": "82.3"
     },
     "Achievement_GOSCC_a7": {
       "name": "For the Path",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/07265c68806bb1c98c789e42693efc661711bc75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.5"
     },
     "Achievement_GOSCC_a20": {
       "name": "I'm a Living Legend",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/994f8b9f7bf6a05cfdcbb68c160f00afc534cee8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "Achievement_GOSCC_a12": {
       "name": "Into the Abyss",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/201adeacbbd369eb60cb152deeee9bbd40732e33.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "Achievement_GOSCC_a28": {
       "name": "King of the World",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a96126fede09a0319e520686e84a557796914109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "Achievement_GOSCC_a23": {
       "name": "Mirror Match",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/43e192dbbd48f3d14aad4b8e4c808b5b6cc5514f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.8"
+      "percent": "52.9"
     },
     "Achievement_GOSCC_a22": {
       "name": "One With the Force",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/fc5eac5ee6c3ed84cc94eb4fe1709b7392671fa1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.3"
     },
     "Achievement_GOSCC_a39": {
       "name": "Perk of the Job",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/c5a7621c6e58a58b932e90aef3640e0e3cb9a1cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "Achievement_GOSCC_a44": {
       "name": "Road House",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/463f479d0a561e55fe61cec124dcf0f5fa2c631f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "Achievement_GOSCC_a33": {
       "name": "Skywalker",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/d788ab673247db409aa8517cb06db09edecf2abc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.2"
     },
     "Achievement_GOSCC_a52": {
       "name": "The Jedi Path",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/4a0eb08787f2fce555fb686c048545da803bd90b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "Achievement_GOSCC_a18": {
       "name": "They Never Saw It Coming",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fcc94b77e3c8f048110604eb77e2856bb04a3a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.7"
     },
     "Achievement_GOSCC_a16": {
       "name": "You've Got A Friend",

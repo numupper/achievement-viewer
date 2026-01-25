@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "DestroyMedicalComputerNodes": {
       "name": "Decrypted",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "DestroyAntennaRelays": {
       "name": "No Reception",

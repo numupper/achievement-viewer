@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/08a9a7ae9b477e23473a21ea88c6d867ea5473e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "ACHIEVEMENT_BEGINNERSLUCK": {
       "name": "Beginners Luck",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/868fa3bd637560556e2e12a59f4bfeb57b580620.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "ACHIEVEMENT_DERAILED": {
       "name": "Derailed",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/3cff9c77e7125e57ed6123ade2ff80ce932f9d79.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "ACHIEVEMENT_ISITHOTINHERE": {
       "name": "Is It Hot In Here?",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/64c0c1a243a755b83b1afa3b46969b6bfc03969c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "ACHIEVEMENT_ITSOVERFORREAL": {
       "name": "It's Over, For Real!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/15beb0110ad5ad7f6b03b4fe093ce56978dda1f7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "ACHIEVEMENT_IMPRESSIVE": {
       "name": "The Egret Has Landed",

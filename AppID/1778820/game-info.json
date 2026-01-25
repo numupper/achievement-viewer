@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0f72003f0c4729d770815aab2ce6bfc07ba540e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.8"
+      "percent": "63.9"
     },
     "MyReplayTips": {
       "name": "(This one's in the bag!)",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/fa904f588516ff7baf30a01615d11b9393898cbb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "FloorBlast": {
       "name": "(You never learn.)",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a4d942a68e2a2aa88d2c4254b9ea67fcaa199f20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.7"
     },
     "FloorBreak": {
       "name": "...",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/00724e9374dd6a5f4363fb9366a56ec9500b1c1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.9"
+      "percent": "75.0"
     },
     "WallBreak": {
       "name": "Come on, just try and kill me.",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/26df242d1f86d428706b947c2e86be28ac4848e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "Hit30Chain": {
       "name": "I would do well to follow your example.",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/428158d78b9c066a0b2f3ec0a9a5147c29cfdcdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "51.0"
     },
     "RankMatchWin": {
       "name": "Just relax. You can do it.",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/eef0bdca57bb220adbefefdda7200933488384f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.6"
     },
     "WallBound": {
       "name": "Sorry for getting rough back there.",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/daeb42bdfe1fb6472951cd10d8aa89eb89e21763.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "62.1"
     },
     "BattlePerfect": {
       "name": "That was too easy!",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b5f598ee6653e1586db8daacd3bab72c52e46979.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "EpisodeClear5": {
       "name": "This should be fun.",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0b3e3519eafa309e6240ef573e03069b964bb4d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.2"
+      "percent": "64.3"
     },
     "HeatTechnique": {
       "name": "Your fate is already decided.",
