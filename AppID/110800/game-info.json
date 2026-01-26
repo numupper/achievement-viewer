@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/940558f91bc78a0b303c5600d7065e0fd1b7f76b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.2"
     },
     "DLC_AV004_2": {
       "name": "A Good-Looking Corpse",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/3f03a987c75a1bb5eed621914668010215bcaab3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "VEHICLE_COLLECTION_LEVEL2": {
       "name": "Auto Collector",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/d81a71426c8c49f6c597b8a06514375d4e6563d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.6"
     },
     "VEHICLE_COLLECTION_LEVEL3": {
       "name": "Auto Fanatic",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/162139bebdc1c4363e0e0511f07ee4060150b110.jpg",
       "hidden": false,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "15.8"
+      "percent": "15.7"
     },
     "DLC_AV004_3": {
       "name": "Fakeloo",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/311615449f52efc8402c836d2cae1b2bd3ec2e18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "LEAD_FOOT": {
       "name": "Lead Foot",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/542ac1f365ee4b0ad1ae44945fcc56704d8f557e.jpg",
       "hidden": true,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "DLC_AV002_2": {
       "name": "Spare A Dime",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/541a939fac70201edd5aa5154ae0afd53d2eb806.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.3"
     },
     "DLC_AT004_1": {
       "name": "The Printer's Devil",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/07450c4cb4347add3c2cc80718c806af35483ac8.jpg",
       "hidden": false,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "THE_SHADOW": {
       "name": "The Shadow",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/e2fa74c92f4a95f444f68663c6a7e217e54113b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "TRAFFIC_STOP": {
       "name": "Traffic Stop",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/004c986a45678f5667782bf321b9ac68683ff454.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "WOODEN_OVERCOATS": {
       "name": "Wooden Overcoats",

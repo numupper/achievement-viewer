@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d5a523c96cdcafe63f94605d7e5ad4b510d62d76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "ML_ACHIEVEMENT_13": {
       "name": "Look, Mom! No track!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f6f59da97a0bce2582e866a779a207df3b9c8d5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "ML_ACHIEVEMENT_09": {
       "name": "Masterful!",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0439310249b336a93c3408b24640e47dbbaae0e9.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "ML_ACHIEVEMENT_01": {
       "name": "Rookie",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/69336cb06d28d6b122ac337d96959c5d00465ffe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "ML_ACHIEVEMENT_33": {
       "name": "Spin the wheel",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/488be8f04bfd94088cf966a324e1c6fe8caf7c70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "ML_ACHIEVEMENT_16": {
       "name": "Stage animal",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/714a266c884a52eb618391de90e3dddb8df3e96b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "ML_ACHIEVEMENT_46": {
       "name": "The Ultimate Race",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4f980cccc3edc3c4bc1df18560979713333a7df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     }
   },
   "platform": null,

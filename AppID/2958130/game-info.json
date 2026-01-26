@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/10e1fe071e02cf899472f58f7ca5b96ffef6c58c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "CompletePark9Objectives": {
       "name": "Designated Global Sanctuary",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.5"
     },
     "BuildLagoon": {
       "name": "Include That In The Brochure",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/21d40d99ab6fa8ef1e481c9afdba74f968e5d278.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.3"
     },
     "JurassicDiffNusaTenggara": {
       "name": "Indonesian Legend",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/32b18c16af2437c577ae6024fe2b9416fa6e0d0a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "CompleteCampaignTechTree": {
       "name": "Share Your Research with the World",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/5fc9ade08a223e413ed98e99a48cb1b68bcd09ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "CompletePark7Objectives": {
       "name": "This Must Feel Exotic",

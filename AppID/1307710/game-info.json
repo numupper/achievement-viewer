@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/6b70c014cb8e407554aa5204d6e9b7e786ae2180.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "30": {
       "name": "Around the Globe, AGAIN!?",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/3cfcd37299bb9f440d8dc38c30e9b51c2b9c4fa4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "40": {
       "name": "Chill Out",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/3eb9ab87f7f551f0b2aa2d1ea327ec815b2c3d98.jpg",
       "hidden": true,
       "group": "GRID Legends: Rise of Ravenwest",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "103": {
       "name": "FINAL SHOWDOWN",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/2c28c8e2cfb0972f848070234a441cf348b7ffb7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "8": {
       "name": "HEADHUNTERS",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/7279087d31deda357a26e2d20fd45870d35e3239.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "44": {
       "name": "RUSH ON",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/cece9808c1a37169a7968e2160623cf5e2a923e7.jpg",
       "hidden": true,
       "group": "GRID Legends: Winter Bash",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "402": {
       "name": "SMOKIN' SLIDING!",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/29ecceaa2a79f8ee5731d5b84a59ff400f130fad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "25": {
       "name": "Sure, Jan",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/67810f56eaf2ce57306ea8d637fd189f9d66f7b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "102": {
       "name": "T-BONE TURMOIL",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/ec65d828286d3e43c919090c7f6951aff5e35989.jpg",
       "hidden": false,
       "group": "GRID Legends: Winter Bash",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "43": {
       "name": "The time is now",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/23756f7e789663f7567e531dd6dc542ab3e9320f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "4": {
       "name": "THUNDER DOWN UNDER",

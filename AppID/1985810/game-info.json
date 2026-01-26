@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/158b8aa012a14141437efb670e99d07e25d4879e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "CP_ACHIEVEMENT_COMBAT_RECRUIT": {
       "name": "Combat Recruit",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/538ebdcf982f50fef900834892ad577c7e8e8f69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "ZM_SILVER_CRAFT": {
       "name": "Craftwork",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/c44299446b52f83cd9634d36753db4398bbf0f72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "ZM_SILVER_START": {
       "name": "Entamaphobia",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9867f8dc803706873497c18ac8085652d832bb85.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ZM_SILVER_PAP": {
       "name": "Heavy Metal",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7cf6e15ae053af2425adeb341fe019811a221319.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "CP_ACHIEVEMENT_CP_TAKEDOWN": {
       "name": "Nowhere Left to Run",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/56798126182d1f6d580974f86978e73abb20a6e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "CP_ACHIEVEMENT_CP_SIDEMISSION_TUNDRA": {
       "name": "Operation Red Circus",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/909354647600dfd3cc7e03bf05a12c8601043347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "DOA_ACHIEVEMENT_FIDOLINA": {
       "name": "Reunited with Fidolina",

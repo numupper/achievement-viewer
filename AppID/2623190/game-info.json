@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/b178eb82e13b286226ff111e0dbddf97d2254031.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "Main_ClosedAnOblivionGate": {
       "name": "Closed an Oblivion Gate",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e9ad9e7711a3ccad42dfb050171ad02bf4a73724.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "Isles_Defender": {
       "name": "Defender, Shivering Isles",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/075cb16f5e13da8992c1a9a31f9838d78de2c708.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "Brother_Silencer": {
       "name": "Silencer, Dark Brotherhood",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/f0b72ea7abff1565963be5279e04852f496b0074.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     }
   },
   "platform": null,

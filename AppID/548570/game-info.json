@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/b84e48556f93481ec1e6c93e2e4e4cc63877899b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "ACHIEVEMENT_041": {
       "name": "Crushed",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/98aa0e72c491abaffee0df8e01a1a9e4960ae732.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "ACHIEVEMENT_003": {
       "name": "Skeet Shooting",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/ba34c00145a60391eec21660cd0827dc370c331a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "ACHIEVEMENT_009": {
       "name": "THIS IS RAGE",

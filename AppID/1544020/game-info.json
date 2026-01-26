@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/44956d7cf4fc73c172bc6c677adb5e105b008610.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "STORY_ESCAPE": {
       "name": "If the SHU Fits...",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/0c8c588cbbbf94f3170e075d8e3218b81d07e9ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.9"
     },
     "GRP_MELEE_KILL": {
       "name": "In Striking Distance",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/58df61bef76dc46eab045c2306c4988f0221b782.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.9"
     },
     "RIOT_10_POWERUPS": {
       "name": "Subject Alpha",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/cc86c5464c5151c4c9a1fa2a09f45c2d353a57f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "STORY_HABITAT": {
       "name": "Without A Paddle",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/7601a7e097af0bcc22ef48e838a40be0da3fe901.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     },
     "KILL_WITH_GRP_HAZARD": {
       "name": "Workplace Hazard",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/7d4ea8cf2b6d20b1c5d2ff7be91706f9e5584f85.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.1"
+      "percent": "62.2"
     },
     "FINISH_CONTAGION_NO_DEATH": {
       "name": "You Belong Here",

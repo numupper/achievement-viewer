@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/3b3ccbed635ffea029f35306483ff57d2763a027.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "Achievement_GOSCC_a3": {
       "name": "Grab Some Seat",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/dfb40505a69d46ee8156c1352e740bb8c4c29038.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "Achievement_GOSCC_a47": {
       "name": "Growth Spurt",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a077ca775783da78147f0cc778b1ade9ae700109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "44.1"
     },
     "Achievement_GOSCC_a34": {
       "name": "It's a Trap",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/b3c3dbc65f06646072a84003dec3f3559bf33214.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "Achievement_GOSCC_a45": {
       "name": "Kitted Out",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/9737f172b7644a6ed522a52ef67fcc98b67bb200.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "55.0"
     },
     "Achievement_GOSCC_a30": {
       "name": "Now, This Isn't Podracing",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e3b4ebfb24939b8462f2e5bdad82d13cc8de0631.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "Achievement_GOSCC_a1": {
       "name": "Rooftop Duel",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a714a09f573343114e3baba8c75df8cb037ad569.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "Achievement_GOSCC_a38": {
       "name": "Who Gives a Puck",
