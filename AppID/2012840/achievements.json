@@ -64,9 +64,9 @@
     "earned_time": 1769165236
   },
   "PORTAL_TRANSMISSION_RECEIVED": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1769438400,
     "max_progress": 26,
-    "progress": 0
+    "progress": 25
   }
 }
