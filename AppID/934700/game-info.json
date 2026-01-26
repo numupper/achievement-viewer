@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/575d79069a2aba58da1b1ea4d619f42aacd07ee7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "ach_finisher": {
       "name": "Coup de Grâce",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b024d0576ab4722b40daf5e7f68ab9fa11109c01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "ach_a_day_in_the_beach": {
       "name": "Dr. Reed, I Presume?",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f50f17dbb4a927a4c6b1b4cadbf2ece138be2f8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "ach_that_was_close": {
       "name": "Drop The Beat",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/713a73608fcbbf7bfcf2927fc6246689691fc414.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "ach_ayeaye_captain_vixen": {
       "name": "Make it So",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4b7fb9aa0ad514f31f3e871bdc1d16f8c162476a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "ach_helping_out": {
       "name": "No Encores",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/ac6ba1b7ec8a6fc88ecac59640821dddbee58ab4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "ach_blueprinted": {
       "name": "Perks of the Job",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b9854c0b9225393539c817ac7a3653d852c71c2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     }
   },
   "platform": null,

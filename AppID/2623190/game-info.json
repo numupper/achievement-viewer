@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/626bb4d5148b08cf9f29367f9e998ba01c6fb425.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.1"
     },
     "Mage_Apprentice": {
       "name": "Apprentice, Mages Guild",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/0600af634eb7f18175b2f5fe63dea3863452e3d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "Mage_ArchMage": {
       "name": "Arch-Mage, Mages Guild",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/f9241fd4d39d1cdc2e4e37455e3f56a2657f77d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "Brother_Assassin": {
       "name": "Assassin, Dark Brotherhood",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/eaefffbd0baae46fe74acb380357219da469e26c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.1"
     },
     "Mage_Associate": {
       "name": "Associate, Mages Guild",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e97b8bd419a9f8fe8ea55cc7774d97469f650efc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "Thief_CatBurglar": {
       "name": "Cat Burglar, Thieves Guild",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/b178eb82e13b286226ff111e0dbddf97d2254031.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "Main_ClosedAnOblivionGate": {
       "name": "Closed an Oblivion Gate",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/f476e63ed7636f4cf0c85da17aa4952d4315b9e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "Fighter_Defender": {
       "name": "Defender, Fighters Guild",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e9ad9e7711a3ccad42dfb050171ad02bf4a73724.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "Isles_Defender": {
       "name": "Defender, Shivering Isles",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/35791bb6e182dbc81b2f79d830b30288c90d3788.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "Main_LocatedTheShrineOfDragon": {
       "name": "Located the Shrine of Dagon",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/075cb16f5e13da8992c1a9a31f9838d78de2c708.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "Brother_Silencer": {
       "name": "Silencer, Dark Brotherhood",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/4881ace8da55ba54009bf40b4294f148d067ea40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "Mage_Wizard": {
       "name": "Wizard, Mages Guild",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/f0b72ea7abff1565963be5279e04852f496b0074.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     }
   },
   "platform": null,

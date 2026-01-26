@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/1f5a3c3dd624bb08a2aed8a3380cfe408ecc2e9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "Achievement_GOSCC_36": {
       "name": "Building Bridges",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/dddeffe63ce7b03eae7e4dee73623b18e730b089.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "Achievement_GOSCC_4": {
       "name": "Close Combat Specialist",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/a961bb27a7254d17aeaf40ce12ff50f7c5eb208f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.7"
     },
     "Achievement_GOSCC_55": {
       "name": "Cryptographer",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/766712427dc7766c7a16582f3d32e548d88cca7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "Achievement_GOSCC_21": {
       "name": "Veteran",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/c59fd7f8556d6b9ef61eb80315ab3be75d74028f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.4"
     },
     "Achievement_GOSCC_34": {
       "name": "World-Shaper",

@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/83d4af504950ae37e0ef831e47f9fbb27be51c6d.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "CUISSES_DE_GRENOUILLE": {
       "name": "Cuisses De Grenouille",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6fc264d045fa3d5fcf523ea67d1d5696ec1fe2fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.9"
+      "percent": "68.0"
     },
     "LIGHTNING_ROD": {
       "name": "Lightning Rod ",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/1f6a7b91a8bcfe0d0ae372078937053e074b3033.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.1"
+      "percent": "82.2"
     },
     "ROOT_CANAL": {
       "name": "Root Canal ",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/9ce630a08846865f8db20cca4c6af3f5ee926287.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "SAVIOR": {
       "name": "Savior",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/1f4cc6082f5e37b61d10e1e91f8f99b9a62e8702.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "SUMMER_SOLSTICE": {
       "name": "Summer Solstice",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/c9aa1599dffbf5ad3a23d3fa3753b98a544a9943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "TOOLS_OF_CONSECRATION": {
       "name": "Tools of Consecration",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/494be3553c3a9fd7c8ed8e15ba6cd1731ba6d286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.5"
+      "percent": "70.6"
     }
   },
   "platform": null,

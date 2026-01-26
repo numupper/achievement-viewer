@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/6db2374d3b5be14a769a6050de1974be1bfc7a69.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.4"
+      "percent": "74.5"
     },
     "COLLECTOR": {
       "name": "Collector",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/c871a1b1fce06d8636afd17fc2a57d7fd711357d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.7"
     },
     "IRONMAN": {
       "name": "Survivor",

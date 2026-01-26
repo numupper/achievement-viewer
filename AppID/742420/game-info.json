@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.5"
     },
     "kill_each_faction_miniboss": {
       "name": "Picking Fights",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/9f41b50a93bc4234016483ba2de36881727b5dbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "purchase_2_emotes": {
       "name": "Smooth Moves",
