@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/075d31f08a8f98ee2270b89dcca045f0080e2800.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "ACH_AL_WAJH_WINNER": {
       "name": "AL WAJH Winner",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/ef3d00cdd6f37e25662efeffeca5e891ba4a2d60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "ACH_CLEAN_DRIVING": {
       "name": "Clean Driving",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/09dacabf50e7c58fb012df4814e442b12a9d62cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "ACH_CONNOISSEUR": {
       "name": "Connoisseur",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/db9c3719ad9d11b87219a7894ae9a509026c1540.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "ACH_DESERT_AUTOBAHN": {
       "name": "Desert Autobahn",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/6aa2ae1663fd4086fe43797810b826dfa22110cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "ACH_DESERT_PLAINS": {
       "name": "Desert Plains",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/4e3b33adaa6d289cf1607102705702132b70c96c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.8"
     },
     "ACH_FIRST_CAR": {
       "name": "First Car",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/cb698b15496f1d6b2f670f5b684801abab6c0f82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.0"
+      "percent": "71.1"
     },
     "ACH_FIRST_OF_MANY": {
       "name": "First of Many",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/0217fa24f3d7aaaab55d1bd7733e1df2023c89c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.9"
     },
     "ACH_FIRST_QUAD": {
       "name": "First Quad",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/c52cae00df319dc14e9f2c5f675b05278143cfee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "ACH_FIRST_SxS": {
       "name": "First SxS",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/9670bd58c820737f7dfcd2e1ddd9bc5a4f3e5c85.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "ACH_FIRST_TRUCK": {
       "name": "First Truck",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/d559ee7edb2229d8b549bb0ef04f94cdb7a3287b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.2"
     },
     "ACH_FOR_THE_MOTHERLAND": {
       "name": "For the Motherland",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/bf2c0d812b844ddd82f65480a8a646c9cf292947.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.3"
     },
     "ACH_HARD_DRIVER": {
       "name": "Hard Driver",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/10155ac40daa380b4c76cd292eddbc425746cedf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "ACH_HAT_TRICK": {
       "name": "Hat Trick",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/4df5a2e9cc21de620ac9f1341f8c4aefca5c521e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "ACH_HIGHWAY_STAR": {
       "name": "Highway Star",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/106beda0acde1ff88fa3ddcc0178e678d3c8bc26.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACH_INVINCIBLE": {
       "name": "Invincible",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/6db0648918705093710c28f037b2e1d3967fbe6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "ACH_THE_NAVIGATOR": {
       "name": "The Navigator",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/e650143d7fc82866fa317bc846fc8accf868de3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "ACH_VTECHED": {
       "name": "V-TEC’ed",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/3d3cc3d5fdfeefd26d40ed536d5ef3c1d5c4a8b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "ACH_YANBU_WINNER": {
       "name": "YANBU Winner",

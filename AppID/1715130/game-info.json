@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/483126271a4e3f1516920e4c91316a67b2e3747a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.2"
     },
     "AchEvt_GoingUnderground": {
       "name": "Going Underground",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/8d8903143ce832c3f91a0177f7ab7b89f9ae6a0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "AchEvt_ItsOnLikeKyong": {
       "name": "It's On Like General Kyong",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a93a4553cfd685b302c24b188e73c0da6365ade1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "AchEvt_KnockKnock": {
       "name": "Knock-off Knockout",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/eaf6b4cb70f353c9d238f86bad498ed4dea1052f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.4"
     },
     "AchEvt_LongDistance": {
       "name": "Long Distance Relationship",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/fdb4ff27e9e040ff234062f1900492776877500c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.7"
     },
     "AchEvt_NoFlyZone": {
       "name": "No Fly Zone",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/16ff4a11df47bc666edadab21b06bb226fe35d14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "AchEvt_MyRifle": {
       "name": "This Is My Rifle",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a2fe347eb5e784e8e0a90a91836a44d24a3d140a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "36.9"
     },
     "AchEvt_YouKnew": {
       "name": "You Knew, Didn't You?",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/22ae60ddbb9d1d0f6934df5fe538eb20a3cd8df1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.5"
     },
     "AchEvt_YouOnYourOwn": {
       "name": "You're On Your Own",

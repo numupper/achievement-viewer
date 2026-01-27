@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1049410/fdee7c9008e7656d7e983ef7e883d8a66f3ab1c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "PullXFireAlarms": {
       "name": "Expert Fire Alarmist",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1049410/a65ebb885fa42a607e74be3fe01e30e1ff3948a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "BeatTheGame60Minutes": {
       "name": "Speed Runner",

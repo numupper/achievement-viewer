@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ac47b75ed4b13a8a11ceaf5cf92087eecff4e61b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "AchievementMultiverseSpaceStoneID": {
       "name": "Appliance in Disguise",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/02bdba16af47d42f7a9534c45ff6f2c435b9345e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.5"
     },
     "AchievementLootBoxID": {
       "name": "Black Market",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c1f3e6a54c7e00868d7caa5cfde0159e7c8cac67.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "AchievementApocPizzaID": {
       "name": "Deliciously Disgusting",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/58aeca72225eed093a277c8a66363d75b3b631e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "AchivementMultiverseDrPhilgorID": {
       "name": "Dr. Pheelsgood",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8ddaa6c8362f5b2ed33559e618a14b4dd9f6e09e.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "AchievementGoatQueenID": {
       "name": "Goat Queen",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9dbc37acbacfcd0e14d4152913dce7110a1a3a73.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "0.9"
+      "percent": "0.8"
     },
     "AchievementApocInstinctsID": {
       "name": "Maximus Instinctus",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9516aa55bd976f040e5a6ad0adcd87319a1c5a86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "AchievementRoomUpdateID": {
       "name": "Private Club",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/6c3ed6b81b23a3180ec0d4eaf1198c5d415e920c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.0"
     },
     "AchievementWhaleID": {
       "name": "Real Buoy",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/08acb75234c963fa6c256dd7ad1374e6ac79da12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "AchievementWarRoomID": {
       "name": "Rogue Guild",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/1fb55ca4e56eb89831f2763779dd8a22008599c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "50.9"
     },
     "AchievementBecomeHumanID": {
       "name": "San Angora: Become Human",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/542c12d7ce6e1ed24d6731619066d010c7eb67ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "AchievementInteriorDesignID": {
       "name": "Secret Society",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/67db180dbf277f005e0579279f8ee39ccf29716c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "AchievementMultiverseTrojanGoatID": {
       "name": "So Aerodynamic",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/35824916ea6c3d7a1fad171a0b9616455f42b52a.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "2.4"
+      "percent": "2.3"
     },
     "AchievementMultiverseLickSanicID": {
       "name": "Ultrasonic Speedy",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a4454b4b3c22a7dfccc515db8bc20c6473ae7b2e.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "AchievementAliensID": {
       "name": "Welcome to Earth",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/648a1c8791d66d139c2d95ebe6a66e3a303999fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "AchievementGatorID": {
       "name": "What a Waste of Money",
