@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/2794824db0b41d53a5dc1fbc937a8273dc8e0307.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "5StarAllParks": {
       "name": "A Golden Bust of Cabot Finch",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/10e1fe071e02cf899472f58f7ca5b96ffef6c58c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "CompletePark9Objectives": {
       "name": "Designated Global Sanctuary",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b6dabd3b6617018a5861e4c7c760275bb8c941b2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "JurassicDiffBadlands": {
       "name": "Dig Deep",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/3d398837b688180520f7909d721b86833c6db9b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "HighValuePhotograph": {
       "name": "Don't Get Cheap on Me",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.4"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4eed8b2e540dcac1842f9801d78113903a31ff18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "Gen5Juvenile": {
       "name": "Fifth Iteration",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b573c4dcb8e0007f8d254530136bdff6a71962f9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.1"
     },
     "CompletePark2Objectives": {
       "name": "I Own an Island…",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b04dfd57e6bf8551a9007bc814694a59e39ac7ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "JWDatabase50": {
       "name": "If You Knew Enough...",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.5"
     },
     "BuildLagoon": {
       "name": "Include That In The Brochure",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/21d40d99ab6fa8ef1e481c9afdba74f968e5d278.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.3"
     },
     "JurassicDiffNusaTenggara": {
       "name": "Indonesian Legend",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/fc4105860f423bb148a77913835cb2816345ef6f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "BreedJuvenile": {
       "name": "Not Assets... But Animals!",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/7a4d5d8017fbc5430e3bfd8fcaf2c42f4cecbb61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "83.3"
+      "percent": "83.4"
     },
     "JurassicDiffKuaii": {
       "name": "Picture Perfect",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.5"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/32b18c16af2437c577ae6024fe2b9416fa6e0d0a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "CompleteCampaignTechTree": {
       "name": "Share Your Research with the World",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/5fc9ade08a223e413ed98e99a48cb1b68bcd09ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "CompletePark7Objectives": {
       "name": "This Must Feel Exotic",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c17079545cbda052bd2dfe387b338b5c1f89dcc8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "CompletePark5Objectives": {
       "name": "Twenty-Seven Foot Neck",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/5813842573be8214792da5584187be21476e48f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "CompletePark3Objectives": {
       "name": "Welcome One, Welcome All",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/f2befda5620680b9dd7cd7e9b361a58e8f6f7f05.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "UnlockAct3": {
       "name": "Welcome to Jurassic World",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/dd9755fe4d0aff4dc2987ac8a76104e3be853ecb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "21.0"
     },
     "UnlockAct2": {
       "name": "We've Entered a New Era",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/0c863719ff91030f0a08cf4adc7b7a6e8409e1d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "CompletePark4Objectives": {
       "name": "What Are Her Symptoms?",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/d506b47531c926241fd97112da2e703e697018bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "CompletePark1Objectives": {
       "name": "You'll Never Get Him Out of Montana",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/f78ac8fc4dbd88e309d0b51a651abf767aa753a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     }
   },
   "platform": null,

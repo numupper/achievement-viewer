@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d00b8b7cf5f920d2ff51135e75f4355de8ddd5d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.6"
     },
     "ach_ammo_ran": {
       "name": "Git Gutte!",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/cff78ee88e9b1d6ec52ebc6e31559c796f987ac6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "ach_complete_ngplus": {
       "name": "Groundhog Slay",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/90c29c16ea0b57b2b67d103f15a10059ad729129.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "ach_defensive": {
       "name": "I Got a Zombie Army and You Can't Harm Me",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b500025233cddf06631e24407cc92dcc62b1954f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "ach_brink_of_success": {
       "name": "One of Us",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/c31166856749cce39b2a73567349ebac69ed1fff.jpg",
       "hidden": true,
       "group": "Dead Island 2 - Haus",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "ach_legendary": {
       "name": "Ooh, Shiny!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f5357b77f202a34c788a9aa4d4108e74627ad84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "ach_thesacrifice": {
       "name": "Our True Nature",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/27999e830ecf109a1d731a7250785099ee5ef30d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "ach_secrets_of_la": {
       "name": "Sharpest Tool in the Box",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4ca3aa9e39d1b8df5735f2e14f29907ef96cd69c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "ach_skilled_up": {
       "name": "Stacking the Deck",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4d789e0223c5a91ddc548ee21437ee12ed6f9a0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "ach_survival_expert": {
       "name": "Survival Skills",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/05e1470ecc65f091cf3df2c0a80fe61fdb868f04.jpg",
       "hidden": true,
       "group": "Dead Island 2 - SoLA",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "ach_zombie_predator": {
       "name": "Top That, Tisha!",

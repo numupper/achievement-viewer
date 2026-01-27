@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/124d25f1a5419dc562e02ece610a1293463c6091.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "ach_plane_chicken": {
       "name": "A Game of Chicken",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/f11c92e83764f6646cb5b3b05ef8e14be7725bf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "ach_retooler_air_lifter_only": {
       "name": "A Higher Love",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/91a213806f51f0b101717da67d533c147219c3e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.7"
     },
     "ach_b3": {
       "name": "A Nightmare On Kusi Street",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/84bf152b401e5044987ac731e180725bfc6d79e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "ach_collectible_all_wingsuit_ring": {
       "name": "All the Right Moves",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/a2c911966dac78f935b03772ed26f47099c8ea7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "ach_quest_finale_sargento": {
       "name": "His name is Luis",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/f708765d9d21b47bf2301f11f953540314b46e05.jpg",
       "hidden": false,
       "group": "Just Cause™ 4: Dare Devils of Destruction",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "ach_one_hundred_percent": {
       "name": "Rico was Here",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/75f9bccc76436aa92532c6e7c24d9ec47fa6b098.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "ach_complete_campaign_sandstorm": {
       "name": "We Put a Giant Gun on It",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/0e1dff4561a2d868895867624542bc6892e43fe2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "19.9"
     },
     "ach_complete_campaign_tornado": {
       "name": "What If I... Dive Down?",
