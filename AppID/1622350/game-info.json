@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/0585e02ae3047bb15c32be5b1e5b3b4ce3abd347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.9"
     },
     "MILK": {
       "name": "Got Milk?",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/d082ae82bc5b33045d263ab98e4fe8f91bb8e6bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "KNOCKKNOCK": {
       "name": "Knock Knock",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/2279e343e47471327b8bbf9f88704ca7315a7f99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "NOISY": {
       "name": "Noisy Nelly",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/76945e3c3432e1d28f45e3b4c5f71288cda000d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.1"
     },
     "SMELLY": {
       "name": "Smelly Business",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/f0bc1a0347b2231be389038e37f73dfa9f1899f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     }
   },
   "platform": null,
