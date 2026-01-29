@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0a77a773edc19f2e7bdd3ba65e2900307bbca4fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.4"
     },
     "DarkRot_Complete": {
       "name": "Dark Rot Complete",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/4243f46135a95ec23d8e02f89f13f8d952914d38.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.2"
+      "percent": "1.1"
     },
     "Ch6_DefeatGothi": {
       "name": "End the Tyranny",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/2eda4d9355d70add3248fd003f5236e9709cc5d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.7"
+      "percent": "46.1"
     },
     "Collect_Faces": {
       "name": "Glimpses of the Gods",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/a4a90c1b085cbf2531cf4befd5d36cdf12e4e605.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "Ch4_DefeatIlltauga": {
       "name": "Returned to the Earth",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/f2dd2e425d0275a1894db11437a3745e47867f00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.7"
+      "percent": "53.0"
     },
     "New_Narrator": {
       "name": "Seeing Things Differently",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/29d70e89ecd81d0b2a8247cb914fa89b20da6ae8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.6"
     },
     "Collect_Totems": {
       "name": "Tales of Midgard",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0547b76f52ec3935a3d978cedb06e14bf04c610c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "Ch3_LakeEmpty": {
       "name": "The Hidden World",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/4f58c9bbbee3587146c50900e1954e00e39a1442.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.7"
     },
     "Ch2_ArenaBattleComplete": {
       "name": "The Man in the Middle",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/3512466cc8a7c43b14b83a2d44459f1d6d00f83a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.3"
     },
     "Ch1_ThorBattleComplete": {
       "name": "The Next Sign",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/4bf271377f9da14576b05f494d500d0111c3d4e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.2"
+      "percent": "82.4"
     },
     "Ch5_DefeatSjavarrisi": {
       "name": "The Storm Calmed",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0fcb17d333330d3b156f94d5d6c02d2b994528bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.7"
     },
     "Photo_Mode": {
       "name": "Worth a Thousand Words",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/fdf5f6020771e4aa0eae1fe2c0c53d1d1cfc4cf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.8"
     }
   },
   "platform": null,

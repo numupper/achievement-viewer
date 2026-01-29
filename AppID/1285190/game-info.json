@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/bb133ba510475c0ef7a68c84ff11a183cfd4c6ba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "Achievement_07": {
       "name": "Area of Expertise",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/468a0dbf44b8b90e70a7258c9b0122c441f6dc9f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "Achievement_28": {
       "name": "Howling on the Moon",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/02e90dbf3edb76faf79cb12c5ba867ac8b39000e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "Achievement_33": {
       "name": "Rift Incompatible",
