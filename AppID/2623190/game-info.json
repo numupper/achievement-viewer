@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/b178eb82e13b286226ff111e0dbddf97d2254031.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "Main_ClosedAnOblivionGate": {
       "name": "Closed an Oblivion Gate",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e9ad9e7711a3ccad42dfb050171ad02bf4a73724.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "Isles_Defender": {
       "name": "Defender, Shivering Isles",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/4d3a524c78434f736b4753b6ea152f3e8b34af19.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "Fighter_Guardian": {
       "name": "Guardian, Fighters Guild",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/804159cb2642fc5cc7a1442caf40a7920ecdfb28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "21.9"
     },
     "Isles_Madgod": {
       "name": "Madgod, Shivering Isles",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/075cb16f5e13da8992c1a9a31f9838d78de2c708.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "Brother_Silencer": {
       "name": "Silencer, Dark Brotherhood",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/f0b72ea7abff1565963be5279e04852f496b0074.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     }
   },
   "platform": null,

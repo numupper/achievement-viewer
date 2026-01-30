@@ -1,8 +1,32 @@
 {
   "appid": "1285190",
   "name": "Borderlands 4",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1765996583",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1769707936",
   "achievements": {
+    "Achievement_36": {
+      "name": "Achievement 36",
+      "description": "Achievement 36",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "hidden": true,
+      "group": "Update 1"
+    },
+    "Achievement_37": {
+      "name": "Achievement 37",
+      "description": "Achievement 37",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "hidden": true,
+      "group": "Update 1"
+    },
+    "Achievement_38": {
+      "name": "Achievement 38",
+      "description": "Achievement 38",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "hidden": true,
+      "group": "Update 1"
+    },
     "Achievement_32": {
       "name": "All Things Vend",
       "description": "Deliver the contents of the Legendary Vending Machine.",
@@ -37,7 +61,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/240b0701c0324b483745f9a7cb3f322825eb7bc4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "Achievement_08": {
       "name": "Brand Equity",
@@ -91,7 +115,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -118,7 +142,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/39c189d959346ed60f8d4b801133c7dc97b56f32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "Achievement_30": {
       "name": "Glucose Guardian",
@@ -163,7 +187,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/16cca5cf5e2f9b06bf830a9889e4518070f63a42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.7"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -172,7 +196,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/528e2c390a04bc3f81b96a660231bc43dca5aa73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "Achievement_27": {
       "name": "Long Live the Queen",
@@ -181,7 +205,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/1111c9f84dcda34d8af81a9b2df68589787acc58.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.4"
     },
     "Achievement_02": {
       "name": "Master of Death and Dance",
@@ -199,7 +223,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d31e42682e849671d97112a8a154a58ae6d74a45.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "Achievement_19": {
       "name": "Nothing Left to Guard",
@@ -271,7 +295,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b910717f8580dcbd7c3f296cc8949e969c92cba7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.0"
     },
     "Achievement_15": {
       "name": "The Mountain Provides",
@@ -289,7 +313,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/13fb54c84e197796a4915cb233a17e26b8edfec7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "Achievement_17": {
       "name": "Useful Citizen",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/b6775557439a1a368be22faa966e8fc1dd9116a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "ACHIEVEMENT_11": {
       "name": "A sky full of stars",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ce0cb3844e9d270ed5c3661a881ac5f37a8721d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "ACHIEVEMENT_06": {
       "name": "Booster",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/be8557e91a6a1cc30dac02e65b994787144c3794.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.3"
+      "percent": "83.4"
     },
     "ACHIEVEMENT_04": {
       "name": "Challenger",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a5be3425a8a4849995eb06b4a00d43c8d7f6e47b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "ACHIEVEMENT_01": {
       "name": "First Victory",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ce0cb3844e9d270ed5c3661a881ac5f37a8721d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "ACHIEVEMENT_10": {
       "name": "Just getting started",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a50de76fc8ea4bbc9724d98d070331305a4ce5d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.0"
+      "percent": "67.1"
     },
     "ACHIEVEMENT_03": {
       "name": "Let’s do it!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ad2b1a9ced4113a8043d5d1c6274f26cfbe5230b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "ACHIEVEMENT_09": {
       "name": "Master",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/f2862499ef05f46fac87174c86fa27f9e9bf589e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "ACHIEVEMENT_12": {
       "name": "Unbeatable",

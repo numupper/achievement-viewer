@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c694aee24c2c9c276e190c62a50dbfbf64d04057.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.2"
     },
     "ACHIEVEMENT_002": {
       "name": "A True Man's Stand",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/d64ff2ef53365b3e9395c99aaa1928ed3d6beb9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "ACHIEVEMENT_022": {
       "name": "Grasping at Greed",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c9c4090bc8d024fbb91cd6fc1c7ac5550889736c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.4"
     },
     "ACHIEVEMENT_035": {
       "name": "The Power of Truth",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2f4225b181a7d4b9b4f96a3f3ddef3d19837c5c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.6"
     },
     "ACHIEVEMENT_009": {
       "name": "The Truth In Your Hands",

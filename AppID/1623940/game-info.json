@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/43e05e674c00b0cef82030bed681f12b86b25382.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "FINDCROWANDAHFIG": {
       "name": "Kärrhäxan Figurine",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/01d4cba1bf4fe551073e735ba41b868c190395d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.3"
     },
     "FINDNAECKENFIG": {
       "name": "Näcken Figurine",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/73c41cee9abc5f0da35fdbd05d473a442261b392.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "54.8"
     },
     "FINDSKOGSRAFIG": {
       "name": "Skogsrået Figurine",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/c871a1b1fce06d8636afd17fc2a57d7fd711357d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.7"
     },
     "IRONMAN": {
       "name": "Survivor",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/d862d7eedadbbb45aca8dcd9d99393d1cb8ca093.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "BEATKING": {
       "name": "The Mountain King",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/ff146d6127e8c9e4b6d0d1c623001a991278c296.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "FINDTUVAFIG": {
       "name": "Tuva Figurine",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/734e4d281e31645b410cccea0f636301479baf4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     }
   },
   "platform": null,

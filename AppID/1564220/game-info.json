@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/d9c7fc9130a5807df7bbfd07630139667ea1b655.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "ACH_CrushPhysicsCube": {
       "name": "Crush That Cube!",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/9565ce2d0c1bb70bbb287af00f178a1ca492093f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "ACH_S8AllGold": {
       "name": "Gold Trophy",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2ccbb1f77c9ea04e44b6e9e364a0b0d6b3755c40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "ACH_S8MaxPoints": {
       "name": "Maxed Out",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/f17de583bb9feb1d59c06d0529b721a1741681e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.6"
     },
     "ACH_Sector5": {
       "name": "Sector 5",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/40b91a29e635454d4f9bc51f1b998013ddcf3c9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.9"
     },
     "ACH_Sector7": {
       "name": "Sector 7",
