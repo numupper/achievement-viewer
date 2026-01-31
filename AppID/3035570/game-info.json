@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/2c8530550fa4b4c0fccb1c3e6103bbdec4bb03fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.4"
     },
     "ACMirage_Ach_28": {
       "name": "Ambush",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/58f5180f40f56da0574062ad22862815b6121660.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "ACMirage_Ach_39": {
       "name": "Blade in the Crowd",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/55c84dd8e004c79b0abfb47830f9a734be1b6e80.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "ACMirage_Ach_59": {
       "name": "Make a Break",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c08056d57c423f2379261cef1be59eaac083ba64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "ACMirage_Ach_45": {
       "name": "Spread the News",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b9f39cf6b509b1adad86f9e1985995a6cf805367.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "40.0"
     },
     "ACMirage_Ach_3": {
       "name": "The Blood of a Ghoul",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c2b0f99081afb149282f2de03eb1b08cdacc09f1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "ACMirage_Ach_31": {
       "name": "The Hands of a Thief",

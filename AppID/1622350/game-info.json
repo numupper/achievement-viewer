@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/510b68e6b1ccb85e9bb03d9c27aa1943e4ea48d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.2"
+      "percent": "75.3"
     },
     "ESCAPE": {
       "name": "Escape Artist",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/b79731515925bacf078227851114069a45778362.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "SHADOWS": {
       "name": "Lurking in the Shadows",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/2279e343e47471327b8bbf9f88704ca7315a7f99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "NOISY": {
       "name": "Noisy Nelly",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/8940e059a804352cceaf05d156108e11598234ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.6"
     },
     "NOTKITTEN": {
       "name": "Not Kitten Around",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/784b7b249910b3715ca3e9ae01775cb77064017a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "BUTTERFLY": {
       "name": "Pretty Fly for a Butterfly",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/dda756db366574a2d26c5ce0255e1d7a35946283.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "SNIPER": {
       "name": "Sniper",

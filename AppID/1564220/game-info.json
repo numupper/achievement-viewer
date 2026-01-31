@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/70bd6c7f0982a2afe6e31e54a704b9960c63b8eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.7"
     },
     "ACH_TurnBallBlack": {
       "name": "Did That Work? -- No!",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/8668f7d98e20713994d25a01a26fbd3761f7e516.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "ACH_S8MasterRoom": {
       "name": "Master Room",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/1188f92bc0b8f3cb86b185e8f93bf9d9ba560879.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.4"
     }
   },
   "platform": "Epic Games",

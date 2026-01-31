@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/5229f39fa0150c745f9829a7783fb88096b5a686.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.2"
     },
     "complete_mission_1": {
       "name": "First F#@!ing Day",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4376fee358a75972dc043ae31b9f836507a942a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.8"
+      "percent": "87.9"
     },
     "staggered_by_vending_machine": {
       "name": "Food for Thought",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/915f1dc4ace0312d6fa1dd79bf97baf1f7c53e4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "beat_all_wingsuit_challenges": {
       "name": "It's a Bird!",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/05bc1cba6d4ee1ae9f05e2e050df44f8fc4aba81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "33.0"
     }
   },
   "platform": null,

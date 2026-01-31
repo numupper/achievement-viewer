@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "TRP_OMEN": {
       "name": "An Omen?",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "TRP_DRAG": {
       "name": "Drag Me Through Hell",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "TRP_FATAL": {
       "name": "Fatal Destination",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "TRP_LASTYEAR": {
       "name": "I Know What You Did Last Year ",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "TRP_SAW": {
       "name": "Saw That Coming",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "TRP_CABIN": {
       "name": "The Cabin in the Blackwoods",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.7"
     },
     "TRP_FATEFUL": {
       "name": "The Fateful Descent",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.5"
     },
     "TRP_WOLFMAN": {
       "name": "The Skillful Wolf Man",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.6"
     },
     "TRP_TALETWO": {
       "name": "The Tale of The Two Sisters",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "TRP_THEEND": {
       "name": "This Is THE End",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "TRP_JOSH": {
       "name": "We Need To Talk About Josh",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     }
   },
   "platform": null,
