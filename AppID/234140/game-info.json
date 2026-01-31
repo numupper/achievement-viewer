@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/a8a50b138597a9427bb3ac204dd1a4a3ceddaedc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "TRP_THE_BIG_CHIEF": {
       "name": "Power in the Machine",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/08e97e61702d9978d1b881cadfe5a98c1e7d8d87.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.0"
     }
   },
   "platform": "GOG",

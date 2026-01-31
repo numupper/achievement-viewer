@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/b607432651204ae404eae07685e71db6649182eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     },
     "AchEvt_CatchThis": {
       "name": "Catch This!",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/3790506dcf31efc44b2e531159aa515efca96c70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "AchEvt_DeltaActTwo": {
       "name": "Delta: Act II",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/354ecbeaa67dc8579e505b934aa1fd1156580df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.7"
     },
     "AchEvt_EmptyPlatform": {
       "name": "Empty Platform",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/eefc6f4c620ee889095de003b2dee6a78be955f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.3"
     },
     "AchEvt_ExpeditionTeam": {
       "name": "Expedition Team",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/483126271a4e3f1516920e4c91316a67b2e3747a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "AchEvt_GoingUnderground": {
       "name": "Going Underground",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/9292d6b363956cb39ac232b7949e0dded671caf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "AchEvt_ImAMarine": {
       "name": "I'm A Marine, Son!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/8d8903143ce832c3f91a0177f7ab7b89f9ae6a0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "AchEvt_ItsOnLikeKyong": {
       "name": "It's On Like General Kyong",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a93a4553cfd685b302c24b188e73c0da6365ade1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "AchEvt_KnockKnock": {
       "name": "Knock-off Knockout",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/eaf6b4cb70f353c9d238f86bad498ed4dea1052f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.5"
     },
     "AchEvt_LongDistance": {
       "name": "Long Distance Relationship",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/fdb4ff27e9e040ff234062f1900492776877500c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "AchEvt_NoFlyZone": {
       "name": "No Fly Zone",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/db7eff5d852ffc3bbd6276defa17dfe38ec3b209.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.6"
     },
     "AchEvt_BusterOfTanks": {
       "name": "Tank Buster",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/16ff4a11df47bc666edadab21b06bb226fe35d14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "AchEvt_MyRifle": {
       "name": "This Is My Rifle",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a2fe347eb5e784e8e0a90a91836a44d24a3d140a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "AchEvt_YouKnew": {
       "name": "You Knew, Didn't You?",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/22ae60ddbb9d1d0f6934df5fe538eb20a3cd8df1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.6"
     },
     "AchEvt_YouOnYourOwn": {
       "name": "You're On Your Own",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/ba634dcf1eea1e9381847b06aa390064521ab7e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "AchEvt_Zoology": {
       "name": "Zoology",

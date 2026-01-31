@@ -1,8 +1,16 @@
 {
   "appid": "611790",
   "name": "House Party",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/baa245f042e4dff2a9c140d72dfb145906c4998d/header.jpg?t=1764783777",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/baa245f042e4dff2a9c140d72dfb145906c4998d/header.jpg?t=1769814938",
   "achievements": {
+    "SPJWWGS": {
+      "name": " Some People Just Want to Watch Girls Kiss",
+      "description": "Make Vickie's dreams come true by giving her the spotlight with Gisella.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
+      "hidden": false,
+      "group": "Update 14"
+    },
     "ADisplayOfAffection": {
       "name": "A Display Of Affection",
       "description": "Choose the right person to share a valentine gift with for an Easter Egg!",
@@ -208,7 +216,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/c9a59291e657cf1593f34d4b10af3ff939231398.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "DuckNWeave": {
       "name": "Duck n' Weave",
@@ -435,6 +443,14 @@
       "group": "House Party - Detective Liz Katz in a Gritty Kitty Murder Mystery Expansion Pack",
       "percent": "1.4"
     },
+    "MeatsBackOnTheMenu": {
+      "name": "Meat's Back on the Menu",
+      "description": "Reawaken a wasteland warrior through the scent of burning flesh.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
+      "hidden": false,
+      "group": "Update 14"
+    },
     "MoneyShot": {
       "name": "Money Shot",
       "description": "Peg Frank with a sex toy while he is dancing on the roof.  Not peg...hit.  You get it.",
@@ -452,6 +468,14 @@
       "hidden": false,
       "group": "Update 1",
       "percent": "17.2"
+    },
+    "NocturnalTemptations": {
+      "name": "Nocturnal Temptations",
+      "description": "Travel back in time and complete the filming of Nocturnal Temptations.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
+      "hidden": false,
+      "group": "Update 14"
     },
     "NoticeMe": {
       "name": "Notice Me, Sensei",
@@ -479,6 +503,14 @@
       "hidden": false,
       "group": "House Party - Supporter Pack",
       "percent": "0.1"
+    },
+    "OneManArmy": {
+      "name": "One Man Army",
+      "description": "Use the power of Nano-Nuts to fight your way back to the hot tub.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
+      "hidden": false,
+      "group": "Update 14"
     },
     "PoopEnding": {
       "name": "Party Pooper",
@@ -588,6 +620,14 @@
       "group": "Update 13",
       "percent": "0.4"
     },
+    "SPJWWWB": {
+      "name": "Some People Just Want to Watch the World Burn",
+      "description": "Immortalize tiny Patrick on film by giving him the spotlight with Gisella.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
+      "hidden": false,
+      "group": "Update 14"
+    },
     "Stephanie": {
       "name": "Stephanie",
       "description": "Help Stephanie discover her true calling in life.",
@@ -696,6 +736,22 @@
       "group": "House Party - Supporter Pack",
       "percent": "0.5"
     },
+    "TheFutureIsAdsTwo": {
+      "name": "The Future Is Ads 2",
+      "description": "Get interrupted by an ad while listening to Down the Mystery Hole.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
+      "hidden": false,
+      "group": "Update 14"
+    },
+    "TheGreatestTripOfHerLife": {
+      "name": "The Greatest Trip of Her Life",
+      "description": "Give Madison the Babs Special and see her trip through to its conclusion.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
+      "hidden": false,
+      "group": "Update 14"
+    },
     "HarderDood": {
       "name": "The Harder They Fall...Dood",
       "description": "Defeat Frank 1 on 1 without any sparring or combat training.",
@@ -740,6 +796,14 @@
       "hidden": false,
       "group": "Update 2",
       "percent": "15.6"
+    },
+    "TogaToga": {
+      "name": "Toga! Toga!",
+      "description": "Find and wear a hillbilly's bedsheets. Just don't look too closely at the stains.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
+      "hidden": false,
+      "group": "Update 14"
     },
     "Vickie": {
       "name": "Vickie",
