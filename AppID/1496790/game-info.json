@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/2b46a8a61facf68d29cfa35ef08954f769adacb6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "CRAFTING_MOD_CHIPS": {
       "name": "Fusion Expert",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/d51e947c294752b981b06970bda67de6c54d5883.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "MYSTERY_01": {
       "name": "Loose Ends",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f9b2ac34c81b7efc7478830c00dad304337be74c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.5"
     },
     "CRIME_FIGHTER_2": {
       "name": "Not On My Watch",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/85fdd1aff964214a328068a4153dd71a553a4152.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.5"
     },
     "MYSTERY_06": {
       "name": "Voiceless",

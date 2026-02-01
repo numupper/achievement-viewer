@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7db20ce0331d8eb81e48a887cb7c21768b23ec1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "DOA_ACHIEVEMENT_DUNGEONDIVER": {
       "name": "Dungeon Diver",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9ffc31e6311f317be94c88c76c01a3a907c67bcc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "CP_ACHIEVEMENT_JACK_ALL_TRADES": {
       "name": "Jack of All Trades",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/650300dcec1393402140c0ecc27b05727e92ab4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     }
   },
   "platform": null,

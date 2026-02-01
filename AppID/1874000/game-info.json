@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/66dd4f84fbcac711c0f7be4d1670c966bf00aa51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "14": {
       "name": "Art Restoration",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/5f3652812c8e36ba57437e7631226d43a9861913.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "24": {
       "name": "Clutterbug",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/ff91b84249b246bae2fb461b11410960aeef82e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "12": {
       "name": "Commencement",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/9040fc427f7785765f807b402aa4b9cca5fc21ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.7"
+      "percent": "59.6"
     },
     "30": {
       "name": "Favor Saver",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/a9ff54f3712fdd4cff3acb9dcac4752865b21e65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "47.8"
     },
     "18": {
       "name": "Frame Fatale",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/f418b39e405961702d745f3957b3506c7818a4a4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.5"
+      "percent": "58.4"
     },
     "22": {
       "name": "It's Complicated",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/b01a252abb76984b1ff1b7ab51633040596d9932.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "15": {
       "name": "Loyal Flush",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/969a6179199e51c8aefcf5f926ca31bcda5b1c14.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "26": {
       "name": "Page Turner",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/9e7a6e6909b28e180ab76572d665b686a83346e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.6"
     },
     "32": {
       "name": "Platypus Genius",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/7ccb51cfefac0b73b1149b3115b2111af36ebe29.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "6": {
       "name": "Selfie Care",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/abeffa09913b8138f12656a08736e95e2f404a05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "1": {
       "name": "Split Decision",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/884f8d7010ba8d677173fa382b1c613d9d63071a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.0"
+      "percent": "76.9"
     },
     "9": {
       "name": "Tempest Fugit",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/7dc2518fda8905ad03af68a0c518c811bc33f8e4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.4"
+      "percent": "77.3"
     },
     "29": {
       "name": "Thinking Outside the Box",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/5bafbb8eb2606568d4e5638e604c5b0a47c067bb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "25": {
       "name": "Thirst Trip",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/581c4d449318806743603db70e35cff6829d92a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.5"
     }
   },
   "platform": null,

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/7c4fe842d83bfc0e130ecff68d34167c8e00177d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.5"
     },
     "BOOKREAD": {
       "name": "Book worm",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/e6949f86af7af8b61086ec3c678556c24624b12e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "BEATBUTCHER": {
       "name": "Butcher",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/93056ff2594e7c6042411481fc8de8f173504ff9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.7"
     },
     "APPLEINGOAL": {
       "name": "Goal!",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/59766485520734b7816a89b2f484002a315af44c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "FINDSISTERFIG": {
       "name": "Lillemor Figurine",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/bdcfcfd53007ad2e1d13bbb886f251a9d0106848.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "SKOGSRA100STABS": {
       "name": "Murderer",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/0f695cd892eb09db998c2646250a05fdde33e1f2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "SAVEDALLGNOMES": {
       "name": "Savior",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/15687ba2e1550f68eab0974a211173a0d29c280a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.8"
     },
     "FINDTRICKSTERFIG": {
       "name": "Troll Figurine",

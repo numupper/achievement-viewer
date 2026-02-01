@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/f4a2763dd90aae242c9976296b0d3efa1fab041f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "ACH_ANGLER": {
       "name": "Angler",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/d205b4baf2f11b6acc610a7d353069cc38e39d6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "ACH_CONSCIOUS": {
       "name": "Conscious",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/10d4ea07562ca30a44ace895c62595b512dc0130.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.1"
     },
     "ACH_END_OF_THE_RAINBOW": {
       "name": "End of the Rainbow",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/5f2a3a351c0c8c0ff7355aadaf53f1b764054565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "ACH_EYE_ON_THE_ROAD": {
       "name": "Eye on the Road",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/46a8d4ff36583ec9b8b2b487b08266a0d84ec291.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.3"
     },
     "ACH_HEAVY_METAL": {
       "name": "Heavy Metal",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/880a6811073ada314bd7393232932ef9fff75928.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.6"
     },
     "ACH_IN_THE_GREEN": {
       "name": "In the Green",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/77a813c330237f7c5962d83ebbf6f4c379cdd5dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.0"
     },
     "ACH_KNEEL": {
       "name": "Kneel",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/d75b6ddce2732f9823cf1b414816bac9d2db6523.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "ACH_MARINER": {
       "name": "Mariner",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/035a06c1ee5ed09a4643be7749cf961880818173.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "ACH_NAUTICA": {
       "name": "Nautica",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/3bf7aa2db7eb909d7ea598701dc23da203bd573f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "ACH_RODEO": {
       "name": "Rodeo",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/0e2fee509322197f02e05ba96bd86dbb747c95f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.5"
     },
     "ACH_SHOWOFF": {
       "name": "Show-off",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/483fe630634c4b0955da08bdd3787708e84f99b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "26.9"
     },
     "ACH_SOCIAL": {
       "name": "Social",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/2dccf2835c7158053e48ce495a670572ead6d766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "ACH_SPROING": {
       "name": "Sproing!",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/8aec973fc0a3d97bea1e627135e26c6d0412cabf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "ACH_STICK_IT_TO_THEM": {
       "name": "Stick it to Them",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/a2f963d194c3bf96e8e7eaa0c4033bf6c6a374ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.7"
+      "percent": "78.6"
     },
     "ACH_THE_DRAGON": {
       "name": "The Dragon",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/3aaa03298ff1d7a7acbdaceffda8f4129ebb774e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "ACH_THUGS": {
       "name": "Thugs",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/c9993fd5bc8ed632083da3796402fe2f1f4df776.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.4"
     },
     "ACH_TREK": {
       "name": "Trek",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/743d5816f4b1a6d0a307bbab79e95c060677d960.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "ACH_UNDER_THE_TABLE": {
       "name": "Under the Table",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/7203c061b4254362fbc428c8ff6c2a734e7eedee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "ACH_WUNGFU_MASTER": {
       "name": "Wung-fu Master",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/44e19405e762c2c542cd852add6b5cad09cc65ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     }
   },
   "platform": null,
