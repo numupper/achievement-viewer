@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/3a8383e576f7062c883866296111d59b22b93803.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.6"
+      "percent": "95.5"
     },
     "ACHIEVEMENT_08": {
       "name": "A new driver",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/97eec619c26c3ac7490770fc3885238ea8b8153c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "ACHIEVEMENT_14": {
       "name": "Collector",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/8859f60b6cd548f056fcd9b0b72d2ded9d620b70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "ACHIEVEMENT_02": {
       "name": "Every pup is the best pup",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a5be3425a8a4849995eb06b4a00d43c8d7f6e47b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     },
     "ACHIEVEMENT_01": {
       "name": "First Victory",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/16d672a826d8255f877ef4646fe9d7b29ffcd60f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.9"
+      "percent": "89.0"
     },
     "ACHIEVEMENT_13": {
       "name": "Hero's journey",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a50de76fc8ea4bbc9724d98d070331305a4ce5d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.9"
+      "percent": "67.1"
     },
     "ACHIEVEMENT_03": {
       "name": "Let’s do it!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ad2b1a9ced4113a8043d5d1c6274f26cfbe5230b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "ACHIEVEMENT_09": {
       "name": "Master",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/f2862499ef05f46fac87174c86fa27f9e9bf589e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "ACHIEVEMENT_12": {
       "name": "Unbeatable",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/04346d1c302ef345c8b91d6e01c1327095bac4d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "ACHIEVEMENT_00": {
       "name": "Unstoppable",

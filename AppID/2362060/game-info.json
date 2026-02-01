@@ -1,0 +1,334 @@
+{
+  "appid": "2362060",
+  "name": "CODE VEIN II",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/955e8f3fce6d832c286ac8013657ed6fc51f1f85/header.jpg?t=1769769938",
+  "achievements": {
+    "Id34": {
+      "name": "A Bond of Blood",
+      "description": "Mastered your first blood code.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/39881015c4c030637bf42bb23542d79b75fbc017.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/94282e11b6556594ecbf68f210363e0b0782ba0b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.8"
+    },
+    "Id05": {
+      "name": "A Bridge to the Future",
+      "description": "Changed history on MagMell Island.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/77ff24ece9e5b5afd99ec98e1b9a6584444aa279.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/6d736722d8dcd67ec7e95c255724482ea0ac0b6e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.0"
+    },
+    "Id09": {
+      "name": "A Friend's Wish",
+      "description": "Defeated Franz the Dejected Assailant.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/d10e3288f3aec25c5f3fd28e2201ed644e2b76ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/8eaee63e372c9e71b7dc896d47325d3888c7a540.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "ID02": {
+      "name": "A Hero's End",
+      "description": "Viewed the \"A Hero's End\" ending.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/58b58024ecc21216a822a302d738608fefb89c91.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/05f8fdea4f8d839d3101ce6ac21c0d30943cfbc1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "Id13": {
+      "name": "A Journey Beyond Measure",
+      "description": "Defeated the Hero Lyle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/3e2edbf7caa4cf93f762eb1e139250bc16726ddf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/e82d7fb7b62d12bd81a6d8fce68989291f515700.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "Id06": {
+      "name": "A Place of Memories",
+      "description": "Changed history in the Sunken City.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/8fb7abfd95e6886735d40e4ead4f43391c70b924.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/207cc6498cd5faacbf679cea0c36bb1656d72caa.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "Id31": {
+      "name": "Adapt Your Arsenal",
+      "description": "Customized weapon formae for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/7b4c077c3ac727de447ff06c26f46b77c15a438d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/b7c0d089b2e485fa1497630ba1b1680c0d07e4df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.5"
+    },
+    "Id07": {
+      "name": "An Undying Vow",
+      "description": "Changed history in the Corroded Scar.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/69cb986ec6a163086bc079cece3096a87d9fa004.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/1aa0d9e30879062d2e200e3b4e91e3645fc8be6c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "Id24": {
+      "name": "Another Weapon",
+      "description": "Unlocked your second weapon slot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/2d9365fc7272b5fada45c44d56915ac07f8938a6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/9569513677d21e660048ca1234df25149c652e31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "Id25": {
+      "name": "Beyond Limits",
+      "description": "Unlocked an extra booster slot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/f1929b0448228cf1393904533d5ff5c081934e61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/19721a4523534d526be99feadf2c411e216f3b48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "Id22": {
+      "name": "Demon Eater",
+      "description": "Upgraded a Jail to its maximum level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/29ce183a262c751297a8dbec754bde183b22bf20.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/d616ec4689b145f083624ac361a3e6c26a82d889.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "Id19": {
+      "name": "Duty Fulfilled",
+      "description": "Defeated the Hero Zenon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/c3496cc1022e3e22c15b3e3262c7a54e26c8d4f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/6bf7c43e5218019cdc0565bc9194b22b59268dad.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "Id15": {
+      "name": "Family Man",
+      "description": "Defeated Camilo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/78564c7df5bd1430c442a3f110048c1a7fba7d16.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/1f4bc9ab4c595cc01b0284c70f739cbd2140fab7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "Id21": {
+      "name": "Friend of Few Words",
+      "description": "Upgraded a weapon to its maximum level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/9c93efbcbffb5cfa89b48ef764de6077a163eab4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/9dd861806646028908d9f9a56953235a42870097.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "Id12": {
+      "name": "Guardian",
+      "description": "Defeated Pioneer Queen Imogen.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/81582f21873aa077ab1984073534fe9d569c0804.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/8acae6e5338c4feb51a3293f21f5819b6ab2fd9a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "Id23": {
+      "name": "Hand-Me-Down",
+      "description": "Upgraded a bequeathed forma to its maximum level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/5ac32a0c99e55c8df59dfc9b6932fd4cf5c8f933.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/149ee5ef610ecda2db66fc57a566f7724deaa4e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "Id11": {
+      "name": "Hollow Inside",
+      "description": "Defeated One-Armed Hero Lyle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/9230b36894b9968c1878b14ae410be6787f3a51a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/0c420f7172a605dd491f751a821e6987deff1e24.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "Id32": {
+      "name": "Hungry Hungry Hunter",
+      "description": "Used a Special Drain Attack for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/d9243e0ea725b247353d2837634dfcdcf150f7a6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/9bb87df95e098ea2832d8175b1df3b91b3a0c1ad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.1"
+    },
+    "Id33": {
+      "name": "In Pursuit of Perfection",
+      "description": "Transformed your first piece of equipment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/20e826efb722eab22a100977128bd5efb226bd5d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/954be58bee24f84c2bd83baaa03b9dbcd8019d30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "Id26": {
+      "name": "In Your Hands",
+      "description": "Obtained a blood code of the highest rank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/ed8f47b13f69f7963b18927838f5da98b521795a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/b636b68ca6c063f807e4e344989095207483d790.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "Id28": {
+      "name": "Irreplaceable",
+      "description": "Achieved maximum affinity with a partner.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/6ef85eb9cff7f24341f84f486d6990b8ad04939d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/016311e65044550fb27d219083efb48fa9409dc8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "ID01": {
+      "name": "Legendary Hunter",
+      "description": "Unlocked all other achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/db328b4476df23e61659e4686560b8d6bbdb2cab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/4d801e9c637caeeaab21dd570479ead16434ca8e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "Id08": {
+      "name": "Life in Full Bloom",
+      "description": "Changed history in the Undead Forest.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/fca714154c1f8f8ee7df65a898633806ab2c66cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/a0997cffc12bbbd7a82526eeb0f83680b701c355.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "Id03": {
+      "name": "Luna Fraterna",
+      "description": "Viewed the \"Luna Fraterna\" ending.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/3e4d38f33f61d0fe2f6b1b349b6593034cf82b9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/bddf0bee5223b6ca9535e4ff6bdc2107def5c022.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "Id20": {
+      "name": "Master Bather",
+      "description": "Visited all hot spring locations.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/5f52fdab5078e9ab6f8750ff752264e4234a26bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/b81eaf40c87bf9a2ab6b2711bf7297f685dc1e83.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "Id17": {
+      "name": "Messiah",
+      "description": "Defeated Gobbo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/f94664349c7dd50097fd9f5012a3f9b0d0a28287.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/ad2840ce9fd0bf6b98b3f6b860658121f5ba07f7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "Id04": {
+      "name": "Miraculous Bonds",
+      "description": "Viewed the \"Miraculous Bonds\" ending.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/8381720953ec37bfcc2d76843104639d20e792c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/66ccb7277ecb5756e7273bb98d9201bf5e7106ea.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "Id14": {
+      "name": "Penitence",
+      "description": "Defeated Hero Holly the Reaper.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/45795898f830f2d5a2f90dabcc5e75b017f4f3b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/8cd2c95df6fc8e02a50a77e018678cb6ae90042e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "Id30": {
+      "name": "The Price of Power",
+      "description": "Caused overburden for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/8931eea6b4ce9482ccfe4856f24cda791b3c854d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/b0c7c1e05071f1f6c5da41e560d32551444e1cf9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.4"
+    },
+    "Id29": {
+      "name": "The Tie That Binds",
+      "description": "Triggered a conditional trait for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/35ec8c3cf1999c48e636aa7b762df002ea732eaa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/11f1d1c06d9b0d52657179adff5fa53b56fe5b2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.1"
+    },
+    "Id10": {
+      "name": "Total Darkness",
+      "description": "Defeated Josée the Blind Hero.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/b4535e5577a22b95ac52c0ef039fba2371fd6271.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/fa1411b2371d6c5e0af57c2e993fb1dda1712f35.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.2"
+    },
+    "Id36": {
+      "name": "Touring the Frontier",
+      "description": "Unlocked all maps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/de2b19d7534dc25c89ab7a8400a8a5a582fd2e8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/62a163be359ec022ae50af44eebd8a01197260c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "Id18": {
+      "name": "True to Oneself",
+      "description": "Defeated the Hero Josée.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/9a03ad1a2ca4264c45638edc4d6b1fd8347f6663.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/1b3e967cc32c63eeb7251cc2408b7260bd2452d9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "Id27": {
+      "name": "Unbreakable Bond",
+      "description": "Upgraded regeneration to its maximum level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/617c3578401da6ba6e42c74a208cd38404ef472f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/9fe76e6f1827bb0c88edd0ff11d1086eb841989a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "Id16": {
+      "name": "Warm Rays",
+      "description": "Defeated the Hero Holly.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/5543c2c2cd0f4aa57d35ef8c5b12ed4a0dbed93a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/7c045d5f705358379f2c511e1ad49f91d70b30e8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.6"
+    },
+    "Id35": {
+      "name": "Wings Deployed!",
+      "description": "Glided a certain distance.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/bc66d847e2b76720414e1051fbd4196e9c3685aa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/89933a33813237e7a41b3714f75227a7120aa199.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
