@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/1bde8ff0e54b9cfb6b29cab697e5402a1bb640b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ACH_RED_BULL_WINNER": {
       "name": "DESERT WINGS Winner",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/f00dec340dc2556de604b8fd484d35e095284e11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "ACH_DUNE_BUGGY_AFICIONADO": {
       "name": "Dune Buggy Aficionado",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/d559ee7edb2229d8b549bb0ef04f94cdb7a3287b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "ACH_FOR_THE_MOTHERLAND": {
       "name": "For the Motherland",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/8534548b39d490cf3483a83dd6a10aca7650b8b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "ACH_MONSTER_ENERGY_WINNER": {
       "name": "TRAIN ODYSSEY Winner",

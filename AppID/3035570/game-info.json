@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/2c8530550fa4b4c0fccb1c3e6103bbdec4bb03fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.4"
     },
     "ACMirage_Ach_28": {
       "name": "Ambush",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/58f5180f40f56da0574062ad22862815b6121660.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "ACMirage_Ach_39": {
       "name": "Blade in the Crowd",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c9c90ab054df47dc75116fe6b75eac06cf09b8e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "ACMirage_Ach_20": {
       "name": "Defender of the People",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f66982d7e93220dc9a50f3918c1a190255df83e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "ACMirage_Ach_34": {
       "name": "Hoarder",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/55c84dd8e004c79b0abfb47830f9a734be1b6e80.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "ACMirage_Ach_59": {
       "name": "Make a Break",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/10e7a120ac26ec705c95fc842ba779bb8d408018.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "ACMirage_Ach_36": {
       "name": "Patron of the Arts",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/a958dfa6538eb70e25970aeca416c6afe0bb0465.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "ACMirage_Ach_56": {
       "name": "Playback",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/1cd80edec2eb5928b0498a2cceed3bf2e014ddc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "ACMirage_Ach_10": {
       "name": "Self-Improvement",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/efe8fcd7710ae9200989e0776620f4b8c9c0c3ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "ACMirage_Ach_9": {
       "name": "Serving the Light",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/7f23afbb2dc680fcb4e1fc5dc1033199ee20c8c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "ACMirage_Ach_42": {
       "name": "Silencer",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c08056d57c423f2379261cef1be59eaac083ba64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "ACMirage_Ach_45": {
       "name": "Spread the News",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/36e8870e6ed4f19c2049988b75ad3b350bd7fb4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "ACMirage_Ach_40": {
       "name": "Surprise!",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b9f39cf6b509b1adad86f9e1985995a6cf805367.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "40.0"
     },
     "ACMirage_Ach_3": {
       "name": "The Blood of a Ghoul",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/cd52b03e921c29ee03a6f18209f3b6db44ce09db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "ACMirage_Ach_5": {
       "name": "The Blood of an Enchantress",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c2b0f99081afb149282f2de03eb1b08cdacc09f1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "ACMirage_Ach_31": {
       "name": "The Hands of a Thief",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/0938990d93b0f7c32856ecab749a2b1c023ae86d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.3"
     },
     "ACMirage_Ach_60": {
       "name": "Turn the Page",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/5571b0dc4790eca2ff79120282fa5ce65ac17582.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "ACMirage_Ach_46": {
       "name": "Unstoppable",
