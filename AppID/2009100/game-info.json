@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4e173bcddfd9a4ffac0a1a23a5155da3806a97d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "Achievement_GOSCC_8": {
       "name": "All the Major Food Groups",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d7fd4be2332acdccfcd8f77cb02175a3b6638b86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.1"
     },
     "Achievement_GOSCC_41": {
       "name": "Armaments Azure",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/e86e4dfc57d90780c50c87648cfe0a8ea622d65f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "Achievement_GOSCC_66": {
       "name": "Backtracker",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/2d8fb59e71f967e8b2d8c0ee770228b3cc03013d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.4"
     },
     "Achievement_GOSCC_38": {
       "name": "Best Dressed",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/16594ec63915d68a9f3c0682e99c837571dcebad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "Achievement_GOSCC_10": {
       "name": "Control is an Illusion",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/e112ef9313a74ff1c2bb6d8e1a86b0751954981b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "Achievement_GOSCC_17": {
       "name": "Lights Army",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/5221119e87b5e2ba1d08bb36fd21f0871c947175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "Achievement_GOSCC_44": {
       "name": "Periapt Cerulean",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d5b6c111232c7f84df8f30eea28a4d82450eeb16.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.5"
     },
     "Achievement_GOSCC_26": {
       "name": "Scholar",

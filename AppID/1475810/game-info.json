@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "ACH_003": {
       "name": "Connection",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/43a2386c425ebf6f72572e17e5f4a4125195a53e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "ACH_029": {
       "name": "DJ Akito",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "ACH_061": {
       "name": "Unparalleled Talismaniac",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1475810/e2827b1029d5b0f879c06adec8b80203e2ee1ea2.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "ACH_013": {
       "name": "Wishmaker",
