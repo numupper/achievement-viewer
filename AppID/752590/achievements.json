@@ -56,52 +56,52 @@
     "earned_time": 1769943096
   },
   "ACH_15": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770038781
   },
   "ACH_16": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770051621
   },
   "ACH_17": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770052153
   },
   "ACH_18": {
     "earned": true,
     "earned_time": 1769780356
   },
   "ACH_19": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770040752
   },
   "ACH_20": {
     "earned": true,
     "earned_time": 1769694096
   },
   "ACH_21": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770043417
   },
   "ACH_22": {
     "earned": true,
     "earned_time": 1769878943
   },
   "ACH_23": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770053520
   },
   "ACH_24": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770037622
   },
   "ACH_25": {
     "earned": true,
     "earned_time": 1769787685
   },
   "ACH_26": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770039155
   },
   "ACH_27": {
     "earned": true,
@@ -136,7 +136,7 @@
     "earned_time": 1769941206
   },
   "ACH_35": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770041568
   }
 }
