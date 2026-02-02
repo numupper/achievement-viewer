@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/7ee530beaa48b20b0a4b244a35ca68742ab4d8f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "ACH_ELECTRIFIED": {
       "name": "Electrified",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/880a6811073ada314bd7393232932ef9fff75928.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "ACH_IN_THE_GREEN": {
       "name": "In the Green",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/0e2fee509322197f02e05ba96bd86dbb747c95f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.5"
     },
     "ACH_SHOWOFF": {
       "name": "Show-off",
