@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/2de81ed07969b70578b2d44f9a0ea54b8fea510b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.8"
     },
     "ach_anger_management": {
       "name": "Anger Management",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/e82286b0fb44913591fedd67675e6c5b08d9ccdb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     },
     "ach_knock_down": {
       "name": "Apex Predator",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/eb06f433e48465be3a23c78c566593f52eea1064.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.9"
     },
     "ach_bookworm": {
       "name": "Bookworm",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d6a11d886bfff88451e3e77ae7635581cdb8cccf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.7"
     },
     "ach_break_a_leg": {
       "name": "Break A Leg",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/83fff052f29e0e3d6a6e58b463671c696f3a5a08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.9"
     },
     "ach_well_trained": {
       "name": "Bucket List",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4fe970b6ef78f96bf17e1187e91b497d734765fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.5"
     },
     "ach_fetch_me_a_tisha": {
       "name": "Can't Handle the Truth",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/575d79069a2aba58da1b1ea4d619f42aacd07ee7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.2"
     },
     "ach_finisher": {
       "name": "Coup de Grâce",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a4d9951b0fc2c2056c6447b280e139ecbba14300.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.8"
     },
     "ach_impressive_aim": {
       "name": "Donk!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b024d0576ab4722b40daf5e7f68ab9fa11109c01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "ach_a_day_in_the_beach": {
       "name": "Dr. Reed, I Presume?",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f50f17dbb4a927a4c6b1b4cadbf2ece138be2f8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "ach_that_was_close": {
       "name": "Drop The Beat",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/81490edf4903c43798e0ec209cebf633d1122736.jpg",
       "hidden": true,
       "group": "Dead Island 2 - SoLA",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ach_her_name_was_lola": {
       "name": "Friends Like These",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d00b8b7cf5f920d2ff51135e75f4355de8ddd5d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "ach_ammo_ran": {
       "name": "Git Gutte!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/11b6acf405470f6f5b981033f6c3859ac817097e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "ach_the_vcla": {
       "name": "Go, Bobcats!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/c03aec981d23067c7924fbbf1939570b55d40e05.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "ach_magnum_opus": {
       "name": "Gore Horse",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/9b89e2d28cf9309c59f44eb50e8afeaaec6093bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "ach_hotel_california": {
       "name": "Hotel California",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/5cace711f3107cf0dd9d34197aaf28526bf2bce9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.2"
     },
     "ach_mind_over_monster": {
       "name": "Humanity Distilled",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/c5547fa8ff05c9fb5f1d790734e1153c78eb9ce0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ach_revival_tour": {
       "name": "I Am the Resurrection",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/f1b8b7082977cf41cb9c9e96133670d5189d8afb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "ach_internet_famous": {
       "name": "Internet Famous",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d8e4057e76f4c74771382fd11309ea4f716496b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "ach_jumbo_keyring": {
       "name": "Jumbo Keyring",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d0b5c50d44c3fff83a284d6db7dab6be2d21700f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "ach_big_name_in_town": {
       "name": "LA Influential",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/713a73608fcbbf7bfcf2927fc6246689691fc414.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.9"
     },
     "ach_ayeaye_captain_vixen": {
       "name": "Make it So",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/edca20eb6a9fdcfb0552242e6334711fb8c01b24.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ach_a_taste_of_stardom": {
       "name": "Making Your Mark",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/087df6ca08de24a37555e05c36aa8516fbb00280.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "ach_survival_of_the_fittest": {
       "name": "Max Headroom",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/df51e02e5acc4b062bc61de58a6567dee6576604.jpg",
       "hidden": true,
       "group": "Dead Island 2 - SoLA",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "ach_good_eyesight": {
       "name": "Not Even My Final Form",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a683299983f8cefdff6d59fd76fb527d555fa1f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "ach_contender": {
       "name": "On Safari",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f5357b77f202a34c788a9aa4d4108e74627ad84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "ach_thesacrifice": {
       "name": "Our True Nature",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/ac6ba1b7ec8a6fc88ecac59640821dddbee58ab4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.5"
     },
     "ach_blueprinted": {
       "name": "Perks of the Job",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/500907995ed66f22e6a6c4626c2cff25911b9820.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.4"
     },
     "ach_star_performance": {
       "name": "Personal Assistant Personally Assisted",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b589648b3096ad2601d0b29a9ea8f492bbc48c68.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.8"
     },
     "ach_pork_chops": {
       "name": "Pork Chopped",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/91670ddfbb9109d499b97704dd787ac467d86395.jpg",
       "hidden": true,
       "group": "Dead Island 2 - Haus",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "ach_rippin_and_sawin": {
       "name": "Rip 'n' Tear",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/27999e830ecf109a1d731a7250785099ee5ef30d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "ach_secrets_of_la": {
       "name": "Sharpest Tool in the Box",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/9ef0b4bd2071e2bc7d8f0ad5806dbefa5d97bea3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "ach_revenant_slayer": {
       "name": "Shoulda Stayed Dead",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/8cf847f3ef7d75cdc56eb92153332e3d6569a369.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "ach_explorer": {
       "name": "Smorgasbord",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a807c8ac8ccb31ea88a1e364c7b1d11c9a384288.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "ach_investigator": {
       "name": "Sole Survivor",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4d789e0223c5a91ddc548ee21437ee12ed6f9a0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "ach_survival_expert": {
       "name": "Survival Skills",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/52eebf0feba86f6941e6a93169fa56d7011f9377.jpg",
       "hidden": false,
       "group": "Dead Island 2 - SoLA",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "ach_this_is_my_weapon": {
       "name": "This is My Weapon",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b01a91e8f132aea5e24061b7defc3065894ff3b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.8"
     },
     "ach_whoops_did_i_do_that": {
       "name": "Three's a Crowd",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4cfa8826c5b530153deb443a365a98abf794641b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "ach_welcome_to_hell_a": {
       "name": "Welcome To Hell-A",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4ea260966d8e2f59de76a36520cc2c65959fbc1d.jpg",
       "hidden": true,
       "group": "Dead Island 2 - Haus",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "ach_this_is_deeper_v2": {
       "name": "Wilhelm",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/9a6758132c54ee4bf77c3bc34d0fe74b9567eb7e.jpg",
       "hidden": false,
       "group": "Dead Island 2 - Haus",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "ach_knowledgeable": {
       "name": "Zombologist",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b9854c0b9225393539c817ac7a3653d852c71c2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.6"
     }
   },
   "platform": null,
