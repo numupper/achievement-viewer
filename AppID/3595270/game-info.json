@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/945422387abd6a75d4d3cce45e061a4355a0c0c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "jup_sp_timeforanewplan": {
       "name": "Dialed In",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5bacfd37aeea95085777427a261c9d7f2adcaf87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "jup_sp_fullsweep": {
       "name": "Elevator Out of Order",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/47d4891e60b5bac32575daca42dcdd146048c426.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "jup_sp_partyfavors": {
       "name": "Sample Platter",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/d905fc22a00a31e0b3361c8bae8568b235ab8448.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "jup_ob_seeingred": {
       "name": "Seeing Red",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/20a0f6a0f9c884e487c49a0bcacf03f14c0cd13d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.0"
     },
     "jup_sp_shotblocked": {
       "name": "Shot Blocked",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/862f0babebba601b6eedceb1af814dd2e4e349eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "jup_sp_hushhush": {
       "name": "Snow Angel",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/cbcb9ac70c09cd35d9558bd4770a93906eb4e552.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.6"
     },
     "jup_ob_youcanpetthedog": {
       "name": "You Can Pet The Dog",

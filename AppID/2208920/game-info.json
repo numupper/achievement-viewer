@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/540ccf2844be0175f15acf591c7ba475c74ebb8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "ACValhalla_Ach_7": {
       "name": "Calling in a Favor",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/981ae3c174cd2a3b8b57d464dffcc588b2f0c13e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "ACValhalla_Ach_92": {
       "name": "Heroes of Ancient Britain",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/ce09c12de28793e3ba73a13b7aff4c73571f605c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "ACValhalla_Ach_71": {
       "name": "Spelunker",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/495258467920decc83ef6a2bcf881a8833025650.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "ACValhalla_Ach_5": {
       "name": "The Good Saxon",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8a2ef667dee28f8be8a1e9112f212d55c29f0ed4.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "ACValhalla_Ach_1": {
       "name": "The Saga Begins",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/020ebc4f57cf456898e321798f2c0737403a6ad5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "ACValhalla_Ach_15": {
       "name": "Tranquility",

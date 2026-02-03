@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/9242252153a6ac942eb36ccb1b098e6392e98a46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "AllClear": {
       "name": "A fight is about survival.",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/8049bef5b0e0e88f2e5549d058e7eeea79a8a14b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "WinGhostPlayer": {
       "name": "All is vanity.",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/92d7717dbb5f63c9a3058f25b36500f188f9ca7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.7"
     },
     "TresureHunt": {
       "name": "How do you take your coffee?",

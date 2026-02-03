@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
       "hidden": false,
-      "group": "Update 14"
+      "group": "Update 14",
+      "percent": "0.0"
     },
     "ADisplayOfAffection": {
       "name": "A Display Of Affection",
@@ -153,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/a8e510fc6580fc02934f72395a92b6316753caff.jpg",
       "hidden": false,
       "group": "House Party - Winter Holiday Pack",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "derezzed": {
       "name": "Derezzed",
@@ -180,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/5bc383e4a2464b7ce791675cb91b2f98177528c0.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "DojaDinoliciousDanceapalooza": {
       "name": "Doja's Dope-Ass Dinolicious Danceapalooza",
@@ -449,7 +450,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
       "hidden": false,
-      "group": "Update 14"
+      "group": "Update 14",
+      "percent": "0.1"
     },
     "MoneyShot": {
       "name": "Money Shot",
@@ -467,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/ebe631812cc87dddc2046f28945b101f1b4bdb1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "NocturnalTemptations": {
       "name": "Nocturnal Temptations",
@@ -475,7 +477,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
       "hidden": false,
-      "group": "Update 14"
+      "group": "Update 14",
+      "percent": "0.1"
     },
     "NoticeMe": {
       "name": "Notice Me, Sensei",
@@ -510,7 +513,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
       "hidden": false,
-      "group": "Update 14"
+      "group": "Update 14",
+      "percent": "0.0"
     },
     "PoopEnding": {
       "name": "Party Pooper",
@@ -609,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/c9b31e9882679c3625b3a37f8454d923c475dc9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "SolarFlare": {
       "name": "Solar Flare",
@@ -626,7 +630,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
       "hidden": false,
-      "group": "Update 14"
+      "group": "Update 14",
+      "percent": "0.0"
     },
     "Stephanie": {
       "name": "Stephanie",
@@ -644,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/5ce3ab947c4c04ab1deef3fb5cafb7ee316df85a.jpg",
       "hidden": false,
       "group": "House Party - Detective Liz Katz in a Gritty Kitty Murder Mystery Expansion Pack",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "SuckerPunch": {
       "name": "Sucker Punch",
@@ -734,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/59c04c63d7dc0a714b2f210588003503a086bbbf.jpg",
       "hidden": false,
       "group": "House Party - Supporter Pack",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "TheFutureIsAdsTwo": {
       "name": "The Future Is Ads 2",
@@ -742,7 +747,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
       "hidden": false,
-      "group": "Update 14"
+      "group": "Update 14",
+      "percent": "0.1"
     },
     "TheGreatestTripOfHerLife": {
       "name": "The Greatest Trip of Her Life",
@@ -750,7 +756,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
       "hidden": false,
-      "group": "Update 14"
+      "group": "Update 14",
+      "percent": "0.0"
     },
     "HarderDood": {
       "name": "The Harder They Fall...Dood",
@@ -803,7 +810,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/e7b22301c5c4fd85c2f2cf878eb8b0f62ff79b11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/611790/0a075ffef0b30e229f80033fbdd1d5618a34711f.jpg",
       "hidden": false,
-      "group": "Update 14"
+      "group": "Update 14",
+      "percent": "0.2"
     },
     "Vickie": {
       "name": "Vickie",

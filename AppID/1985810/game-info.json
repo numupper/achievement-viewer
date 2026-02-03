@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/829e38af7da0b512f8eaed6c89de91cd3068e966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "CP_ACHIEVEMENT_CP_GER_STAKEOUT": {
       "name": "Brick in the Wall",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/b56b2d5629c39a99ef8a53d2bb468a3ae4f2c29a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "CP_ACHIEVEMENT_COMBAT_HARDENED": {
       "name": "Combat Hardened",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9ffc31e6311f317be94c88c76c01a3a907c67bcc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "CP_ACHIEVEMENT_JACK_ALL_TRADES": {
       "name": "Jack of All Trades",
