@@ -16,8 +16,8 @@
     "earned_time": 0
   },
   "Id05": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770112659
   },
   "Id06": {
     "earned": false,
@@ -32,8 +32,8 @@
     "earned_time": 0
   },
   "Id09": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770111610
   },
   "Id10": {
     "earned": false,
@@ -116,8 +116,8 @@
     "earned_time": 1769964417
   },
   "Id30": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770115323
   },
   "Id31": {
     "earned": false,
