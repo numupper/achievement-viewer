@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9f4f9220899fcfa3aabfc8327f33ce9b4f3940e5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.7"
     },
     "ach_all_systems_go": {
       "name": "All Systems Go",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9e6927a163f3a50b9aa9b7773444b0d16b9b5ca2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "ach_first_steps": {
       "name": "First Steps",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/bce23245c53beca664b4d25aacb514e6b9e37f73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "ach_frequent_flyer": {
       "name": "Frequent Flyer",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/c2d21b47c630af9b29ef4f6c2c5166428767bf3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "ach_hello_world": {
       "name": "Hello World",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/b63184320d3711e49e243b01dadba6be387f8e88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "ach_in_the_zone": {
       "name": "In the Zone",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/597005a89fb10885870c3d2130c1cd2e28b5326a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "61.9"
     },
     "ach_license_to_drive": {
       "name": "License to Drive",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/7c7bebed7392f4d743755ac9fd47da23f60fbd96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.5"
     },
     "ach_one_for_the_team": {
       "name": "One For The Team",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/0e6a3a40b6a08e0e31bde52372fe4ebb8b3e02a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "ach_research_develop_assemble": {
       "name": "Research, Develop, Assemble",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/83600080bb1001988da1b81ba7777503d65035fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "ach_sponsor_sleuth": {
       "name": "Sponsor Sleuth",

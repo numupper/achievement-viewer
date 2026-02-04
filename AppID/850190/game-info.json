@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/6686adcbedf4e83aaae45297af367c94eeb51227.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "AchievementEggID": {
       "name": "Egg Simulator",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/624b59d2302249887e90f4d3a7920d8137311dca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "AchievementGoatID": {
       "name": "G.O.A.T.",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/7612310a5241717db342558f94c99eb17250c4ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "AchievementStratosphereID": {
       "name": "Reach the Stratosphere",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a4454b4b3c22a7dfccc515db8bc20c6473ae7b2e.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "AchievementAliensID": {
       "name": "Welcome to Earth",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/4a96d0de2a9656fcee6a58c64aafcf3f1ce061ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "AchievementBaywatchID": {
       "name": "Who Baywatches the Baywatch?",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c68de3aa791593a54362fbdc0a7871a96317e0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "AchievementMultiverseInstinctID": {
       "name": "Wow, Such Instincts",

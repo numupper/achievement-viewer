@@ -1,7 +1,7 @@
 {
   "appid": "1622350",
-  "name": "Copycat",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622350/header.jpg?t=1763430983",
+  "name": "Game 1622350",
+  "icon": "",
   "achievements": {
     "102": {
       "name": "102%",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/0585e02ae3047bb15c32be5b1e5b3b4ce3abd347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "50.9"
     },
     "MILK": {
       "name": "Got Milk?",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/a6b0c204e8b0ec8da6807791cc9f2e46d1d7754c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.6"
     },
     "NINJA": {
       "name": "Ninja Kitty",

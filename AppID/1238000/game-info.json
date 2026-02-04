@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/30cde3c18a3603a4b3578a17ade1958851a3643d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "Achievement_GOSCC_39": {
       "name": "Signal Tracking",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/44835d92ad31f142739361fac018c9b116e8bd1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.6"
     }
   },
   "platform": null,

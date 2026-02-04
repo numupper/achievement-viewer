@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/575d79069a2aba58da1b1ea4d619f42aacd07ee7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "ach_finisher": {
       "name": "Coup de Grâce",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b14181d1be7061c414deaffd6a09640967128793.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.3"
     },
     "ach_salvation": {
       "name": "Down with the Sickness",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d00b8b7cf5f920d2ff51135e75f4355de8ddd5d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "ach_ammo_ran": {
       "name": "Git Gutte!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/c03aec981d23067c7924fbbf1939570b55d40e05.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "ach_magnum_opus": {
       "name": "Gore Horse",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/cff78ee88e9b1d6ec52ebc6e31559c796f987ac6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "ach_complete_ngplus": {
       "name": "Groundhog Slay",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/90c29c16ea0b57b2b67d103f15a10059ad729129.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "ach_defensive": {
       "name": "I Got a Zombie Army and You Can't Harm Me",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d0b5c50d44c3fff83a284d6db7dab6be2d21700f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "ach_big_name_in_town": {
       "name": "LA Influential",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/713a73608fcbbf7bfcf2927fc6246689691fc414.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "ach_ayeaye_captain_vixen": {
       "name": "Make it So",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/087df6ca08de24a37555e05c36aa8516fbb00280.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "ach_survival_of_the_fittest": {
       "name": "Max Headroom",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4b7fb9aa0ad514f31f3e871bdc1d16f8c162476a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "ach_helping_out": {
       "name": "No Encores",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/df51e02e5acc4b062bc61de58a6567dee6576604.jpg",
       "hidden": true,
       "group": "Dead Island 2 - SoLA",
-      "percent": "9.7"
+      "percent": "9.6"
     },
     "ach_good_eyesight": {
       "name": "Not Even My Final Form",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a683299983f8cefdff6d59fd76fb527d555fa1f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "ach_contender": {
       "name": "On Safari",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/ac6ba1b7ec8a6fc88ecac59640821dddbee58ab4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "ach_blueprinted": {
       "name": "Perks of the Job",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/500907995ed66f22e6a6c4626c2cff25911b9820.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.6"
     },
     "ach_star_performance": {
       "name": "Personal Assistant Personally Assisted",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b589648b3096ad2601d0b29a9ea8f492bbc48c68.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "ach_pork_chops": {
       "name": "Pork Chopped",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a807c8ac8ccb31ea88a1e364c7b1d11c9a384288.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "ach_investigator": {
       "name": "Sole Survivor",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4d789e0223c5a91ddc548ee21437ee12ed6f9a0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.6"
     },
     "ach_survival_expert": {
       "name": "Survival Skills",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b01a91e8f132aea5e24061b7defc3065894ff3b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.0"
     },
     "ach_whoops_did_i_do_that": {
       "name": "Three's a Crowd",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b9854c0b9225393539c817ac7a3653d852c71c2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "28.9"
     }
   },
   "platform": null,

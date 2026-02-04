@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/3a0a8b2b4b554628a67d1da65d13b9581e5c29a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "c87c609f99e09e9e": {
       "name": "Lights Out",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/0466f5de466f0a51128e4e8882ab8edd93e13180.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.3"
+      "percent": "67.2"
     },
     "33d7ce435071bec5": {
       "name": "Sharpest Tool in the Shed",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/c3dec52295820ec02bffc1407035a0e66a6878e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     }
   },
   "platform": null,
