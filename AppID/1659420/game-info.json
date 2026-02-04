@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/af812b7974d8b23d1915e5ea622efbed250ebbae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "TROPHY_NAME_JEEP_QUICK_KILL": {
       "name": "4x4x4",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8a0b66fa4efb358f0c73af1180731ca9a0226f4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.3"
     },
     "TROPHY_NAME_TLL_PLATINUM": {
       "name": "Don't Ruin The Moment",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/81714899fb72fe521eb92afe0a4863457824cde9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.2"
     },
     "TROPHY_NAME_TREASURE_1": {
       "name": "First Treasure",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/6e24c19d7186c5cd0759ea3052160dd837bdc421.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.2"
     },
     "TROPHY_NAME_FROM_THE_HIP": {
       "name": "Itchy Trigger Finger",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/89aac935e8ee251b7b1f17926808ed395a13cdbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.6"
+      "percent": "64.5"
     },
     "TROPHY_NAME_ROPE_SWING_CHAIN": {
       "name": "Jungle Gym",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b29dc1af4a98161d103bdfdef8ee8f612bbd7301.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "TROPHY_NAME_DOLPHINS": {
       "name": "On Porpoise",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/f10e6c086ce8e5d12179ca768e60fd6a94648525.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "TROPHY_NAME_COVER_FIRE": {
       "name": "Stay and Pray",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/159819d10d605124df3a5f8445b071f35386e9d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "TROPHY_NAME_SWORD_FIGHT": {
       "name": "Swordmaster",
@@ -820,7 +820,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/bc8438c94e58395350e9a9d46e3a9f2bb136e4f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "TROPHY_NAME_TREASURE_50": {
       "name": "Treasure Hunter",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/fd56bdf6c945532d0acb9b9af5cf9868b10c0603.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.4"
     },
     "TROPHY_NAME_COMBO_BUDDY_TAKEDOWN": {
       "name": "Wingman",

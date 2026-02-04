@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/383870/018ea9261c67599047bdd93b6e2172ba52389b02.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     },
     "VG_TURTLE": {
       "name": "Love Turts",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/383870/400114deff01e0d825a8f027579375323db5e3e9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "VG_CAMERA": {
       "name": "Shutter Bug",

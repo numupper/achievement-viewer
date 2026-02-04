@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/240b0701c0324b483745f9a7cb3f322825eb7bc4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "Achievement_08": {
       "name": "Brand Equity",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/19e8fdf6035f333b0ec6854e4304fa68165df42e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "Achievement_05": {
       "name": "Catch-A-Ride",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c69ef3048fd3fd0bf60f4613c808ef2bb90d4b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "Achievement_16": {
       "name": "Churn the Burn",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c22d44aa3605dfffd2645ddae7ef86ec09007ede.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "Achievement_00": {
       "name": "Crimson Rising",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/16cca5cf5e2f9b06bf830a9889e4518070f63a42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d31e42682e849671d97112a8a154a58ae6d74a45.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "Achievement_19": {
       "name": "Nothing Left to Guard",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/7b2f9f99c576342085d0b25a03e2b554cc473825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/afc95e9686033038e5dff7af56268c79c6bab420.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "Achievement_18": {
       "name": "Pop Out",

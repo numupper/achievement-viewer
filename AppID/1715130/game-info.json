@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/80ccf11e6597a17b99b54b6bb7cef0abae919a03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "AchEvt_CoolInACrysis": {
       "name": "Cool In A Crysis",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/18e839a8e8f930103676516298ba026d235318dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "AchEvt_EnjoyFireworks": {
       "name": "Enjoy The Fireworks",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/d1356395e3f4b4cc3379798eda4cf8142a29d522.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "AchEvt_PerfectSoldier": {
       "name": "Perfect, Soldier!",

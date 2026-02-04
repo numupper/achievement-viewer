@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/4fccafc3bbf38f1a971081d9307f2d74d1ebf515.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "TRP_FRESH_AIR": {
       "name": "Fresh Air",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/a8a50b138597a9427bb3ac204dd1a4a3ceddaedc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "TRP_THE_BIG_CHIEF": {
       "name": "Power in the Machine",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/da1c6a251ae6c5ce1f29d360a04571841474ce1f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "TRP_RAZING_LEGEND": {
       "name": "Razing Legend",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/c3075885a5d88ef9f4e2a85cd5856908274872ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "TRP_ROAD_WARRIOR": {
       "name": "Road Warrior",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/0d2dead32e1a55a788497d9fbaa5c83834293a20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     },
     "TRP_SNIPER_SUPPRESSOR": {
       "name": "Sniper Suppressor",
