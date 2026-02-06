@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b9eee125f351f8461e6ac3e516eb70ee99c86fcb.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "ACHIEVEMENT_ADMIRABLE_ADMIRAL": {
       "name": "Admirable Admiral",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/fb1cbea040a3b98194d31e74c80a514aadd65d59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "0.8"
     },
     "ACHIEVEMENT_AN_ARMY_MARCHES_ON_ITS_STOMACH": {
       "name": "An Army Marches on its Stomach",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/bf7d0b78280cd07490c253b4933ae6224d322a2e.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "1.2"
+      "percent": "1.1"
     },
     "ACHIEVEMENT_HARDEST_AI": {
       "name": "Barbaric Manners",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c8a447407a01b8c36706d58e42794402571784dd.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "BERBERS_VICTORY": {
       "name": "Berber Victory",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d2dceec8826386da4c30bc7c8a28541056111a1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "38.7"
+      "percent": "38.6"
     },
     "ACHIEVEMENT_BULLS_EYE": {
       "name": "Bull's Eye",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/99909c2f1aa8b7b6227180610642c815a77f3b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "ACHIEVEMENT_BUT_ITS_PROVOCATIVE": {
       "name": "But It's Provocative",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1fd4d8b3d04a18b0399fa7375b75cfb40b6cbe07.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "POMPEII_CARTHAGINIAN_VICTORY": {
       "name": "Carthaginian Victory",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/952bece8f6a13d66f583e94ead117680e1b1a255.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.2"
     },
     "ACHIEVEMENT_CHAIN_REACTION": {
       "name": "Chain Reaction",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3d8b6b22d8604e44676b1f55a7e9fa220df2e82e.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_DARK_DINNER": {
       "name": "Dark Dinner",
@@ -775,7 +775,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/650a08e3b40e52b9f42fe358df5630b32cada0c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "ACHIEVEMENT_CAMPAIGN_ETHIOPIAN_COMPLETED": {
       "name": "Destroyer of Axum",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c01300628ddc07472a7fb59b0616df56df557798.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "ACHIEVEMENT_EASY_AI": {
       "name": "Easy Going",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/f5f11cc64d081491fd3b28c12a87bb5b7f3af639.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "ACHIEVEMENT_CAMPAIGN_MONTEZUMA_COMPLETED": {
       "name": "Emperor of Tenochtitlan",
@@ -874,7 +874,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/8f04ebf1eec28e889066ed008b341146933ebb4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "ACHIEVEMENT_CAMPAIGN_TATAR_COMPLETED": {
       "name": "Empire of the Steppes",
@@ -982,7 +982,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/15d1ef1f06021f522074ef878515e99af4f439a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "ACHIEVEMENT_FINAL_COUNTDOWN": {
       "name": "Final Countdown",
@@ -1225,7 +1225,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/786aa14501b5c419e45dac1d2857a5edede6ee1f.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Lords of the West",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "ACHIEVEMENT_DEFEAT_AUSTRIAN_DUKE": {
       "name": "He Won't Be Back",
@@ -1414,7 +1414,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/715658c89781f7693cf63448ccbe457643f03a3c.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "INCAS_VICTORY": {
       "name": "Inca Victory",
@@ -1693,7 +1693,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/53cd3e40336e7b26c066414dcdea13e8ea183675.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "ACHIEVEMENT_LOST_VIKINGS": {
       "name": "Lost Vikings",
@@ -1756,7 +1756,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/bacf943cacbce85a1dba0b6e2d26cb39f5d111f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "ACHIEVEMENT_MALLEUS_SCOTORUM": {
       "name": "Malleus Scotorum",
@@ -2071,7 +2071,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b379103a09cfb33299e46f29490a8e1e542993d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "POMPEII_PERSIAN_VICTORY": {
       "name": "Persian Victory",
@@ -2125,7 +2125,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/cfe0644c217baec9b7f46c9dfeebd581bbc10c25.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "ACHIEVEMENT_PLEBEIAN_PRESERVER": {
       "name": "Plebeian Preserver",
@@ -2170,7 +2170,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2269,7 +2269,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/f300186c1054d1bcbf3eac420a978b28dd8dba05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "ACHIEVEMENT_CAMPAIGN_SFORZA_COMPLETED": {
       "name": "Renaissance Man",
@@ -2368,7 +2368,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/5873f0aef965ae8db6ffb6e9842eb9ca102c37e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "ACHIEVEMENT_SAXON_REVENGE": {
       "name": "Saxon Revenge",
@@ -2476,7 +2476,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/264987d4242c72cdd5e70e6624f87aae445b58ee.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "SLAVS_VICTORY": {
       "name": "Slavic Victory",
@@ -2557,7 +2557,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/edc5307df08ce96b611fae4efd5a9306f8d9570f.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "1.8"
+      "percent": "1.7"
     },
     "ACHIEVEMENT_SUPREMELY_UNEXPECTED": {
       "name": "Supremely Unexpected",
@@ -2602,7 +2602,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/e100894aab41bd36c6a9b1814c3570c2c4146b9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.7"
     },
     "ACHIEVEMENT_THE_BEST_DEFENSE": {
       "name": "The Best Defense...",
@@ -2665,7 +2665,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/05f16282dea82b328d2466c8cb0a4e2058d7757b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "ACHIEVEMENT_CAMPAIGN_BURGUNDIANS_COMPLETED": {
       "name": "The Good, the Bold, and the Fearless",
@@ -2728,7 +2728,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4edcec9c75695099ceb5a04bc209a0abf1369532.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "0.9"
+      "percent": "0.8"
     },
     "ACHIEVEMENT_THE_MISSIONARY": {
       "name": "The Missionary",
@@ -2791,7 +2791,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d838a5c7c78c4f88ac5b79f0744d2a6fb4c68002.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "ACHIEVEMENT_NO_WONDER_LEFT_BEHIND": {
       "name": "The Wonder, the Wonder, the...Oh, Never Mind",
@@ -3016,7 +3016,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/692530f3676cb0691b45a7b0651d75f191836fd9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "ACHIEVEMENT_MODERATE_AI": {
       "name": "With Moderation",
@@ -3088,7 +3088,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/dda7f3907501dae702c0e14f380f833d6952adec.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "1.3"
+      "percent": "1.2"
     },
     "ACHIEVEMENT_ZIZKOV_HILL": {
       "name": "Zizkov Hill",
@@ -3097,7 +3097,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/bde7d2e5aaaf8574832302b30dd2765940949d87.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "2.0"
+      "percent": "1.9"
     }
   },
   "platform": null,

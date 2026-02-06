@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/a4a90c1b085cbf2531cf4befd5d36cdf12e4e605.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "Ch4_DefeatIlltauga": {
       "name": "Returned to the Earth",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/29d70e89ecd81d0b2a8247cb914fa89b20da6ae8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "Collect_Totems": {
       "name": "Tales of Midgard",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0547b76f52ec3935a3d978cedb06e14bf04c610c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "Ch3_LakeEmpty": {
       "name": "The Hidden World",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/3512466cc8a7c43b14b83a2d44459f1d6d00f83a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.9"
+      "percent": "67.8"
     },
     "Ch1_ThorBattleComplete": {
       "name": "The Next Sign",
