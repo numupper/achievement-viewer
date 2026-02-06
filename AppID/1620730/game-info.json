@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "HollowWalkers_KillAll": {
       "name": "Big Game Hunter",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "GoodDeeds_TimeloopClosing": {
       "name": "End the Suffering",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "GoodDeeds_Step02": {
       "name": "Man of the People",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "Act01_Complete": {
       "name": "So It Begins",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "Mystery_Step02": {
       "name": "Super-Sleuth",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "DroneSkills_All": {
       "name": "Tech-Savvy",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "Research_AllCategories_AllItems": {
       "name": "Well-Read",

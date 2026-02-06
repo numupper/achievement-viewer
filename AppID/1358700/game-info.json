@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.3"
     },
     "TROPHY_MISSION_REMEMBERING_HOME": {
       "name": "Duty's Course",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "TROPHY_DLC3_DEFEAT_MANIKIN": {
       "name": "Life Imitated",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "TROPHY_CLEAR_SUB_MISSION": {
       "name": "Memories of the Distant Past",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "TROPHY_DLC3_DEFEAT_TRANSCENDANT": {
       "name": "Path to Legend",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "65.0"
     },
     "TROPHY_DLC3_USE_REPLICATION": {
       "name": "The Technology of Lufenia",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "TROPHY_FULL_UPGRADE_SPECIAL_EFFECT": {
       "name": "True Potential",

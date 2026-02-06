@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/7f5274b298e7a86269de5a07657063464f531d30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "ACHIEVEMENT_000": {
       "name": "Golden Completed",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2c89065bfbe1093acc569741de6894d10908cd60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "ACHIEVEMENT_036": {
       "name": "Moderate Bookkeeper",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/5031592f6fa8f249a3df55284727c5f03a1f41ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     }
   },
   "platform": null,

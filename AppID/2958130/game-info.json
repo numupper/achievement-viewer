@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4eed8b2e540dcac1842f9801d78113903a31ff18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "Gen5Juvenile": {
       "name": "Fifth Iteration",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b04dfd57e6bf8551a9007bc814694a59e39ac7ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "JWDatabase50": {
       "name": "If You Knew Enough...",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.9"
     },
     "BuildLagoon": {
       "name": "Include That In The Brochure",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/49648538e5433a1f9027a40ca1a373675061f0ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "JurassicDiffSanAlbertus": {
       "name": "Maltese Marvel",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/2c64343b7dadbab0aac718b9e2de6bb3dd5175de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "CompletePark8Objectives": {
       "name": "So Much Still to Learn",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c17079545cbda052bd2dfe387b338b5c1f89dcc8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "CompletePark5Objectives": {
       "name": "Twenty-Seven Foot Neck",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/dd9755fe4d0aff4dc2987ac8a76104e3be853ecb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "UnlockAct2": {
       "name": "We've Entered a New Era",

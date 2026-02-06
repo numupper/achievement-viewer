@@ -775,7 +775,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/650a08e3b40e52b9f42fe358df5630b32cada0c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ACHIEVEMENT_CAMPAIGN_ETHIOPIAN_COMPLETED": {
       "name": "Destroyer of Axum",
@@ -1414,7 +1414,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/715658c89781f7693cf63448ccbe457643f03a3c.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "INCAS_VICTORY": {
       "name": "Inca Victory",
@@ -2602,7 +2602,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/e100894aab41bd36c6a9b1814c3570c2c4146b9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "ACHIEVEMENT_THE_BEST_DEFENSE": {
       "name": "The Best Defense...",
@@ -3097,7 +3097,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/bde7d2e5aaaf8574832302b30dd2765940949d87.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "1.9"
+      "percent": "2.0"
     }
   },
   "platform": null,

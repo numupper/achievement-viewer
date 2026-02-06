@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b3f924fcd01b2ee95bd04ced47be6a6da4f8fac1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "ACH_CLUB_DRIFT_UNITED": {
       "name": "#Drift United",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/38579ae3730b6fee68fa389a1294b09836b5707e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ACH_CHASE_5": {
       "name": "Betting Master",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/0c377e983fe511fca12cb4c395544c510e7e153b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH_CHASE_2": {
       "name": "Challenger",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ed2889a752796e0476ebcd227c812078d2d08bd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "ACH_LEADERBOARD_100": {
       "name": "Elite Racer",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/81b19930e546e0c455f6a95fa83ada4b92bd1f9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "ACH_FEEl_TRAVELED_1500": {
       "name": "Exploration Beginner",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/aad704fc6d8f6ddd490ae34c78380536cc2a3a43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.6"
     },
     "ACH_AIR_TIME": {
       "name": "Flight Rookie",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/87a042afc4ce89a6eca97535836e75d4cbd2e7e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.7"
     },
     "ACH_FARM_RACE_4": {
       "name": "High-Level",

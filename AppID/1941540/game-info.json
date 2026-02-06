@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "Achievement_34_Id": {
       "name": "Bona Furtuna",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.7"
     },
     "Achievement_45_Id": {
       "name": "Mystery Fox Domination",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "Achievement_1_Id": {
       "name": "The Carusu",
