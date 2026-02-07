@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "Upgrade_Boss_Weapon_B": {
       "name": "Almost There",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "Meet_Nimue": {
       "name": "Blue Goddess",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "Obtain_Boss_Weapon": {
       "name": "Boss'n Up",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.2"
     },
     "Obtain_Water_Harp_Item": {
       "name": "Carnage in C-Minor",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "Craft_Weapon_Mod_B": {
       "name": "Crafty",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "16.1"
     },
     "Defeat_Nightweaver": {
       "name": "Dark Designs",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "Obtain_Archetype_Dual": {
       "name": "Duality",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "Meet_Meidra": {
       "name": "Equal Measures",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.3"
     },
     "Craft_Weapon_Mod_A": {
       "name": "Expanding Horizons",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "Meet_Flautist": {
       "name": "Familiar Face",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "Defeat_Abberations_B": {
       "name": "Ghost in the Machine",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "Defeat_Tal_Ratha": {
       "name": "Madman's Paradise",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "Upgrade_Relic": {
       "name": "Make Some Room",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.3"
     },
     "DLC2_Obtain_Archetype": {
       "name": "Master of Elements",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "Upgrade_Standard_Weapon_B": {
       "name": "No One Should Have All That Power",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.6"
+      "percent": "58.7"
     },
     "Defeat_Special_Enemies": {
       "name": "Not so special now",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.9"
     },
     "Obtain_Traits_C": {
       "name": "Proving Grounds",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "Defeat_World_Boss": {
       "name": "Quest for Survival",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.1"
+      "percent": "71.2"
     },
     "Discover_Blood_Moon_Room": {
       "name": "Red Room",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "DLC1_Defeat_OneTrueKing": {
       "name": "Regicide",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.8"
     },
     "Obtain_Archetype_Secret": {
       "name": "Shhh...It's a Secret",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "DLC1_Discover_True_Ending": {
       "name": "Succession",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "DLC2_Meet_Walt": {
       "name": "Thank You For Being a Friend",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.7"
     },
     "DLC2_Upgrade_Item": {
       "name": "The Burden Hardest to Bear",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.2"
     },
     "Defeat_Mantis": {
       "name": "The Killing Jar",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "DLC3_Complete": {
       "name": "The Ultimate Doom",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "Upgrade_Traits_A": {
       "name": "Trait Chaser",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "Upgrade_Weapon_Mutator": {
       "name": "Transmutate",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "DLC2_Obtain_Crossbow": {
       "name": "Triple Takeover",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "DLC1_Obtain_Warden_Reward": {
       "name": "You Shall Pass",

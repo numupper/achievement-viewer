@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fd8090b7d24503a3a5b268944efa761c3aa9307b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH_TUNING_MASTER_1": {
       "name": "Beginner Mechanic",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c680367a8a7e537e1a84430eb043323f10ec5653.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "ACH_SPEED_LEAGUE_BETS_30": {
       "name": "Bet Lover",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/38579ae3730b6fee68fa389a1294b09836b5707e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ACH_CHASE_5": {
       "name": "Betting Master",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fc2933b9302273ee100b19bc74b36a4df6f038c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACH_JDUN": {
       "name": "Finally!",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/77ab481e21cae0a3ccbb82444b79ee60c6fd3b31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     }
   },
   "platform": null,

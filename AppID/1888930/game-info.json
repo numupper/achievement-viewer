@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/fbe2f1d6808223f31c670524d4779d083e3b5c5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.3"
+      "percent": "74.2"
     },
     "5d6eea83aff89166": {
       "name": "Geared Up",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/3a0a8b2b4b554628a67d1da65d13b9581e5c29a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "c87c609f99e09e9e": {
       "name": "Lights Out",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/faf62c6d0de399cdf612e7098edae9eaf4839122.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "09a57ae84324b621": {
       "name": "Look for the Light",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/50364cb185fd88f97adf26043c5d2bdc37a2cf65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "5843b084be7082dc": {
       "name": "Prepared For the Worst",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/0466f5de466f0a51128e4e8882ab8edd93e13180.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.3"
+      "percent": "67.2"
     },
     "33d7ce435071bec5": {
       "name": "Sharpest Tool in the Shed",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/55b5271fd372fe86e825b6c9942422ff7cc0a2dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "80b0d9d2f5a006fa": {
       "name": "Skillz",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/c3dec52295820ec02bffc1407035a0e66a6878e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     }
   },
   "platform": null,

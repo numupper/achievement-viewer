@@ -3,6 +3,15 @@
   "name": "Borderlands 4",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1770424148",
   "achievements": {
+    "Achievement_35": {
+      "name": "Achievement 35",
+      "description": "Achievement 35",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "hidden": true,
+      "group": "Update 2",
+      "percent": "0.0"
+    },
     "Achievement_36": {
       "name": "Achievement 36",
       "description": "Achievement 36",
@@ -15,15 +24,6 @@
     "Achievement_37": {
       "name": "Achievement 37",
       "description": "Achievement 37",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
-      "hidden": true,
-      "group": "Update 1",
-      "percent": "0.0"
-    },
-    "Achievement_38": {
-      "name": "Achievement 38",
-      "description": "Achievement 38",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
       "hidden": true,
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c69ef3048fd3fd0bf60f4613c808ef2bb90d4b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "Achievement_16": {
       "name": "Churn the Burn",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.0"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/7b2f9f99c576342085d0b25a03e2b554cc473825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.1"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3e20c4f19361b30a70d90a0e33024078f1532dbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "Achievement_14": {
       "name": "Unfaded",

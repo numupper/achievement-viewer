@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/830ee08e01cfa98f62d391ab2888584cc03a759b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.3"
     },
     "CompleteAct2": {
       "name": "A Fear Within",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/9574c10ca28813d09277427a0d4d40170252b855.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "43.9"
     },
     "CompleteAllCombatTrials": {
       "name": "A Warrior's Way",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/2f87251413db4cf2ea85fce953a44eca32a10edd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "UpgradeAllAbilities": {
       "name": "Shaman of All Trades",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/55fb1df8169f04a97a9738b2fc579e093efb69a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     }
   },
   "platform": null,

@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/4a7973e1b67d074f617af2a920359b8735d7c822.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "SP_BEHIND_YOU": {
       "name": "Behind You",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/30685a5ca3dfb54cf84970b1f9c7c7f76b9fffd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.4"
     },
     "MP_LEET_SKILLS": {
       "name": "Leet Skills",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/dc2853c246bc5a57b36820a69d4cc4b5c02490fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.1"
     },
     "SP_PIED_PIPER": {
       "name": "Pied Piper",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/2fdd813f5ed1ae55592f2fbfa6ae815c7dc7311d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "SP_POCKET_FULL_OF_FUN": {
       "name": "Pocket Full of Fun",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/50948d501f9bd8a3f0ce19fa87fd0cafce887262.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.0"
     },
     "ZM_SHOCKING_BEHAVIOUR": {
       "name": "Shocking Behavior",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/7eeb08ccd65fe4104cf0c8b65d9ba7fa4ac6fbce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     }
   },
   "platform": null,

@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/396900/ae5b2f353680cdd1f97ef86a333af86666dd2621.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "ACH_KILLSTREAK2": {
       "name": "Double Kill",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/396900/5feafb3a86536f972c8ee192c79a1831bd99e5b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "ACH_DESTROYED1500OPPONENTS": {
       "name": "There are no cars left to kill, so chill",

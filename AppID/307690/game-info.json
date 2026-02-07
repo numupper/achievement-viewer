@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/5f3b422dd9a59eddb8d84b91252cc65b2e23af2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "ACHIEVEMENT_32": {
       "name": "Central Scavenger",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/687e781ddb7eb727eaa01bceff48d4d650cbf677.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "ACHIEVEMENT_54": {
       "name": "Cursed Gold",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/c41740973ec4c78d60ca7e801379c7bec3b86967.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "ACHIEVEMENT_24": {
       "name": "Mr. Nice Guy",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/2a69e6a90f9a4227036260a8d78bdcdd255f110c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "ACHIEVEMENT_51": {
       "name": "Pet Cemetery",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/1dfc7be28c71949dcd99316283eb2ecc6f29bfe3.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "ACHIEVEMENT_46": {
       "name": "Pure Gold",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/2d6d208e531da91e5f02a6cc99bbbca362a82a97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "59.1"
     },
     "ACHIEVEMENT_09": {
       "name": "Stuntman",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/dc46bb0a12657aacd4b07f024d3a69e6a497080d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     }
   },
   "platform": null,

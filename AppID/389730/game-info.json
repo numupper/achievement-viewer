@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/b9d077976356b64b780e0759f9ca6c739c6cdd51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "TK_ACH_03": {
       "name": "Okay! I'm Ready!",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/d352aa1b1b4461a5ed1aad8bddaf3702146d85ca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.0"
+      "percent": "82.1"
     },
     "TK_ACH_32": {
       "name": "This Should Be Fun",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/55a905f37a6603b80ed8345cf6c6e3fa5e4eec63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     }
   },
   "platform": null,
