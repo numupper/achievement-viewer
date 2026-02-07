@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "MDL_CHECKING_OUT": {
       "name": "Checking Out",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "MDL_EXPORTER": {
       "name": "Exporter",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "MDL_DLC_RTR_FASTER_THAN_LIGHT": {
       "name": "Faster than Light",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "MDL_KNUCKLEHEAD": {
       "name": "Knucklehead",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/5860081359ebdf68b5ada6d7dd9a799a5241c4fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "MDL_DLC_RTR_MILLIONAIRE": {
       "name": "Millionaire",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "MDL_DLC_JA_MIND_THE_GOODS": {
       "name": "Mind the Goods",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "MDL_NIGHT_SHIFT": {
       "name": "Night Shift",

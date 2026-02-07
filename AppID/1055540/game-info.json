@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/c0e23adc3b2d7fdb12e05dfe0ed8456623a5b969.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "12.8"
+      "percent": "12.9"
     },
     "AllRaces": {
       "name": "Parkour Master",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/f4bca53be828a125226a83c44089bb04520dc5ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "PhotoTaken": {
       "name": "Photo Friends",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/8f62c1447503fc06bb45f7751619023165c55590.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "BeachstickballChamp": {
       "name": "Remember This Day Forever",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1055540/a6893c87557a2a4f69edea996b3910c234f10dca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     }
   },
   "platform": null,

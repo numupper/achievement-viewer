@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4fe970b6ef78f96bf17e1187e91b497d734765fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     },
     "ach_fetch_me_a_tisha": {
       "name": "Can't Handle the Truth",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/575d79069a2aba58da1b1ea4d619f42aacd07ee7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "ach_finisher": {
       "name": "Coup de Grâce",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/f7f2f7780596879c67db0cb7e3efcfa5bc499117.jpg",
       "hidden": true,
       "group": "Dead Island 2 - SoLA",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "ach_im_doing_my_part": {
       "name": "Festival Clean Up Simulator",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d00b8b7cf5f920d2ff51135e75f4355de8ddd5d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "ach_ammo_ran": {
       "name": "Git Gutte!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/11b6acf405470f6f5b981033f6c3859ac817097e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "ach_the_vcla": {
       "name": "Go, Bobcats!",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/713a73608fcbbf7bfcf2927fc6246689691fc414.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "ach_ayeaye_captain_vixen": {
       "name": "Make it So",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/c31166856749cce39b2a73567349ebac69ed1fff.jpg",
       "hidden": true,
       "group": "Dead Island 2 - Haus",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "ach_legendary": {
       "name": "Ooh, Shiny!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f5357b77f202a34c788a9aa4d4108e74627ad84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "ach_thesacrifice": {
       "name": "Our True Nature",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/500907995ed66f22e6a6c4626c2cff25911b9820.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.8"
     },
     "ach_star_performance": {
       "name": "Personal Assistant Personally Assisted",

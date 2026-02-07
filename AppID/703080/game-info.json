@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/38e4e6c4f55962f333fe947c1500c4c256a7563a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "49.9"
     },
     "Campaign_AnySilver": {
       "name": "Silver Award",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/0a47401454761897bb46966aa77a062faabcca9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.4"
+      "percent": "79.5"
     },
     "Game_Startup": {
       "name": "Welcome to Planet Zoo",

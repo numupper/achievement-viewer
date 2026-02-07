@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "max": {
       "name": "Cheers!",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.2"
+      "percent": "66.3"
     },
     "ever_vigilant": {
       "name": "Ever Vigilant",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "reunion": {
       "name": "Reunion",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "testcomplete": {
       "name": "Test Complete",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.9"
+      "percent": "74.0"
     },
     "within_a_hair_of_death": {
       "name": "Within a Hair of Death",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.2"
     }
   },
   "platform": null,

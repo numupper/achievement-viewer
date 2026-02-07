@@ -1,7 +1,7 @@
 {
   "appid": "1285190",
   "name": "Borderlands 4",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1770311854",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1770424148",
   "achievements": {
     "Achievement_36": {
       "name": "Achievement 36",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/19e8fdf6035f333b0ec6854e4304fa68165df42e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "Achievement_05": {
       "name": "Catch-A-Ride",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c69ef3048fd3fd0bf60f4613c808ef2bb90d4b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "Achievement_16": {
       "name": "Churn the Burn",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c22d44aa3605dfffd2645ddae7ef86ec09007ede.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "Achievement_00": {
       "name": "Crimson Rising",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d31e42682e849671d97112a8a154a58ae6d74a45.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "Achievement_19": {
       "name": "Nothing Left to Guard",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/7b2f9f99c576342085d0b25a03e2b554cc473825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/afc95e9686033038e5dff7af56268c79c6bab420.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "Achievement_18": {
       "name": "Pop Out",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/631aa5608bae7533f4b2b1b90c5a3c09bee8929d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.5"
+      "percent": "75.4"
     },
     "Achievement_11": {
       "name": "Reverse Abduction",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3e20c4f19361b30a70d90a0e33024078f1532dbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "Achievement_14": {
       "name": "Unfaded",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/5a0a9edcf8381e374664dea5608faf93787bdfb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "Achievement_21": {
       "name": "Who's the Boss?",
