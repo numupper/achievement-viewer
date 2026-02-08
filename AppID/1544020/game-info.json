@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/f5cc5aa14798453759a8b32e0ca35a313b518899.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.3"
+      "percent": "88.4"
     },
     "DESTROY_FACTORY_CRATES": {
       "name": "Don't Let It Mellow",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/0e0015c1c2061a3b7b3c13a76250dc1ea7c228f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "FIND_ALL_DATA_DRIVES": {
       "name": "Information Overload",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/497937b143eb65291d0c339b7c525ee01affb06a.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "KILL_BIOBOT": {
       "name": "Keep Fighting",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/bad2f9f86227ac4a4da4b8f95c11e99aa742bf07.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "FINISH_GAME_HARDCORE_PLUS": {
       "name": "Lifer",

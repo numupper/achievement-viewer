@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/94d93d1e4c8db93805a155251c28d6e8db2cec6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "Fighter_Associate": {
       "name": "Associate, Fighters Guild",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/679e3a40f82df9ee57669d4668c078345186e6e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "Thief_Bandit": {
       "name": "Bandit, Thieves Guild",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/8439742b8d87301bc3e23152b62c367bbee5704b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "Arena_Champion": {
       "name": "Champion, Arena",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/acb0b8bfccd8e19e138063a7f764634c51f1ed8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "Isles_Citizen": {
       "name": "Citizen, Shivering Isles",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/49f027812dba95c1caaab2da192def8308689a01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "56.0"
     },
     "Mage_Conjurer": {
       "name": "Conjurer, Mages Guild",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/a3bfe1fd18af52ac1c16defd0195fb73412ed06d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "Main_DeliveredDaedricArtifact": {
       "name": "Delivered Daedric Artifact",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/3a0a5b6d4bd33f25d23730c9d42f4b906ad00d7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "Thief_Guildmaster": {
       "name": "Guildmaster, Thieves Guild",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/633fd2bd7c2b892f6e0afc01949b2a51a9c61d1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "Arena_Hero": {
       "name": "Hero, Arena",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/072e2b1ed59cc7d3237a1b43b6bf49b894626df4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "Brother_Listener": {
       "name": "Listener, Dark Brotherhood",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/03e425aae4c46c64a513b7f092826be629aae194.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "Isles_Madman": {
       "name": "Madman, Shivering Isles",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/5de6ad85f93332dc25939db95cb7a783886a3213.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "Arena_PitDog": {
       "name": "Pit Dog, Arena",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/bbef4bd08a398d8d8b9de093d506d24a53028b7e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "Thief_Prowler": {
       "name": "Prowler, Thieves Guild",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/ef2bd94f494fc411932873d80c5b6a8c20a5395f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.7"
     },
     "Brother_Slayer": {
       "name": "Slayer, Dark Brotherhood",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/38f519b3b8a5b2b75b1cbbd7287bb15b4f36e824.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "Arena_Warrior": {
       "name": "Warrior, Arena",
