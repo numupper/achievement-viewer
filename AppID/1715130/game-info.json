@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/80ccf11e6597a17b99b54b6bb7cef0abae919a03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "AchEvt_CoolInACrysis": {
       "name": "Cool In A Crysis",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/d1356395e3f4b4cc3379798eda4cf8142a29d522.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "AchEvt_PerfectSoldier": {
       "name": "Perfect, Soldier!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/7f323573ca43f22c677d638798c8694b73972a6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "AchEvt_EveryOccasion": {
       "name": "Something For Every Occasion",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/803c7aa3e2b7363d41487658439091c97908ff62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.7"
     },
     "AchEvt_SpecialForces": {
       "name": "Special Forces",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/58863a789ecf8dfb39dae042d1413a688a9f2f52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "AchEvt_Strickland": {
       "name": "Strickland Would Be Proud",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/69b7c9ba75d7671ee9d0a5ed6d1deb5261a8e491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "AchEvt_TeamRaptor": {
       "name": "Team Raptor",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/f81d59133e15be609531767d8f6ebedd6dcc7fd8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "AchEvt_WithoutQuestion": {
       "name": "Without Question",

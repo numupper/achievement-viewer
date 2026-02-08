@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/3f03a987c75a1bb5eed621914668010215bcaab3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "VEHICLE_COLLECTION_LEVEL2": {
       "name": "Auto Collector",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/e2fa74c92f4a95f444f68663c6a7e217e54113b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "TRAFFIC_STOP": {
       "name": "Traffic Stop",
