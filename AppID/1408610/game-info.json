@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/7d96f337a6cbcacfcabd9bd475cdcaa95a5bc393.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "ACHIEVEMENT_026": {
       "name": "Big Fish Small Pond",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/fee72978b27a9906f24601be74e61e4b4d4c630c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "ACHIEVEMENT_038": {
       "name": "Claras Mud",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/640ffb8f71d64422876b55d5901a78dd4271e4bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.9"
+      "percent": "73.0"
     },
     "ACHIEVEMENT_011": {
       "name": "More than a Tourist",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/38ae4bfac6a232c06987f82857583e1abd237cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.6"
     },
     "ACHIEVEMENT_032": {
       "name": "Rod and Troll",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/b2006ff0108d29ed12af7b1bdc1519f8925ab486.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ACHIEVEMENT_048": {
       "name": "Viking Buffet",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/213d6116eb8a6112a47752108412fa96a1b0a29d.jpg",
       "hidden": false,
       "group": "Update 6",
-      "percent": "1.8"
+      "percent": "1.9"
     }
   },
   "platform": "Epic Games",

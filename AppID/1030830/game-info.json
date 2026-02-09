@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "MDL_CHECKING_OUT": {
       "name": "Checking Out",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "MDL_CHOP_CHOP!": {
       "name": "Chop Chop!",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "61.2"
     },
     "MDL_CRUISE_CONTROL": {
       "name": "Cruise Control",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/5860081359ebdf68b5ada6d7dd9a799a5241c4fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "MDL_GOOD_SPIRITS": {
       "name": "Good Spirits",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.8"
+      "percent": "63.9"
     },
     "MDL_HEY_JOE": {
       "name": "Hey Joe",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "MDL_KNUCKLEHEAD": {
       "name": "Knucklehead",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/5860081359ebdf68b5ada6d7dd9a799a5241c4fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "MDL_DLC_RTR_MILLIONAIRE": {
       "name": "Millionaire",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "MDL_NIGHT_SHIFT": {
       "name": "Night Shift",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "MDL_ONE_CAREFUL_OWNER": {
       "name": "One Careful Owner",

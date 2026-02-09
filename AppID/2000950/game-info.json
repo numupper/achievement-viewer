@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/b3f5754ccdcc5090a7cef477eb1d262186447e9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.5"
     },
     "GOLDENPATH": {
       "name": "Golden Path",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/63580b2febb3466efbdcabb660d2ae1873e774fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.8"
     },
     "FOGFRAG": {
       "name": "Nothing but Net",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/3bb45f738e76e8e33451ab3d5b5f3c6a38cdfd69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.3"
     },
     "NOFRIENDLYFIRE": {
       "name": "Trigger Discipline",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/6df3e17677973dd1bba04e1249eae31076881183.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "TUNNELRAT": {
       "name": "Tunnel Rat",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/c7e8ae6a7488d25fcb1ea4fc7b8e2f168c3a5618.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "WALLHAX": {
       "name": "Wall Hax",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/23ff71f583f8b60708a20b5b861b78b5a94e294a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "OWNTHENIGHT": {
       "name": "We Own the Night",

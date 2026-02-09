@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/07dbca8cdcad4d945e4ffee42828ce67ab5a558d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "ACH_DNA_OVERLOAD": {
       "name": "DNA Overload",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/10d4ea07562ca30a44ace895c62595b512dc0130.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "ACH_END_OF_THE_RAINBOW": {
       "name": "End of the Rainbow",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/a1aa040362633f9d0b86d1be61a4297e503f018c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "ACH_HACK_N_SLASH": {
       "name": "Hack n' Slash",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/46a8d4ff36583ec9b8b2b487b08266a0d84ec291.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "ACH_HEAVY_METAL": {
       "name": "Heavy Metal",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/77a813c330237f7c5962d83ebbf6f4c379cdd5dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "45.9"
     },
     "ACH_KNEEL": {
       "name": "Kneel",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/d75b6ddce2732f9823cf1b414816bac9d2db6523.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.2"
     },
     "ACH_MARINER": {
       "name": "Mariner",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/035a06c1ee5ed09a4643be7749cf961880818173.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "ACH_NAUTICA": {
       "name": "Nautica",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/c25556df36f427158add92d85b34b38c08ac3e41.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "ACH_OLD_WORLD_RELICS": {
       "name": "Old World Gadgets",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/635f043384c779c4f22385d6de268b671435a677.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "ACH_PARAGON": {
       "name": "Paragon",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/0ec31aa054df4dc6834e0c061b4c882bcac296fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "ACH_PEW_PEW": {
       "name": "Pew Pew!",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/483fe630634c4b0955da08bdd3787708e84f99b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "ACH_SOCIAL": {
       "name": "Social",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/2dccf2835c7158053e48ce495a670572ead6d766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "ACH_SPROING": {
       "name": "Sproing!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/e86e2b768e18f606cc85368ca3d26b7347872c34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "ACH_THE_ADVENTURE_BEGINS": {
       "name": "The Adventure Begins",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/a2f963d194c3bf96e8e7eaa0c4033bf6c6a374ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.6"
+      "percent": "78.5"
     },
     "ACH_THE_DRAGON": {
       "name": "The Dragon",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/c9993fd5bc8ed632083da3796402fe2f1f4df776.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "ACH_TREK": {
       "name": "Trek",

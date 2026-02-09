@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/089e0ff63d827271ad09e2f2cee78755bc9a38fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "BACKSTABBLIND": {
       "name": "Giving Back",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/0e0015c1c2061a3b7b3c13a76250dc1ea7c228f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "FIND_ALL_DATA_DRIVES": {
       "name": "Information Overload",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/497937b143eb65291d0c339b7c525ee01affb06a.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "KILL_BIOBOT": {
       "name": "Keep Fighting",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/bad2f9f86227ac4a4da4b8f95c11e99aa742bf07.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "FINISH_GAME_HARDCORE_PLUS": {
       "name": "Lifer",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/1d8d8af4f8fde9a41a966e93c7aa507f8e90ee2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.8"
+      "percent": "75.9"
     },
     "FINISH_NEW_GAME_PLUS": {
       "name": "Parole Denied",

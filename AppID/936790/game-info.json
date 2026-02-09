@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/e052c6eb0d0fb2ba889a23d46b7f53d989925dbb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "CH3_COMPLETE": {
       "name": "Burying Something",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/58ae3bd86c3a956cec958302a89b7809beac62d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "CH2_S2C_C_RENT": {
       "name": "No Handouts",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/1823de40b4a844af456dd48e1a916aab42517a00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "38.0"
     },
     "CH2_S2E_C_GUMMY": {
       "name": "Pro Tip",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/003a61c4ce71c14810142fbecb938ce8097cd953.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.4"
+      "percent": "70.5"
     },
     "CH2_S2D_C_TSHIRT": {
       "name": "Team Chomp-Bot",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/b287365000460754f17d94092fcec79c490a5f11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "CH4_COMPLETE": {
       "name": "The Kind of Thing You Can't Undo",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/933de7ff4b18ac07d12543e0967b6e560e378907.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.4"
     },
     "CH2_S2G_C_BUTTON": {
       "name": "Time For Something New",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/7b0f1b154a0d834d8a608fcf5c428abbe058d925.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.8"
     },
     "CH5_S5A_C_DIVER": {
       "name": "You're a Helldiver Now",

@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4d06f507c9fe52530601324b74b9919649316deb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.2"
     },
     "ACHIEVEMENT_047": {
       "name": "Advantage Mine",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/a0c36ea7c30ee95a287180db3871cfd168e2cb33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "ACHIEVEMENT_045": {
       "name": "Movie Buff",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2f0808aa727a5d68a375e5a7338332753850c588.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "ACHIEVEMENT_033": {
       "name": "Mr. Perfect",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/f96b71041d8cfaab308d995a6b5a63afafb9ca25.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "ACHIEVEMENT_020": {
       "name": "Tactical Fighter",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/ef2c9a7e2f93dfe78969911256ed30c54d4e1741.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "ACHIEVEMENT_034": {
       "name": "The Other Self",
