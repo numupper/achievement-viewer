@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/77ad9fd132c8a2cb3da7d5227e3f450d7a1242d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "TROPHY_NAME_ENEMY_DROP_GRENADE": {
       "name": "Butterfingers",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/9e9699875a40542f1845578ea9d24a35dd10b3e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "TROPHY_NAME_PICK_LOCK_DANGER": {
       "name": "I Was Never Here",

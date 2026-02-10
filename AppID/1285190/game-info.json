@@ -9,8 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
       "hidden": true,
-      "group": "Update 2",
-      "percent": "0.0"
+      "group": "Update 2"
     },
     "Achievement_36": {
       "name": "Achievement 36",
@@ -64,7 +63,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/240b0701c0324b483745f9a7cb3f322825eb7bc4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "49.2"
     },
     "Achievement_08": {
       "name": "Brand Equity",
@@ -82,7 +81,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c69ef3048fd3fd0bf60f4613c808ef2bb90d4b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "Achievement_16": {
       "name": "Churn the Burn",
@@ -100,7 +99,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d318a090ef1bb7cdbc37952f746ffde7ac18cb01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.9"
+      "percent": "84.0"
     },
     "Achievement_31": {
       "name": "Cut That Out",
@@ -118,7 +117,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -127,7 +126,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/344793692c47057b25213950a71a46c7bce8fa46.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.8"
+      "percent": "67.9"
     },
     "Achievement_13": {
       "name": "Freelance, but Not for Free",
@@ -163,7 +162,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "53.1"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -190,7 +189,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/16cca5cf5e2f9b06bf830a9889e4518070f63a42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -208,7 +207,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/1111c9f84dcda34d8af81a9b2df68589787acc58.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.5"
     },
     "Achievement_02": {
       "name": "Master of Death and Dance",
@@ -217,7 +216,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/673425f550719635a1f4b0a6c0815d99fdd5b0e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "Achievement_22": {
       "name": "Mole Money, Mole Problems",
@@ -226,7 +225,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d31e42682e849671d97112a8a154a58ae6d74a45.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "Achievement_19": {
       "name": "Nothing Left to Guard",
@@ -235,7 +234,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/7b2f9f99c576342085d0b25a03e2b554cc473825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -244,7 +243,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/afc95e9686033038e5dff7af56268c79c6bab420.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "Achievement_18": {
       "name": "Pop Out",
@@ -253,7 +252,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/631aa5608bae7533f4b2b1b90c5a3c09bee8929d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.3"
+      "percent": "75.5"
     },
     "Achievement_11": {
       "name": "Reverse Abduction",
@@ -262,7 +261,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/02e90dbf3edb76faf79cb12c5ba867ac8b39000e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "Achievement_33": {
       "name": "Rift Incompatible",
@@ -298,7 +297,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b910717f8580dcbd7c3f296cc8949e969c92cba7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "Achievement_15": {
       "name": "The Mountain Provides",

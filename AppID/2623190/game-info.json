@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/9688ed30602b88e3383e59ecd0e4fc6c70f79825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "16.1"
     },
     "Arena_Bloodletter": {
       "name": "Bloodletter, Arena",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/20c02fec92222a4c231e47c4d5db0a5a9a5867da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "Main_EscapedTheImperialSewers": {
       "name": "Escaped the Imperial Sewers",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/ec56a0345b87d768175fe2eb71bb063852574222.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "Fighter_Warder": {
       "name": "Warder, Fighters Guild",

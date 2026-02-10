@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/5c68525b2e6985b6a491f895355dad79b38f436f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "dustfaire_complete_mission_4": {
       "name": "Forger of Destiny",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7c9d0b6589346cb3c15eeaa159ef7df0536bddec.jpg",
       "hidden": false,
       "group": "Saints Row - A song of Ice and Dust",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "buy_1_thing_from_every_store": {
       "name": "Shopping Spree",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/b07c5f795a9a24b2ae78392e806fb98a60e712db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "complete_first_side_hustle": {
       "name": "The Side Job",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "complete_first_wanted_mission": {
       "name": "Wet Work",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ff69d9489ad1bd496aa4d701597411352d02139f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "kill_enemy_with_tetherd_object": {
       "name": "Wrecking Ball",

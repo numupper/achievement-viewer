@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/63c592eec90086579bd0ce992b562a45ea84932b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "Release_TRex": {
       "name": "Follow the screams!",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/072ba44bb2593965c65f7ab23bfec53d2f3df07e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "Release_Stegasaurus": {
       "name": "Is this even possible?",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/03a50440c6137ee8cf830f90f013a83be5ba416a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.1"
     },
     "Release_GeneModDinosaur": {
       "name": "Nothing in Jurassic World is natural",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/33c8ff2bd080a7a2b927af15496c6edd6cf513cf.jpg",
       "hidden": false,
       "group": "Jurassic World Evolution: Return To Jurassic Park",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "JPP_HasTreatedStegosWithoutBeingHitByDino": {
       "name": "Ranger Danger",
