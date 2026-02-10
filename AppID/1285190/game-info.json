@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/240b0701c0324b483745f9a7cb3f322825eb7bc4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "Achievement_08": {
       "name": "Brand Equity",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "52.9"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/02e90dbf3edb76faf79cb12c5ba867ac8b39000e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "Achievement_33": {
       "name": "Rift Incompatible",

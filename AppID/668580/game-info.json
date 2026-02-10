@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/52be52eb0a3afdba8c9d3a9d9f9f94b3e63ef032.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "SurvivalMaster": {
       "name": "Master of Survival",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fc545da647ee4d662a8fd2480c7d38fe387bd265.jpg",
       "hidden": false,
       "group": "Atomic Heart - Trapped in Limbo",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "craftUpgradeWeapons": {
       "name": "The Great Inventor",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e54d2f9d5b713d50852fcd6a2a2db7df657ec0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.6"
     },
     "playthroughWeirdScience": {
       "name": "Weird Science",

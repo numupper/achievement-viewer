@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/ff79a666a0a27a70e401b1e2a3c3853a5f27f76b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "ACHIEVEMENTS_05": {
       "name": "Nocturnal",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/265304b21355f454aedf7375ae2bbf9316e8cd62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "ACHIEVEMENTS_39": {
       "name": "Smart Move",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/8903c62dc92522a7ca54620137cdb55bb576e801.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "ACHIEVEMENTS_20": {
       "name": "Winner in Japan",

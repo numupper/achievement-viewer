@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/76f29aaedbbab871d4d534753bf0f83ce608c7f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "Achievement_GOSCC_54": {
       "name": "Island Explorer",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/07dc52e207ef7cb5235c30568bb1b21b4be14228.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "Achievement_GOSCC_42": {
       "name": "Join the Party",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/4e0479f4195ccdaf48b10674468863c54e09b019.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.6"
     },
     "Achievement_GOSCC_48": {
       "name": "Massive Party Game",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/43654abb651789bb35123949f53e6ca5a7605990.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "Achievement_GOSCC_16": {
       "name": "Must Try Harder",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/ebd0b5f238cec47e297030355c36c1b00eca46b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "44.1"
     },
     "Achievement_GOSCC_39": {
       "name": "Online and Kicking",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/3f185d3ec1a7846d7f7ce5ded466c3ebd2d95612.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "Achievement_GOSCC_24": {
       "name": "Paradise Won",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/01cf4bae7a7e16f07ddc146e0fe14115d78eb48a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     }
   },
   "platform": null,

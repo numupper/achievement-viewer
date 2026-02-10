@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/ef3d00cdd6f37e25662efeffeca5e891ba4a2d60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "ACH_CLEAN_DRIVING": {
       "name": "Clean Driving",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/09dacabf50e7c58fb012df4814e442b12a9d62cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "ACH_CONNOISSEUR": {
       "name": "Connoisseur",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/5b6ef95abb4ba141e9e4754b78586dfdcbbe69a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "ACH_DEJA_VU": {
       "name": "Deja Vu",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/c52cae00df319dc14e9f2c5f675b05278143cfee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.6"
     },
     "ACH_FIRST_SxS": {
       "name": "First SxS",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/e9bce3c9d9a8ad40ee7f51db4d5503df8790fe08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "ACH_HOW_LEGENDS_ARE_BORN": {
       "name": "How Legends are born",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/8107ca914d0839290223045a06a7f1112cde38a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "ACH_SOUTH_BOUND": {
       "name": "South Bound",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/8534548b39d490cf3483a83dd6a10aca7650b8b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "ACH_MONSTER_ENERGY_WINNER": {
       "name": "TRAIN ODYSSEY Winner",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/3d3cc3d5fdfeefd26d40ed536d5ef3c1d5c4a8b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "ACH_YANBU_WINNER": {
       "name": "YANBU Winner",

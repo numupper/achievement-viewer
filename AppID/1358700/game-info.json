@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "TROPHY_UNLOCKED_TYRANT": {
       "name": "Path of the Tyrant",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "TROPHY_MISSION_REMEMBER": {
       "name": "Shared Recollections",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "TROPHY_DLC3_DEFEAT_JACK_GARLAND": {
       "name": "The Cycle Ends",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "TROPHY_MISSION_DARK_ELF": {
       "name": "The King of the Dark Elves",

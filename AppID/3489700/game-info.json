@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/43a91c3b0174a1be23f9e93773e7c6e3445ec529.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "37_JustParry": {
       "name": "Agile Gladiator",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/7fb75b92309d6d43ca00a96ee8e6f2ad28283763.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "06_KillCharacter_Brute": {
       "name": "Brute",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/eb72715c12aaa81390f11ce6dfa36330661a3bbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.3"
+      "percent": "94.4"
     },
     "20_Acquire_AllCan": {
       "name": "Can Collector",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/3bec5987bcd74e1394a72a1cf0f1d7fc97eb206a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.7"
     },
     "04_KillCharacter_GrubShooter": {
       "name": "Corrupter",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/359e03479fd923790adc9b4d48b43a6df9817def.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "35.0"
     },
     "15_KillCharacter_Gorgon_Kill": {
       "name": "Demogorgon",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/889d6afa736b1b69b4c46b9b5e4b43c3e90bc18a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "09_KillCharacter_Juggernaut_Kill": {
       "name": "Juggernaut",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/379a35d671474d300f12bf9be90f3745853b8eaf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "23_Album_AllFish": {
       "name": "Lonely Fisherman",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/65603a6ebd5343bd31861019b765fc16914d3ff6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "26_Activate_AllCamp": {
       "name": "Meticulous Explorer",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/0ff9fd5db10da03bebe6de447d3ebcdf341fa538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "21_Acquire_AllNanoSuit": {
       "name": "Nano Suit Collector",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/091d59c772a6253a7ccfdae43f324e1500dd514b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "25_KillCharacter_AllNative": {
       "name": "Naytiba Researcher",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/0ae264e18ec6b51eca71d844806da99ab4302289.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "31_BetaMaxUpgrade": {
       "name": "Perfect Beta Energy Enhancement",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/b35a50d28a86790e558acaf10a9a4adda8eb235f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "16_KillCharacter_Raven_Kill": {
       "name": "Raven",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/046f3dece50939998e49450193f076c652e6a09f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "40_CharKill_BurstSkill": {
       "name": "Relentless Destroyer",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/fdb3c0ea31d10f04861e45c10bcf32bd94a54c7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "34_CompleteQuest_Kaya": {
       "name": "Sisterly Love",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/936e0f8833e3be9e29aec80bf0f966e4fccb1b0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "08_KillCharacter_Stalker_Kill": {
       "name": "Stalker",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/f85d4cc8f54baece3d7087555a41d5212fa08b11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "10_KillCharacter_Tachy_Kill": {
       "name": "Tachy",

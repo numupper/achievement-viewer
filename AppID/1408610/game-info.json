@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/7d96f337a6cbcacfcabd9bd475cdcaa95a5bc393.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "1.8"
+      "percent": "1.7"
     },
     "ACHIEVEMENT_026": {
       "name": "Big Fish Small Pond",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/3da7b96a77f9569124c3a0be00849df317afee1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "ACHIEVEMENT_029": {
       "name": "Buckaroo",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/213d6116eb8a6112a47752108412fa96a1b0a29d.jpg",
       "hidden": false,
       "group": "Update 6",
-      "percent": "1.9"
+      "percent": "1.8"
     }
   },
   "platform": "Epic Games",

@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fd8090b7d24503a3a5b268944efa761c3aa9307b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH_TUNING_MASTER_1": {
       "name": "Beginner Mechanic",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c680367a8a7e537e1a84430eb043323f10ec5653.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "ACH_SPEED_LEAGUE_BETS_30": {
       "name": "Bet Lover",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/052ac6dab72485cb6146ba22171bbbca65b31f48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "ACH_SPEED_LEAGUE_WIN_CARS": {
       "name": "Car in the Bag",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b65bc12e13aa98a4a33382e75b05e92585766d81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "ACH_PURCHASE_CAR_3": {
       "name": "Connoisseur",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fc2933b9302273ee100b19bc74b36a4df6f038c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACH_JDUN": {
       "name": "Finally!",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/262d68f883ab901e241f0fda6c5d542b0227505a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "ACH_AIR_TIME_3": {
       "name": "Flight Master",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b29dd77c435a78251ba0c8d4faf5f207ff6163bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "ACH_SPEED_2": {
       "name": "Speed Master",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/16bfeaf1fcbcba04963877c659b370d2b1d38bcf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "ACH_TUNING_MASTER_2": {
       "name": "Tuning Master",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c121db7ffd641d23c42fd6d2f1c7dd1e3f6fabc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "ACH_PURCHASE_CAR_1": {
       "name": "Variety Lover",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/77ab481e21cae0a3ccbb82444b79ee60c6fd3b31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     }
   },
   "platform": null,
