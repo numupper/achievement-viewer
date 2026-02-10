@@ -72,8 +72,8 @@
     "earned_time": 1770561857
   },
   "Id19": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770738746
   },
   "Id20": {
     "earned": false,
@@ -140,7 +140,7 @@
     "earned_time": 1770630408
   },
   "Id36": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770652426
   }
 }
