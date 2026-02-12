@@ -4,12 +4,12 @@
     "earned_time": 0
   },
   "ID02": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770888097
   },
   "Id03": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770904204
   },
   "Id04": {
     "earned": false,
@@ -84,8 +84,8 @@
     "earned_time": 0
   },
   "Id22": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770888449
   },
   "Id23": {
     "earned": false,
