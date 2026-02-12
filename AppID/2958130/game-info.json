@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c2ce6741bd8cbc0a4ea4a031782fa6c3ddab36a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "JurassicDiffClarkCounty": {
       "name": "Clark County Commander",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/5fc9ade08a223e413ed98e99a48cb1b68bcd09ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "CompletePark7Objectives": {
       "name": "This Must Feel Exotic",

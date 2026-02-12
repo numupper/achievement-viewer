@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/f5cc5aa14798453759a8b32e0ca35a313b518899.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.3"
+      "percent": "88.4"
     },
     "DESTROY_FACTORY_CRATES": {
       "name": "Don't Let It Mellow",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/089e0ff63d827271ad09e2f2cee78755bc9a38fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "BACKSTABBLIND": {
       "name": "Giving Back",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/1d8d8af4f8fde9a41a966e93c7aa507f8e90ee2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.8"
+      "percent": "75.9"
     },
     "FINISH_NEW_GAME_PLUS": {
       "name": "Parole Denied",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/961811a1e0bc96eebfca8d09751fc76ddec1b9b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "LOCK_UNDER_7SEC": {
       "name": "Quick Pick",

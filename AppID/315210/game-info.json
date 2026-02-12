@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/45b0323ad900ffea55bbdcb85d1b9c98b983e47a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.7"
+      "percent": "72.6"
     },
     "BRANCH07": {
       "name": "Combine and Conquer",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/95646a22b5450a5c133392ff00f238438294dadd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.2"
     },
     "MISSIONCOMPLETE04": {
       "name": "Into the Angry Planet",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/87840187fd2938bd0c14f68cb7d468811a41d901.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "RPG07": {
       "name": "Trial by Blood",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/2447eed4f3ec107102ce6453ab6c758277b2f150.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "RPG12": {
       "name": "Trial By Fire",

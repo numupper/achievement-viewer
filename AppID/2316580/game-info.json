@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/bdef7ee1d5f0048e61a29f2c624b2c5533b7c224.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.6"
     },
     "CompleteAct1": {
       "name": "A Once Black Sky",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/f34ea344f8beb796749187ed4a9180a22383a67c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.7"
+      "percent": "73.6"
     },
     "BeginTheJourney": {
       "name": "Hear my Plea",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/6dacb86ead4c2e794e4f68f7d3ec1fb7224af162.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.9"
+      "percent": "80.8"
     },
     "UnlockAllAbilities": {
       "name": "Honour the Ancestors",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/d7c74c00eaf65de307bc9c3c600edcd918fec6f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "Kiki4thWallBreak": {
       "name": "Run, Shaman, Run…",

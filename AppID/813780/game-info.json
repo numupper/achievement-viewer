@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1de93501cc9383bbe2061dd7921f70243bae0901.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "ACHIEVEMENT_CAMPAIGN_PORTUGUESE_COMPLETED": {
       "name": "Age of Discovery",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/5f28325e4166debec85eaed0d2d42b8fb7e1ea40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "ACHIEVEMENT_BABY_BOOMER": {
       "name": "Baby Boomer",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c3b3cc4956b5255219c09f5da88d2d0c837e3eb7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "51.4"
+      "percent": "51.5"
     },
     "POMPEII_BABYLONIAN_VICTORY": {
       "name": "Babylonian Victory",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/daff6ca00a85590362b2acaa4eb72ff1fa0d01a2.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "ACHIEVEMENT_BON_VOYAGE": {
       "name": "Bon Voyage",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/67e48da3ddbfbd8c6bbd3fc61a7579e6c939105d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.5"
+      "percent": "30.6"
     },
     "ACHIEVEMENT_CAMPAIGN_LITHUANIANS_COMPLETED": {
       "name": "Bond of Brothers",
@@ -775,7 +775,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/650a08e3b40e52b9f42fe358df5630b32cada0c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ACHIEVEMENT_CAMPAIGN_ETHIOPIAN_COMPLETED": {
       "name": "Destroyer of Axum",
@@ -937,7 +937,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/244c60218b5cacaad0a2793616ec0dbb3c1e7d33.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "ACHIEVEMENT_FAMILY_FEUDAL": {
       "name": "Family Feudal",
@@ -955,7 +955,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/fc639726d0f12c3174f23e68dae667b78f67392b.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "ACHIEVEMENT_FASTER_THAN_A_SPEEDING_CANNONBALL": {
       "name": "Faster Than a Speeding Cannonball",
@@ -1009,7 +1009,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4067f9433903a6be01d9e5aeb37f73b192147400.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACHIEVEMENT_FIRST_CITIZEN": {
       "name": "First Citizen",
@@ -1207,7 +1207,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/968ec7d50d027a53722bdb1b5e6b4317d72cdf91.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "ACHIEVEMENT_CAMPAIGN_SICILIANS_COMPLETED": {
       "name": "Haute Culture",
@@ -1324,7 +1324,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/0e839da4246a639a9665929a74b227ccb54a203f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "ACHIEVEMENT_HUNA_JOIN_ME": {
       "name": "Huna Join Me?",
@@ -1369,7 +1369,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/07685e3f937b5e67bf30a0247c487d3b402fd3ff.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ACHIEVEMENT_I_AM_LEGION": {
       "name": "I Am Legion",
@@ -1414,7 +1414,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/715658c89781f7693cf63448ccbe457643f03a3c.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "INCAS_VICTORY": {
       "name": "Inca Victory",
@@ -1468,7 +1468,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/97ec8762457cdeb21d88d5024e729a38fbbd301e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "ITALIANS_VICTORY": {
       "name": "Italian Victory",
@@ -1504,7 +1504,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/8672d7b10bb9f36d34d32c2829e75105aa62c0ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "JURCHENS_VICTORY": {
       "name": "Jurchens Victory",
@@ -1576,7 +1576,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41ead156897ce088f426b5da5f81cee9acd96bda.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "ACHIEVEMENT_CAMPAIGN_WU_COMPLETED": {
       "name": "King of the Southlands",
@@ -1657,7 +1657,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/8a5bd8f02055697c46697054595ceb24da3c66c2.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "LITHUANIANS_VICTORY": {
       "name": "Lithuanian Victory",
@@ -1765,7 +1765,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/a1387ddc70dd5bd9c58e1106b475788e9dc6f62f.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Lords of the West",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_CAMPAIGN_BOHEMIANS_COMPLETED": {
       "name": "Man of the Chalice",
@@ -1792,7 +1792,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/086d08763dbbaa991ef7030b7910e79f09143432.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "ACHIEVEMENT_MARATHONOMACHOS": {
       "name": "Marathonomachos",
@@ -1864,7 +1864,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/ce5e7b0dd505a862805d03db4cbc4a5bb995a12e.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "MONGOLS_VICTORY": {
       "name": "Mongol Victory",
@@ -1999,7 +1999,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/18022140fe5d49574522ce14fb54f27fd87efc52.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "49.8"
+      "percent": "49.9"
     },
     "ACHIEVEMENT_NUMBERS_BEAT_EVERYTHING": {
       "name": "Numerous As the Grains of Sand",
@@ -2080,7 +2080,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/0004ffcd850ff7103c48fcd63f5e28987d268b92.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "ACHIEVEMENT_PHILHELLENE": {
       "name": "Philhellene",
@@ -2170,7 +2170,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2602,7 +2602,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/e100894aab41bd36c6a9b1814c3570c2c4146b9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "ACHIEVEMENT_THE_BEST_DEFENSE": {
       "name": "The Best Defense...",
@@ -2647,7 +2647,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/86046b4a414d69123e2d87b392aa9142c27a39b7.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Lords of the West",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "ACHIEVEMENT_CAMPAIGN_SUMERIANS_COMPLETED": {
       "name": "The God of War",
@@ -2674,7 +2674,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/15466081c3222449cbb5ae7cd9f48e2f792a845b.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Lords of the West",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ACHIEVEMENT_CAMPAIGN_PROVIDENCE_COMPLETED": {
       "name": "The Great",
@@ -2764,7 +2764,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1f24d3377e8442823fb6fbbae74e9b761f27d7f5.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "ACHIEVEMENT_CAMPAIGN_ALARIC_COMPLETED": {
       "name": "The Thicker the Hay, the Easier Mowed",
@@ -2773,7 +2773,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/847fdb82af076d3ed332bd762e461fc4d5fab26d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACHIEVEMENT_THE_TIGER_OF_JIANGDONG": {
       "name": "The Tiger of Jiangdong",
@@ -2863,7 +2863,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/95b4a8dc2093e9aefb572fd59c3689c14876d562.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "ACHIEVEMENT_DONJON_SERJEANT": {
       "name": "Tour d'Italie",
@@ -2872,7 +2872,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/40df0a2a3f357bbb42d7f42787e39c9a24bd5700.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Lords of the West",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "ACHIEVEMENT_ATTILA_SPEED_RUN": {
       "name": "Truly Countless Bodies",
@@ -2908,7 +2908,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41d3dee6d445a44f53fdca0c1c174c8ca13ff44f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "ACHIEVEMENT_UNCHIVALROUS_PRAGMATIST": {
       "name": "Unchivalrous Pragmatist",
@@ -3061,7 +3061,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/de8a08ff0301d805b102ba1744ab1866731d50e8.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "POMPEII_YAMATO_VICTORY": {
       "name": "Yamato Victory",
@@ -3097,7 +3097,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/bde7d2e5aaaf8574832302b30dd2765940949d87.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "1.9"
+      "percent": "2.0"
     }
   },
   "platform": null,
