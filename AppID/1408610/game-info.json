@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/7d96f337a6cbcacfcabd9bd475cdcaa95a5bc393.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "ACHIEVEMENT_026": {
       "name": "Big Fish Small Pond",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/38ae4bfac6a232c06987f82857583e1abd237cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.6"
     },
     "ACHIEVEMENT_032": {
       "name": "Rod and Troll",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/213d6116eb8a6112a47752108412fa96a1b0a29d.jpg",
       "hidden": false,
       "group": "Update 6",
-      "percent": "1.8"
+      "percent": "1.9"
     }
   },
   "platform": "Epic Games",

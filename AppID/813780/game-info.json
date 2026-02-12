@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/937e02619a810f7de3c7e72a732283d87ff8cda9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "ACHIEVEMENT_BIRD_SHOOTING": {
       "name": "Bird Shooting",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/536572ffcf67b1ff04aaf09303d3ea7d896a9fa3.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Lords of the West",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "BURMESE_VICTORY": {
       "name": "Burmese Victory",
@@ -946,7 +946,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/413c0b47232cff2b8926b467e3a5e1e19dfb06f9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "ACHIEVEMENT_FAST_FOOD": {
       "name": "Fast Food",
@@ -2215,7 +2215,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b2c53322d875d3f84fc1aab674830a2d95238884.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACHIEVEMENT_RAIDING_PARTY": {
       "name": "Raiding Party!",
@@ -2755,7 +2755,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/43a7b83a8585abdc7122e89474f8d1419784b5b6.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "ACHIEVEMENT_THE_RENOVATOR": {
       "name": "The Renovator",

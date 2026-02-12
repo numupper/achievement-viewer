@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/46a8d4ff36583ec9b8b2b487b08266a0d84ec291.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "ACH_HEAVY_METAL": {
       "name": "Heavy Metal",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/d75b6ddce2732f9823cf1b414816bac9d2db6523.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "ACH_MARINER": {
       "name": "Mariner",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/035a06c1ee5ed09a4643be7749cf961880818173.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "ACH_NAUTICA": {
       "name": "Nautica",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/0ec31aa054df4dc6834e0c061b4c882bcac296fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "ACH_PEW_PEW": {
       "name": "Pew Pew!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/0e2fee509322197f02e05ba96bd86dbb747c95f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "ACH_SHOWOFF": {
       "name": "Show-off",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/483fe630634c4b0955da08bdd3787708e84f99b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "ACH_SOCIAL": {
       "name": "Social",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/2dccf2835c7158053e48ce495a670572ead6d766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "ACH_SPROING": {
       "name": "Sproing!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/e86e2b768e18f606cc85368ca3d26b7347872c34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "ACH_THE_ADVENTURE_BEGINS": {
       "name": "The Adventure Begins",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/c9993fd5bc8ed632083da3796402fe2f1f4df776.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "ACH_TREK": {
       "name": "Trek",

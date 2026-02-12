@@ -1,7 +1,7 @@
 {
   "appid": "518790",
   "name": "theHunter: Call of the Wild™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/00f0df3558439a6a2cc4fbd7a658b00fb71353ea/header.jpg?t=1768551107",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/00f0df3558439a6a2cc4fbd7a658b00fb71353ea/header.jpg?t=1770886044",
   "achievements": {
     "ach_124": {
       "name": "A Match for the Widowmaker",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "ach_109": {
       "name": "Boars Night Out",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
       "hidden": false,
       "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "ach_045": {
       "name": "Bucket List",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ach_056": {
       "name": "Georgy Grankin Arc",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "ach_163": {
       "name": "Heavy Weight",
@@ -1036,7 +1036,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
       "hidden": false,
       "group": "theHunter: Call of the Wild™ - Yukon Valley",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ach_034": {
       "name": "Scarecrow",

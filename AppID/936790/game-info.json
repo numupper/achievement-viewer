@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/e052c6eb0d0fb2ba889a23d46b7f53d989925dbb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "CH3_COMPLETE": {
       "name": "Burying Something",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/58ae3bd86c3a956cec958302a89b7809beac62d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "CH2_S2C_C_RENT": {
       "name": "No Handouts",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/933de7ff4b18ac07d12543e0967b6e560e378907.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.4"
     },
     "CH2_S2G_C_BUTTON": {
       "name": "Time For Something New",

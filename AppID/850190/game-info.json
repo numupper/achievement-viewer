@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f709d5c02e6739a0b04f37b62ad13ea9b018c53d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "AchievementBatGoatID": {
       "name": "Car Cave",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/fcbb9927b93a80cbd4ee1e6eda698b3b9ee8a41d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "AchievementMovieID": {
       "name": "Certified Fresh",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/52b18688db5cdcd82161619e9948da6d9d76bf6e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "AchievementApocArenaTrialsID": {
       "name": "Crash Course",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/1fb55ca4e56eb89831f2763779dd8a22008599c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "AchievementBecomeHumanID": {
       "name": "San Angora: Become Human",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/542c12d7ce6e1ed24d6731619066d010c7eb67ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "AchievementInteriorDesignID": {
       "name": "Secret Society",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/2f475bacc8bdffad75b4318207e46323a1a745b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "AchievementPortalsID": {
       "name": "Shadow Syndicate",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/de62cafba15c42d62f8c5ec92f27797985f6d17e.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "AchievementInstinctID": {
       "name": "You Trusted Your Instincts",

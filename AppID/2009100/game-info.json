@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4e173bcddfd9a4ffac0a1a23a5155da3806a97d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "Achievement_GOSCC_8": {
       "name": "All the Major Food Groups",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/6493bb3cc4a61af5428d3bd4b82bd6d4c2437d84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "Achievement_GOSCC_42": {
       "name": "Armaments Gules",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/6aab04ca99c7d7caf76e1894ca98209d3a6c4db9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "Achievement_GOSCC_21": {
       "name": "Diplomat",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/1d6e75850ae553f421d33848b2715ed18a1d049d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "Achievement_GOSCC_5": {
       "name": "Initiate",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/7b986846a3157bb0103b62869dba939e701da9d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "Achievement_GOSCC_55": {
       "name": "Master of Carmine",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d1d89ddcc18d78aff99a2ec3dfff7cd91cb6b0e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "Achievement_GOSCC_24": {
       "name": "Out of Time",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/5221119e87b5e2ba1d08bb36fd21f0871c947175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.2"
     },
     "Achievement_GOSCC_44": {
       "name": "Periapt Cerulean",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d5b6c111232c7f84df8f30eea28a4d82450eeb16.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "Achievement_GOSCC_26": {
       "name": "Scholar",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/ba813c3620d32d415b825b8ec386cae7ccd34732.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "Achievement_GOSCC_60": {
       "name": "Shroudfane Surveyor",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d94913c01b49443438da965aaf844668536111dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "Achievement_GOSCC_19": {
       "name": "Socialite",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/8e6a711e4653142f2961623db6f4710575565165.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "Achievement_GOSCC_49": {
       "name": "Soldier",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/06e342dd610738376bb3a4150c5fd8601ac9ade3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "Achievement_GOSCC_11": {
       "name": "The Means to Save It",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/533ee7cd035537cbc33d8681efb8a5ce3e58952b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "36.9"
     },
     "Achievement_GOSCC_62": {
       "name": "Tip of the Spear",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/0ff45b902944a3a15d1b77724a3ffdd240957959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "Achievement_GOSCC_63": {
       "name": "Treasure Hunter",
