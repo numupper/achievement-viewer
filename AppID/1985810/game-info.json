@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9d14c6520c8fc35cc254ab0c015dc10b7acc3626.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "CP_ACHIEVEMENT_EXPLOSIVE_FINIISH": {
       "name": "Explosive Finish",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9be90da14b0ea3b404fa85ddbb8f24025c7c1338.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "MP_ACHIEVEMENT_VEHICLE_KILLS": {
       "name": "Mean Machine",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/4bae11fb4d770b725571357a5f0bcfd9833cceaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.3"
     },
     "CP_ACHIEVEMENT_OLD_FAITHFUL": {
       "name": "Old Faithful",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/938158a43480943f128cf60e8d79b69aee0368ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "CP_ACHIEVEMENT_CP_RUS_SIEGE": {
       "name": "The Final Countdown",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/3e12a39fa3f94f6e88c16a63b274fe50dd1c3e6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     },
     "MP_ACHIEVEMENT_ELIMINATIONS": {
       "name": "The Fixer",

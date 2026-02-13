@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "ABOMINATIONS": {
       "name": "Abominizer",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "STEALTH": {
       "name": "Barely There",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.5"
     },
     "JUSTCOUNTER": {
       "name": "Tit for Tat",
