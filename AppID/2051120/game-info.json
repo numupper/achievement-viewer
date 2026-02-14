@@ -1,7 +1,7 @@
 {
   "appid": "2051120",
   "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/header.jpg?t=1747235742",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/header.jpg?t=1771001963",
   "achievements": {
     "ML_ACHIEVEMENT_29": {
       "name": "…Is half done",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f3cfb6a6180342fc9bf7529ca9d413cbfddef4b2.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Fast & Furious Expansion Pack",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "ML_ACHIEVEMENT_07": {
       "name": "Globetrotter",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d8d8d8e60054ca98e872cd3b84fa4bed0ade0131.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.7"
     },
     "ML_ACHIEVEMENT_55": {
       "name": "I want to believe",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c4849d72d765266770f8fd1b923548184b4a0c5b.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Alien Encounters Expansion Pack",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "ML_ACHIEVEMENT_44": {
       "name": "Ignition",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c456ccc62cd9cd9686a155b7ccbe40597b7214c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "ML_ACHIEVEMENT_42": {
       "name": "Magic trick",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/aa58a2e778950e4f52eeded7f264393cb621dac5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "ML_ACHIEVEMENT_49": {
       "name": "Pizza, pasta, and engines",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0439310249b336a93c3408b24640e47dbbaae0e9.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "ML_ACHIEVEMENT_01": {
       "name": "Rookie",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/ad1a8ab8d5782e109d219e1da3c36d23d1d21926.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "ML_ACHIEVEMENT_15": {
       "name": "Terror of the road",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b78910634524bfab6e4d9d56e757ce9c53daa0bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "ML_ACHIEVEMENT_22": {
       "name": "The Octopus",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bcccbbdd8bbcc3eb1cf9a35d8410e5b30f452da6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.8"
+      "percent": "66.9"
     },
     "ML_ACHIEVEMENT_41": {
       "name": "You're good at this!",

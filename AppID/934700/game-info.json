@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/2de81ed07969b70578b2d44f9a0ea54b8fea510b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "ach_anger_management": {
       "name": "Anger Management",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f50f17dbb4a927a4c6b1b4cadbf2ece138be2f8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.3"
     },
     "ach_that_was_close": {
       "name": "Drop The Beat",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/087df6ca08de24a37555e05c36aa8516fbb00280.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "ach_survival_of_the_fittest": {
       "name": "Max Headroom",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4ca3aa9e39d1b8df5735f2e14f29907ef96cd69c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "ach_skilled_up": {
       "name": "Stacking the Deck",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/05e1470ecc65f091cf3df2c0a80fe61fdb868f04.jpg",
       "hidden": true,
       "group": "Dead Island 2 - SoLA",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "ach_zombie_predator": {
       "name": "Top That, Tisha!",

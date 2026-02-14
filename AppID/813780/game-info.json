@@ -624,6 +624,15 @@
       "group": "Base Game",
       "percent": "2.2"
     },
+    "ACHIEVEMENT_CAMPAIGN_MAPUCHE_COMPLETED": {
+      "name": "Chile Con Carnage",
+      "description": "Complete the Lautaro campaign.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/8662b8076f31c758e028f4895171ce5361d0f2ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/17f911069f44e91eacb2fbd8f93cf050ce41b279.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
+    },
     "CHINESE_VICTORY": {
       "name": "Chinese Victory",
       "description": "Win a game playing as the Chinese.",
@@ -822,6 +831,15 @@
       "group": "Age of Empires II: DE - The Three Kingdoms",
       "percent": "0.8"
     },
+    "ACHIEVEMENT_DYNAMITE_DELUXE": {
+      "name": "Dynamite Deluxe",
+      "description": "Find and blow up all gunpowder barrels in \"Up in Smoke\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/2811230edcb914a1853edcf570c233ef8e398517.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/0075b258168ceea69c4ad51b70e174ae6a33746e.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
+    },
     "ACHIEVEMENT_CAMPAIGN_ELDORADO_COMPLETED": {
       "name": "Earth Shaker",
       "description": "Complete the Pachacuti Campaign.",
@@ -920,6 +938,15 @@
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
       "percent": "0.3"
+    },
+    "ACHIEVEMENT_EXPEDITION_IMPOSSIBLE": {
+      "name": "Expedition Impossible",
+      "description": "Defeat Quesada's and Federmann's expeditions in \"The Golden King\" before the timer runs out.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1b4d655ed379a3c58f2b7f3371f09f297caecb75.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/a2a447c841ba7ea9951671052aba64db5d88d049.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACHIEVEMENT_EYE_OF_THE_TIGER": {
       "name": "Eye of the Tiger",
@@ -1155,6 +1182,15 @@
       "group": "Update 1",
       "percent": "2.3"
     },
+    "ACHIEVEMENT_CAMPAIGN_MUISCA_COMPLETED": {
+      "name": "Golden Paths",
+      "description": "Complete the El Dorado campaign.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/5525d2902c1b1feea57a664c00d16fc3da6db36d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b289114f072ae724293bf42c91ff2cbef4f3d708.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
+    },
     "ACHIEVEMENT_FLEMISH_REVOLUTION": {
       "name": "Golden Spurs",
       "description": "Transform 50 Villagers by researching Flemish Revolution.",
@@ -1271,6 +1307,15 @@
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
       "percent": "0.6"
+    },
+    "ACHIEVEMENT_HOMELAND_INSECURITY": {
+      "name": "Homeland Insecurity",
+      "description": "Always have at least three allied villages under your control in \"Gods of Death and Terror\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3b3b5b1949c9e3b8a223ad8f4d2f8a35471c0bdc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/91377faadfda1358fbbfb2cf4a5302d55db9548f.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACHIEVEMENT_HOMELESS": {
       "name": "Homeless",
@@ -1794,6 +1839,15 @@
       "group": "Base Game",
       "percent": "13.7"
     },
+    "MAPUCHE_VICTORY": {
+      "name": "Mapuche Victory",
+      "description": "Win a game playing as the Mapuche.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b058ce511c6c196da103a45b1e56745532407746.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/a8e14cca720d4ff47e3b5dedc65bb5e5df3657f0.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
+    },
     "ACHIEVEMENT_MARATHONOMACHOS": {
       "name": "Marathonomachos",
       "description": "Find and complete all quests in \"The Battle of Marathon\".",
@@ -1883,6 +1937,15 @@
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
       "percent": "0.1"
+    },
+    "MUISCA_VICTORY": {
+      "name": "Muisca Victory",
+      "description": "Win a game playing as the Muisca.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/9cac85defd2e0a9f2e1c2d5c0f98d5650157baf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c51236f24d1472c2c835647d0328950a4d09e1ea.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACHIEVEMENT_CAMPAIGN_BATTLE_FOR_GREECE_COMPLETED": {
       "name": "Nemesis",
@@ -2019,6 +2082,15 @@
       "group": "Base Game",
       "percent": "1.5"
     },
+    "ACHIEVEMENT_TAKE_IRACA": {
+      "name": "One Does Not Simply Take Iraca",
+      "description": "Do not allow your enemy to ever win the state of Iraca over to their side in \"Zipa and Zaque.\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c294f46bab226ee8a45bc95495f5b341283045b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/bf3f942c500a9cd864a50649b55848b231214425.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
+    },
     "ACHIEVEMENT_CAMPAIGN_ROMANS_COMPLETED": {
       "name": "Optimus Princeps",
       "description": "Complete the Trajan campaign.",
@@ -2027,6 +2099,15 @@
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
       "percent": "1.4"
+    },
+    "ACHIEVEMENT_OUR_LITTLE_PONIES": {
+      "name": "Our Little Ponies",
+      "description": "Bring all 25 horses to the allied corral in \"The Battle of Tucapel.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/0119eb7efae7532d128c59047ad9ab309fc0f3e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c97d4c6252ee30859b5bb95881d2656608160b88.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACHIEVEMENT_OUT_OF_THEIR_ELEMENT": {
       "name": "Out of Their Element",
@@ -2568,6 +2649,15 @@
       "group": "Base Game",
       "percent": "4.5"
     },
+    "ACHIEVEMENT_SURVEILLANCE_NETWORK": {
+      "name": "Surveillance Network",
+      "description": "Construct 10 Outposts with Champi Warriors.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/cea72d68259638941bb3e810a06bd486213bc7d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1a6d6c19b9754d00b832ef30c2d832d0136fbddd.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
+    },
     "ACHIEVEMENT_SUSHI_LOVER": {
       "name": "Sushi Lover",
       "description": "Build 30 Japanese Fishing Ships.",
@@ -2892,6 +2982,24 @@
       "group": "Age of Empires II: Definitive Edition - Victors and Vanquished",
       "percent": "0.3"
     },
+    "ACHIEVEMENT_TUPI_OR_NOT_TUPI": {
+      "name": "Tupi or not Tupi",
+      "description": "Win the mission \"Exodus\" without losing more than 3 refugee carts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/379581adefb30d9ada1b9f2cb3b6f9d7b99ce0d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/77a6b6983509cdca67fcee98139b48b15aaba075.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
+    },
+    "TUPI_VICTORY": {
+      "name": "Tupi Victory",
+      "description": "Win a game playing as the Tupi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b8a075920f4314be2a09c2816a7be060fe4447c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/6d6b009240bd13142b6a521beec92cb63587d635.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
+    },
     "ACHIEVEMENT_OTTOMAN_GLORY_SEEKER": {
       "name": "Turkish Delight",
       "description": "Win \"Bapheus (1302)\" by defeating Turkish factions without allying with them in single player.",
@@ -2982,6 +3090,15 @@
       "group": "Base Game",
       "percent": "4.7"
     },
+    "ACHIEVEMENT_CAMPAIGN_TUPI_COMPLETED": {
+      "name": "Warden of the Jungle",
+      "description": "Complete the Arariboia campaign.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b452701cac76d36c95120c9a5385797f30d467ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1dd93140bfe0e259ae6599dfdf05b3a3d8e8a28b.jpg",
+      "hidden": true,
+      "group": "Update 3",
+      "percent": "0.0"
+    },
     "ACHIEVEMENT_WEI_MARCH_ON_OUR_STOMACHS": {
       "name": "Wei March on Our Stomachs",
       "description": "Generate 5000 food with Tuntian as the Wei.",
@@ -3016,7 +3133,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/692530f3676cb0691b45a7b0651d75f191836fd9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "ACHIEVEMENT_MODERATE_AI": {
       "name": "With Moderation",

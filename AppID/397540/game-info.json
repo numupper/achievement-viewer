@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/41ae9ecb71f7d8071fe859eb6b039d06259e573b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "Achievement_26": {
       "name": "Barreled Right Over Them",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/21fe681125302b250e0ff6e00e902cc22eb22efb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.3"
+      "percent": "81.2"
     },
     "Achievement_4": {
       "name": "Biggest Badass In The Borderlands",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/f6ac30415e2c9d53a354a6764436edd7a6026e8a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.5"
     },
     "Achievement_18": {
       "name": "City Slicker",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/33d74c9ec5120bf6685a9f789243c3c538e8d729.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "Achievement_44": {
       "name": "Damn, Gina",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/eff29d6310bb9a7a4e3a675ebbf9d8c6fbc4b712.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.5"
+      "percent": "58.4"
     },
     "Achievement_47": {
       "name": "Firebug",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/8587cdb333597d50ce6b9013d6bb4ad5ff92a11a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.7"
+      "percent": "58.6"
     },
     "Achievement_75": {
       "name": "Fustercluck Off",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/5fee11d7f026c81c05adba4c6feb01245f508a57.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "Achievement_63": {
       "name": "Helpful Hunter",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/b00550dbd8b26ece7a5070ab83f7ac6d61d62ca1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "Achievement_8": {
       "name": "I Hope You Didn't Tea-bag",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/3b9221d39582579cf0c261a86774431d42fb1fe8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.6"
     },
     "Achievement_60": {
       "name": "I'm Floudering Up Here",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/a7bdb06e682acb5e2e51d846910629ab49c44ad8.jpg",
       "hidden": false,
       "group": "Borderlands 3: Designer's Cut",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "Achievement_57": {
       "name": "Industrious In The Face Of Cosmic Terror",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/83af7b4fbf2ccf4792c519d9b822b7d01145c1b3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.4"
     },
     "Achievement_55_Fixed": {
       "name": "Older Than The Trees",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/8885f4e96a82ba59d6344afec7de423d3955643e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "71.3"
     },
     "Achievement_2": {
       "name": "Star Bound",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/75c3869a189ea1bb07dacc5a91031d584c60b423.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.6"
     },
     "Achievement_43": {
       "name": "Stay Golden",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/b601fd9b49dd85e79b8edfe69ce0ea56b259131a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "Achievement_28": {
       "name": "Stick It To 'Em",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/c976d966daebaab65e266d14a0c906fa248ab69d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "Achievement_36": {
       "name": "That Was Cold",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/397540/e17ccd58afcb6cb39d7fdc889ec4118bf34dd4b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "Achievement_31": {
       "name": "Welcome To The Crimson Raiders",
