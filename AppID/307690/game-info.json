@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/cbee008e43af19638df50f9b25f8816b788390e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "ACHIEVEMENT_26": {
       "name": "Event Planner",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/1dfc7be28c71949dcd99316283eb2ecc6f29bfe3.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "ACHIEVEMENT_46": {
       "name": "Pure Gold",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/dc46bb0a12657aacd4b07f024d3a69e6a497080d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     }
   },
   "platform": null,

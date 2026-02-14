@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2a03672c72341cf1f4d14eaaf647313b31869565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "ACH_DRIFT_DISTANCE_1": {
       "name": "#DriftStarter",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e032729bb3bd1bcf651e7f6018873904851212ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "ACH_CLUB_FALCON": {
       "name": "#Falcon Outlaws",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/3604686726970afa7d49b99df3795b6d5dc1dd5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "ACH_CLUB_HUNTERS": {
       "name": "#Street Hunters",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c6b83f1f700638153d8265ca27db9bb235c4be46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "ACH_CLUB_UNION_UNDER": {
       "name": "#Union Underground",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/93e17483aebe4afd10daf266b784af7b7c76cb29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "ACH_DUEL_4": {
       "name": "Dueling Legend",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a1d7a8a9f5b9dc5239437999a9c535f419dc0656.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "ACH_LEADERBOARD_250": {
       "name": "Expert",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/81b19930e546e0c455f6a95fa83ada4b92bd1f9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ACH_FEEl_TRAVELED_1500": {
       "name": "Exploration Beginner",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/bb4bbfc7c4e2190620154ccabacee2053b8c6055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "ACH_FARM_RACE_2": {
       "name": "Get Set",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/06453f41d66faa6d5e41ce6ba4641204024bbb16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "ACH_PURCHASE_CAR_4": {
       "name": "Legendary Collector",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/9dde5f218882f4b84ee3a0b0c90e26e823690ac4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.1"
+      "percent": "54.2"
     },
     "ACH_FARM_RACE_1": {
       "name": "On Your Mark",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/dbbf41d3242415ef67bb43e796c7096fdf76e5c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ACH_SPEED_1": {
       "name": "Speedy Maneuver",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/76358e2915765b3e0a6557ca4a931e801b9228a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "ACH_SPEED_LEAGUE_BETS_10": {
       "name": "Thrilling",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fa7e7f6c19eeb2d695e729bf21e8485041abf6aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "ACH_SPEED_LEAGUE_LOST_CARS": {
       "name": "Time to Walk",

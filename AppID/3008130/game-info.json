@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/b35b0c322f5320380264d761c19e9a7438ffa587.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "12.5"
+      "percent": "12.3"
     },
     "ACH_19": {
       "name": "Blacksmith",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/1ce39ccee9dbed9cf2f34533f2b85b54a8a01832.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.3"
+      "percent": "82.4"
     },
     "ACH_28": {
       "name": "Crane on a Monument",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/892f03e782419041276b5e3fa55ac0e1126d253c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.3"
+      "percent": "95.4"
     },
     "ACH_30": {
       "name": "Family Picture",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/4c399110fec7dbad36bdf89c9ba4234d4c0efbe7.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "ACH_14": {
       "name": "I Still Don't Approve of Mindless Fun",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/c61c838ad690c81a5842ea249139745f3c5f4626.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "ACH_23": {
       "name": "Sunday Morning Run",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/40c9ce209e8e636e8f6f061166423717ce3b6c8f.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "12.1"
+      "percent": "11.9"
     },
     "ACH_35": {
       "name": "The Nightmare is over",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/b0a78ee8e8aed5751618d21c92a0a171a9625867.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "1.2"
+      "percent": "1.1"
     },
     "ACH_6": {
       "name": "There You Are!",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/5f01089f5c826120e6855910d3806faa276df64a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.4"
     },
     "ACH_10": {
       "name": "Ultimate Beast",

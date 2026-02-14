@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/76e85446addc88f4e44f554de6bcfc90c43fe8d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "60.5"
     },
     "ACHIEVEMENT_032": {
       "name": "A Special Lady",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4ffa755c0cd0328d2a4df71b6fb2f50ce640abf9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "ACHIEVEMENT_042": {
       "name": "Bond Maniac",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e2646d5c50c9110c57a88c4a37f24d0bc6fc4376.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "ACHIEVEMENT_017": {
       "name": "Hardcore Risette Fan",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c3348a6b0f8daf29ad5a27763b5ccefe87310581.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "ACHIEVEMENT_027": {
       "name": "It's Working Today",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/448f77fff13f5a83fac1c33f5dbb213d858a9d28.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "ACHIEVEMENT_037": {
       "name": "Thorough Bookkeeper",
