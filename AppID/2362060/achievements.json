@@ -1,7 +1,7 @@
 {
   "ID01": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771060489
   },
   "ID02": {
     "earned": true,
@@ -12,8 +12,8 @@
     "earned_time": 1770904204
   },
   "Id04": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770973879
   },
   "Id05": {
     "earned": true,
@@ -76,20 +76,20 @@
     "earned_time": 1770738746
   },
   "Id20": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770993806
   },
   "Id21": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770982479
   },
   "Id22": {
     "earned": true,
     "earned_time": 1770888449
   },
   "Id23": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770987577
   },
   "Id24": {
     "earned": true,
@@ -104,12 +104,12 @@
     "earned_time": 1770456745
   },
   "Id27": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770982420
   },
   "Id28": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771060489
   },
   "Id29": {
     "earned": true,
