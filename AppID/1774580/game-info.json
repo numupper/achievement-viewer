@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/edac2443959f6ffe6c7966e93471b6f330187760.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.8"
     },
     "Achievement_GOSCC_a11": {
       "name": "At the Precipice",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e0093335c680d62119cbdba25d0a4150fe943d09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "Achievement_GOSCC_a48": {
       "name": "Gambler",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/479b4513bc6fe88e72250b45be1e1e8b5a4c1e4f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.8"
+      "percent": "73.9"
     },
     "Achievement_GOSCC_a40": {
       "name": "Greezy Money",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/29e798c5feb75df9b8960ddc39840ba09e57fa43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "Achievement_GOSCC_a14": {
       "name": "Han Slowlo",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/c013ca687279a61bde0c8e023f1363fe84b217e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "Achievement_GOSCC_a49": {
       "name": "Intergalactic Geographic",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/2a2540d6a067149dc855a65e9ca2eace87719ce6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "Achievement_GOSCC_a25": {
       "name": "Slam Dunk",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/8f142f3b26c3c1553390ed23c59382b811ca1973.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "Achievement_GOSCC_a51": {
       "name": "Splurgle",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/05c4791f895dc41920fbba66f9b57cde9809e776.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.7"
+      "percent": "63.8"
     },
     "Achievement_GOSCC_a9": {
       "name": "Tanalorr Bound",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/d788ab673247db409aa8517cb06db09edecf2abc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.4"
     },
     "Achievement_GOSCC_a52": {
       "name": "The Jedi Path",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/0f4968223805f436af23df4d582cea5b011d0ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.2"
     },
     "Achievement_GOSCC_a29": {
       "name": "There Is No Try",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/b5599a4da151d8f43a3ba0a507c9f3a24cadbf93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.8"
     },
     "Achievement_GOSCC_a32": {
       "name": "They're Probably Fine",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e3e33ae4b4701c80bb674114787ddcb61d2922cd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "Achievement_GOSCC_a19": {
       "name": "This Is Canon",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a4780878a48ac43d940ea91983240dab4794b354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "Achievement_GOSCC_a10": {
       "name": "Tragedy",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a714a09f573343114e3baba8c75df8cb037ad569.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "Achievement_GOSCC_a38": {
       "name": "Who Gives a Puck",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fcc94b77e3c8f048110604eb77e2856bb04a3a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.8"
+      "percent": "59.9"
     },
     "Achievement_GOSCC_a16": {
       "name": "You've Got A Friend",
