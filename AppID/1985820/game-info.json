@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/6d74e5849a1d53d81340922838bebef8e4320a0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.2"
     },
     "SP_GOTTA_TRY_THEM_ALL": {
       "name": "Gotta Try Them All!",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/364650648f6e5998939df1f688823f9f079ce6c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "SP_THATS_NOT_A_KNIFE": {
       "name": "That's Definitely Not a Knife",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/ef7ddfd646a4cb6115e49c56516720160451a1d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "SP_TICKET_PLEASE": {
       "name": "Ticket Please",

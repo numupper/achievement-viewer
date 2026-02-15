@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/76e85446addc88f4e44f554de6bcfc90c43fe8d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.4"
     },
     "ACHIEVEMENT_032": {
       "name": "A Special Lady",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4d06f507c9fe52530601324b74b9919649316deb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "ACHIEVEMENT_047": {
       "name": "Advantage Mine",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/1383fb9ebfa191848a8219176b086e96b632eebe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.5"
     },
     "ACHIEVEMENT_044": {
       "name": "An Acquired Taste",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4ffa755c0cd0328d2a4df71b6fb2f50ce640abf9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "ACHIEVEMENT_042": {
       "name": "Bond Maniac",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/7e011c13f08415002ffcbee4a2a3f70a8fbdd1fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "54.9"
     },
     "ACHIEVEMENT_021": {
       "name": "Fill Your Hand",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e2646d5c50c9110c57a88c4a37f24d0bc6fc4376.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.1"
     },
     "ACHIEVEMENT_017": {
       "name": "Hardcore Risette Fan",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c3348a6b0f8daf29ad5a27763b5ccefe87310581.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.6"
     },
     "ACHIEVEMENT_027": {
       "name": "It's Working Today",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/f96b71041d8cfaab308d995a6b5a63afafb9ca25.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "ACHIEVEMENT_020": {
       "name": "Tactical Fighter",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/ef2c9a7e2f93dfe78969911256ed30c54d4e1741.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.1"
     },
     "ACHIEVEMENT_034": {
       "name": "The Other Self",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c9c4090bc8d024fbb91cd6fc1c7ac5550889736c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.4"
+      "percent": "77.3"
     },
     "ACHIEVEMENT_035": {
       "name": "The Power of Truth",
