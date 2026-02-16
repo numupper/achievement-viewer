@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/920a601bef1ae15aa8f418b959d1645a42db6ce5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.1"
+      "percent": "71.0"
     },
     "Achievement_GOSCC_9": {
       "name": "Beggars Would Ride",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d9482acdbfbbf6682339d8c2087be76418fb16ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.0"
     },
     "Achievement_GOSCC_20": {
       "name": "Family Business",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4323a6c80f401cd929eb9d4be82461cfffc5e29d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.9"
     },
     "Achievement_GOSCC_37": {
       "name": "Kitted Out",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/43eb2402e6138ffb25de83c6d8bc810f71fd5d4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.5"
     },
     "Achievement_GOSCC_4": {
       "name": "No More Names",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4f1434a6c5f2ce3b2731eb8c86c00beacd2c3a3e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.3"
+      "percent": "75.2"
     },
     "Achievement_GOSCC_50": {
       "name": "Veteran",

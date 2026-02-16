@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/7034aae5e6b0be37df1baa4c52285d1e8ebc66d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "28": {
       "name": "Balancing task",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/a26ce176695b6d11c6b7fa3668e9517948da9252.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.0"
     },
     "304": {
       "name": "EXPENSIVE ELIMINATION",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/3eb9ab87f7f551f0b2aa2d1ea327ec815b2c3d98.jpg",
       "hidden": true,
       "group": "GRID Legends: Rise of Ravenwest",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "103": {
       "name": "FINAL SHOWDOWN",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/2c28c8e2cfb0972f848070234a441cf348b7ffb7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "8": {
       "name": "HEADHUNTERS",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/2bd4121bf0acda8a409446c8e21e1c8a11b61854.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.8"
+      "percent": "84.9"
     },
     "18": {
       "name": "Insert Joke Here",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/c29fff135a1e5edaf5aa0958de02c4795902609c.jpg",
       "hidden": true,
       "group": "GRID Legends: Rise of Ravenwest",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "409": {
       "name": "Need for Speed",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/2cebca73e7cc7e3e11b35bc64d66e8fc1ebaf416.jpg",
       "hidden": true,
       "group": "GRID Legends: Valentin’s Classic Car-Nage",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "35": {
       "name": "Power and Honor",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/b1d61add483f4e10354c77436ff689ca29a4192c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.8"
     },
     "21": {
       "name": "Race Driver",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/7279087d31deda357a26e2d20fd45870d35e3239.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "44": {
       "name": "RUSH ON",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/cece9808c1a37169a7968e2160623cf5e2a923e7.jpg",
       "hidden": true,
       "group": "GRID Legends: Winter Bash",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "402": {
       "name": "SMOKIN' SLIDING!",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/48e113963e031902c8cd94309d631775565809c1.jpg",
       "hidden": true,
       "group": "GRID Legends: Winter Bash",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "6": {
       "name": "SUPERFICIAL DAMAGE",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/d03c8fa30ca64eed1d2ed560542641fffc3794ac.jpg",
       "hidden": true,
       "group": "GRID Legends: Enduring Spirit",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "303": {
       "name": "THE FIRST FINAL",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/4839245a93afc2181851c0fe7a1e83d158e3e300.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "405": {
       "name": "The racing car",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/ec65d828286d3e43c919090c7f6951aff5e35989.jpg",
       "hidden": false,
       "group": "GRID Legends: Winter Bash",
-      "percent": "1.3"
+      "percent": "1.2"
     },
     "43": {
       "name": "The time is now",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1307710/23756f7e789663f7567e531dd6dc542ab3e9320f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "4": {
       "name": "THUNDER DOWN UNDER",

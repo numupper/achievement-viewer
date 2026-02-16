@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/ebe9c9bd28c4c4410b235801c1fdf27e524eae73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.2"
     },
     "Campaign_AllGold": {
       "name": "Gold Career",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/15ca828008705cc03f20b77dbab4887328544a52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.4"
     },
     "Campaign_AllSilver": {
       "name": "Silver Career",

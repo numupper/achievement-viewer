@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/1e9352f430ec2c31d1fa1deb5d567e404293aa5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "Achievement_GOSCC_51": {
       "name": "All Clear",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/f429a37ed4e0bb0500715051f7ae46048414936b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "Achievement_GOSCC_31": {
       "name": "Alliance",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/eecd8850cf8e2fdcf2cd791153c924de97499f55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "Achievement_GOSCC_47": {
       "name": "Almost There",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/b7faf2e69c640f46704cd8b4df0ce1c3cfb143aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "Achievement_GOSCC_28": {
       "name": "Foothold",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/0e1e47f6844b8f43b0e870dc3a4255b729151fc0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "Achievement_GOSCC_45": {
       "name": "High Performance",
