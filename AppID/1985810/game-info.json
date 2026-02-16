@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/829e38af7da0b512f8eaed6c89de91cd3068e966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "CP_ACHIEVEMENT_CP_GER_STAKEOUT": {
       "name": "Brick in the Wall",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7ebad2ac02d47077a5fd4419153fd770038e404e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "ZM_SILVER_WW": {
       "name": "Carpe D.I.E.M.",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/b56b2d5629c39a99ef8a53d2bb468a3ae4f2c29a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "CP_ACHIEVEMENT_COMBAT_HARDENED": {
       "name": "Combat Hardened",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/538ebdcf982f50fef900834892ad577c7e8e8f69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "ZM_SILVER_CRAFT": {
       "name": "Craftwork",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7db20ce0331d8eb81e48a887cb7c21768b23ec1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "DOA_ACHIEVEMENT_DUNGEONDIVER": {
       "name": "Dungeon Diver",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9d14c6520c8fc35cc254ab0c015dc10b7acc3626.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "CP_ACHIEVEMENT_EXPLOSIVE_FINIISH": {
       "name": "Explosive Finish",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9867f8dc803706873497c18ac8085652d832bb85.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ZM_SILVER_PAP": {
       "name": "Heavy Metal",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9ffc31e6311f317be94c88c76c01a3a907c67bcc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "CP_ACHIEVEMENT_JACK_ALL_TRADES": {
       "name": "Jack of All Trades",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9be90da14b0ea3b404fa85ddbb8f24025c7c1338.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "MP_ACHIEVEMENT_VEHICLE_KILLS": {
       "name": "Mean Machine",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/4bae11fb4d770b725571357a5f0bcfd9833cceaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.3"
     },
     "CP_ACHIEVEMENT_OLD_FAITHFUL": {
       "name": "Old Faithful",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/ca940806ca30750a38d27d9a2bdd93a8cfd1e0f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "CP_ACHIEVEMENT_CP_SIDEMISSION_TAKEDOWN": {
       "name": "Operation Chaos",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/909354647600dfd3cc7e03bf05a12c8601043347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "DOA_ACHIEVEMENT_FIDOLINA": {
       "name": "Reunited with Fidolina",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/5241cadbde68dff44158b94f41d8a9886bc9413e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "DOA_ACHIEVEMENT_ESCAPEWILD": {
       "name": "Survive the Wild",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/3e12a39fa3f94f6e88c16a63b274fe50dd1c3e6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     },
     "MP_ACHIEVEMENT_ELIMINATIONS": {
       "name": "The Fixer",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/d2ca12defc3ac8d579a190292feba1f0edc386ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "32.0"
     },
     "CP_ACHIEVEMENT_RED_DOOR": {
       "name": "The Red Door",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/650300dcec1393402140c0ecc27b05727e92ab4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     }
   },
   "platform": null,
