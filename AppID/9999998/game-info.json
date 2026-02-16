@@ -1,0 +1,706 @@
+{
+  "appid": "9999998",
+  "name": "Rocket League",
+  "icon": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-4c231557ef0a0626fbb97e0bd137d837?resize=1&w=640&h=360",
+  "achievements": {
+  "0": {
+    "name": "Virtuoso",
+    "description": "Unlock All Original Achievements",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/c6d1f088e2529eef0d25854228ef6d56",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/89599f95e0e80c184826f4c563956cf7",
+    "hidden": false,
+    "percent": "0.1"
+  },
+  "1": {
+    "name": "Stocked",
+    "description": "Collect 150 Items",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/d4ecb934e2415a74c66f75c49fee22ee",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/4b370970a13bf6933ed19baf50373115",
+    "hidden": false,
+    "percent": "32.0"
+  },
+  "10": {
+    "name": "Grease Monkey",
+    "description": "Customize the Decal, Topper, Rocket Boost and Wheel on a car",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/b60dfccbaa22d80ce451bdf8c6133638",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/200d123c8c5dc9f1dcb3a24ffd802fa3",
+    "hidden": false,
+    "percent": "8.0"
+  },
+  "11": {
+    "name": "Pitch Veteran",
+    "description": "Play a total of 20 games across any game mode",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/caff1677e22af6550d4daf72aed2f3b3",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0eb8ce0e9b941f3c542620ec693e2746",
+    "hidden": false,
+    "percent": "14.0"
+  },
+  "12": {
+    "name": "Rider's Block",
+    "description": "Make 20 Saves",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/20560645966dfa452d278aa19ec41d54",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/2b9145f31b7fafa8b487bf5187f4f2ad",
+    "hidden": false,
+    "percent": "12.0"
+  },
+  "13": {
+    "name": "Break Shot",
+    "description": "Score a goal by hitting your opponent into the ball",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/8ba1cb905dd528aa4c7a57826008165d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/559425b2fa4d78a55701c454e2b762a8",
+    "hidden": false,
+    "percent": "10.0"
+  },
+  "14": {
+    "name": "Turbocharger",
+    "description": "Use your Rocket Boost for a total of 5 minutes",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/77d4eb21a6b2c4e43a2334638c0de5d6",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/6a2f9ab5097df0bd1088d2f31759be20",
+    "hidden": false,
+    "percent": "17.0"
+  },
+  "15": {
+    "name": "Drill Sergeant",
+    "description": "Complete every Practice Drill (any difficulty)",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/4051890439d447f964a355c9aff65633",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/ffe61bb69b4a5d8cffc951bef914a868",
+    "hidden": false,
+    "percent": "5.0"
+  },
+  "16": {
+    "name": "Minute to Win it",
+    "description": "With only 60 seconds left, Win a game in which you were tied or trailing",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/10a2d3e3e97eaaf7ad4c8d971b566f1b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/51c4d0843d5f755ff2a5e5a1a396c0af",
+    "hidden": false,
+    "percent": "16.0"
+  },
+  "17": {
+    "name": "Speed Demon",
+    "description": "Completely fill and then empty your Rocket Boost 10 times in a single match",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/26e49a3575ea554d3aae091f11af742a",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0a9ca50d91a9e7ea1a093f3311bf9dea",
+    "hidden": false,
+    "percent": "15.0"
+  },
+  "18": {
+    "name": "Pick-Me Up",
+    "description": "Collect 5 Items",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/080ebf9aa6df6424b1b3ee6b25c879e1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/ef14922705404306267efc12ef71f7f8",
+    "hidden": false,
+    "percent": "22.0"
+  },
+  "19": {
+    "name": "Wall-Crawler",
+    "description": "Drive on the dome walls for a total of 5 minutes",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/bb19f58e75acb1081a3efc771f39b0a7",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/854f93dcf02ab75d7dce1b4d8ac2ee51",
+    "hidden": false,
+    "percent": "16.0"
+  },
+  "20": {
+    "name": "Team Player",
+    "description": "Play against every team in a Season",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a945ebd9c1aff3681e8cb50961b3f99d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/95cbf7774be88c4e17e38aad24aeb362",
+    "hidden": false,
+    "percent": "0.4"
+  },
+  "21": {
+    "name": "SARPBC Forever",
+    "description": "Play one game each with Octane and Backfire",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/3690495eec31a0c15fa950479f33d20f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/4cb8b2f5cac8ab520b92b38062675e2d",
+    "hidden": false,
+    "percent": "4.0"
+  },
+  "22": {
+    "name": "Feather in Your Recap",
+    "description": "Watch a save file in Replay mode",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/4b2b6ac0180c7e5a879ca5fe888c54db",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/b88521c8132c6a5f2576cebfec11a4d4",
+    "hidden": false,
+    "percent": "5.0"
+  },
+  "23": {
+    "name": "Winner",
+    "description": "Win a total of 5 games across any mode",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/ad327f367a5b971ba96a6db24735deb7",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/3551761efad68d8bcb797ca3a59b31bb",
+    "hidden": false,
+    "percent": "17.0"
+  },
+  "24": {
+    "name": "Clean Sheet",
+    "description": "Win a game without giving up a single Goal",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/fdfdb34a2d0be5d6c5a842c7a2e3cfc0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/e31f7cf575f8f18305e3ed899d4f91c4",
+    "hidden": false,
+    "percent": "19.0"
+  },
+  "25": {
+    "name": "Triple Threat",
+    "description": "Win a 3v3 game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/7c78c1d99777c0f8d4c482c5b0f9caba",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/890579889c64b8b3213c290449c67fc2",
+    "hidden": false,
+    "percent": "21.0"
+  },
+  "26": {
+    "name": "Double Up",
+    "description": "Win a 2v2 game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0e070d7977a0cdbfc399f7d54792e6dd",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/927c0dfd7f968d245a8dc8098b4fa36d",
+    "hidden": false,
+    "percent": "16.0"
+  },
+  "27": {
+    "name": "Singles Club",
+    "description": "Win a 1v1 game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/12206f9648048151b0a89f5c707e309f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/cab2bb30869711942045a5129322fcf4",
+    "hidden": false,
+    "percent": "12.0"
+  },
+  "28": {
+    "name": "Perfect Start",
+    "description": "Win your first game of the Season",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/780e3960c799fbbc3d3b66d223b88ae9",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/62c1a288f2c4865c782dbef3eadcae5f",
+    "hidden": false,
+    "percent": "1.0"
+  },
+  "29": {
+    "name": "Still A Show-Off",
+    "description": "Score a goal while reversing",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/3b9968ef0befbb3f2fcbf875daf6ec4b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/45a0fe46a6f3b0366fad4f3e3a0b6ead",
+    "hidden": false,
+    "percent": "12.0"
+  },
+  "3": {
+    "name": "Super Victorious",
+    "description": "Win a total of 30 games across any game mode",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/f2dbd0b3b7b9b56d4909784b699dbed4",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/d59351355d0172df60d893548c1b1224",
+    "hidden": false,
+    "percent": "12.0"
+  },
+  "30": {
+    "name": "Know the Drill",
+    "description": "Complete a Practice Drill",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/56cb6d12728c194e2bc85aed02280fa5",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/39b6716213c08c1628133f59b5562a50",
+    "hidden": false,
+    "percent": "8.0"
+  },
+  "31": {
+    "name": "Traveler",
+    "description": "Play a game in six different Arenas",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/60cd126578246aeb71f405e8271304a7",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/b9ac05621d6e1da081713131c5d605a2",
+    "hidden": false,
+    "percent": "17.0"
+  },
+  "32": {
+    "name": "Tinkerer",
+    "description": "Customize one slot on a car",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/203cb3f940d40efdf6e0ab10aed2429f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0e1d76b45d6559faaf18b2be14735cae",
+    "hidden": false,
+    "percent": "18.0"
+  },
+  "33": {
+    "name": "First-Timer",
+    "description": "Score your first Goal",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/3a6b917bf3b371b64bf6483678f67121",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/9dfde47f18d2f0d32279569943c6289b",
+    "hidden": false,
+    "percent": "21.0"
+  },
+  "34": {
+    "name": "Barras Bravas",
+    "description": "Play an Online game with someone in your Party",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/41f82092e52c0b30b00ae060fe67cd5b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/f0f699c5be68194d6491087ffe12a9b6",
+    "hidden": false,
+    "percent": "15.0"
+  },
+  "35": {
+    "name": "Friendly",
+    "description": "Play an Exhibition match",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/2dcf386ba38c3f0eb53954662d7f9871",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/596bd894d72f3e5ca36dbf71f2838478",
+    "hidden": false,
+    "percent": "3.0"
+  },
+  "36": {
+    "name": "Sky High",
+    "description": "Score an Aerial Goal",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/b5745771a6a5962a61acc5058fdd930c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/7a2eb4c49869b8eba1a0ded1009850a5",
+    "hidden": false,
+    "percent": "10.0"
+  },
+  "37": {
+    "name": "All Fours",
+    "description": "Win a 4v4 game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/ff993f867921518cc0ef0f6ec08ca89f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a9f79183c2f656bdc38f173b3439bb36",
+    "hidden": false,
+    "percent": "7.0"
+  },
+  "38": {
+    "name": "Gladiator",
+    "description": "Play a game on Utopia Coliseum",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/7c26e42fb7a00cefe93b087e78f84718",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/f7c75f45a422a6895d04284dd5e780a6",
+    "hidden": false,
+    "percent": "11.0"
+  },
+  "39": {
+    "name": "Winning is Winning",
+    "description": "Win a Season Championship using Dominus in every game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/fe308efec461b18bc8653c389037e4f5",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/e7ad6ee1fd3629ab47afbf7bb1e693d1",
+    "hidden": false,
+    "percent": "0.1"
+  },
+  "4": {
+    "name": "Champion",
+    "description": "Win the Season Championship",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/94bf82bb713bf5c1592058059dce5600",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/6a6507cfbd6af7e6b13bf594af81b3b9",
+    "hidden": false,
+    "percent": "0.3"
+  },
+  "40": {
+    "name": "An Inch and 6.2 Miles",
+    "description": "Drive 10 km with the Vortex, Cristiano, or Spinner Wheels",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/9d2d4f76e459e75ce44ee21063c511cd",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0c9585cde4c9d936524d622ff7c4792f",
+    "hidden": false,
+    "percent": "5.0"
+  },
+  "41": {
+    "name": "Ride or Die",
+    "description": "Equip Dominus or Takumi with any Decal, then win a game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a1f1f972e76a086bbb6c2e2693a0afba",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/3e784f9063ad58e5ceadd0c4e7499fcb",
+    "hidden": false,
+    "percent": "5.0"
+  },
+  "42": {
+    "name": "Don't Look Back",
+    "description": "Use the Thermal, Burnout, or Nitrous Rocket Boost for a total of 10 minutes",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/2eed0624e34df90afeadaa24a7c41298",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/bae0b342ba3294cf07c009302ea6bc47",
+    "hidden": false,
+    "percent": "3.0"
+  },
+  "43": {
+    "name": "Family, Not Friends",
+    "description": "Play a complete game with Dominus or Takumi",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/dd43a499b794db0dda7d09b2f3fe11f3",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/216886f35fbe3eb1b6d285c40ab5b375",
+    "hidden": false,
+    "percent": "9.0"
+  },
+  "44": {
+    "name": "Drift King",
+    "description": "Perform a 180 powerslide with Dominus or Takumi",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/ca4a32d6256392f9bee9e31e238600e0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/e0ba56260c304630ba5ef396a4a0692e",
+    "hidden": false,
+    "percent": "5.0"
+  },
+  "45": {
+    "name": "Survival of the Fittest",
+    "description": "Equip a Topper and win an Unfair Bot Match",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/efc3897948ebcc26e2fbb2f4e4308bb1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/c65ee8f01e407b0aeb8aeada56e3ee59",
+    "hidden": false,
+    "percent": "0.2"
+  },
+  "46": {
+    "name": "Heartbreaker",
+    "description": "Win a game against All-Star Bots with a Decal equipped",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/88229f76a25261cca51961538d34b794",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/b994c94afbda8b5eacc21ad3d4264237",
+    "hidden": false,
+    "percent": "8.0"
+  },
+  "47": {
+    "name": "Natural Progression",
+    "description": "Win an Online Match with Backfire, Scarab, or Zippy",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/c0e58086ad733eaaa3a7f21bb4166e47",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0568bde938dc49d5dcada68d956fb5f4",
+    "hidden": false,
+    "percent": "2.0"
+  },
+  "48": {
+    "name": "Throwback",
+    "description": "Use the Standard or Accelerato Boost with Octane or Backfire while playing in Urban Central",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/fa841ea96c5ef8ff52fe95b9e48ba612",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/3ba51f615a9e0952cf7cdcfde3dc8dfb",
+    "hidden": false,
+    "percent": "6.0"
+  },
+  "49": {
+    "name": "Hot Shot, Part Two",
+    "description": "Win the MVP award using Backfire, Scarab, or Zippy",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/56b4000440b7a31280eea2feb7799113",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/1880c570168d42b9b0fba45b061761a5",
+    "hidden": false,
+    "percent": "2.0"
+  },
+  "5": {
+    "name": "The Streak",
+    "description": "Win 10 games in a row across any mode",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/622fa2218cbe0094485d194ebb641df0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a6a173b7454914f3e35e3cd56e812351",
+    "hidden": false,
+    "percent": "8.0"
+  },
+  "50": {
+    "name": "My World is Fire",
+    "description": "Equip the Flamethrower Boost and win a 4v4 Online match",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0b9f865a96f6e94d8dbe4e6fd99b6855",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/7f1d8d5f0325f7e43e36ce4a63ede71a",
+    "hidden": false,
+    "percent": "0.9"
+  },
+  "51": {
+    "name": "Spectacular",
+    "description": "With Merc or Grog, Score 10 Goals against Pro-Level Bots or higher",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/3fc41f453b9566b32a61d67d418db701",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/433aa19be46234ad585101ddf8f7941b",
+    "hidden": false,
+    "percent": "0.1"
+  },
+  "52": {
+    "name": "Savage",
+    "description": "With Ripper, Score 10 Goals against Pro-level Bots or higher",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/e30eb1b74b489d973c3d366512771ccd",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/01e958a3b91627e894d3f238c8d6502d",
+    "hidden": false,
+    "percent": "0.2"
+  },
+  "53": {
+    "name": "Ruthless",
+    "description": "Make 50 total Shots on Goal using Merc, Grog, or Ripper",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/93a632d24154ca44986ae639077f6208",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/b4bbaf8ad04bdc76c7fdd094dcc8be89",
+    "hidden": false,
+    "percent": "2.0"
+  },
+  "54": {
+    "name": "Psycho-Master Exploder",
+    "description": "Demolish 3 opposing bots in Wasteland",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a0d7d8c05a9919f79a3805d866437448",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/86b1c05ef12e197d0f75ae799f1690f9",
+    "hidden": false,
+    "percent": "4.0"
+  },
+  "55": {
+    "name": "Mad Scientist",
+    "description": "Play a complete match in 3 different Rocket Labs Arenas",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/8dbcf111760f1aeff1e9f4c4f2fd5040",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/8587aa07a72bf1d1a77d3b1adab2f8cd",
+    "hidden": false,
+    "percent": "4.0"
+  },
+  "56": {
+    "name": "Icing the Cake",
+    "description": "In Snow Day, score a goal from your own side of the ice",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/080ebf9aa6df6424b1b3ee6b25c879e1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/ef14922705404306267efc12ef71f7f8",
+    "hidden": false,
+    "percent": "2.0"
+  },
+  "57": {
+    "name": "Left Wing, Right Wing",
+    "description": "Win a Snow Day match with both the Blue and Orange teams",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a9f79861488f8d2164c86eed8b987648",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/cc61f5597056998c6ce9d854d2d73580",
+    "hidden": false,
+    "percent": "1.0"
+  },
+  "58": {
+    "name": "Fast Break",
+    "description": "Score at least 2 Dunks in the first minute of a Hoops game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/37448d1ff872512ae6d7c855e9532f5a",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/2e44581e6f73e2f772cca75c64cdcd51",
+    "hidden": false,
+    "percent": "2.0"
+  },
+  "59": {
+    "name": "Buzzer Beater",
+    "description": "With 30 seconds left, win a game of Hoops in which you were tied or trailing",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/2a4cb56eeada9531124e094d32ba5cb7",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0b24b79cd48b2c9be79633c35e927836",
+    "hidden": false,
+    "percent": "1.0"
+  },
+  "6": {
+    "name": "Helen's Pride",
+    "description": "Score 6 Goals in a single game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/4a1ae2345ff610299f21b881b903a69b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/706b6e65436235eef54419a16913601f",
+    "hidden": false,
+    "percent": "13.0"
+  },
+  "60": {
+    "name": "Budding Artist",
+    "description": "Collect a Painted Item",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/01f3c40df14737d795c5aa706376e7ae",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/4c9e3452a58174052f7b116c777466c5",
+    "hidden": false,
+    "percent": "17.0"
+  },
+  "61": {
+    "name": "One Better",
+    "description": "Increase the level of a Certified Item",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/2aaee55c2cb92a376ade02141491c3f1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/537b22fb8ff20ff61be91f8a12bee5b4",
+    "hidden": false,
+    "percent": "5.0"
+  },
+  "62": {
+    "name": "Certifiable",
+    "description": "Earn Veteran status for your Certified Item",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/83f324762a38355fdc800e0f8c150591",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/1b74671525ebf14a1224bf897b67cc8c",
+    "hidden": false,
+    "percent": "3.0"
+  },
+  "63": {
+    "name": "GG",
+    "description": "Win the MVP award in a game that goes to overtime",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/1078610936bda877b07f2c0d3848767c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/5028f6cca2e7516dcec7c07274383e42",
+    "hidden": false,
+    "percent": "12.0"
+  },
+  "64": {
+    "name": "Trifecta",
+    "description": "Score a Goal, Save a shot, and Assist a teammate in a single game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/1697e3495fb5c982b4bc47a424fe4775",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/1c63cd032ef77b468523cce5fe317fc5",
+    "hidden": false,
+    "percent": "13.0"
+  },
+  "65": {
+    "name": "Infinite Power!",
+    "description": "Activate every power-up in Rumble mode",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/7c020d287962db11b793d6ef3e7af69c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a45c390d8afe6ac4bfa69dc70754471c",
+    "hidden": false,
+    "percent": "6.0"
+  },
+  "66": {
+    "name": "Stopped Cold",
+    "description": "In Rumble, freeze an opponent's shot before it can score",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/54265b0481a8cba28c408e6a4b491f84",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0204df2ec6aa5994c741fb97fd045c55",
+    "hidden": false,
+    "percent": "2.0"
+  },
+  "67": {
+    "name": "Sea Turtle",
+    "description": "Head to AquaDome and score a goal while flipped on your back",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/667f3f7ea16281bfe634353dc2b8af54",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/f8eff980830777773802c80c69c22478",
+    "hidden": false,
+    "percent": "1.0"
+  },
+  "68": {
+    "name": "Get Up, Mr. Bubbles!",
+    "description": "Score an Aerial goal while playing in AquaDome",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/e2b19986872eb5af024d1093040b285d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/6abc0451d505f560fbf9c1cd49a9ed17",
+    "hidden": false,
+    "percent": "5.0"
+  },
+  "69": {
+    "name": "Rocket Repleter",
+    "description": "Make 535 Shots on Goal",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/4f7e640be37aab69ebd56bd6f20ad6d9",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/9ffa73a8067ec8c9d0ecdd6271e9d2e0",
+    "hidden": false,
+    "percent": "9.0"
+  },
+  "7": {
+    "name": "Car Collector",
+    "description": "Collect 5 cars",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/40c0322b3bacb20e4d757c907e769489",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/55b9ca402d3e2aa6542c4742337e61c0"
+    "hidden": false,
+    "percent": "13.0"
+  },
+  "70": {
+    "name": "Registered Voter",
+    "description": "Head to 'Arena Preferences' and use all of your votes",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/89bc961b4eba74d9967201ea85860713",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/24f5355166f22c072dbd9205c7e7a5df"
+    "hidden": false,
+    "percent": "1"
+  },
+  "71": {
+    "name": "Metaverse",
+    "description": "Equip the Ion Rocket Boost or the Halo Topper and win a match on Starbase ARC",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/c2200e450b033afe4446c6a8f46cf3da",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/433b1389be3de10f512eb7900de5f994",
+    "hidden": false,
+    "percent": "0.1"
+  },
+  "72": {
+    "name": "Brave the Elements",
+    "description": "Complete a match on wasted land, under the sea, and in outer space",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/67d5673e434f0da977502cdab6901b73",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/e8df684506248999f5f84ad2f05fba68",
+    "hidden": false,
+    "percent": "6.0"
+  },
+  "73": {
+    "name": "Damage Control",
+    "description": "Win a Dropshot match via shutout",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/08a3bc356fa1f4105e3b1a03fa0d1437",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/1b69af376ea982912274e4b098a04154",
+    "hidden": false,
+    "percent": "3.0"
+  },
+  "74": {
+    "name": "Full Course",
+    "description": "Score a total of 18 Goals in Dropshot",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/3f0564d899c0a1d88f5884078cfe8e16",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/70b45eb29e07f8ddb7a137bb8d666c11",
+    "hidden": false,
+    "percent": "1.0"
+  },
+  "75": {
+    "name": "Buckminster x10",
+    "description": "Damage a total of 320 panels in Dropshot",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/149631ee9e98cfb655ba1a9c625198fa",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/372f8535330a312e5d8aaf9560b42a50",
+    "hidden": false,
+    "percent": "3.0"
+  },
+  "76": {
+    "name": "Storm Trooper",
+    "description": "Equip a Deluxe Item and complete a game in an Arena with turbulent weather",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/dcfa492b684ddbc878f414b7eb8359d2",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/ff39568d67aa1c3b0b71939442d20871",
+    "hidden": false,
+    "percent": "10.0"
+  },
+  "77": {
+    "name": "Good Times",
+    "description": "Head to Champions Field and complete an Online game",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/c24d2200f88ac4e93053e9bd4a4d6ca5",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/8424fdefadba312c2deeb7ea1b72001e",
+    "hidden": false,
+    "percent": "15.0"
+  },
+  "78": {
+    "name": "New Profile Who This?",
+    "description": "Change your Player Banner, Avatar Border, and Player Title",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/ca8944f82ac8e2030a69ea773c34aeec",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/6238720632441781e90c2701e02b7f88",
+    "hidden": false,
+    "percent": "14.0"
+  },
+  "79": {
+    "name": "Trade Secret",
+    "description": "Trade In five items of the same quality to receive an item of the next-highest quality",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/8c35a464cdc2cf8a4f5a1321c9dc3ba6",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/8a6946318415d48f3ef96991f409cd37",
+    "hidden": false,
+    "percent": "7.0"
+  },
+  "8": {
+    "name": "Drops in the Bucket",
+    "description": "Collect 50 Items",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/48c5a25e358031b65e57a32cca214489",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/42b4d6c9e428e747c8c8b77c3ae1599a",
+    "hidden": false,
+    "percent": "16.0"
+  },
+  "80": {
+    "name": "Rank Up",
+    "description": "Complete all placement matches in any Competitive Playlist",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a34a4b515a2e41fae7d8bb3e652d6dd5",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/2a6206a0091478e83b66ddc55be29c90",
+    "hidden": false,
+    "percent": "9.0"
+  },
+  "81": {
+    "name": "Coming On Strong",
+    "description": "Score or Assist a combined 30 goals or assists in Casual or Competitive Online matches",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/c700694514c589f326008cd243131adb",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/28a94130ca5dffe2e3762d195e8073f3",
+    "hidden": false,
+    "percent": "14.0"
+  },
+  "82": {
+    "name": "Join the Club!",
+    "description": "Create or Join a Rocket League Club",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/fd749d99464f17b7d6f1f7f6066b34c5",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a991fc21767c179a20cb4938fd0646d2",
+    "hidden": false,
+    "percent": "8.0"
+  },
+  "83": {
+    "name": "Together is Better",
+    "description": "Play and complete an Online match with one or more Clubmates",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/2fbb318e5860f9b5625b8a305f7d1838",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/ffa6c74a5d52d591f46cf123f34f757a",
+    "hidden": false,
+    "percent": "8.0"
+  },
+  "84": {
+    "name": "New Challenger",
+    "description": "Join and complete an Online Tournament match",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/dd512ff179ad6025f295f8c08b7ca05f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/92993c4ba797fc3f9c48713d550ae3a7",
+    "hidden": false,
+    "percent": "7.0"
+  },
+  "85": {
+    "name": "People Person",
+    "description": "Play and complete 10 Online matches with one or more Clubmates",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/4ac0febc3dee4bf6e931d0c55108077d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/bd12046f6c5f2dbbfdca36db47f0526e",
+    "hidden": false,
+    "percent": "7.0"
+  },
+  "86": {
+    "name": "Squad Goals",
+    "description": "Score a Goal while in a Club Match (Online Matchmaking only)",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/7ab03a510906c5765180e1e4f13eb0b1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/a21395d1f0776c2e9fe9abc0c2697d3f",
+    "hidden": false,
+    "percent": "7.0"
+  },
+  "87": {
+    "name": "Best of the Bunch",
+    "description": "Earn the MVP award in any Online Tournament match",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/8a52fc8c572e9400ecb1ef74762ff909",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/e57524751cb3b0bc55c761619ffa9451",
+    "hidden": false,
+    "percent": "5.0"
+  },
+  "9": {
+    "name": "Rocketeer",
+    "description": "Complete the regular Season",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/8646e5ac2e1acfc9a4a675b3ef010409",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/24f9a9c553af0f657e9e91c04631111c",
+    "hidden": false,
+    "percent": "0.3"
+  }
+  },
+  "platform": "Epic Games",
+  "blacklist": [],
+  "uses_db": false
+}
