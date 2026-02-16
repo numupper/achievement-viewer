@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/8ce92df6ffcf3d81e5c885a19dc567fbb297289f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "ACHIEVEMENT_12": {
       "name": "Behind Closed Doors",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/69dbb39a8b27f67d6689556def49173484e85f08.jpg",
       "hidden": false,
       "group": "Not A Hero",
-      "percent": "2.6"
+      "percent": "2.7"
     }
   },
   "platform": null,

@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/344793692c47057b25213950a71a46c7bce8fa46.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.7"
+      "percent": "67.8"
     },
     "Achievement_13": {
       "name": "Freelance, but Not for Free",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/631aa5608bae7533f4b2b1b90c5a3c09bee8929d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.2"
+      "percent": "75.3"
     },
     "Achievement_11": {
       "name": "Reverse Abduction",

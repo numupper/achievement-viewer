@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/c62c112e5a62d7a6ddfd6f7dc3e130bdc04fd211.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "36.9"
     },
     "ACHIEVEMENT_055": {
       "name": "Blackout",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/b8f3897073907f25bb96d0bf7da71c6768c6e191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "ACHIEVEMENT_050": {
       "name": "Dozing",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/b59a9a9997c5a210c2e1cd0b20b1fb6631ebd1cc.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ACHIEVEMENT_001": {
       "name": "Efficiency",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/44259d2a535871235160b7f3c55687e8ed6cf864.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.0"
     },
     "ACHIEVEMENT_019": {
       "name": "Explosive Ending",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/874d805925155c8015e89b93f98c92ac373ada00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "ACHIEVEMENT_097": {
       "name": "Friend of Ford",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/c6c39e7a5b15d8851d06422ffcaa8a03beb5ddfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "ACHIEVEMENT_059": {
       "name": "Ground Control",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/669f6f58609ae6ce9a6267576ba5e66246012664.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     },
     "ACHIEVEMENT_045": {
       "name": "Hangtime",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/832b420b909d186573d224919fa64580553ccd6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.6"
+      "percent": "55.5"
     },
     "ACHIEVEMENT_089": {
       "name": "Heavy Boots",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/86725658c679b83896a1f853751351d7183a7f69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "ACHIEVEMENT_029": {
       "name": "Peek-a-boo",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/54f931016ea5786fce11d96743990710513530e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "ACHIEVEMENT_005": {
       "name": "Postmodern Picasso",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/98aa0e72c491abaffee0df8e01a1a9e4960ae732.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "ACHIEVEMENT_003": {
       "name": "Skeet Shooting",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/d8fcab74fad36f18dc23112c17fe2f9ffb39c4e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.4"
+      "percent": "81.3"
     },
     "ACHIEVEMENT_054": {
       "name": "The Ranger",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/ba34c00145a60391eec21660cd0827dc370c331a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "ACHIEVEMENT_009": {
       "name": "THIS IS RAGE",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/45c3f8641f70a4972f5b7d3c200d7eb9f004a97c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.7"
+      "percent": "71.6"
     },
     "ACHIEVEMENT_102": {
       "name": "Veritas Bonetower",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/8ca33ff56ee509db2904f68d62c03cc73012635c.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "ACHIEVEMENT_023": {
       "name": "Zipper",

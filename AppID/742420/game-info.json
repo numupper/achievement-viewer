@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "empire_tier_2": {
       "name": "A Young Empire",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/cf1430bc6c101a31578f258de5cd42c46697390c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "whole_map_purple": {
       "name": "All Mine",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/9f41b50a93bc4234016483ba2de36881727b5dbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "purchase_2_emotes": {
       "name": "Smooth Moves",

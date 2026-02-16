@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/5923e62f42a99475615847d6fbc98712413eb3d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "Achievement_GOSCC_30": {
       "name": "Cal Got Your Tongue?",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/fec7f17f17c3f8bdf21fbfc434af78515dbec608.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.5"
     },
     "Achievement_GOSCC_39": {
       "name": "Echo Location",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/501ec61e22d739df4d11335a11053eb505cc6d57.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.4"
     },
     "Achievement_GOSCC_33": {
       "name": "Full House",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/421a77c93086e6f06da1db1ffecf3c7a7d27a9c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.4"
     },
     "Achievement_GOSCC_13": {
       "name": "Her Name Was Masana Tide",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/b60b7a5f7ac4d01b42131e54b3b084cf3ac3f125.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "Achievement_GOSCC_17": {
       "name": "I Knew He Was No Good",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/176ad657df8824890e44a48fbca92786d972953b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.5"
     },
     "Achievement_GOSCC_1": {
       "name": "Kicking Back",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/548c5c6f31fd1f859506b72ceecbcf9e944c4363.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "Achievement_GOSCC_31": {
       "name": "Medical Droid",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/7f42c5b849c247bcbd91c22e3fcdfc3cc1fc1cef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "35.8"
     },
     "Achievement_GOSCC_11": {
       "name": "The Holocron Awaits",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/49d598e1f1f3173354131cba9b8e8c936e86a4d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "54.8"
     },
     "Achievement_GOSCC_21": {
       "name": "Triple Take",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/cab1cefce57913f71b561bbac037e1cd301fda98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     }
   },
   "platform": null,

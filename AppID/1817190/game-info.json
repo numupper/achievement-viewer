@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/f55c2e6da8af65c93dee89f8448e67bf9298df22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "90.1"
+      "percent": "90.0"
     },
     "anewhome": {
       "name": "A New Home",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/2a14fcca761e39051ff0021a4dca1df5f628ee90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "competitivespirit": {
       "name": "Competitive Spirit",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/18c849f4541cd1cb3d0947547f1d520ecdc123a7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.5"
     },
     "fivestarreview": {
       "name": "Five Star Review",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/d5ee40d59fd1ca097da23f76d51a3ab5ebd8efb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.1"
     },
     "overcharge": {
       "name": "Overcharge",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/7d364964379fddef1ef27c26be452f4f2a907ac9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.4"
     },
     "sociallyacceptable": {
       "name": "Socially Acceptable",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c1b5e2ad2ea4ecf94f6385b954e5184a959999d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.5"
+      "percent": "70.4"
     },
     "ultimatesacrifice": {
       "name": "Ultimate Sacrifice",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/ee2daa3b4a664fe6f4e34436244968f81c75d2a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "59.8"
     },
     "undertheirnoses": {
       "name": "Under Their Noses",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b33485e71edd52eb00bdab87cf89ec8c62ce9673.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "undergroundundone": {
       "name": "Underground Undone",
