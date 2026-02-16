@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/49f027812dba95c1caaab2da192def8308689a01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "56.0"
     },
     "Mage_Conjurer": {
       "name": "Conjurer, Mages Guild",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/b55265843847b53d156eed30ff1cd1bf5be004a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "Mage_Magician": {
       "name": "Magician, Mages Guild",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/57870b8d927dddddd74553845c2f74e27b057eb7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "Arena_Myrmidon": {
       "name": "Myrmidon, Arena",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/cafd586c9e690d9e83a4cf86b793c4f2b9612e7c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "Thief_Shadowfoot": {
       "name": "Shadowfoot, Thieves Guild",
