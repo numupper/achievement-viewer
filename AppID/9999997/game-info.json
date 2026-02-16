@@ -43,6 +43,38 @@
     "hidden": false,
     "percent": "29"
   },
+  "6": {
+    "name": "Finding a Way",
+    "description": "Find the Screwdriver",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f86627c722c0ef007717e1b8daa64f95",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f86627c722c0ef007717e1b8daa64f95",
+    "hidden": false,
+    "percent": "20"
+  },
+  "7": {
+    "name": "Cut Short",
+    "description": "Find the Boltcutters",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d0ca07d001ae3a76d289c923f9478475",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d0ca07d001ae3a76d289c923f9478475",
+    "hidden": false,
+    "percent": "17"
+  },
+  "8": {
+    "name": "Chased the Source",
+    "description": "Destroy a Source Point",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/47c63a614ae725d21341f458cf228b17",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/47c63a614ae725d21341f458cf228b17",
+    "hidden": false,
+    "percent": "28"
+  },
+  "9": {
+    "name": "Darkness Coiled",
+    "description": "Destroy a Darkness Shield",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f9b08c41d5d33255db184689ea1e8994",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f9b08c41d5d33255db184689ea1e8994",
+    "hidden": false,
+    "percent": "29"
+  },
   "10": {
     "name": "Strange Reality",
     "description": "Solve five Nursery Rhyme puzzles",
@@ -433,7 +465,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/22f8272645ca59c550d35b2e7afbb85e",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/22f8272645ca59c550d35b2e7afbb85e",
     "hidden": false,
-    "percent": ""
+    "percent": "16"
   },
   "59": {
     "name": "Shift in Reality",
@@ -441,15 +473,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ab8b115a32fd5a84f1167452e7d9757d",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ab8b115a32fd5a84f1167452e7d9757d",
     "hidden": false,
-    "percent": ""
-  },
-  "6": {
-    "name": "Finding a Way",
-    "description": "Find the Screwdriver",
-    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f86627c722c0ef007717e1b8daa64f95",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f86627c722c0ef007717e1b8daa64f95",
-    "hidden": false,
-    "percent": ""
+    "percent": "4"
   },
   "60": {
     "name": "Hidden by the Trees",
@@ -457,7 +481,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/15e7556e580477591161f2a6030bf9bf",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/15e7556e580477591161f2a6030bf9bf",
     "hidden": false,
-    "percent": ""
+    "percent": "4"
   },
   "61": {
     "name": "Coffee-Themed Fun",
@@ -465,7 +489,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/7fd20c88ded8e36b6bff1874777129bb",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/7fd20c88ded8e36b6bff1874777129bb",
     "hidden": true,
-    "percent": ""
+    "percent": "4"
   },
   "62": {
     "name": "Filling the Shape",
@@ -473,7 +497,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/a37f47c45c710b72be56b1a412532e9f",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/a37f47c45c710b72be56b1a412532e9f",
     "hidden": false,
-    "percent": ""
+    "percent": "18"
   },
   "63": {
     "name": "Rustic Charm",
@@ -481,7 +505,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/22915c7655f323249feecf033a509c93",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/22915c7655f323249feecf033a509c93",
     "hidden": false,
-    "percent": ""
+    "percent": "3"
   },
   "64": {
     "name": "Back to Life",
@@ -489,7 +513,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ce6c7f8f3b9b35f381450af59b28505b",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ce6c7f8f3b9b35f381450af59b28505b",
     "hidden": false,
-    "percent": ""
+    "percent": "8"
   },
   "65": {
     "name": "The Nice Things in Life",
@@ -497,7 +521,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/dd1b69ded477278daf0fee9858bd93db",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/dd1b69ded477278daf0fee9858bd93db",
     "hidden": true,
-    "percent": ""
+    "percent": "5"
   },
   "66": {
     "name": "The Other Side",
@@ -505,7 +529,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/48810379620a1bc625ad08712edcfb7b",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/48810379620a1bc625ad08712edcfb7b",
     "hidden": false,
-    "percent": ""
+    "percent": "22"
   },
   "67": {
     "name": "Accessorize!",
@@ -513,7 +537,8 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/4e0cb41e0337624db3b4cb67833920f1",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/4e0cb41e0337624db3b4cb67833920f1",
     "hidden": false,
-    "percent": ""
+	"group": "Night Springs",
+    "percent": "21"
   },
   "68": {
     "name": "Hot Biscuits!",
@@ -521,7 +546,8 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/3eb1b87e67063edacc1ea2937d256ebe",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/3eb1b87e67063edacc1ea2937d256ebe",
     "hidden": false,
-    "percent": ""
+	"group": "Night Springs",
+    "percent": "3"
   },
   "69": {
     "name": "I Could Listen to Him All Day",
@@ -529,14 +555,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/01f1b9e9df3eebc57ccb91111f86569e",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/01f1b9e9df3eebc57ccb91111f86569e",
     "hidden": true,
-    "percent": ""
-  },
-  "7": {
-    "name": "Cut Short",
-    "description": "Find the Boltcutters",
-    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d0ca07d001ae3a76d289c923f9478475",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d0ca07d001ae3a76d289c923f9478475",
-    "hidden": false,
+	"group": "Night Springs",
     "percent": ""
   },
   "70": {
@@ -545,6 +564,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b2ee95d1f90fc0e0b16943a2e0c90191",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b2ee95d1f90fc0e0b16943a2e0c90191",
     "hidden": true,
+	"group": "Night Springs",
     "percent": ""
   },
   "71": {
@@ -553,6 +573,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8bca3ed648f57b0d0936d6428d8bbfe0",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8bca3ed648f57b0d0936d6428d8bbfe0",
     "hidden": true,
+	"group": "Night Springs",
     "percent": ""
   },
   "72": {
@@ -561,6 +582,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/5027a8060b7e266e236eb59aafbffc1e",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/5027a8060b7e266e236eb59aafbffc1e",
     "hidden": true,
+	"group": "Night Springs",
     "percent": ""
   },
   "73": {
@@ -569,7 +591,8 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1aa993060c9a8cfa07c555c2fcecf6d0",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1aa993060c9a8cfa07c555c2fcecf6d0",
     "hidden": false,
-    "percent": ""
+	"group": "Night Springs",
+    "percent": "3"
   },
   "74": {
     "name": "You Are Coffee",
@@ -577,6 +600,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/9c16e6531adf8e66eeda6db45624a6a0",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/9c16e6531adf8e66eeda6db45624a6a0",
     "hidden": true,
+	"group": "Night Springs",
     "percent": ""
   },
   "75": {
@@ -585,7 +609,8 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/656cfd7f6c21c9f828bd72ec00e30622",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/656cfd7f6c21c9f828bd72ec00e30622",
     "hidden": false,
-    "percent": ""
+	"group": "Night Springs",
+    "percent": "12"
   },
   "76": {
     "name": "Retro",
@@ -593,6 +618,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ddaa0a5a56ef065698255d108413f7a1",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ddaa0a5a56ef065698255d108413f7a1",
     "hidden": true,
+	"group": "Night Springs",
     "percent": ""
   },
   "77": {
@@ -601,6 +627,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/843b49f2a1d4f178a0b27eae9b6e8485",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/843b49f2a1d4f178a0b27eae9b6e8485",
     "hidden": true,
+	"group": "Night Springs",
     "percent": ""
   },
   "78": {
@@ -609,6 +636,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/666423f7ce4a39d96358b4e7dbbb88cc",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/666423f7ce4a39d96358b4e7dbbb88cc",
     "hidden": true,
+	"group": "Night Springs",
     "percent": ""
   },
   "79": {
@@ -617,14 +645,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/544b19e472fc6516363d3ee283d1b14e",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/544b19e472fc6516363d3ee283d1b14e",
     "hidden": true,
-    "percent": ""
-  },
-  "8": {
-    "name": "Chased the Source",
-    "description": "Destroy a Source Point",
-    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/47c63a614ae725d21341f458cf228b17",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/47c63a614ae725d21341f458cf228b17",
-    "hidden": false,
+	"group": "Lake House",
     "percent": ""
   },
   "80": {
@@ -633,6 +654,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/26203a20bc364fed67d1bce024a14ff6",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/26203a20bc364fed67d1bce024a14ff6",
     "hidden": true,
+	"group": "Lake House",
     "percent": ""
   },
   "81": {
@@ -641,7 +663,8 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b2dcb35000c13a0968afe73364eb2e1d",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b2dcb35000c13a0968afe73364eb2e1d",
     "hidden": false,
-    "percent": ""
+	"group": "Lake House",
+    "percent": "9"
   },
   "82": {
     "name": "Trial and Error",
@@ -649,7 +672,8 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8b35d7ed8b30af97cb9648a467d6e6bc",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8b35d7ed8b30af97cb9648a467d6e6bc",
     "hidden": false,
-    "percent": ""
+	"group": "Lake House",
+    "percent": "14"
   },
   "83": {
     "name": "Pull the Painting Out",
@@ -657,6 +681,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ca40bb7fa3f9c7e6429fc2a5b97b138f",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ca40bb7fa3f9c7e6429fc2a5b97b138f",
     "hidden": true,
+	"group": "Lake House",
     "percent": ""
   },
   "84": {
@@ -665,6 +690,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/a39a0d4ed7462c3191c55129b4071a47",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/a39a0d4ed7462c3191c55129b4071a47",
     "hidden": true,
+	"group": "Lake House",
     "percent": ""
   },
   "85": {
@@ -673,7 +699,8 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/2e0e0080be47d66845e6439cbee00154",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/2e0e0080be47d66845e6439cbee00154",
     "hidden": false,
-    "percent": ""
+	"group": "Lake House",
+    "percent": "0.9"
   },
   "86": {
     "name": "Murderer and Victim",
@@ -681,6 +708,7 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b4706b4d5257688a35c23a0f78af42f8",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b4706b4d5257688a35c23a0f78af42f8",
     "hidden": true,
+	"group": "Lake House",
     "percent": ""
   },
   "87": {
@@ -689,7 +717,8 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f564f11f4223f635b38c4ce1a60068a2",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f564f11f4223f635b38c4ce1a60068a2",
     "hidden": false,
-    "percent": ""
+	"group": "Lake House",
+    "percent": "6"
   },
   "88": {
     "name": "Looking for Release",
@@ -697,10 +726,13 @@
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/bcf523546a8bbaa4841635d459742748",
     "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/bcf523546a8bbaa4841635d459742748",
     "hidden": false,
-    "percent": ""
+	"group": "Lake House",
+    "percent": "14"
   }
   },
   "platform": "Epic Games",
   "blacklist": [],
   "uses_db": false
 }
+
+
