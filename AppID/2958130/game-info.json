@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/50531b64a6062eae783254f80e48697c6adb90b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "JurassicDiffAzores": {
       "name": "Azorean Excellence",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c2ce6741bd8cbc0a4ea4a031782fa6c3ddab36a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "JurassicDiffClarkCounty": {
       "name": "Clark County Commander",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/624b128fe269ea295b5f8736d71181229f4d06d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "ReleaseTRex": {
       "name": "Impact Tremor",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "BuildLagoon": {
       "name": "Include That In The Brochure",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/21d40d99ab6fa8ef1e481c9afdba74f968e5d278.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.7"
+      "percent": "53.8"
     },
     "JurassicDiffNusaTenggara": {
       "name": "Indonesian Legend",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/65e6392389e301c378992c0cf570f332d57aef6f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "JurassicDiffKatsuyama": {
       "name": "Logistics Master",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/fc4105860f423bb148a77913835cb2816345ef6f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "BreedJuvenile": {
       "name": "Not Assets... But Animals!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "37.0"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/923c84d73e0caf36a64922e91c4ba78c196b5f09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "JurassicDiffSichuan": {
       "name": "Sichuan Survivor",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/5fc9ade08a223e413ed98e99a48cb1b68bcd09ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "CompletePark7Objectives": {
       "name": "This Must Feel Exotic",

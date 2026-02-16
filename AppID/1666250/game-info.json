@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/94b9606c71fe8643f1af0af36afc7c8c8b95d24b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.1"
     },
     "ACHIEVEMENT_43": {
       "name": "Amazing!",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/458b1a156317e47b8f88f25e22ad8aa38c42f0a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "ACHIEVEMENT_06": {
       "name": "Around the Clock",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/17ed4602d3cf50fb4e1f52b86b071c68b274ae18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.5"
+      "percent": "86.4"
     },
     "ACHIEVEMENT_26": {
       "name": "Circus Maximus",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/a36e832882314b301eef63fc6def5f0b25bed84e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "ACHIEVEMENT_27": {
       "name": "City Savior",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/a30a2cba190c77534f8bff4350716618f054aad5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
     },
     "ACHIEVEMENT_42": {
       "name": "Devastating Blow",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/78915b5089392b1990f71c5ac9c0f48e627f43f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "ACHIEVEMENT_12": {
       "name": "Fan Service",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/3bb09a26ccbc61cef3b01061c8b1f114af5cc4d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "ACHIEVEMENT_31": {
       "name": "King of District 2",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/570651103f1bbe662a7ae3d1bc885e3c6a60a90a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "ACHIEVEMENT_33": {
       "name": "King of District 4",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/687525ae1fd95bbc1147ea4c45848117fb089a83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "ACHIEVEMENT_34": {
       "name": "King of District 5",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/ab76ad589bd8dc6700381c7aefb9567033344380.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "ACHIEVEMENT_35": {
       "name": "King of District 6",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d1f51fdc05a963e4b2e3ce7bb5c1a2861f7e9e4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "ACHIEVEMENT_29": {
       "name": "London Liberator",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/a24a30f428d00e7b6ebd00bf83093cb2ee4723a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "ACHIEVEMENT_40": {
       "name": "Marketing Manager",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/984f35ffc4a4f2fa8bbe33d99a767283b7e0b87e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "ACHIEVEMENT_47": {
       "name": "Mobile Infantry",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/f3af7352dfdce1ad24eb06750e1a24c60b75e6f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "ACHIEVEMENT_09": {
       "name": "Path of Learning",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/04f2e9ae25ef1e8c103ac91d44354c576ed73251.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.7"
+      "percent": "84.6"
     },
     "ACHIEVEMENT_39": {
       "name": "Perfect Chemistry",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/352d37f219ddba4e09bd5e34eac78e72ecf8752f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "ACHIEVEMENT_38": {
       "name": "The Greatest Show",
