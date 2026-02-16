@@ -1027,7 +1027,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/115a29b73043dc197d19d89c42046073c4e6af1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_FIREWORKS_SHOW": {
       "name": "Fireworks Show",
@@ -1648,7 +1648,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/23326e1700dbbe77ce3b4904e7a4839761d3827a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "POMPEII_LACVIET_VICTORY": {
       "name": "Lac Viet Victory",
