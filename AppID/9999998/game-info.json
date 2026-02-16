@@ -99,6 +99,14 @@
     "hidden": false,
     "percent": "16.0"
   },
+  "2": {
+	"name": "Far, Far Away...",
+    "description": "Drive a total of 50 km",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/db2aaf27eee361f4fa3727720062c9af",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/0ce5cc568bb088726c858352d88a9dd6",
+    "hidden": false,
+	"percent": "16.0"
+  },
   "20": {
     "name": "Team Player",
     "description": "Play against every team in a Season",
