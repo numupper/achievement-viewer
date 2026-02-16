@@ -535,7 +535,7 @@
     "name": "Car Collector",
     "description": "Collect 5 cars",
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/40c0322b3bacb20e4d757c907e769489",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/55b9ca402d3e2aa6542c4742337e61c0"
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/55b9ca402d3e2aa6542c4742337e61c0",
     "hidden": false,
     "percent": "13.0"
   },
@@ -543,7 +543,7 @@
     "name": "Registered Voter",
     "description": "Head to 'Arena Preferences' and use all of your votes",
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/89bc961b4eba74d9967201ea85860713",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/24f5355166f22c072dbd9205c7e7a5df"
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/e6bcca5b37d0457ca881aec508205542/9773aa1aa54f4f7b80e44bef04986cea/icons/24f5355166f22c072dbd9205c7e7a5df",
     "hidden": false,
     "percent": "1"
   },
