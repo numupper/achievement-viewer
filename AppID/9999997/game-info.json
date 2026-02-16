@@ -1,0 +1,706 @@
+{
+  "appid": "9999997",
+  "name": "Alan Wake 2",
+  "icon": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2_RemedyEntertainment_S1_2560x1440-ec44404c0b41bc457cb94cd72cf85872?resize=1&w=640&h=360",
+  "achievements": {
+  "1": {
+    "name": "Escape its Gravity",
+    "description": "Use a Hand Flare to escape an enemy Grapple",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f98ee683dc163e505d044ed26c048743",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f98ee683dc163e505d044ed26c048743",
+    "hidden": false,
+    "percent": "18"
+  },
+  "2": {
+    "name": "This is the Moment",
+    "description": "Dodge at the last minute to avoid an enemy attack",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1ca9f2b1c6eef6ab1da6b81b636e2992",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1ca9f2b1c6eef6ab1da6b81b636e2992",
+    "hidden": false,
+    "percent": "34"
+  },
+  "3": {
+    "name": "Not the Last",
+    "description": "Pick up the first Manuscript Page",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/eef48613713cfa00128239672ffdc620",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/eef48613713cfa00128239672ffdc620",
+    "hidden": false,
+    "percent": "52"
+  },
+  "4": {
+    "name": "Shining in the Night",
+    "description": "Ignite a Hand Flare to keep enemies at bay",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/63e3258af273870c4c787aeb9fabc7e8",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/63e3258af273870c4c787aeb9fabc7e8",
+    "hidden": false,
+    "percent": "41"
+  },
+  "5": {
+    "name": "Secret Stashes",
+    "description": "Discover one Cult Stash and one Lunch Box",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/cabcd5b2c63106ce2707e9ba8faa4c01",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/cabcd5b2c63106ce2707e9ba8faa4c01",
+    "hidden": false,
+    "percent": "29"
+  },
+  "10": {
+    "name": "Strange Reality",
+    "description": "Solve five Nursery Rhyme puzzles",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/3760f337cef52ad4ca3c49d23feba5ff",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/3760f337cef52ad4ca3c49d23feba5ff",
+    "hidden": false,
+    "percent": "21"
+  },
+  "11": {
+    "name": "The Koskela Brothers",
+    "description": "Watch all Koskela brother commercials",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/c3bfc575b0b5fbe2592eff5557681621",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/c3bfc575b0b5fbe2592eff5557681621",
+    "hidden": false,
+    "percent": "12"
+  },
+  "12": {
+    "name": "The Trail of the Writer",
+    "description": "Watch all the Writer's Journey videos",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/0b62bcc390fe424fed938c3b73d72941",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/0b62bcc390fe424fed938c3b73d72941",
+    "hidden": true,
+    "percent": "9"
+  },
+  "13": {
+    "name": "Bring It",
+    "description": "Find the Sawed-Off Shotgun",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/66b0de9be6589d49b6020cef76316823",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/66b0de9be6589d49b6020cef76316823",
+    "hidden": true,
+    "percent": "23"
+  },
+  "14": {
+    "name": "Ready for a Fight",
+    "description": "Find the Hunting Rifle",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/97a5ea55bd5699f399738d249b9fc775",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/97a5ea55bd5699f399738d249b9fc775",
+    "hidden": true,
+    "percent": "21"
+  },
+  "15": {
+    "name": "Greatest Hits",
+    "description": "Find the Crossbow",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/80cad6af3b7b3ad5640f9af2897cbb5e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/80cad6af3b7b3ad5640f9af2897cbb5e",
+    "hidden": true,
+    "percent": "19"
+  },
+  "16": {
+    "name": "Stop Right There",
+    "description": "Find the Pump-Action Shotgun",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/eeba9299ff5234b917f5f3a95331d742",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/eeba9299ff5234b917f5f3a95331d742",
+    "hidden": true,
+    "percent": "17"
+  },
+  "17": {
+    "name": "Find the Light",
+    "description": "Find the Flashlight and Revolver",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f3f4474e31ef6fde245babc1b761e8a2",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f3f4474e31ef6fde245babc1b761e8a2",
+    "hidden": true,
+    "percent": "48"
+  },
+  "18": {
+    "name": "Lights Shining",
+    "description": "Find the Flare Gun",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/875cb4aebb7c972cc9ab2d031373ea6b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/875cb4aebb7c972cc9ab2d031373ea6b",
+    "hidden": true,
+    "percent": "27"
+  },
+  "19": {
+    "name": "Yippee Ki-yay",
+    "description": "Find the Double-Barrelled Shotgun",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/61a9ad79a8102f8419d1fe19751a8ae3",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/61a9ad79a8102f8419d1fe19751a8ae3",
+    "hidden": true,
+    "percent": "14"
+  },
+  "20": {
+    "name": "Aimed Ahead",
+    "description": "Defeat five enemies with headshots",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/c7094df98f488209e9b6373ae8e04e56",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/c7094df98f488209e9b6373ae8e04e56",
+    "hidden": false,
+    "percent": "38"
+  },
+  "21": {
+    "name": "Coffee Thermos",
+    "description": "Discover a Break Room",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b075ef34f0641840cce7f8bfaf1995f4",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b075ef34f0641840cce7f8bfaf1995f4",
+    "hidden": false,
+    "percent": "63"
+  },
+  "22": {
+    "name": "Felt Good",
+    "description": "Use a Healing Item",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/606aa89ed45d64dfd8e47144c4bd995e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/606aa89ed45d64dfd8e47144c4bd995e",
+    "hidden": false,
+    "percent": "71"
+  },
+  "23": {
+    "name": "Lawman",
+    "description": "Defeat Nightingale",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f0720754d90a94c020727ed4d5b7eb7a",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f0720754d90a94c020727ed4d5b7eb7a",
+    "hidden": true,
+    "percent": "46"
+  },
+  "24": {
+    "name": "Bright Falls' Finest",
+    "description": "Defeat Mulligan and Thornton",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/9a4e3df3285936ca15c17e44c14596e9",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/9a4e3df3285936ca15c17e44c14596e9",
+    "hidden": true,
+    "percent": "39"
+  },
+  "25": {
+    "name": "Girl in Love",
+    "description": "Defeat Cynthia",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f0a62816cbb0bd12901572b5ebe025e0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f0a62816cbb0bd12901572b5ebe025e0",
+    "hidden": true,
+    "percent": "33"
+  },
+  "26": {
+    "name": "Filled with Rage",
+    "description": "Defeat Scratch",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/0371f5652db7380dca1480f32e892aba",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/0371f5652db7380dca1480f32e892aba",
+    "hidden": true,
+    "percent": "28"
+  },
+  "27": {
+    "name": "Storm Cloud",
+    "description": "Escape from the Dark Presence",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f0eab617ce7edf30a8e90de21d5390ab",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f0eab617ce7edf30a8e90de21d5390ab",
+    "hidden": true,
+    "percent": "31"
+  },
+  "28": {
+    "name": "Stop the Monster",
+    "description": "Interrupt a Taken Thrower's relocation attempt with the Flashlight Boost",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/0773f1404b0d29b9961b293db82dc24a",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/0773f1404b0d29b9961b293db82dc24a",
+    "hidden": false,
+    "percent": "26"
+  },
+  "29": {
+    "name": "Growing Stronger",
+    "description": "Upgrade any weapon once",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/502c9f2d805b3e2a9d1139cd2064e0a2",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/502c9f2d805b3e2a9d1139cd2064e0a2",
+    "hidden": false,
+    "percent": "58"
+  },
+  "30": {
+    "name": "All Smiles",
+    "description": "Fully upgrade a single weapon",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/bc9c466822e0609548312027d9e1d7e1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/bc9c466822e0609548312027d9e1d7e1",
+    "hidden": false,
+    "percent": "22"
+  },
+  "31": {
+    "name": "Carry his Words",
+    "description": "Discover a Word of Power",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/5c7740def4987a730e21c8924d48ffa0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/5c7740def4987a730e21c8924d48ffa0",
+    "hidden": false,
+    "percent": "57"
+  },
+  "32": {
+    "name": "Nightmare Territory",
+    "description": "Pick up a map",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8b463cc0826ab6625deb7c2f9ee53ab1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8b463cc0826ab6625deb7c2f9ee53ab1",
+    "hidden": false,
+    "percent": "68"
+  },
+  "33": {
+    "name": "Grew Bigger",
+    "description": "Upgrade the inventory's size",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/52f38aaea8c20d83e69270e88353b0dc",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/52f38aaea8c20d83e69270e88353b0dc",
+    "hidden": false,
+    "percent": "44"
+  },
+  "34": {
+    "name": "I'll Find You",
+    "description": "Find all Nursery Rhyme dolls",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8c9bb84dac60ae7eeba7f3777b959ea3",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8c9bb84dac60ae7eeba7f3777b959ea3",
+    "hidden": false,
+    "percent": "11"
+  },
+  "35": {
+    "name": "Stunning Vistas",
+    "description": "Stun an enemy with a Flashbang",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ec4ac6020d56ed31f09ad812f6a43db8",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ec4ac6020d56ed31f09ad812f6a43db8",
+    "hidden": false,
+    "percent": "47"
+  },
+  "36": {
+    "name": "Gone for Good",
+    "description": "Defeat an enemy with an explosion",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d6d9a9aadee984acbd249c2702209e9a",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d6d9a9aadee984acbd249c2702209e9a",
+    "hidden": false,
+    "percent": "54"
+  },
+  "37": {
+    "name": "The Story Come True",
+    "description": "Complete Alan Wake 2",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f085f1226983ea185b28b0f23bbcfcd9",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f085f1226983ea185b28b0f23bbcfcd9",
+    "hidden": true,
+    "percent": "24"
+  },
+  "38": {
+    "name": "Hunting Season",
+    "description": "Complete chapter \"The Cult\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f8a8949221be3585cd07d8e1e93481af",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f8a8949221be3585cd07d8e1e93481af",
+    "hidden": true,
+    "percent": "51"
+  },
+  "39": {
+    "name": "Somebody's Home",
+    "description": "Complete chapter \"Invitation\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/c6222bee2dbad0c18378e6ab7e1ddb19",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/c6222bee2dbad0c18378e6ab7e1ddb19",
+    "hidden": true,
+    "percent": "59"
+  },
+  "40": {
+    "name": "Into the Overlap",
+    "description": "Complete chapter \"The Heart\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1a53d2514dca273cf2a82e4d097392c7",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1a53d2514dca273cf2a82e4d097392c7",
+    "hidden": true,
+    "percent": "48"
+  },
+  "41": {
+    "name": "Back in Watery",
+    "description": "Complete chapter \"Local Girl\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/fd9c84536c50bace40fb949419a7928b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/fd9c84536c50bace40fb949419a7928b",
+    "hidden": true,
+    "percent": "55"
+  },
+  "42": {
+    "name": "We Watch in the Night",
+    "description": "Complete chapter \"No Chance\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/78ac84d7a28b2aed58fe0858f23c86c0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/78ac84d7a28b2aed58fe0858f23c86c0",
+    "hidden": true,
+    "percent": "53"
+  },
+  "43": {
+    "name": "The Old Gods",
+    "description": "Complete chapter \"Old Gods\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b7021c51b461a806396a6b614c5ba3a5",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b7021c51b461a806396a6b614c5ba3a5",
+    "hidden": true,
+    "percent": "50"
+  },
+  "44": {
+    "name": "Seeing Double",
+    "description": "Complete chapter \"Scratch\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/536ab4d163cd62f2586946a85eed62ad",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/536ab4d163cd62f2586946a85eed62ad",
+    "hidden": true,
+    "percent": "49"
+  },
+  "45": {
+    "name": "Rock n' Roll, Baby",
+    "description": "Complete chapter \"Summoning\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/3842143f2341ef617d97039e5fcfc92d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/3842143f2341ef617d97039e5fcfc92d",
+    "hidden": true,
+    "percent": "45"
+  },
+  "46": {
+    "name": "The Final Deerfest",
+    "description": "Complete chapter \"Deerfest\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/35d9248298a9ebf99a6beaaf644d2e8c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/35d9248298a9ebf99a6beaaf644d2e8c",
+    "hidden": true,
+    "percent": "43"
+  },
+  "47": {
+    "name": "End of the Road",
+    "description": "Complete chapter \"Come Home\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/5b175a87f3da72f9b7e5ebe3dc14949c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/5b175a87f3da72f9b7e5ebe3dc14949c",
+    "hidden": true,
+    "percent": "42"
+  },
+  "48": {
+    "name": "Talk Show",
+    "description": "Complete chapter \"Late Night\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/76a3b15f2f9dc3197537cd9f73ab981e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/76a3b15f2f9dc3197537cd9f73ab981e",
+    "hidden": true,
+    "percent": "41"
+  },
+  "49": {
+    "name": "New York City",
+    "description": "Complete chapter \"Casey\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/e7845ddd89a72e0fa7b7fa969797c7ec",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/e7845ddd89a72e0fa7b7fa969797c7ec",
+    "hidden": true,
+    "percent": "40"
+  },
+  "50": {
+    "name": "Return",
+    "description": "Complete chapter \"Haunting\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1a097c45e7a258b293aff13c0a005e3f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1a097c45e7a258b293aff13c0a005e3f",
+    "hidden": true,
+    "percent": "38"
+  },
+  "51": {
+    "name": "All His Life",
+    "description": "Complete chapter \"We Sing\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/6ec9006712a6047ca7cfc8424fa66421",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/6ec9006712a6047ca7cfc8424fa66421",
+    "hidden": true,
+    "percent": "37"
+  },
+  "52": {
+    "name": "In a Fancy Hotel",
+    "description": "Complete chapter \"Room 665\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/e6020f1624605619a6c8338ea8c7c786",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/e6020f1624605619a6c8338ea8c7c786",
+    "hidden": true,
+    "percent": "36"
+  },
+  "53": {
+    "name": "Told and Retold",
+    "description": "Complete chapter \"Return\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/61b65753712e8420e09582c77f8a50c4",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/61b65753712e8420e09582c77f8a50c4",
+    "hidden": true,
+    "percent": "35"
+  },
+  "54": {
+    "name": "Behind the Masks",
+    "description": "Complete chapter \"Masks\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/bf6d407c2c9846bc259d86bc5608366f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/bf6d407c2c9846bc259d86bc5608366f",
+    "hidden": true,
+    "percent": "34"
+  },
+  "55": {
+    "name": "The Cult of the Word",
+    "description": "Complete chapter \"Zane's Film\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d45d5637c6cb47edd4600034d1c8f480",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d45d5637c6cb47edd4600034d1c8f480",
+    "hidden": true,
+    "percent": "33"
+  },
+  "56": {
+    "name": "His Way Out",
+    "description": "Complete chapter \"Gone\"",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ad2f918b1ad025b512e1a662227296e6",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ad2f918b1ad025b512e1a662227296e6",
+    "hidden": true,
+    "percent": "32"
+  },
+  "57": {
+    "name": "All Accounted For",
+    "description": "Find all weapons for both characters",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8870bfd051c760863d4511dca98b8f47",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8870bfd051c760863d4511dca98b8f47",
+    "hidden": false,
+    "percent": "13"
+  },
+  "58": {
+    "name": "In One Go",
+    "description": "Defeat an enemy with a single shot from the Crossbow",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/22f8272645ca59c550d35b2e7afbb85e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/22f8272645ca59c550d35b2e7afbb85e",
+    "hidden": false,
+    "percent": ""
+  },
+  "59": {
+    "name": "Shift in Reality",
+    "description": "Complete all Nursery Rhyme puzzles",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ab8b115a32fd5a84f1167452e7d9757d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ab8b115a32fd5a84f1167452e7d9757d",
+    "hidden": false,
+    "percent": ""
+  },
+  "6": {
+    "name": "Finding a Way",
+    "description": "Find the Screwdriver",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f86627c722c0ef007717e1b8daa64f95",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f86627c722c0ef007717e1b8daa64f95",
+    "hidden": false,
+    "percent": ""
+  },
+  "60": {
+    "name": "Hidden by the Trees",
+    "description": "Find all Cult Stashes and Lunch Boxes",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/15e7556e580477591161f2a6030bf9bf",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/15e7556e580477591161f2a6030bf9bf",
+    "hidden": false,
+    "percent": ""
+  },
+  "61": {
+    "name": "Coffee-Themed Fun",
+    "description": "Shoot Mr. Drippy or any other cardboard cutout in Coffee World",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/7fd20c88ded8e36b6bff1874777129bb",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/7fd20c88ded8e36b6bff1874777129bb",
+    "hidden": true,
+    "percent": ""
+  },
+  "62": {
+    "name": "Filling the Shape",
+    "description": "Place a Charm in all of the bracelet's slots",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/a37f47c45c710b72be56b1a412532e9f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/a37f47c45c710b72be56b1a412532e9f",
+    "hidden": false,
+    "percent": ""
+  },
+  "63": {
+    "name": "Rustic Charm",
+    "description": "Find all the Charms",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/22915c7655f323249feecf033a509c93",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/22915c7655f323249feecf033a509c93",
+    "hidden": false,
+    "percent": ""
+  },
+  "64": {
+    "name": "Back to Life",
+    "description": "Use a Coffee Mug Charm to prevent defeat",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ce6c7f8f3b9b35f381450af59b28505b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ce6c7f8f3b9b35f381450af59b28505b",
+    "hidden": false,
+    "percent": ""
+  },
+  "65": {
+    "name": "The Nice Things in Life",
+    "description": "Pet Mayor Setter",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/dd1b69ded477278daf0fee9858bd93db",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/dd1b69ded477278daf0fee9858bd93db",
+    "hidden": true,
+    "percent": ""
+  },
+  "66": {
+    "name": "The Other Side",
+    "description": "Change between stories once",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/48810379620a1bc625ad08712edcfb7b",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/48810379620a1bc625ad08712edcfb7b",
+    "hidden": false,
+    "percent": ""
+  },
+  "67": {
+    "name": "Accessorize!",
+    "description": "Take the \"accessories\" from the kitchen",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/4e0cb41e0337624db3b4cb67833920f1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/4e0cb41e0337624db3b4cb67833920f1",
+    "hidden": false,
+    "percent": ""
+  },
+  "68": {
+    "name": "Hot Biscuits!",
+    "description": "Defeat 3 Haters at once with any kind of explosive",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/3eb1b87e67063edacc1ea2937d256ebe",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/3eb1b87e67063edacc1ea2937d256ebe",
+    "hidden": false,
+    "percent": ""
+  },
+  "69": {
+    "name": "I Could Listen to Him All Day",
+    "description": "Listen to all the Writer's messages",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/01f1b9e9df3eebc57ccb91111f86569e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/01f1b9e9df3eebc57ccb91111f86569e",
+    "hidden": true,
+    "percent": ""
+  },
+  "7": {
+    "name": "Cut Short",
+    "description": "Find the Boltcutters",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d0ca07d001ae3a76d289c923f9478475",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/d0ca07d001ae3a76d289c923f9478475",
+    "hidden": false,
+    "percent": ""
+  },
+  "70": {
+    "name": "Love Always Wins!",
+    "description": "Complete Episode 1: Number One Fan",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b2ee95d1f90fc0e0b16943a2e0c90191",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b2ee95d1f90fc0e0b16943a2e0c90191",
+    "hidden": true,
+    "percent": ""
+  },
+  "71": {
+    "name": "Smooth Blend",
+    "description": "In two tries or less, enter the warehouse office without being caught by the Coffee Mascots",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8bca3ed648f57b0d0936d6428d8bbfe0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8bca3ed648f57b0d0936d6428d8bbfe0",
+    "hidden": true,
+    "percent": ""
+  },
+  "72": {
+    "name": "Dark as the Void",
+    "description": "Solve the optimal roasting temperature of Dark Triangle Coffee",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/5027a8060b7e266e236eb59aafbffc1e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/5027a8060b7e266e236eb59aafbffc1e",
+    "hidden": true,
+    "percent": ""
+  },
+  "73": {
+    "name": "Percolate",
+    "description": "Solve all Stashes",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1aa993060c9a8cfa07c555c2fcecf6d0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/1aa993060c9a8cfa07c555c2fcecf6d0",
+    "hidden": false,
+    "percent": ""
+  },
+  "74": {
+    "name": "You Are Coffee",
+    "description": "Complete Episode 2: North Star",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/9c16e6531adf8e66eeda6db45624a6a0",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/9c16e6531adf8e66eeda6db45624a6a0",
+    "hidden": true,
+    "percent": ""
+  },
+  "75": {
+    "name": "This Page Here",
+    "description": "Read the screenplay in the Green Room",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/656cfd7f6c21c9f828bd72ec00e30622",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/656cfd7f6c21c9f828bd72ec00e30622",
+    "hidden": false,
+    "percent": ""
+  },
+  "76": {
+    "name": "Retro",
+    "description": "Survive the arcade game reality",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ddaa0a5a56ef065698255d108413f7a1",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ddaa0a5a56ef065698255d108413f7a1",
+    "hidden": true,
+    "percent": ""
+  },
+  "77": {
+    "name": "Ride the Vortex",
+    "description": "Travel to a new reality using a Lumivista TV",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/843b49f2a1d4f178a0b27eae9b6e8485",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/843b49f2a1d4f178a0b27eae9b6e8485",
+    "hidden": true,
+    "percent": ""
+  },
+  "78": {
+    "name": "Multiversal Agent",
+    "description": "Complete Episode 3: Time Breaker",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/666423f7ce4a39d96358b4e7dbbb88cc",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/666423f7ce4a39d96358b4e7dbbb88cc",
+    "hidden": true,
+    "percent": ""
+  },
+  "79": {
+    "name": "Fault in the System",
+    "description": "Use the Power Core to restore backup power",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/544b19e472fc6516363d3ee283d1b14e",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/544b19e472fc6516363d3ee283d1b14e",
+    "hidden": true,
+    "percent": ""
+  },
+  "8": {
+    "name": "Chased the Source",
+    "description": "Destroy a Source Point",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/47c63a614ae725d21341f458cf228b17",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/47c63a614ae725d21341f458cf228b17",
+    "hidden": false,
+    "percent": ""
+  },
+  "80": {
+    "name": "Whirls of Color",
+    "description": "Stun a Painted enemy with a Flashbang",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/26203a20bc364fed67d1bce024a14ff6",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/26203a20bc364fed67d1bce024a14ff6",
+    "hidden": true,
+    "percent": ""
+  },
+  "81": {
+    "name": "Hard Work",
+    "description": "Solve the passwords for all locked computers",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b2dcb35000c13a0968afe73364eb2e1d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b2dcb35000c13a0968afe73364eb2e1d",
+    "hidden": false,
+    "percent": ""
+  },
+  "82": {
+    "name": "Trial and Error",
+    "description": "Find the Black Rock Launcher",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8b35d7ed8b30af97cb9648a467d6e6bc",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/8b35d7ed8b30af97cb9648a467d6e6bc",
+    "hidden": false,
+    "percent": ""
+  },
+  "83": {
+    "name": "Pull the Painting Out",
+    "description": "Defeat a Painted enemy before it leaves the wall",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ca40bb7fa3f9c7e6429fc2a5b97b138f",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/ca40bb7fa3f9c7e6429fc2a5b97b138f",
+    "hidden": true,
+    "percent": ""
+  },
+  "84": {
+    "name": "Shape of a Man",
+    "description": "Discover the fate of Rudolf Lane",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/a39a0d4ed7462c3191c55129b4071a47",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/a39a0d4ed7462c3191c55129b4071a47",
+    "hidden": true,
+    "percent": ""
+  },
+  "85": {
+    "name": "Less Carrot, More Stick",
+    "description": "Defeat one of each enemy in the Lake House with the Black Rock Launcher",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/2e0e0080be47d66845e6439cbee00154",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/2e0e0080be47d66845e6439cbee00154",
+    "hidden": false,
+    "percent": ""
+  },
+  "86": {
+    "name": "Murderer and Victim",
+    "description": "Speak with Dylan",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b4706b4d5257688a35c23a0f78af42f8",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/b4706b4d5257688a35c23a0f78af42f8",
+    "hidden": true,
+    "percent": ""
+  },
+  "87": {
+    "name": "Floor by Floor",
+    "description": "Read the FBC Files and Documents",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f564f11f4223f635b38c4ce1a60068a2",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/f564f11f4223f635b38c4ce1a60068a2",
+    "hidden": false,
+    "percent": ""
+  },
+  "88": {
+    "name": "Looking for Release",
+    "description": "Complete The Lake House",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/bcf523546a8bbaa4841635d459742748",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/bb39232a9dab49969c3eb7fe994b2843/c4763f236d08423eb47b4c3008779c84/icons/bcf523546a8bbaa4841635d459742748",
+    "hidden": false,
+    "percent": ""
+  }
+  },
+  "platform": "Epic Games",
+  "blacklist": [],
+  "uses_db": false
+}
