@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/2e12f383e623ab38cc8323479109c26e8019beeb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "ACHIEVEMENT_028": {
       "name": "Goon De-leet",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/16eacde86b9831fcd9a2819461aeec892f7663a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.2"
+      "percent": "76.1"
     },
     "ACHIEVEMENT_008": {
       "name": "Overly driven",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/c9656b9590a881154caebbd76a0d3ede4e0f9732.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "ACHIEVEMENT_081": {
       "name": "The Bowels of a Rust Giant",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/12b823301f37a860dabec080a018b045b6ca9496.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "ACHIEVEMENT_085": {
       "name": "Wasteland Vagabond",
