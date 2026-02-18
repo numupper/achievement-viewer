@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "Communicator": {
       "name": "Communicator",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/7e639b5c068cacb6fded95c39c38c98606a3d0cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.4"
     },
     "Crewmember": {
       "name": "Crewmember",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "Gunner": {
       "name": "Gunner",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/999220/765f6d8d14870e442e189945226a152b0ffb2191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.6"
     },
     "Historian": {
       "name": "Historian",

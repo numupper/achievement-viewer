@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4fe970b6ef78f96bf17e1187e91b497d734765fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "ach_fetch_me_a_tisha": {
       "name": "Can't Handle the Truth",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/575d79069a2aba58da1b1ea4d619f42aacd07ee7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.0"
     },
     "ach_finisher": {
       "name": "Coup de Grâce",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f50f17dbb4a927a4c6b1b4cadbf2ece138be2f8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.3"
     },
     "ach_that_was_close": {
       "name": "Drop The Beat",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/11b6acf405470f6f5b981033f6c3859ac817097e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "ach_the_vcla": {
       "name": "Go, Bobcats!",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/90c29c16ea0b57b2b67d103f15a10059ad729129.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "ach_defensive": {
       "name": "I Got a Zombie Army and You Can't Harm Me",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a683299983f8cefdff6d59fd76fb527d555fa1f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "ach_contender": {
       "name": "On Safari",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/ac6ba1b7ec8a6fc88ecac59640821dddbee58ab4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "ach_blueprinted": {
       "name": "Perks of the Job",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/9ef0b4bd2071e2bc7d8f0ad5806dbefa5d97bea3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "ach_revenant_slayer": {
       "name": "Shoulda Stayed Dead",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b9854c0b9225393539c817ac7a3653d852c71c2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.4"
     }
   },
   "platform": null,

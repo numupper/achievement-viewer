@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1271700/caa8c8854e5d59a8259588cf25287ddee7e7bf9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "ML_ACHIEVEMENT_08": {
       "name": "Fine work",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1271700/d00d8e72e4b39b68f71f766ad2a4c8f9f35df95c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "ML_ACHIEVEMENT_28": {
       "name": "Now try online",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1271700/64b4a4f54f23b12ebeda7c060be79e7a13323b8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "ML_ACHIEVEMENT_51": {
       "name": "One ticket, please",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1271700/e9cfbe445e9950eca0a4e3277c2cfb97b0d99df2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.5"
+      "percent": "70.4"
     },
     "ML_ACHIEVEMENT_07": {
       "name": "Well advanced",
