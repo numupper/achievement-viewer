@@ -477,7 +477,7 @@
     "hidden": false,
     "description": "Apply a sticker for the first time",
     "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/67068b801fbcf263ae315a7b2a5a3e46",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/8d8a1a2e0f6e3b8b4c9c6f4f5a3b2c1d",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/386737d9801f91b8809ea61c954e888a",
     "group": "Base game",
     "percent": "29"
 },
@@ -485,8 +485,8 @@
     "name": "Stick With It",
     "hidden": false,
     "description": "Apply 10 stickers",
-    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1f2e3d4c5b6a79808f9e0d1c2b3a4f5e",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/d679faa943b100a35e6821e52b486067",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/d2e96e4d71cebcfd7debb22319aea55b",
     "group": "Base game",
     "percent": "9"
 },
@@ -494,8 +494,8 @@
     "name": "Slap Happy",
     "hidden": false,
     "description": "Apply 50 stickers",
-    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/abcdef1234567890fedcba0987654321",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/0123456789abcdef0123456789abcdef",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/913896bc3bafb9b7582d96d84d66876c",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/b66e3a636807c819a68ddc4afd4c817c",
     "group": "Base game",
     "percent": "9"
 },
@@ -503,8 +503,8 @@
     "name": "Hot Stuff",
     "hidden": false,
     "description": "Hit 100°C on a component",
-    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/1234abcd5678ef901234abcd5678ef90",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/fedcba9876543210fedcba9876543210",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/8fb671fc5ac983f33d0fe94ebf01e340",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/86459c521ab525275300ffa5ba87acc0",
     "group": "Base game",
     "percent": "23"
 },
@@ -512,8 +512,8 @@
     "name": "Room for Expansion",
     "hidden": false,
     "description": "Install 10 case fans",
-    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/0f1e2d3c4b5a69788796a5b4c3d2e1f0",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/11223344556677889900aabbccddeeff",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/8e89fec8a673590f1731549c33f8e1b2",
+    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/4968e28c4f989919bfff48aedc1e63c4",
     "group": "Base game",
     "percent": "30"
 },
@@ -521,8 +521,8 @@
     "name": "Chill Out",
     "hidden": false,
     "description": "Install a custom water cooling loop",
-    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/a1b2c3d4e5f607182736455463728190",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/99887766554433221100ffeeddccbbaa",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/c7fdc5fdc695da7263cecde2418675bb",
+        "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/dc63fe70a38945c1a63803897aab86fb",
     "group": "Base game",
     "percent": "32"
 },
@@ -530,8 +530,8 @@
     "name": "Supercool",
     "hidden": false,
     "description": "Hit -50°C on a component",
-    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/55aa66bb77cc88dd99ee00ff11223344",
-    "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/4433221100ffeeddccbbaa9988776655",
+    "icon": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/b594abe0c274a84f80fcbfcc60d5b2f7",
+        "icongray": "https://shared-static-prod.epicgames.com/epic-achievements/15a15b9c4f6a4ff194c7460f0133dd47/65a9273ec61f4bb6b94461eb1ce8ec23/icons/808366ff4d11e1087064a9d53290d323",
     "group": "Base game",
     "percent": "8"
 }
