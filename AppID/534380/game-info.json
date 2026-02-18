@@ -1,7 +1,7 @@
 {
   "appid": "534380",
   "name": "Dying Light 2 Stay Human: Reloaded Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg?t=1766047996",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/52a09cc13f55a9b4503fa5c46f38353eba442082/header_alt_assets_35.jpg?t=1771419211",
   "achievements": {
     "ACH_29": {
       "name": "A Friend in Need...",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/5c8cd989d756e4ae3c3e2013e0c39ec2cdf309b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.2"
+      "percent": "90.3"
     },
     "ACH_48": {
       "name": "Fit as a Fiddle",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/b419aaa58c1eb5fa81ab7169bfcfa5e9bb245cdb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.0"
+      "percent": "57.9"
     },
     "ACH_46": {
       "name": "Lightning Reflexes",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/522ef615c5df41bb0e662625f1b8bcfa4b8907f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.5"
     },
     "ACH_45": {
       "name": "That's Teamwork!",
