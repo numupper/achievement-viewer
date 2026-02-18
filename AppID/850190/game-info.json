@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8644945b453160b7752e6c56a70e17d0d864d4ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.4"
     },
     "AchievementMultiverseCharonsBoatID": {
       "name": "Hell of a Ride",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/6c3ed6b81b23a3180ec0d4eaf1198c5d415e920c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "AchievementWhaleID": {
       "name": "Real Buoy",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "AchievementMultiverseIntroCartID": {
       "name": "This Took Half My Life",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a0ae89f7c6f574fbcda55c083f823a877d7c8ed7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     }
   },
   "platform": null,

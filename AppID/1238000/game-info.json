@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/1e9352f430ec2c31d1fa1deb5d567e404293aa5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "Achievement_GOSCC_51": {
       "name": "All Clear",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/f429a37ed4e0bb0500715051f7ae46048414936b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "Achievement_GOSCC_31": {
       "name": "Alliance",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/eecd8850cf8e2fdcf2cd791153c924de97499f55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "Achievement_GOSCC_47": {
       "name": "Almost There",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/93dc546460672645c5c3b57453d2b9bc8c2f81b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "Achievement_GOSCC_22": {
       "name": "APEX",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/b7faf2e69c640f46704cd8b4df0ce1c3cfb143aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "Achievement_GOSCC_28": {
       "name": "Foothold",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/0e1e47f6844b8f43b0e870dc3a4255b729151fc0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "Achievement_GOSCC_45": {
       "name": "High Performance",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/de6b1f37fadce06c388edb02457fd87c68209f61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.0"
     },
     "Achievement_GOSCC_50": {
       "name": "Jack Of All Trades",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/e6c875a8f96c305b449f98c2a78c8433bfdaa02a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "21.8"
     },
     "Achievement_GOSCC_32": {
       "name": "Pathfinder",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/6e7652940cc5bca55459629bb23d530179194bec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "Achievement_GOSCC_11": {
       "name": "Rough Landing",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/17ad50e9a7b58db08688b7b366531947b82f2bc0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "Achievement_GOSCC_20": {
       "name": "Unwavering",

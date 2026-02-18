@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "Research_Conspiracy_AllItems": {
       "name": "Conspiracy Theorist",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.5"
     },
     "GoodDeeds_Step01": {
       "name": "Good Samaritan",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "KillAllEnemies": {
       "name": "Legend of the Phol",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "DroneSkills_All": {
       "name": "Tech-Savvy",
