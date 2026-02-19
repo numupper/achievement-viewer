@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/6aab04ca99c7d7caf76e1894ca98209d3a6c4db9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "Achievement_GOSCC_21": {
       "name": "Diplomat",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/5221119e87b5e2ba1d08bb36fd21f0871c947175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.2"
     },
     "Achievement_GOSCC_44": {
       "name": "Periapt Cerulean",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d94913c01b49443438da965aaf844668536111dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "Achievement_GOSCC_19": {
       "name": "Socialite",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/0ff45b902944a3a15d1b77724a3ffdd240957959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "Achievement_GOSCC_63": {
       "name": "Treasure Hunter",

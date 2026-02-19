@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/2ec5d0550e190cd6de664605e45ac4c71958107b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.7"
     },
     "43": {
       "name": "Dark Matter",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/d9b102be47b5f34df2fc906cb2af0cd22da6b9b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "14": {
       "name": "Deputized",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/fdccdaa2481388ea18af4fecc0e5ba3a9131a9b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "41": {
       "name": "Fleet Commander",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/b57dd09b1ce9f84a469e8450a431658139e3e33a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.8"
+      "percent": "88.9"
     },
     "5": {
       "name": "Further Into the Unknown",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/b1474cf36f565a88014998f548a6b098e21eda87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "35": {
       "name": "Jacked In",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/fd5cb250b893451280aa9fee329a93a13f245b32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.2"
+      "percent": "79.3"
     },
     "31": {
       "name": "Privateer",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/316c8776f18987759190bf9b1a2aa1c856811c8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "38": {
       "name": "The Family You Choose",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/43540d316c336d0374fee2d2c4b5ed883dad5172.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "3.1"
+      "percent": "3.0"
     }
   },
   "platform": null,
