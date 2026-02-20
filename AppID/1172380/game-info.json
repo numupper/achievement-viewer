@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/8c3bc797fdf1b358f981377c63a5739df4e8ed5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.7"
     },
     "Achievement_GOSCC_28": {
       "name": "Bank Shot",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/33a3953f59a5c5994d2643f33650e82d327e5038.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "Achievement_GOSCC_23": {
       "name": "Big Bang",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/4dd8fcae732b884533f786a356a4cecd53640523.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "Achievement_GOSCC_37": {
       "name": "Data Collector",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/dd5d2438d89ec010ebc10a434ab010a83d154dd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "Achievement_GOSCC_10": {
       "name": "Everything is Connected",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/d065cd309ea42d008649fade61b5275acf1ee947.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "Achievement_GOSCC_36": {
       "name": "The Full Glow-Up",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/a1d59f75abaf10787a9f75e2db5b0073aae7932c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "Achievement_GOSCC_7": {
       "name": "The Mantis",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/894cd70cb828f9de6a2b8670eb4fe827eaf2ebf9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "Achievement_GOSCC_14": {
       "name": "Visiting Alderaan Places",

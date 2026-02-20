@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/834c08a239781022bb43ebc52db90fc9ee6b599f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "AchEvt_DeltaActOne": {
       "name": "Delta: Act I",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/3790506dcf31efc44b2e531159aa515efca96c70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "AchEvt_DeltaActTwo": {
       "name": "Delta: Act II",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/354ecbeaa67dc8579e505b934aa1fd1156580df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.7"
     },
     "AchEvt_EmptyPlatform": {
       "name": "Empty Platform",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a93a4553cfd685b302c24b188e73c0da6365ade1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "AchEvt_KnockKnock": {
       "name": "Knock-off Knockout",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/f81d59133e15be609531767d8f6ebedd6dcc7fd8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "AchEvt_WithoutQuestion": {
       "name": "Without Question",

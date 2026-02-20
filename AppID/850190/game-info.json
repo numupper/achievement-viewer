@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/91ca56f54b312eb744fc14ae7ad2029414572c1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "AchievementTantID": {
       "name": "401(K.O.)",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ac47b75ed4b13a8a11ceaf5cf92087eecff4e61b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "AchievementMultiverseSpaceStoneID": {
       "name": "Appliance in Disguise",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8ddaa6c8362f5b2ed33559e618a14b4dd9f6e09e.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "AchievementGoatQueenID": {
       "name": "Goat Queen",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8644945b453160b7752e6c56a70e17d0d864d4ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "AchievementMultiverseCharonsBoatID": {
       "name": "Hell of a Ride",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/98f5abc6b765f8e19be68ea7c35ed9106d242fde.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "AchievementApocMotorcycleDistID": {
       "name": "Marathon Rider",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9dbc37acbacfcd0e14d4152913dce7110a1a3a73.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "AchievementApocInstinctsID": {
       "name": "Maximus Instinctus",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/6c3ed6b81b23a3180ec0d4eaf1198c5d415e920c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.2"
     },
     "AchievementWhaleID": {
       "name": "Real Buoy",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/08acb75234c963fa6c256dd7ad1374e6ac79da12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "AchievementWarRoomID": {
       "name": "Rogue Guild",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/67db180dbf277f005e0579279f8ee39ccf29716c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "AchievementMultiverseTrojanGoatID": {
       "name": "So Aerodynamic",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "AchievementMultiverseIntroCartID": {
       "name": "This Took Half My Life",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/18da52443fa36755e99f8f67a21fc219fd17d747.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "AchievementApocOpenVaultID": {
       "name": "Vault 55",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a4454b4b3c22a7dfccc515db8bc20c6473ae7b2e.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "AchievementAliensID": {
       "name": "Welcome to Earth",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a0ae89f7c6f574fbcda55c083f823a877d7c8ed7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     }
   },
   "platform": null,

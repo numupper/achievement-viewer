@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4e3aa780121927c85774c1ad0d0b4b5109e86b26.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "ACHIEVEMENT_BULL_MARKET": {
       "name": "Bull Market",
@@ -793,7 +793,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/982bdd165c80582818ff436cc354c0cfbee1b287.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "4.9"
     },
     "ACHIEVEMENT_DIPLOMACY_IS_FOR_THE_MEEK": {
       "name": "Diplomacy is for the Meek",
@@ -820,7 +820,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/9b21ffb53f2114b5759a73c6ba80d4d3973ec8f7.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "ACHIEVEMENT_DRIVE_BY_BARRAGE": {
       "name": "Drive-By Barrage",
@@ -1027,7 +1027,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/115a29b73043dc197d19d89c42046073c4e6af1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "0.9"
     },
     "ACHIEVEMENT_FIREWORKS_SHOW": {
       "name": "Fireworks Show",
@@ -1036,7 +1036,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4067f9433903a6be01d9e5aeb37f73b192147400.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "ACHIEVEMENT_FIRST_CITIZEN": {
       "name": "First Citizen",
@@ -1081,7 +1081,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/54fe6d3cebf0e70045d99f98ede527993d864408.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.7"
     },
     "ACHIEVEMENT_FRANKLY_MY_DEAR": {
       "name": "Frankly My Dear...",
@@ -1432,7 +1432,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/fa7c91f43324feb18a946811e731f85b46b6c4c8.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "ACHIEVEMENT_I_WAS_IN_CHINA_BEFORE": {
       "name": "I Was in China Before",
@@ -1594,7 +1594,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/03b6cf2ac140246954c1d0a14ea479ffa6293854.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.1"
     },
     "ACHIEVEMENT_CAMPAIGN_MALIAN_COMPLETED": {
       "name": "King of Africa",
@@ -1639,7 +1639,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/9a0eba170defde7aad469943357c054588191bb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "KOREANS_VICTORY": {
       "name": "Korean Victory",
@@ -1648,7 +1648,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/23326e1700dbbe77ce3b4904e7a4839761d3827a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "POMPEII_LACVIET_VICTORY": {
       "name": "Lac Viet Victory",
@@ -1846,7 +1846,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/a8e14cca720d4ff47e3b5dedc65bb5e5df3657f0.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "ACHIEVEMENT_MARATHONOMACHOS": {
       "name": "Marathonomachos",
@@ -1945,7 +1945,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c51236f24d1472c2c835647d0328950a4d09e1ea.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "ACHIEVEMENT_CAMPAIGN_BATTLE_FOR_GREECE_COMPLETED": {
       "name": "Nemesis",
@@ -2107,7 +2107,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c97d4c6252ee30859b5bb95881d2656608160b88.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "ACHIEVEMENT_OUT_OF_THEIR_ELEMENT": {
       "name": "Out of Their Element",
@@ -2224,7 +2224,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/689ce29ba367b58d602d77762c9ea48b82d09902.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "ACHIEVEMENT_POLITICAL_ANIMAL": {
       "name": "Political Animal",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "49.3"
+      "percent": "49.2"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2602,7 +2602,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/8ffeab553eb796a4daa349c882d03b9b31feaf95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "SPARTANS_VICTORY": {
       "name": "Spartan Victory",
@@ -2656,7 +2656,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1a6d6c19b9754d00b832ef30c2d832d0136fbddd.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "ACHIEVEMENT_SUSHI_LOVER": {
       "name": "Sushi Lover",
@@ -2998,7 +2998,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/6d6b009240bd13142b6a521beec92cb63587d635.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.2"
+      "percent": "0.0"
     },
     "ACHIEVEMENT_OTTOMAN_GLORY_SEEKER": {
       "name": "Turkish Delight",

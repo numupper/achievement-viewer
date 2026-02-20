@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/6939932b9f9d97c603972d9dac65e3b8dbe619bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.4"
     },
     "CH4_S1A_C_DRUMKIT": {
       "name": "Count Me In",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/68c03f1b65545e2e54185ff26a137d590080ac45.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "CH5_COLLECT": {
       "name": "Emotional Unearthing",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/713cf9d3629f97da9e500d053baa64a56cd949fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "CH3_S2A_C_DOLLAR": {
       "name": "Ethan's Dollar",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/41e766570edfcf6c888bcf3aca9d294af6a705c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "49.0"
     },
     "CH5_S2D_C_GUITAR": {
       "name": "Guitar Strings",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/6fb750ce394335ce4abd125c2a49a9f91831ad8b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "CH3_COLLECT": {
       "name": "Memory Collector",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/ff319ef07e6630db752c9e60e9d0b7f2f20b6ce2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.4"
     },
     "CH2_COMPLETE": {
       "name": "Something You Build",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/5c820c6ab926c6c9a85ed36eaf69e5464d9e6796.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.5"
     },
     "CH5_COMPLETE": {
       "name": "The Only Promise is The Adventure",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/21faffb0980ec74b090bb99972da83afc1c9a031.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "CH5_S3A_C_LOCKET": {
       "name": "Where The Devil Sleeps",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/52ec745d0385acac39a5895b397e627dcdb649ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     }
   },
   "platform": null,

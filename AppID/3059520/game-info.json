@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/c2d21b47c630af9b29ef4f6c2c5166428767bf3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "ach_hello_world": {
       "name": "Hello World",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/b1757928564eea84667b82515ee28fc2fafd8fbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.0"
+      "percent": "73.9"
     },
     "ach_race_fanatic": {
       "name": "Race Fanatic",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/b3beedf7d53d82b31ce7dbf67bd530d30718b138.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "ach_seasoned_strategist": {
       "name": "Seasoned Strategist",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/83600080bb1001988da1b81ba7777503d65035fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "ach_sponsor_sleuth": {
       "name": "Sponsor Sleuth",

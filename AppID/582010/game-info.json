@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/e7d0c5cc00434a33bf3817937bcf2cdc54c48579.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "Achievement58": {
       "name": "Evolving Ecology",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/581783129ce56bb8d93abcf27f876b1da75e14ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "Achievement89": {
       "name": "Helpful Hunter",
@@ -784,7 +784,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/f717a6d37079ce66e07b68056e599db79f14c41a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.7"
     },
     "Achievement11": {
       "name": "The Franchise Hunter",

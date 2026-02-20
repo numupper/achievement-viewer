@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/7bc4b461f271ea76abdd9202df173d95cf14d2c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "2": {
       "name": "My Preferred Piece",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/09679d549bac097acf3e72c88928920606448b66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "4": {
       "name": "Nice One, Stranger!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/76f67106f522273ff371462cb5da97747b003137.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.5"
     }
   },
   "platform": null,
