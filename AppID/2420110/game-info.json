@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ada9e8b08c9c564d9087b682d4ff63ea2c0ee5af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.7"
     },
     "Trophy030": {
       "name": "All Combat Machines Killed",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ac3aca7e7d2ae4808aa98aa31f26225677d6904a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "50.9"
     },
     "Trophy021": {
       "name": "All Tallnecks Overridden",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f113ea9c05ca9162a6347a50893a2fe84ab45f37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "Trophy037": {
       "name": "Completed a Set of Salvage Contracts",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/96315c38c0f7efdc01df0898210312296f06b825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.4"
     },
     "Trophy068": {
       "name": "Reached Level 60",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/52cfbafd41f279de09904ecc02166b1f4590ad59.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "Trophy010": {
       "name": "Recovered DEMETER",

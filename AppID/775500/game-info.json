@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/65f2ec1a16d87783bb66539456efed32af5eb2ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "Trophy_Title_35": {
       "name": "Collector",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/a25c78e55e6b9bf94d46a018312615f95c84fb45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "Trophy_Title_37": {
       "name": "Everyone's Ally",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/dd788c3d57a6480afe5a43f66b03f4f1a7835931.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.7"
     },
     "Trophy_Title_43": {
       "name": "Helping Hand",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/9289804075a489ccf411af50c7ed1191927d740f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.6"
+      "percent": "75.7"
     },
     "Trophy_Title_27": {
       "name": "Seasoned Psychokinesis User",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/8f3c57ccf431fc2c8a5441ad3013df370ca07a22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     }
   },
   "platform": null,

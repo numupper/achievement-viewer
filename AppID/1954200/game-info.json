@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "ACH_RELIC_HAMMER": {
       "name": "Adira's Fear",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "ACH_HATS_ALL": {
       "name": "Hat Collector",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.3"
     },
     "ACH_LOCATION_FOREST": {
       "name": "Into the Woods",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.6"
     },
     "ACH_DIFFICULTY_MASTER": {
       "name": "Master Spirit Guide",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.7"
     },
     "ACH_RELIC_KNIFE": {
       "name": "Taro's Fear",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.1"
     },
     "ACH_RELIC_FOOD_OFFERING": {
       "name": "Taro's Love",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "ACH_RELIC_LANTERN": {
       "name": "Taro's Regret",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.1"
     },
     "ACH_MAIL_ALL": {
       "name": "The Last Stop",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "ACH_RELIC_HARPOON": {
       "name": "Toshi's Regret",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "ACH_CHALLENGE_DASH_KILL": {
       "name": "Triple Tap",
