@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/03c72d29de73daa966b276da91fa3a8e00930d58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.1"
     },
     "ACT10": {
       "name": "Chapter 10",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/ece398f6e26018b3c8b4b00cd56eb934bd742bfb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "CREATUREFEATURE": {
       "name": "Creature Feature",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/4ce0c3f5f367e6074de167da7cb9ca7bd9f6a608.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "PEANUTBUTTER": {
       "name": "Peanut Butter Butterpops!",

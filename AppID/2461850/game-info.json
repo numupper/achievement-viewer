@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0a77a773edc19f2e7bdd3ba65e2900307bbca4fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "DarkRot_Complete": {
       "name": "Dark Rot Complete",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/4f58c9bbbee3587146c50900e1954e00e39a1442.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.4"
     },
     "Ch2_ArenaBattleComplete": {
       "name": "The Man in the Middle",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/fdf5f6020771e4aa0eae1fe2c0c53d1d1cfc4cf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.5"
+      "percent": "57.6"
     }
   },
   "platform": null,

@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/e6949f86af7af8b61086ec3c678556c24624b12e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "BEATBUTCHER": {
       "name": "Butcher",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/bdcfcfd53007ad2e1d13bbb886f251a9d0106848.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "SKOGSRA100STABS": {
       "name": "Murderer",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/01d4cba1bf4fe551073e735ba41b868c190395d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.3"
     },
     "FINDNAECKENFIG": {
       "name": "Näcken Figurine",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/37a9534d02c808a2b933a10851472e68d7e63b37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "49.0"
     },
     "PROPERFUNERAL": {
       "name": "Proper burial",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/0f695cd892eb09db998c2646250a05fdde33e1f2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "SAVEDALLGNOMES": {
       "name": "Savior",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/15687ba2e1550f68eab0974a211173a0d29c280a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.8"
     },
     "FINDTRICKSTERFIG": {
       "name": "Troll Figurine",

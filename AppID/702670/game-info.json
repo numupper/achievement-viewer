@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/5919865e1752f7864207d43afba582973544199f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "LOSE_BOSS_FIGHT": {
       "name": "Game Over",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/6be0b2918b1cedffdb5e43915ba756cc26ee325a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "BUY_GAMER_FUEL": {
       "name": "Gamer",

@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/05f8fdea4f8d839d3101ce6ac21c0d30943cfbc1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "Id13": {
       "name": "A Journey Beyond Measure",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/1aa0d9e30879062d2e200e3b4e91e3645fc8be6c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "Id24": {
       "name": "Another Weapon",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/9569513677d21e660048ca1234df25149c652e31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "Id25": {
       "name": "Beyond Limits",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/6bf7c43e5218019cdc0565bc9194b22b59268dad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.8"
     },
     "Id15": {
       "name": "Family Man",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/9dd861806646028908d9f9a56953235a42870097.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "Id12": {
       "name": "Guardian",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/016311e65044550fb27d219083efb48fa9409dc8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "ID01": {
       "name": "Legendary Hunter",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/4d801e9c637caeeaab21dd570479ead16434ca8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "Id08": {
       "name": "Life in Full Bloom",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/66ccb7277ecb5756e7273bb98d9201bf5e7106ea.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "Id14": {
       "name": "Penitence",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2362060/11f1d1c06d9b0d52657179adff5fa53b56fe5b2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.6"
+      "percent": "88.5"
     },
     "Id10": {
       "name": "Total Darkness",
