@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/dd9a9dea395a925533f040a39a920f06e7afdb27.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.4"
     },
     "ach_all_areas_covered": {
       "name": "All Areas Covered",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/c5ada5263db52fd71bfb3b5ba6c3f4e910a9fff4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "ach_pass_the_spanner": {
       "name": "Pass The Spanner",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/ccd32ec25481defb1d39197ef84a562686f372de.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "ach_sum_of_its_parts": {
       "name": "Sum of its Parts",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/4d74170444d616b99345bff7ff919bf9274fee23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.3"
     },
     "ach_tremendous_trio": {
       "name": "Tremendous Trio",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/9b4a472095a9138426a4e934d848633ce50b1f5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     }
   },
   "platform": null,

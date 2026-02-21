@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/5c5402af5b4b9508027a23cc183443b64ea95b87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.2"
     },
     "46": {
       "name": "Ada the \"S+\"py",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/5a0a1ec86e62871236642695245323aadaee84e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.8"
+      "percent": "71.9"
     },
     "21": {
       "name": "Astute Appraiser",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/a610a26e37f4e05a12ca266ceb253c8853b3df90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "42": {
       "name": "Had Enough of Preachers",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/c0d39ac30d83daef8ba3ece79ab022a53706c007.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "26": {
       "name": "Jack of All Trades",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/7bc4b461f271ea76abdd9202df173d95cf14d2c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "2": {
       "name": "My Preferred Piece",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/09679d549bac097acf3e72c88928920606448b66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "4": {
       "name": "Nice One, Stranger!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/8e0ccd739b03fdd5fdc6ffe718b1ffb8d37a7b83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "63.0"
     },
     "32": {
       "name": "Peerless Agent",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/65dafcb1012422f4a789a4f7b971085a73e1831f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "24": {
       "name": "Raider",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/b8b04451a2f425dc124295648cd5ab129ce5e734.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "38": {
       "name": "Real Deadeye",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/99d7baf084127c97033686f4f12af342b870b1ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "6": {
       "name": "Revolt Against the Revolting",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/b79ae7178e4dfd0c9405c574f8f3994f074cdd7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.4"
     },
     "36": {
       "name": "Silent Stranger",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/97d0cdafa9a1eaf686ae2b0ce3572b22d4038e2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.7"
+      "percent": "72.8"
     },
     "45": {
       "name": "The Perfect Mission",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/1a195eb790393fd6a54bd9f2d1d01e8c31dc6b64.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.8"
     },
     "16": {
       "name": "You Talk Too Much!",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/34361b84692bd9579ea603e6c1315a1975f3535e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.5"
     },
     "12": {
       "name": "You're Small Time!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/76f67106f522273ff371462cb5da97747b003137.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.6"
     }
   },
   "platform": null,

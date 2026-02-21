@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/04f36244adc329080e9e03eecfff9a36cf5ab0e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "FROM_GLOOM_TO_GLORY": {
       "name": "From Gloom, to Glory!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6fc264d045fa3d5fcf523ea67d1d5696ec1fe2fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.6"
+      "percent": "67.7"
     },
     "LIGHTNING_ROD": {
       "name": "Lightning Rod ",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/a561f93b9f76e3e59da631295bdd14c8afe5f7b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "THE_COMMENCEMENT": {
       "name": "The Commencement",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/494be3553c3a9fd7c8ed8e15ba6cd1731ba6d286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.3"
     }
   },
   "platform": null,
