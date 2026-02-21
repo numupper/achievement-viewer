@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/04f36244adc329080e9e03eecfff9a36cf5ab0e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "FROM_GLOOM_TO_GLORY": {
       "name": "From Gloom, to Glory!",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/494be3553c3a9fd7c8ed8e15ba6cd1731ba6d286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.3"
+      "percent": "70.2"
     }
   },
   "platform": null,

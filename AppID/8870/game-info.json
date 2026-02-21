@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/9400b2c0e8c173f122992d1b061f90d7a6927257.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.2"
+      "percent": "64.3"
     },
     "ACHIEVEMENT_51": {
       "name": "Friendly Skies",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/04a90df987b5520d92abfee9e5f00089c742ad32.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.0"
+      "percent": "67.1"
     },
     "Achievement_14": {
       "name": "Should Auld Acquaintance...",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/0b6240695dc63c2cb65c719107556b619c1d734d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.4"
     },
     "Achievement_9": {
       "name": "The Bird or The Cage",
