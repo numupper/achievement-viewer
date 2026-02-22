@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/e86e4dfc57d90780c50c87648cfe0a8ea622d65f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "Achievement_GOSCC_66": {
       "name": "Backtracker",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/2d8fb59e71f967e8b2d8c0ee770228b3cc03013d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "Achievement_GOSCC_38": {
       "name": "Best Dressed",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/1d6e75850ae553f421d33848b2715ed18a1d049d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.6"
     },
     "Achievement_GOSCC_5": {
       "name": "Initiate",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/06e342dd610738376bb3a4150c5fd8601ac9ade3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "Achievement_GOSCC_11": {
       "name": "The Means to Save It",

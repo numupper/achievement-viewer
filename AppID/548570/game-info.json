@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/b59a9a9997c5a210c2e1cd0b20b1fb6631ebd1cc.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ACHIEVEMENT_001": {
       "name": "Efficiency",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/98aa0e72c491abaffee0df8e01a1a9e4960ae732.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "ACHIEVEMENT_003": {
       "name": "Skeet Shooting",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/c9656b9590a881154caebbd76a0d3ede4e0f9732.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "ACHIEVEMENT_081": {
       "name": "The Bowels of a Rust Giant",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/45c3f8641f70a4972f5b7d3c200d7eb9f004a97c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.7"
+      "percent": "71.6"
     },
     "ACHIEVEMENT_102": {
       "name": "Veritas Bonetower",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/12b823301f37a860dabec080a018b045b6ca9496.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "ACHIEVEMENT_085": {
       "name": "Wasteland Vagabond",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/8ca33ff56ee509db2904f68d62c03cc73012635c.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "ACHIEVEMENT_023": {
       "name": "Zipper",

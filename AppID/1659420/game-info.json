@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a4d02d01f2f27d842f744401835b4ac25fc51b5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.7"
     },
     "TROPHY_NAME_FINISH_UHARD": {
       "name": "Charted! - Crushing",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a36a159f97c560fb56c7f8a3aeba7f67780dfcaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "TROPHY_NAME_FINISH_NORMAL": {
       "name": "Charted! - Moderate",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8a0b66fa4efb358f0c73af1180731ca9a0226f4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "TROPHY_NAME_TLL_PLATINUM": {
       "name": "Don't Ruin The Moment",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/1d261ee730c463e5bb970c08c8c8591ad4b47db3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.6"
     },
     "TROPHY_NAME_COMBAT_NO_KILL": {
       "name": "Ghost in the Cemetery",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4c5b3738ecdbdd266f59207dfc97c54620aca942.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "TROPHY_NAME_HEADSHOT_LOW": {
       "name": "Head of the Class!",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/51fb3664f409bbfacd14242926bd038fc2b5fc21.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "TROPHY_NAME_TOP_CLOCKTOWER_CITY": {
       "name": "I Can See My House From Here!",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b29dc1af4a98161d103bdfdef8ee8f612bbd7301.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "TROPHY_NAME_DOLPHINS": {
       "name": "On Porpoise",
@@ -712,7 +712,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/7609872741ac8070c62f33410cc1e7a9ddc30e78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "TROPHY_NAME_ALL_WEAPONS": {
       "name": "Si Vis Pacem Para Bellum",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/fd56bdf6c945532d0acb9b9af5cf9868b10c0603.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.3"
     },
     "TROPHY_NAME_COMBO_BUDDY_TAKEDOWN": {
       "name": "Wingman",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/76dd936d9e96c4d3aae7fb594f6377762a1a1447.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "TROPHY_NAME_HEADSHOT_HIGH": {
       "name": "You Have a Head for this Business",

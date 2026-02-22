@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/9806f76e4582df79777d46dcd6e80ce4c4b08a4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "asuitforallseasons": {
       "name": "A Suit For All Seasons",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4d4676e3c0a3a2f9b4e979b0db3d87494e4b36ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.7"
     },
     "alltheking_smen": {
       "name": "All the King's Men",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/67836f3f7239b388ed17e9bdc13e7771443403e0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "backpacker": {
       "name": "Backpacker",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/3bf50f6660de336049cebdc74be0101b430b34c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "byefelicia": {
       "name": "Bye Felicia",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/24fb81dbcd479fd6c1d2d3e438bfa44a337b7921.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "catprints": {
       "name": "Cat Prints",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/51f6f390b62d46901ee1657e24202d29ededdc21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "cat_soutofthebag": {
       "name": "Cat's Out of the Bag",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/8f047ea865ef60e102f3758aecc83cb89143ef8d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "crossingthethinblueline": {
       "name": "Crossing the Thin Blue Line",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/fe4090a163e070bdc4f89b6c205cdfbf2487ce54.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "demonsemerge": {
       "name": "Demons Emerge",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4356d631a89ae4e4019db83b014be54a5ed22f95.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "66.0"
     },
     "disorganisedcrime": {
       "name": "Disorganised Crime",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4c6204b919965e27329d62879e1ddbd238ab3687.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "endgame": {
       "name": "End Game",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/e6d45686d1b5fa6e38e054c0ecf314f6318d75ea.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "fistsoffury": {
       "name": "Fists of Fury",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/a78dfd16ccbfd5bd68d005eaa1c4e5d96edd2c3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "fullarsenal": {
       "name": "Full Arsenal",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/f3b801660ad7608580abc2b9887a2a5dd145c904.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "grindingalltheway": {
       "name": "Grinding All the Way",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4162226f9bad466618244635f3b379aedc88000d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "heroforhigher": {
       "name": "Hero for Higher",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/ff7ee6211541f032f874ed20578d543fba0bd149.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "iheartmanhattan": {
       "name": "I Heart Manhattan",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/d7df79cda537c3e8d34d62f2518847c971a49d49.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "neighbourhoodwatch": {
       "name": "Neighbourhood Watch",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/74f0119191915800f33df70eeca9188813cbab16.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "onemoretime": {
       "name": "One More Time",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4f614094fbaf7e837a525092d6e60fc06a5991f4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "r&d": {
       "name": "R&D",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/a9628653bc7a002745b627afe283ea5b41702df4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "schooled": {
       "name": "Schooled",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/cd920d2badf6729de8e410443b5821f8a2ac6dee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "71.5"
     },
     "shortfuse": {
       "name": "Short Fuse",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/bedb098773f3c6979d9c6411b0a4c9860f6161ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "sightseeing": {
       "name": "Sightseeing",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5b9072772afa8c83b2cdf6f55f8ddf4fe26c0cbb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "snappydresser": {
       "name": "Snappy Dresser",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5da3c0e9c85b6c58e87e99be4b1d7053ede387ae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "stayingpositive": {
       "name": "Staying Positive",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/6bac82b021c5256578929290aa8b391c7e0e7952.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "49.1"
     },
     "steelskull,glassjaw": {
       "name": "Steel Skull, Glass Jaw",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/d6068bded4ade3c381bd6bdcc3c2614d4e945726.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "stickyandtricky": {
       "name": "Sticky and Tricky",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/ef6009405f51ab7e7cbc483cceec3542c290cf4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "stingandsmash": {
       "name": "Sting and Smash",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/170ce96a5efc9e40599d1d949dc914ff2b7292d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "superiorspiderman": {
       "name": "Superior Spider-Man",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/f08ae6ec4f45677c99b07980583faf084c0a85d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "thecitysleeps": {
       "name": "The City Sleeps",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/6b919d9713fc0d291274e4b7601ba5a52cce0f02.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "thescientificmethod": {
       "name": "The Scientific Method",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/a70287bf4899e10f3f5ca3c3619ff76f94cb5d9c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "theuntouchablespiderman": {
       "name": "The Untouchable Spider-Man",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/2ff8a463f059918b2ec7ce657b4a907f41bf7864.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "thewagesofwar": {
       "name": "The Wages of War",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/601dbcc156cda9520480a79d726538008fb32e2e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "tombstonetakedown": {
       "name": "Tombstone Takedown",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/7dd24ee7144aba931cb42d941dc469282aacd152.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.5"
     },
     "turningthescrew": {
       "name": "Turning the Screw",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/19358e62f318002d15989067a81c20ef35ec1ee8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "unacceptable": {
       "name": "Unacceptable",

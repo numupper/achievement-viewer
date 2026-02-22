@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/0bff8cd444e5977e9e791625c527b3301c13de13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "66.0"
     },
     "ACHIEVEMENT_CRUSHER": {
       "name": "Crushing Victory",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/9ac44b93c3531d60f20d967b46b4af99791c4195.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.5"
     },
     "ACHIEVEMENT_HOPIN": {
       "name": "Hop In",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/3cdf3dd053f5b5350c37a454cc0b7d664d6809de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.3"
     },
     "ACHIEVEMENT_SURELOCK": {
       "name": "Sure Lock",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/70752ffabdd41066072c7cdae2ccf3ff12f2482d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "ACHIEVEMENT_TAKINGYOUDOWN": {
       "name": "Taking You Down",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/be7b9e471ecd88ae6246b9c62e7f392cdc53ea0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "ACHIEVEMENT_THEGOODRESCUER": {
       "name": "The Good Rescuer",
