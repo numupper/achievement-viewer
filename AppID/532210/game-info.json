@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/2bb3dc29e929869682da1a84fb4dc261278a1c09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "ACH_Supporter": {
       "name": "Bonus Miles",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/a39e7fce9c702f985236ee012e6d1d33eb7af8e2.jpg",
       "hidden": true,
       "group": "Life is Strange 2 - Episode 2",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "ACH_E3_Coll4": {
       "name": "Green Thumbs",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/53c7622cabae286281b9f05103334827b3ebe2e7.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 4",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "ACH_E2_Coll4": {
       "name": "Heirloom",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/b1d80c0324ca5b50a1cc09c4e022f2462cfca510.jpg",
       "hidden": true,
       "group": "Life is Strange 2 - Episode 4",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "ACH_LuckyCharm": {
       "name": "Room Service",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/252035f7c6eed2ea9d8f5cf9caa77f8bcecd6363.jpg",
       "hidden": true,
       "group": "Life is Strange 2 - Episodes 2-5 bundle",
-      "percent": "22.7"
+      "percent": "22.8"
     },
     "ACH_E3_Coll3": {
       "name": "Zero Hugs Given",

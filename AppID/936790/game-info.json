@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/68c03f1b65545e2e54185ff26a137d590080ac45.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "CH5_COLLECT": {
       "name": "Emotional Unearthing",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/713cf9d3629f97da9e500d053baa64a56cd949fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "CH3_S2A_C_DOLLAR": {
       "name": "Ethan's Dollar",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/ff319ef07e6630db752c9e60e9d0b7f2f20b6ce2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.4"
     },
     "CH2_COMPLETE": {
       "name": "Something You Build",

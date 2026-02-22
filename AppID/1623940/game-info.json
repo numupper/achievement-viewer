@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/6db2374d3b5be14a769a6050de1974be1bfc7a69.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.3"
+      "percent": "74.4"
     },
     "COLLECTOR": {
       "name": "Collector",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/734e4d281e31645b410cccea0f636301479baf4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     }
   },
   "platform": null,

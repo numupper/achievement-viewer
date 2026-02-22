@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/7e011c13f08415002ffcbee4a2a3f70a8fbdd1fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "54.9"
     },
     "ACHIEVEMENT_021": {
       "name": "Fill Your Hand",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/70d7ede3f3505671839e2c5ca32a3ea60ffeebc1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "ACHIEVEMENT_018": {
       "name": "Going Nova",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2c89065bfbe1093acc569741de6894d10908cd60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "ACHIEVEMENT_036": {
       "name": "Moderate Bookkeeper",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/a0c36ea7c30ee95a287180db3871cfd168e2cb33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "25.8"
     },
     "ACHIEVEMENT_045": {
       "name": "Movie Buff",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2f0808aa727a5d68a375e5a7338332753850c588.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "ACHIEVEMENT_033": {
       "name": "Mr. Perfect",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/cd6c5d8fab3bc7ac7e83cc6a005b801bbc6c2ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.4"
     },
     "ACHIEVEMENT_030": {
       "name": "Seize the Moment",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/448f77fff13f5a83fac1c33f5dbb213d858a9d28.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.2"
     },
     "ACHIEVEMENT_037": {
       "name": "Thorough Bookkeeper",

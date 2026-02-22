@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "TROPHY_DLC1_UNLOCKED_CLASS_TREE": {
       "name": "Courage Proven, Strength Displayed",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.2"
+      "percent": "79.1"
     },
     "TROPHY_DLC3_UNLOCKED_HUNTER": {
       "name": "On the Hunter's Path",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "TROPHY_CLEAR_CHAOS_DIFFICULTY": {
       "name": "Origin of True Chaos",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "TROPHY_UNLOCK_ALL_JOB_BONUS": {
       "name": "Polymath",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.8"
+      "percent": "77.7"
     },
     "TROPHY_FIRST_ANIMA_CRYSTAL": {
       "name": "Seeker of Ultimate Power",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "TROPHY_COMPLETE_SUB_MISSION": {
       "name": "Strangers' Memories",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "TROPHY_MISSION_POISON_MEMORIES": {
       "name": "Vague Remembrances",

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/b0e0a5c5f24d0b831baac3d7b14fd35598ee4343.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "ACH_FTUE": {
       "name": "Builder",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/fd39f9ddc72dce6e510bfbc4cab9c8c77ec77ea4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "ACH_ARTHOUSE_04": {
       "name": "Challenger",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/8e1306e1fa86e7f0f47a8fadcec7528fa7483443.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "ACH_ARTHOUSE_11": {
       "name": "Inventor",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/ab8615ca6063a3bdd1003558d4cf5946af773a7e.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "ACH_ARTHOUSE_02": {
       "name": "Pathfinder",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/8ed69b2995a4006aced7a5abb10b8704fb95ba9a.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "ACH_ARTHOUSE_07": {
       "name": "Together",

@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/679e3a40f82df9ee57669d4668c078345186e6e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.2"
     },
     "Thief_Bandit": {
       "name": "Bandit, Thieves Guild",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/a249b5a96a4c3d753d75d03717fb8da1827f41b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "Mage_Journeyman": {
       "name": "Journeyman, Mages Guild",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/804159cb2642fc5cc7a1442caf40a7920ecdfb28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.1"
     },
     "Isles_Madgod": {
       "name": "Madgod, Shivering Isles",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/0a4d4a11d1b820bcc4c07fc88b0a636b566a21e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "Fighter_Protector": {
       "name": "Protector, Fighters Guild",

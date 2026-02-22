@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/7e9a12973ddda06b983e2dc5dd6595778203d35c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "ACHIEVEMENT_32": {
       "name": "Dress to impress",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a69d18b77591c4a77187ac03801a68822b4e8de6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "ACHIEVEMENT_11": {
       "name": "Look, no hands!",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/c7d3631f47037907d51637924737d1534fc51b08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "ACHIEVEMENT_23": {
       "name": "Unstoppable",
