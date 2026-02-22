@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/59d9071b5275940cd5d539af55239842ff24f993.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "ACHIEVEMENT_08": {
       "name": "Built in a Day",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/8f5bd0f11a262c1873ddf31ce62ec5b617b22bdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.7"
+      "percent": "68.8"
     },
     "ACHIEVEMENT_07": {
       "name": "Circus Electrique Proudly Presents...",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/17ed4602d3cf50fb4e1f52b86b071c68b274ae18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.3"
+      "percent": "86.4"
     },
     "ACHIEVEMENT_26": {
       "name": "Circus Maximus",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/77053bd78fcaf4a4d91e7be9632afad81ae38b07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "ACHIEVEMENT_37": {
       "name": "Flawless Presentation",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/8a8fd431fe75b6d2c7670982b4669c9645ac3152.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.6"
+      "percent": "84.7"
     },
     "ACHIEVEMENT_36": {
       "name": "Grand Slam",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/e9b2c85c33bd01c037aa4437c995c23e0b4693c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.7"
+      "percent": "63.8"
     },
     "ACHIEVEMENT_04": {
       "name": "One More Thing...",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/04f2e9ae25ef1e8c103ac91d44354c576ed73251.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.5"
+      "percent": "84.6"
     },
     "ACHIEVEMENT_39": {
       "name": "Perfect Chemistry",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/d64a56eff074300c239e42fa73f00cb36ec174e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "ACHIEVEMENT_41": {
       "name": "Self Defense",
