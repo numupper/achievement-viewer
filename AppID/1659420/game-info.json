@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/fd56bdf6c945532d0acb9b9af5cf9868b10c0603.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "TROPHY_NAME_COMBO_BUDDY_TAKEDOWN": {
       "name": "Wingman",
@@ -874,7 +874,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/7f59fd2ed4d0a66a02b3a611549324951a03f7c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "TROPHY_NAME_BUDDY_MELEE": {
       "name": "Wingwoman",

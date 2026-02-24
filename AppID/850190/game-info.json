@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b5095809ce7382d0dadfa10ccfad2eed2d6feb27.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "AchievementApocRampsID": {
       "name": "Daredevil of the Wasteland",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/58aeca72225eed093a277c8a66363d75b3b631e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "AchivementMultiverseDrPhilgorID": {
       "name": "Dr. Pheelsgood",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/0fa112808a97bc4be326b59c1a6980fde21676e1.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "0.5"
+      "percent": "0.4"
     },
     "AchievementRedecorationID": {
       "name": "Move! That! Bus!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/78f44882c466a9e0a7b3935472a4ebc5f42e96f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "AchievementBossID": {
       "name": "New Goat Order",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/bc6054c754747e368947f4bdd77f6966e7bb3e0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.0"
+      "percent": "60.9"
     },
     "AchievementBoulderID": {
       "name": "Raider of the Lost Parking Garage",

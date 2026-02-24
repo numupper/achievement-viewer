@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/6db2374d3b5be14a769a6050de1974be1bfc7a69.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.4"
+      "percent": "74.3"
     },
     "COLLECTOR": {
       "name": "Collector",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/2df8b4b6f0b1ff083e9dce5f1f7ce19652fe4948.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "COMPLETEGAME": {
       "name": "Home Again",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/983f668632754ceca5c28f41d6eeacb9d1377d32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "BEATSKOGSRA": {
       "name": "Skogsrået",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/734e4d281e31645b410cccea0f636301479baf4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     }
   },
   "platform": null,

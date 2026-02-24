@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a62565c7a5573cb81ade405b86c3fb140265bb9d.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "collectAllApples": {
       "name": "Apple Pie",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49d9d0b92aac3d21dd1c7460330b6e0b9360020b.jpg",
       "hidden": false,
       "group": "Atomic Heart - Trapped in Limbo",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "craftFirstWeapon": {
       "name": "Artisan",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/21a6b723cd467bfb0571329bdf5f812eec953e20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "battleBullsEye": {
       "name": "Bull's Eye!",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/57e247a2c2b174361ffbb7b6d488f4fc9fd60450.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "battleDivideEtImpera": {
       "name": "Divide et Impera",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/747aab16f7934b56502ad4efaf6faa7c1ac6d242.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "easyWalk": {
       "name": "Don't Mess With the Major",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/b4d44000f370bc4379e9a1beb8e2b150800ce28d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "playthroughChelomey": {
       "name": "Happy Polymerization Day!",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "playthroughAcademy": {
       "name": "Kommunism 2.0",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0cd98726ed64df630e0b60f93fdc590163a86d9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "playthroughReturnToUtopia": {
       "name": "Return to Utopia",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cd46a1c29ffef5a51562851059c339c23c53eb18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "progress100": {
       "name": "The Motherland Does Not Forget its Heroes",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d80bfffcd4d44e09d2e3439be92d5c6c83887003.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "WaterSports": {
       "name": "Water Sports",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/77c5348598b946982a1fd3bd4de3678045e58250.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "YouReadTheInstructions": {
       "name": "You've Read the Manual!",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "6.4"
+      "percent": "6.5"
     }
   },
   "platform": null,

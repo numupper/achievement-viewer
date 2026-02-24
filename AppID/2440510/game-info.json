@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/e40cccc8c345e71bf988b21434faa11a4fb194ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "ACHIEVEMENT_51": {
       "name": "Competitor",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/dfae7637825a6309049aa55d390d22c79edadde0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "ACHIEVEMENT_41": {
       "name": "Endurance Legacy",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/ee1a04bc824230861773ecc0d3caddb6805f20d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "ACHIEVEMENT_45": {
       "name": "Free as a Bird",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/2cdbe23d2b5c8c25695c3324045e1313e6fa5eec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "ACHIEVEMENT_23": {
       "name": "Garage Royalty",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/1c0d8e592116430df1c3fa0a5e2ce7c3b222e7b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "ACHIEVEMENT_14": {
       "name": "Journeyman Builder",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/533a5a3a883474b49123c0ead6ff16ff25298dd2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "ACHIEVEMENT_13": {
       "name": "Just Getting Started",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/3369aa7aa0a92184cbcadbf4cca65e70ff61dfb6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "ACHIEVEMENT_16": {
       "name": "Legendary Builder",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/41ac4c6ac62a5054ba0a9adef671cfa71061628e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "ACHIEVEMENT_3": {
       "name": "Make it Yours",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/eeb0bea45b5ec35e3353458c5a114fe9be417264.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "ACHIEVEMENT_15": {
       "name": "Pro Builder",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/8192a1390fd910f8e48b4bbe7514a3562b645efa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACHIEVEMENT_49": {
       "name": "Rain Meister",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/509f9f04e8b1968987e4d65c59d04f6dff4c7c6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "ACHIEVEMENT_33": {
       "name": "Rain or Shine",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/65269f7ca7659900a59f4400502571e5c9cd8660.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "ACHIEVEMENT_57": {
       "name": "Running on Fumes",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/101f309a29ddeab0aab1fbc09ff6d6b712fbc055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACHIEVEMENT_56": {
       "name": "Strategist",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/5e1b9624824e3f2d96e17fffae818eeda3186963.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ACHIEVEMENT_24": {
       "name": "Tinkerer",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/6425ca6392bb87b6016f8fa2bf29133c3ce9b79e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.8"
+      "percent": "71.9"
     },
     "ACHIEVEMENT_1": {
       "name": "Welcome to Forza",

@@ -1,7 +1,7 @@
 {
   "appid": "532210",
   "name": "Life is Strange 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532210/header.jpg?t=1728397855",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532210/header.jpg?t=1771868183",
   "achievements": {
     "ACH_OnTheRoadAgain": {
       "name": "A Long Road Ahead",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/bcc2cf9469d290ce81e0fc73c13f1467b4a6f402.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "ACH_E3_Coll6": {
       "name": "One Of Us",
