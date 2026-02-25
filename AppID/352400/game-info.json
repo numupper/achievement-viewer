@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a0e4f96ac7776fdc0b8f9d3c2292880c3a3b65bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "50.0"
     },
     "COMPLETE_STORYEVENT8": {
       "name": "Don't Go Into The Long Grass",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/7b8c099c09a0268d3bdad7a2451ac870df5e4406.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "COMPLETE_STORYEVENT1": {
       "name": "Welcome To Jurassic Park",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/954406423bac4ccae8d122bf00ce88b51a01bd73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.5"
+      "percent": "80.6"
     },
     "NEW_DINOSAUR": {
       "name": "Went And Made A New Dinosaur",
