@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/9773153596f6a9ffc4289cc2aeb75144f2a07bbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "FC6_Ach_21": {
       "name": "Armed to the Teeth",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/743b2d615428cc95402796e650e9182a9fec23e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "FC6_Ach_17": {
       "name": "Beginner's Luck",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/4dc9b26322ae9fa4afe09bb3d800642ac765a17f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "FC6_Ach_50": {
       "name": "Glorious Leader",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/3a846140e95d43f34f04383e8ce7814cbada3fbc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "FC6_Ach_60": {
       "name": "I Rule This Kingdom",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/8e92d7bc11dbfb50513624568708d796e97d419b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "FC6_Ach_7": {
       "name": "Ninjerilla",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/86582cc291e8ef2edf37cb66621f2289fee28877.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "0.9"
     },
     "FC6_Ach_91": {
       "name": "Refracted Yara",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/7b78968819d6b0133566f9f1abffe8f69c54255f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "FC6_Ach_32": {
       "name": "Secret Weapon",
@@ -811,7 +811,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/5899d57f03d06e208d37ea6b441142f59a2686f0.jpg",
       "hidden": false,
       "group": "Far Cry® 6 DLC 2 Pagan: Control",
-      "percent": "1.0"
+      "percent": "0.9"
     },
     "FC6_Ach_40": {
       "name": "Ultimate Predator",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/2fe0627f86fd7cd391d7e799a2814a76045a226a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "FC6_Ach_75": {
       "name": "Vanity Project",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/87df8478db249bf0fb38329a0a9a19089ca10a9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.2"
     }
   },
   "platform": null,

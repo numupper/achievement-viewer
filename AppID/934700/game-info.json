@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/11b6acf405470f6f5b981033f6c3859ac817097e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "50.0"
     },
     "ach_the_vcla": {
       "name": "Go, Bobcats!",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/9b89e2d28cf9309c59f44eb50e8afeaaec6093bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.3"
     },
     "ach_hotel_california": {
       "name": "Hotel California",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/5cace711f3107cf0dd9d34197aaf28526bf2bce9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "ach_mind_over_monster": {
       "name": "Humanity Distilled",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/881bc96d0de706ef6135e1c69b558c5f59e2b486.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.6"
+      "percent": "85.7"
     },
     "ach_dark_magic": {
       "name": "Whatever It Takes",

@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/a67ec65aaa7b96e9e51532981f945b938fcc9f6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "ML_ACHIEVEMENT_28": {
       "name": "Can you keep a secret?",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2213ac5db7ed794baffad8d722d413703d027515.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "ML_ACHIEVEMENT_27": {
       "name": "Extreme conditions",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d769195ea8c1b86ff38b604604db5dd96b28ded9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "ML_ACHIEVEMENT_12": {
       "name": "Immortal",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f6f59da97a0bce2582e866a779a207df3b9c8d5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "ML_ACHIEVEMENT_09": {
       "name": "Masterful!",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d0508b348517e2c8157e34fd30b58827dcaab8ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "ML_ACHIEVEMENT_23": {
       "name": "The Scorpion",
