@@ -104,9 +104,9 @@
     },
     "Achievement_36": {
       "name": "Fist of the Mountain",
-      "description": "Achievement 36",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "description": "Defeat all bosses in The Demon's Domain.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/ff492f9f9873b319f35b5c3ac603c10a05b98155.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4d4788693a81a35ddf9b84f3f5b84550d34b8f97.jpg",
       "hidden": true,
       "group": "Update 1",
       "percent": "0.0"
@@ -221,9 +221,9 @@
     },
     "Achievement_35": {
       "name": "Ordon't You Glad I Didn't Say Eridium",
-      "description": "Achievement 35",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "description": "Kill 50 Ordonite enemies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/5c0ef19a290db037cd297ca0292a3be92b0dc595.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3cd97eead19624c1387c56aecdc1b6698bd81f3b.jpg",
       "hidden": true,
       "group": "Update 2",
       "percent": "0.0"
@@ -284,9 +284,9 @@
     },
     "Achievement_37": {
       "name": "The Demon's Domain",
-      "description": "Achievement 37",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "description": "Complete mission “The Cursed Mine”.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/a702e93781b8ce58afb1475c8eb0ce2a5039708e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/f432b917f4fc372c96012891e6170312bf35e67f.jpg",
       "hidden": true,
       "group": "Update 1",
       "percent": "0.0"
