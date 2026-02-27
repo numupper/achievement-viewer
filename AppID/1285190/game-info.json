@@ -1,35 +1,8 @@
 {
   "appid": "1285190",
   "name": "Borderlands 4",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1772041478",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/86b8ff3b7216de9f98bf72d3e476e07a91438f3c/header_alt_assets_1.jpg?t=1772125543",
   "achievements": {
-    "Achievement_35": {
-      "name": "Achievement 35",
-      "description": "Achievement 35",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
-      "hidden": true,
-      "group": "Update 2",
-      "percent": "0.0"
-    },
-    "Achievement_36": {
-      "name": "Achievement 36",
-      "description": "Achievement 36",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
-      "hidden": true,
-      "group": "Update 1",
-      "percent": "0.0"
-    },
-    "Achievement_37": {
-      "name": "Achievement 37",
-      "description": "Achievement 37",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
-      "hidden": true,
-      "group": "Update 1",
-      "percent": "0.0"
-    },
     "Achievement_32": {
       "name": "All Things Vend",
       "description": "Deliver the contents of the Legendary Vending Machine.",
@@ -128,6 +101,15 @@
       "hidden": true,
       "group": "Base Game",
       "percent": "67.7"
+    },
+    "Achievement_36": {
+      "name": "Fist of the Mountain",
+      "description": "Achievement 36",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "Achievement_13": {
       "name": "Freelance, but Not for Free",
@@ -237,6 +219,15 @@
       "group": "Base Game",
       "percent": "28.1"
     },
+    "Achievement_35": {
+      "name": "Ordon't You Glad I Didn't Say Eridium",
+      "description": "Achievement 35",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "hidden": true,
+      "group": "Update 2",
+      "percent": "0.0"
+    },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
       "description": "Complete all Outbounder missions.",
@@ -290,6 +281,15 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "17.6"
+    },
+    "Achievement_37": {
+      "name": "The Demon's Domain",
+      "description": "Achievement 37",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/701aba6096e6cd749f79be55a57af47f09842161.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58b639b706c42282029284836984dcbe28240f87.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "Achievement_04": {
       "name": "The Lookbook is the Cookbook",
