@@ -1,5 +1,5 @@
 {
-  "last_updated": 1772247122,
+  "last_updated": 1772295417,
   "total_games": 270,
   "games": [
     {
@@ -21452,7 +21452,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "73.5"
+            "percent": "73.4"
           },
           "TROPHY_027": {
             "name": "Wizardry Beginner",
@@ -66086,8 +66086,8 @@
           "earned_time": 0
         },
         "17": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1772274011
         },
         "18": {
           "earned": true,
@@ -66098,16 +66098,16 @@
           "earned_time": 1772193255
         },
         "2": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1772284642
         },
         "20": {
           "earned": true,
           "earned_time": 1772193405
         },
         "21": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1772278784
         },
         "22": {
           "earned": false,
@@ -66158,20 +66158,20 @@
           "earned_time": 0
         },
         "33": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1772277452
         },
         "34": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1772269081
         },
         "35": {
           "earned": false,
           "earned_time": 0
         },
         "36": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1772293515
         },
         "37": {
           "earned": false,
@@ -72701,7 +72701,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1290000/98e0707bf39d9e30633d74d046931c4cfdfa6fd1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.9"
+            "percent": "7.8"
           },
           "TROPHY_34": {
             "name": "Big Business",
@@ -72764,7 +72764,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1290000/b11c4a42b5b26ff94e4f05a13fc3cec3bba2d957.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.2"
+            "percent": "9.1"
           },
           "TROPHY_61": {
             "name": "Courage and Honor!",
@@ -72890,7 +72890,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1290000/3dbbb00c7070d1bd701f733f3fe5bd495e8ae32c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.8"
+            "percent": "9.7"
           },
           "TROPHY_38": {
             "name": "Going for Gold",
@@ -73025,7 +73025,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1290000/c02e41dcb527c3c61c7d1f8bd6192d3dfb2b7df4.jpg",
             "hidden": false,
             "group": "PowerWash Simulator – SpongeBob SquarePants Special Pack",
-            "percent": "7.9"
+            "percent": "7.8"
           },
           "TROPHY_49": {
             "name": "I've Come for Your Pickle",
@@ -76354,7 +76354,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/248e14a23018e14213bb5180825389b031cea8e4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.1"
+            "percent": "11.2"
           },
           "jup_sp_oldhabitsdiehard": {
             "name": "Back in the Field",
@@ -76444,7 +76444,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/1d1e306ac763228d6f1db6f713a127e351cd9614.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.0"
+            "percent": "8.1"
           },
           "jup_sp_haveyoutriedturningitoff": {
             "name": "Have You Tried Turning it Off and On?",
@@ -76525,7 +76525,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/3f9381cb41da9c2e4b24a5e6fb32f90b73ad8210.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "31.7"
+            "percent": "31.8"
           },
           "jup_sp_boundandmagged": {
             "name": "No Such Thing as Too Many",
@@ -76633,7 +76633,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a281d5dc2e794b83dd8f5eac8b6134df3e07b3d4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "68.7"
+            "percent": "68.8"
           },
           "jup_sp_enjoythelittlethings": {
             "name": "Think She'll Notice?",
@@ -81830,7 +81830,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/9af02ff6e45933e7dd36cb164b9afae901ef991d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.4"
+            "percent": "8.3"
           },
           "ACH_25": {
             "name": "Flag Burning",
@@ -82019,7 +82019,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/868808855638d6deed8d1623a7e8cf8a1782d49c.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "59.6"
+            "percent": "59.5"
           },
           "ACH_30": {
             "name": "Parkour Master",
@@ -149350,7 +149350,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/782330/62f66a7c039400bc843317cb534bf6ad1c6595cd.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "59.3"
+            "percent": "59.4"
           },
           "NEW_ACHIEVEMENT_1_12": {
             "name": "King of the Crystals",
@@ -149566,7 +149566,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/782330/8e33187e69e539d0be4f3c1d9144e1d47fd8831f.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "40.0"
+            "percent": "40.1"
           },
           "NEW_ACHIEVEMENT_2_2": {
             "name": "To Take a Life Sphere",
