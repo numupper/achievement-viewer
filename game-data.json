@@ -1,5 +1,5 @@
 {
-  "last_updated": 1772295417,
+  "last_updated": 1772335024,
   "total_games": 270,
   "games": [
     {
@@ -76354,7 +76354,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/248e14a23018e14213bb5180825389b031cea8e4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.2"
+            "percent": "11.1"
           },
           "jup_sp_oldhabitsdiehard": {
             "name": "Back in the Field",
@@ -76444,7 +76444,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/1d1e306ac763228d6f1db6f713a127e351cd9614.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.1"
+            "percent": "8.0"
           },
           "jup_sp_haveyoutriedturningitoff": {
             "name": "Have You Tried Turning it Off and On?",
@@ -76525,7 +76525,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/3f9381cb41da9c2e4b24a5e6fb32f90b73ad8210.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "31.8"
+            "percent": "31.7"
           },
           "jup_sp_boundandmagged": {
             "name": "No Such Thing as Too Many",
@@ -76633,7 +76633,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a281d5dc2e794b83dd8f5eac8b6134df3e07b3d4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "68.8"
+            "percent": "68.7"
           },
           "jup_sp_enjoythelittlethings": {
             "name": "Think She'll Notice?",
@@ -80636,7 +80636,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/66dd4f84fbcac711c0f7be4d1670c966bf00aa51.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.8"
+            "percent": "10.7"
           },
           "14": {
             "name": "Art Restoration",
@@ -80663,7 +80663,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/98551907acb4454585142156868b7292d6a8b143.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "17.6"
+            "percent": "17.5"
           },
           "3": {
             "name": "Bullet, Proof",
@@ -80672,7 +80672,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/25b6e6b376526206c4f25953542f043e0fc1f751.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "67.0"
+            "percent": "66.9"
           },
           "28": {
             "name": "Clue Me In",
@@ -80690,7 +80690,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/ff91b84249b246bae2fb461b11410960aeef82e8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.5"
+            "percent": "6.4"
           },
           "12": {
             "name": "Commencement",
@@ -80708,7 +80708,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/6f2d32d5623b502462ebf805888d40be7f78cbd8.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.1"
+            "percent": "62.0"
           },
           "7": {
             "name": "Fade to White",
@@ -80717,7 +80717,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/9040fc427f7785765f807b402aa4b9cca5fc21ce.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "60.4"
+            "percent": "60.3"
           },
           "30": {
             "name": "Favor Saver",
@@ -80726,7 +80726,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/a9ff54f3712fdd4cff3acb9dcac4752865b21e65.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "48.3"
+            "percent": "48.2"
           },
           "18": {
             "name": "Frame Fatale",
@@ -80807,7 +80807,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/95fe5507db9a13b335aa25863be21a2509f36fd7.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "59.1"
+            "percent": "59.0"
           },
           "27": {
             "name": "Patronizing (The Good Kind)",
@@ -80870,7 +80870,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/884f8d7010ba8d677173fa382b1c613d9d63071a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "77.4"
+            "percent": "77.3"
           },
           "9": {
             "name": "Tempest Fugit",
@@ -80897,7 +80897,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/5bafbb8eb2606568d4e5638e604c5b0a47c067bb.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "22.5"
+            "percent": "22.4"
           },
           "25": {
             "name": "Thirst Trip",
