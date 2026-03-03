@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/12c39041f49db6f3509aa01a9e09c47252c76191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "Achievement_GOSCC_15": {
       "name": "A Perfect Cycle",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4e173bcddfd9a4ffac0a1a23a5155da3806a97d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "Achievement_GOSCC_8": {
       "name": "All the Major Food Groups",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d7fd4be2332acdccfcd8f77cb02175a3b6638b86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "Achievement_GOSCC_41": {
       "name": "Armaments Azure",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/fabed31085f0e584c13b62d224fa4309d3200f1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "Achievement_GOSCC_43": {
       "name": "Armaments Vert",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/51b9443eee04ad73b996639f85a58c01fa5a0887.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "Achievement_GOSCC_36": {
       "name": "Armsman",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/16594ec63915d68a9f3c0682e99c837571dcebad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "Achievement_GOSCC_10": {
       "name": "Control is an Illusion",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/6aab04ca99c7d7caf76e1894ca98209d3a6c4db9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "Achievement_GOSCC_21": {
       "name": "Diplomat",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/f964557e93ef59e1dcec7c429d895f54cbad103e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "Achievement_GOSCC_14": {
       "name": "Geas Aristeya",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d2fac66c78af60c7f9fdc3b54dee9f968c7b0df4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "Achievement_GOSCC_67": {
       "name": "Good Boy",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/074365824ad3cdf4945462ca8c9ac16ffbaaa160.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "Achievement_GOSCC_18": {
       "name": "Grand Magnus",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4323a6c80f401cd929eb9d4be82461cfffc5e29d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "Achievement_GOSCC_37": {
       "name": "Kitted Out",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/25efeb25a03c139d2f67e82d3385c4317d714940.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "Achievement_GOSCC_54": {
       "name": "Master of Ultramarine",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/43eb2402e6138ffb25de83c6d8bc810f71fd5d4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "Achievement_GOSCC_4": {
       "name": "No More Names",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d1d89ddcc18d78aff99a2ec3dfff7cd91cb6b0e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.7"
     },
     "Achievement_GOSCC_24": {
       "name": "Out of Time",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4d1241641563908de302543c7083cc6fff21cef3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "Achievement_GOSCC_45": {
       "name": "Periapt Alizarin",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/5221119e87b5e2ba1d08bb36fd21f0871c947175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "Achievement_GOSCC_44": {
       "name": "Periapt Cerulean",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/0a99d6017be7f812c0f62fc52f5f3662e1b09f6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "Achievement_GOSCC_46": {
       "name": "Periapt Viridian",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/de259d95168f276a9a434a8b954e0c8fb45fa116.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "Achievement_GOSCC_12": {
       "name": "Resilience to Sin",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d5b6c111232c7f84df8f30eea28a4d82450eeb16.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "Achievement_GOSCC_26": {
       "name": "Scholar",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/8e6a711e4653142f2961623db6f4710575565165.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "Achievement_GOSCC_49": {
       "name": "Soldier",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/42fffa7fa9f13c2e3e1024399c73c37273c63408.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.8"
     },
     "Achievement_GOSCC_6": {
       "name": "Thrada-Kul",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/533ee7cd035537cbc33d8681efb8a5ce3e58952b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "Achievement_GOSCC_62": {
       "name": "Tip of the Spear",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/125f7d9c729fdd1d416d7c19e05514b42d3822ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     }
   },
   "platform": null,

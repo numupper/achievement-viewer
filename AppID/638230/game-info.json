@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/638230/d1de1a5b3d5e1fad9a2a26c2d1d437c013d35dbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "ACH_Explore": {
       "name": "Explore",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/638230/dd6c6a14260bfbc2b0f3283b8f2deb25dc3b269e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "ACH_History": {
       "name": "History",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/638230/842f3697193b9733f078b79d22d1cd6b7f6d2928.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.7"
     }
   },
   "platform": "Online Fix",

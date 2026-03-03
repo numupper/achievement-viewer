@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/70d7ede3f3505671839e2c5ca32a3ea60ffeebc1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "ACHIEVEMENT_018": {
       "name": "Going Nova",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e6cc82eae3c961595550f76651938010e1d12c24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "ACHIEVEMENT_003": {
       "name": "The Lounge Is Closed",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/8286ff86ea04659ffa0a87f6129bb6751bf98fa4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "ACHIEVEMENT_024": {
       "name": "The Reaper Becomes the Reaped",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/448f77fff13f5a83fac1c33f5dbb213d858a9d28.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "ACHIEVEMENT_037": {
       "name": "Thorough Bookkeeper",

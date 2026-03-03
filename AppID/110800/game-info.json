@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/2f404cdfa93e6feaa708948345cf57cd23749ea1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "DLC_AV004_1": {
       "name": "Eight Million Stories",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/7be4359a910db46aa5c909de5b0154b4dddd1c53.jpg",
       "hidden": false,
       "group": "L.A. Noire: DLC Bundle",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "DLC_AV002_1": {
       "name": "Every Herb Bearing Seed",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/110800/d6f274d98571c9ab172dfad82dba1c5aaeaab4fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "THE_HUNCH": {
       "name": "The Hunch",

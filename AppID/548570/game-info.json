@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/c62c112e5a62d7a6ddfd6f7dc3e130bdc04fd211.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "ACHIEVEMENT_055": {
       "name": "Blackout",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/011ba719905511b9931afeed4b3716fafb249a98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "ACHIEVEMENT_073": {
       "name": "Can't Stop Pop",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/669f6f58609ae6ce9a6267576ba5e66246012664.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "49.0"
     },
     "ACHIEVEMENT_045": {
       "name": "Hangtime",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/fd0e30c2dba898e8a8a576db57a8128cd5a58404.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "ACHIEVEMENT_048": {
       "name": "Off Balance",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/289d601a0c0e12c2338088dd5939bac55a8213b1.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "ACHIEVEMENT_084": {
       "name": "Reaching out to the Past",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/10199ba985bd50d1c96975b639447b5b2b2824a6.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "ACHIEVEMENT_096": {
       "name": "Ringbender",

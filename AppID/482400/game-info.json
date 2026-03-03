@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "JettisonBetaGrove": {
       "name": "Anti-Virus",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "DefeatDiegoV3": {
       "name": "Edward DIEgo",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "KillDiegoWithRapier": {
       "name": "Finish Him!",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "CollectAllAchievements": {
       "name": "I’ll See You Again, Hacker",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "RepairSubsystemRelay": {
       "name": "Jargon Cypher",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "CompleteGame": {
       "name": "Look At You, Hacker",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "PlasmaCoreMultiKill": {
       "name": "Neon Annihilation",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "DisableSafetyOverride": {
       "name": "Override Superposition",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "LeftHealingSuite": {
       "name": "Through The Looking Glass",

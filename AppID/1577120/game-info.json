@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/e86fd4d2bc3306277abd9380f79a5fdf6a3d6379.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "ACT2": {
       "name": "Chapter 2",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/dc9dabd225d68a6b27ec04d3f8fe79152a416b08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "ACT3": {
       "name": "Chapter 3",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/e324b6f1ed60205f5d72cdeb9e843a98c24dee7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "ACT4": {
       "name": "Chapter 4",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/2f07b19349b8264c0e923320576eef633f6b004d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.2"
     },
     "ACT5": {
       "name": "Chapter 5",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/5c6a2bd01c8b6c812d555e08cd1ebaf0ac733364.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.9"
+      "percent": "47.0"
     },
     "ACT7": {
       "name": "Chapter 7",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/16206eba35c804a1d577884ae1f26f6df1621b61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "CONSPIRACYTHEORIST": {
       "name": "Conspiracy Theorist",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/5f0106b2a33ce7468ae610b43c15bb3aeda5934a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.3"
     },
     "HACKETTMASSACRE": {
       "name": "Hackett's Quarry Massacre",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/4ce0c3f5f367e6074de167da7cb9ca7bd9f6a608.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "PEANUTBUTTER": {
       "name": "Peanut Butter Butterpops!",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/380be9809f4d6443559e5ef9ccba4d7a85c4c24a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "PROLOGUE": {
       "name": "Prologue",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/cba6f442615e47fe951e0c5bceb8fa15ec61e306.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "ROUGHNIGHT": {
       "name": "Rough Night",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/3ab391127745f85900a825d4bb3a07ad92116520.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "GOINGSTEADY": {
       "name": "Should've Gone to the Motel",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/b79560986126c8a7b2b2bdba9203374ee7e8863a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "WHATSTHIS": {
       "name": "What's This?",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/e894016990500cfc49fea28640aa4ea3d1f0c15e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.9"
+      "percent": "80.0"
     },
     "YOUREBREATHTAKING": {
       "name": "You're Breathtaking!",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/a5e1f61cfd9aa39d68137722fafe4c187ea781e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.7"
     }
   },
   "platform": null,

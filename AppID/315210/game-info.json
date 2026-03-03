@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6e0a99f4656c2d5bd1ff776564fb6bfcc6489259.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.0"
     },
     "RPG04": {
       "name": "Captain Boomerang! Agent of Oz",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/1490415699c708ffda835faf80ce7683620abd57.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "RPG08": {
       "name": "Choices",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/89d01c1872fb3dc7a54f3069afab58931ba275e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "CINE01": {
       "name": "Cleaning Out the Closet",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/45b0323ad900ffea55bbdcb85d1b9c98b983e47a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.6"
+      "percent": "72.5"
     },
     "BRANCH07": {
       "name": "Combine and Conquer",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/8e323584936f78307bae1b77ba8a307b32e82edc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.3"
     },
     "CINE10": {
       "name": "Endgame",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/3baf64df139812c73f6311628ea9363d0b8240c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "RPG15": {
       "name": "Forces In Motion",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/4767ea3ce032af2181c7624002040e7d43314fd2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "CINE03": {
       "name": "Fowl Play",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6ab2e886bfb8d05fc895c765bd58962b6ff3b5f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.4"
+      "percent": "58.3"
     },
     "RPG14": {
       "name": "Grand Experiment",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/95646a22b5450a5c133392ff00f238438294dadd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.1"
     },
     "MISSIONCOMPLETE04": {
       "name": "Into the Angry Planet",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/b5b85bbdc69abe845758b1c09fb276f5f96a6405.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "BRANCH04": {
       "name": "Managing People",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/8d7f9672c7a7b58344460c811a09267b1baf13ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "RPG18": {
       "name": "Need to Know",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/da063a8f7f22a6da66e6f0a9882f952ca3562c3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "CINE07": {
       "name": "Thunderstruck!",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6a2a15363a365ad11906074e93c96e961ec1eae1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "BRANCH03": {
       "name": "Welcome to the Jungle!",

@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/f2a3fb2aad803b89418d70a821f6f8921f91a4ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "26": {
       "name": "Chief Engineer",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/6ffab84857658d5c390e89fd407051214fb182b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.5"
     },
     "45": {
       "name": "I Use Them For Smuggling",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/801d10e13c52337dd0a1bb0ef427a9cedfac447c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "3": {
       "name": "Into the Unknown",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/dbd6484f3494dc05250d4329c89430bafb558d47.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "37": {
       "name": "Replicator",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/9d0f5dc7f8048893d1e2b3ad4adc05ab2188bda6.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "24": {
       "name": "Shipping Magnate",

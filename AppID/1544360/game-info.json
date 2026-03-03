@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/3f406e96cb081e72552944856c05b17eaf8e828e.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ACH_ARTHOUSE_18": {
       "name": "Rescuer",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/e20bf2a45cdc7c3cca8ca3dd2751e014b43d65be.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ACH_ARTHOUSE_21": {
       "name": "Saviour",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/a3f56f220b103d16ee352514e3c064312a38f801.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ACH_ARTHOUSE_10": {
       "name": "Separator",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/27e3242eb580be553c2217dad9d77645305e02ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     }
   },
   "platform": null,

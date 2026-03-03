@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fd275bd82433f023e4a3f81e9f853a73a0b6092b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "ACH_CLUB_BURNOUT": {
       "name": "#Burnout Rangers",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/f61a3335788bef57ffc9e80ca1d854edd93c6c8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "ACH_CLUB_WILD_JUNIORS": {
       "name": "#Wild Juniors",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c680367a8a7e537e1a84430eb043323f10ec5653.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "ACH_SPEED_LEAGUE_BETS_30": {
       "name": "Bet Lover",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ec4c68b6ce4e7ce453f8c286451b4bf657aa71f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ACH_SPEED_LEAGUE_BETS_50": {
       "name": "Bet Master",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/052ac6dab72485cb6146ba22171bbbca65b31f48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "ACH_SPEED_LEAGUE_WIN_CARS": {
       "name": "Car in the Bag",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/81b19930e546e0c455f6a95fa83ada4b92bd1f9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "ACH_FEEl_TRAVELED_1500": {
       "name": "Exploration Beginner",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fc2933b9302273ee100b19bc74b36a4df6f038c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "ACH_JDUN": {
       "name": "Finally!",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b3b781b88d274ddc91dfc5d7107383815a35e470.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.7"
+      "percent": "82.8"
     },
     "ACH_PURCHASE_CAR": {
       "name": "First Step",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/aad704fc6d8f6ddd490ae34c78380536cc2a3a43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "ACH_AIR_TIME": {
       "name": "Flight Rookie",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/bb4bbfc7c4e2190620154ccabacee2053b8c6055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.5"
     },
     "ACH_FARM_RACE_2": {
       "name": "Get Set",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/d9eded11a95ae0b4a4572144057b9c5fcea07c08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACH_RACER_3": {
       "name": "Legend of the Asphalt",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2b592f4dee2ea4d1cf863771658b93b9df111e31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "ACH_RACER_1": {
       "name": "Recruit",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b29dd77c435a78251ba0c8d4faf5f207ff6163bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "ACH_SPEED_2": {
       "name": "Speed Master",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/76358e2915765b3e0a6557ca4a931e801b9228a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "ACH_SPEED_LEAGUE_BETS_10": {
       "name": "Thrilling",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c121db7ffd641d23c42fd6d2f1c7dd1e3f6fabc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ACH_PURCHASE_CAR_1": {
       "name": "Variety Lover",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0f72003f0c4729d770815aab2ce6bfc07ba540e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.7"
     },
     "MyReplayTips": {
       "name": "(This one's in the bag!)",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a4d942a68e2a2aa88d2c4254b9ea67fcaa199f20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "FloorBreak": {
       "name": "...",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/9242252153a6ac942eb36ccb1b098e6392e98a46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.3"
     },
     "AllClear": {
       "name": "A fight is about survival.",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/92d7717dbb5f63c9a3058f25b36500f188f9ca7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "TresureHunt": {
       "name": "How do you take your coffee?",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/bd170fa4d156201b380173d0c592e0bb1f550924.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "Promote1st": {
       "name": "I aspire to greater heights!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b18d36ca8d144b0599bc830e788125ebbfb74597.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "Promote2nd": {
       "name": "I'm actually pretty strong.",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/428158d78b9c066a0b2f3ec0a9a5147c29cfdcdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "RankMatchWin": {
       "name": "Just relax. You can do it.",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/67b53f8a13147ea97259bd4ce03c9c85046044f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.8"
+      "percent": "77.9"
     },
     "GroupMatchWin": {
       "name": "Please don't tell my father.",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/eef0bdca57bb220adbefefdda7200933488384f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "WallBound": {
       "name": "Sorry for getting rough back there.",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/c89440d4418906fc944e5c7d71cbd7673fb8024d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.5"
     },
     "Customize": {
       "name": "You're in for it now!",

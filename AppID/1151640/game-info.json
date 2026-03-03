@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/63f22f9b5ee2a727e81141d938ee065dbd038c78.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "NEW_ACHIEVEMENT_3_12": {
       "name": "All Combat machines killed",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/8c277fdeba17196d9a0dee86916d877b9fc7ecf2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "NEW_ACHIEVEMENT_3_30": {
       "name": "All Corrupted Zones cleared",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/44c75d16cc7507ab0dab0172867b78bf87b9fa31.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "NEW_ACHIEVEMENT_4_3": {
       "name": "First Ancient Vessel found",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/b3f9dc01bc741689d0671ec4f8134f6404874ca4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "NEW_ACHIEVEMENT_3_21": {
       "name": "First Core Overridden",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/70f7c96b06ef34c64725c44e61ae7e795422f366.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.8"
     },
     "NEW_ACHIEVEMENT_4_31": {
       "name": "Won Ikrie's Challenge",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/87b4e4fa17a7ec1ca0cd785bfdf5fc6b2c5c7df0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.2"
+      "percent": "75.3"
     },
     "ACHIEVEMENT_21": {
       "name": "All Will Fall",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/d1dced0ec4ccb093fabc5390e1c56f3c1142893b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.4"
     },
     "ACHIEVEMENT_15": {
       "name": "Dwarven Ingenuity",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/b93c4da9540b9d530a647bc318e6dcac0ebeb853.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.2"
     },
     "ACHIEVEMENT_20": {
       "name": "Enchanted",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/0aed980cb923209cad1b7b9ff8a3cfd38db81467.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.9"
     },
     "ACHIEVEMENT_34": {
       "name": "Fire and Brimstone",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/7fe4887649ab3586287d8b1f781bd63900bdaeab.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.7"
+      "percent": "52.8"
     },
     "ACHIEVEMENT_17": {
       "name": "Iðunn’s Orchard",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/164d83e97991585bd53e81fee3bd85b7e1441c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "ACHIEVEMENT_11": {
       "name": "Last Wish",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/9723d89ff72a40c2d5402f59a0deae86d348378e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.4"
     },
     "ACHIEVEMENT_23": {
       "name": "Like Oil and Water",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/dee258b4ecb095d90cb74656469fedcea8422d8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "ACHIEVEMENT_16": {
       "name": "Nice Moves",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/eccbefd42a0fdf08927fc866a06a12f9dbec1106.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "ACHIEVEMENT_18": {
       "name": "Quick Tempered",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/ec678c83479e8454d455d59717254e3b3c952e39.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "50.1"
     },
     "ACHIEVEMENT_26": {
       "name": "The Best Moves",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/513cba2fd7baaa89d3552a8d46e82bfbf0909b0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "ACHIEVEMENT_1": {
       "name": "The Journey Begins",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/ed8305a40b13a3f25397b5781bc524b698404264.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "ACHIEVEMENT_32": {
       "name": "Treasure Hunter",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/b1dd6de00a07a73166144804941324d655f6ccaf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.6"
     },
     "ACHIEVEMENT_10": {
       "name": "Twilight Beckons",

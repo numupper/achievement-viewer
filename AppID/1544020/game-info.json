@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/d0ca15c8ea16b5069101f74545d70be3d625a5b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.6"
     },
     "STORY_OUTBREAK": {
       "name": "Desperate Times",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/3296b8931b07e899413443df35384621ed5d8d97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "FINISH_CONTAGION": {
       "name": "Glutton for Punishment",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/cc86c5464c5151c4c9a1fa2a09f45c2d353a57f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "STORY_HABITAT": {
       "name": "Without A Paddle",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/15a480b0150c9ca0ce632285340e56cb22ae2544.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.4"
     }
   },
   "platform": null,

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7ecf8f5387dd1fb2e358caf32b156bb071e8e8e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "empire_tier_5": {
       "name": "A Golden Age",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "empire_tier_2": {
       "name": "A Young Empire",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/cf1430bc6c101a31578f258de5cd42c46697390c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.2"
     },
     "whole_map_purple": {
       "name": "All Mine",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3241644d53d61c4fb72ca25960481334a5317566.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "kill_tank_driver_with_rail": {
       "name": "Armor Piercing",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/6cda5a4fb0f437c2aec7b70f308c9567001721b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "defeat_the_collective": {
       "name": "Chaos Tamer",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/e7c4cc7a8df48b643f177bb8a0d3a8602d8c0d8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "own_100_pieces_of_clothing": {
       "name": "Closet Space",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/92b5ccb8ad27090945d51ee7387a26ef0b092492.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "two_thirds_purple": {
       "name": "Community Outreach",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/26e4753abb85524bc6e938c81d377b071814c372.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "dustfaire_complete_mission_2": {
       "name": "DustFaire Champion",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/174aabcdf9292d0e80dd03d56f79fd817a703c3c.jpg",
       "hidden": false,
       "group": "Saints Row - A song of Ice and Dust",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "dustfaire_complete_mission_5": {
       "name": "Dustland Defender",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/834f367fa9489d998cea96ce2aff52fbbf8be9e7.jpg",
       "hidden": false,
       "group": "Saints Row - A song of Ice and Dust",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "get_betrayed": {
       "name": "Et tu?",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.6"
     },
     "bfhj_complete_mission_2_collectible": {
       "name": "Face Off",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Saints Row - The Heist and the Hazardous",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "use_pinata_stick_on_pinata_bomb": {
       "name": "Fiesta Time",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/5229f39fa0150c745f9829a7783fb88096b5a686.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.0"
     },
     "complete_mission_1": {
       "name": "First F#@!ing Day",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4376fee358a75972dc043ae31b9f836507a942a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.9"
+      "percent": "87.8"
     },
     "staggered_by_vending_machine": {
       "name": "Food for Thought",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/5c68525b2e6985b6a491f895355dad79b38f436f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.2"
     },
     "dustfaire_complete_mission_4": {
       "name": "Forger of Destiny",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/cd68e44532381e293d4997025de28ad252b22fbe.jpg",
       "hidden": false,
       "group": "Saints Row - A song of Ice and Dust",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "infinite_boost_refill": {
       "name": "Free Refills",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/878bf28f50579702128cc02b7900b81709bc5e29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "everybody_to_level_5": {
       "name": "Gimme Five",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Saints Row - The Heist and the Hazardous",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "unlock_all_vehicle_specials": {
       "name": "Heard You Like Wheels",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/915f1dc4ace0312d6fa1dd79bf97baf1f7c53e4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "beat_all_wingsuit_challenges": {
       "name": "It's a Bird!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ccabe4ff32122be376f39c69cb8d2f5004d9a1d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "aquire_every_perk": {
       "name": "Jack of All Trades",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f7ade00487d6ca39a690847d7976a36e8a969190.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.2"
     },
     "first_building_placed": {
       "name": "Landlord",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/2fe9be47ca4711e6a9c6537a71720d8b3107fcfe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.1"
     },
     "tourist_finale": {
       "name": "Living the Dream",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.0"
     },
     "empire_tier_4": {
       "name": "Masters of Santo Ileso",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/c7eb58db16b60035f36a0739d72f695e179a6777.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "genki_finale": {
       "name": "Most Dangerous Game",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f94fc691ceece197c24edb3428929be32d1b3f38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "customize_a_weapon": {
       "name": "Optimized",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/29ae622c1769ab69b4404d6131c2332de08f3cad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "51.0"
     },
     "get_fired": {
       "name": "Performance Review",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.3"
     },
     "kill_each_faction_miniboss": {
       "name": "Picking Fights",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4279c9cc2182674111774b200deb0805b422233f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.2"
     },
     "empire_tier_3": {
       "name": "Power Players",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/a4c102d10566e154a539fb791a2af8ee69886b71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.3"
     },
     "prank_coop_partner": {
       "name": "Prankster",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Saints Row - The Heist and the Hazardous",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "beat_loyalty_missions": {
       "name": "Quality Time",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.3"
     },
     "dustfaire_complete_mission_3": {
       "name": "Rod Warrior",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7c9d0b6589346cb3c15eeaa159ef7df0536bddec.jpg",
       "hidden": false,
       "group": "Saints Row - A song of Ice and Dust",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "buy_1_thing_from_every_store": {
       "name": "Shopping Spree",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/9f41b50a93bc4234016483ba2de36881727b5dbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.3"
     },
     "purchase_2_emotes": {
       "name": "Smooth Moves",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/367d978d3e90cc95e8abcd3b935f566389b63521.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "collect_high_amount_hero_props": {
       "name": "The Collector",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4d4a236f7e6e09728bed5dad0c0429e876a42c70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "complete_all_of_wanted": {
       "name": "The Professional",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/b07c5f795a9a24b2ae78392e806fb98a60e712db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "complete_first_side_hustle": {
       "name": "The Side Job",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/617b168ff8786a951ee86c3c6b96fa11f0ec29d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "40.9"
     },
     "do_a_barrel_roll": {
       "name": "The Spins",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3a8c029d4eca35e98cfbcb3090750dd0e8e0cea8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "use_profile_app": {
       "name": "To The Nines",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7010d8816dc9932252de27a14044bb521267c9f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.4"
     },
     "hit_max_level": {
       "name": "Took It to The Limit",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/daa0891c196968d38ac0a873d56fb6e960cf19c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "route_66_attractions": {
       "name": "Tourist",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3232157eea26b27ce1e3cc8221d567df63b23ee3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.5"
     },
     "disorganized_crime_instaces": {
       "name": "Untouchable",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "complete_first_wanted_mission": {
       "name": "Wet Work",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/32acf1e4c5942b7b4897ab78ef76ee9b019dc519.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "43.9"
     },
     "fully_complete_a_building": {
       "name": "Work Ethic",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ff69d9489ad1bd496aa4d701597411352d02139f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.3"
     },
     "kill_enemy_with_tetherd_object": {
       "name": "Wrecking Ball",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/05bc1cba6d4ee1ae9f05e2e050df44f8fc4aba81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "32.8"
     }
   },
   "platform": null,

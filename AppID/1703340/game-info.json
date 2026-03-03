@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/c8860ac2c3032027f3816ea2da8d418a62882051.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.3"
     },
     "tuesday": {
       "name": "Commitment",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/3919f6470054438a64f5b73d8735f6518823dba6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "speedrun": {
       "name": "Speed run",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/a933c619968cab388c0aa6d3f296b1f7f6ccc578.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "welcomeback": {
       "name": "Welcome back!",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/5936f812a14912779532a8664cdba12835b7a641.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.4"
     },
     "nojump": {
       "name": "You can't jump",

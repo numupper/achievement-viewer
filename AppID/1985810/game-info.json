@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/538ebdcf982f50fef900834892ad577c7e8e8f69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "ZM_SILVER_CRAFT": {
       "name": "Craftwork",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7db20ce0331d8eb81e48a887cb7c21768b23ec1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "DOA_ACHIEVEMENT_DUNGEONDIVER": {
       "name": "Dungeon Diver",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/c44299446b52f83cd9634d36753db4398bbf0f72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "ZM_SILVER_START": {
       "name": "Entamaphobia",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/acd1be919e99f96881849a06131898464567d2d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "CP_ACHIEVEMENT_MIND_TRIP": {
       "name": "Mind Trip",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7cf6e15ae053af2425adeb341fe019811a221319.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "CP_ACHIEVEMENT_CP_TAKEDOWN": {
       "name": "Nowhere Left to Run",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/4bae11fb4d770b725571357a5f0bcfd9833cceaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.3"
     },
     "CP_ACHIEVEMENT_OLD_FAITHFUL": {
       "name": "Old Faithful",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/56798126182d1f6d580974f86978e73abb20a6e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "CP_ACHIEVEMENT_CP_SIDEMISSION_TUNDRA": {
       "name": "Operation Red Circus",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/909354647600dfd3cc7e03bf05a12c8601043347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "DOA_ACHIEVEMENT_FIDOLINA": {
       "name": "Reunited with Fidolina",

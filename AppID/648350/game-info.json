@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/8556822afc68f6a316986edd20e13942e15ad991.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.4"
     },
     "Challenge_Quick": {
       "name": "Clocked at 32 mph",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/a998a2d6c71872ff7c8c061dc2ccb3fac7465ff4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.0"
     },
     "Release_Gallimimus": {
       "name": "Flocking this way",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/63c592eec90086579bd0ce992b562a45ea84932b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "Release_TRex": {
       "name": "Follow the screams!",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/711ee7899005b78a5eaf0cfda9e7b65cc56ae62c.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "Photograph_IndominusVsTRex": {
       "name": "Learning where she fits in the food chain",

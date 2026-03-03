@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/b3f5754ccdcc5090a7cef477eb1d262186447e9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.5"
     },
     "GOLDENPATH": {
       "name": "Golden Path",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/43448f3da1ed4fcfa528ae31cfa6f8802a625adb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "PILOTKILL": {
       "name": "Long Way Down",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/dab56f1770f462913b64681a9852c43a5ee51cf0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "LOVEFROMABOVE": {
       "name": "Love from Above",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/63580b2febb3466efbdcabb660d2ae1873e774fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.7"
     },
     "FOGFRAG": {
       "name": "Nothing but Net",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/779ea3a117ee864e16b071eb0ee76531435fe511.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "22.0"
     },
     "VETFINISH": {
       "name": "Out of the Fire",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/0748e18b06644ad8d414433d34600a26d7ac25cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "PITSTOP": {
       "name": "Pit Stop",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/4a1418287def367d8737dad7f319c9a07ea1480a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "PLAYDEAD": {
       "name": "Play Dead",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/3bb45f738e76e8e33451ab3d5b5f3c6a38cdfd69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.2"
     },
     "NOFRIENDLYFIRE": {
       "name": "Trigger Discipline",

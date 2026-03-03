@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/c212f7225dcb1a151feada0aa0982e6e3e169a34.jpg",
       "hidden": false,
       "group": "Prey - Mooncrash",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "NEW_ACHIEVEMENT_1_23": {
       "name": "Intrinsic Value",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/25528589375cba0af9e3488ac7c490fcbefea051.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "NEW_ACHIEVEMENT_1_5": {
       "name": "Mimic Massacre",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/25e2e594da683a71ba85c081977b1e0d22ea36f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "NEW_ACHIEVEMENT_1_8": {
       "name": "Shapeshifter",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/4daad056f9f095de01db737e328a7251520bfb6a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.7"
     }
   },
   "platform": null,

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/86d86b85ee4280c3b77524388c85c164283d9570.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "DANCING_IN_THE_DARK": {
       "name": "Dancing in the Dark",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/cee9e21e406757cb4ba4cb28bef7b52cd33ed75d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.6"
+      "percent": "70.7"
     },
     "DAREDEVIL": {
       "name": "Daredevil",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/11f894c6228969d4934e28d438d20d530df911d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.9"
     },
     "GHILLIES_IN_THE_MIST": {
       "name": "Ghillies In The Mist",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/2ffa1915951f327fe795b700ef20a23fe535e623.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "NO_REST_FOR_THE_WEARY": {
       "name": "No Rest for the Weary",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/e1ff0c5bc2ed8ce7efa598c82b1e6b421d24f6a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "REINFORCEMENT_DENIED": {
       "name": "Reinforcement Denied",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/c11164ab9423c139004898dd892ef2b90e5a3049.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "49.1"
     },
     "RETRO_SHOOTER": {
       "name": "Retro Shooter",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/aa7dba92acc5c0c46dd8ea4b1cba4bf0398be417.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "THE_MAN_IN_THE_HIGH_TOWER": {
       "name": "The Man in the High Tower",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/2d8e9af6559b5e6cb486383de4ccdf98c9d2371a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "THE_SHOT": {
       "name": "The Shot",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/2ad9a680123d454e4b6728ea0b2c5b610d4f3345.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "THE_THIRD_HORSEMAN": {
       "name": "The Third Horseman",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/052e75f372460e9f1f213860bb4d3cd2a69ac724.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "WRONG_NUMBER": {
       "name": "Wrong Number",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/d821218c1e93159de3d21f3f822c5fb4de7fe51f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "YOUR_SHOW_SUCKS": {
       "name": "Your Show Sucks",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/dec80cee4500dc504b42337613bbcf7278d2e512.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     }
   },
   "platform": null,

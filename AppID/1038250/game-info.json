@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1038250/35544b40c92018b8e7101e3b4001b7b21bc74321.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "DUSK_TIL_DAWN": {
       "name": "Dusk til Dawn",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1038250/16e2decf9b6c6f92a56bb3d2eb08bc10336fbe8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.0"
+      "percent": "65.1"
     },
     "MAIN_COURSE": {
       "name": "Main Course",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1038250/e50b9add0dccba0df522ee3b90752daece4aeffc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "SUPERSTARDOM": {
       "name": "Superstardom",

@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/8cef61632e1e33e1416dac6a75fc3895b694284d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "Achievement_GOSCC_55": {
       "name": "Crash TV Air Time",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/7c6145b68d0d76db70c501a498086466413e2f1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "Achievement_GOSCC_13": {
       "name": "Duckin' and Weavin'",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/da159aac5974a00b5e208b50641db0970147e474.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "Achievement_GOSCC_26": {
       "name": "Explorer",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/fbc227fcf39b38458610815e8cccfbb796711e67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "Achievement_GOSCC_30": {
       "name": "Flying High",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/4e0479f4195ccdaf48b10674468863c54e09b019.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.6"
+      "percent": "66.7"
     },
     "Achievement_GOSCC_48": {
       "name": "Massive Party Game",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/8942aac080034b3750e19e494be5971ba9a1b4c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "Achievement_GOSCC_5": {
       "name": "Misdemeanor",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/43654abb651789bb35123949f53e6ca5a7605990.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "Achievement_GOSCC_16": {
       "name": "Must Try Harder",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/ebd0b5f238cec47e297030355c36c1b00eca46b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "Achievement_GOSCC_39": {
       "name": "Online and Kicking",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/113f3eb7aa1c2964b27dd29831400c794edb1831.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "Achievement_GOSCC_15": {
       "name": "Rampage!",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/b4db6c8a8c67d7a32a7a1a9ea67beca0289e5070.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "Achievement_GOSCC_52": {
       "name": "Smash n' Grab",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/fccafa74c59b39247f9891c47e33adac93655d7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "Achievement_GOSCC_53": {
       "name": "Surf Boards",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/e120f71867ca2b6bb6333da2f788f0f81c4f8f0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "Achievement_GOSCC_29": {
       "name": "Totally Smashed",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238080/01cf4bae7a7e16f07ddc146e0fe14115d78eb48a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     }
   },
   "platform": null,
