@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/90777f92518f8d1361206006407db65612a4a898.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "ARCHEOLOGIST": {
       "name": "Archeologist",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/4890515d7d332efbf0f030072b90fb5822041895.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.0"
     },
     "CALM_WATERS": {
       "name": "Calm Waters",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/902f60c6a0b2832749e1fe92c94768b02b20fb5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.7"
     },
     "RESOURCEFUL": {
       "name": "Resourceful",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/066d3b7bc3b17fbc6f684b010fb4e60f39e8f4b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.3"
     },
     "THE_GREAT_ESCAPE": {
       "name": "The Great Escape",

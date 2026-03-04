@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "TROPHY_DLC3_MISSION_SUPREME_ILLUSIONS": {
       "name": "Battle Across Time and Space",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "TROPHY_DLC1_UNLOCKED_EVOKER": {
       "name": "Path of the Evoker",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "TROPHY_MISSION_PAST_PHANTOM": {
       "name": "Phantom Memories",

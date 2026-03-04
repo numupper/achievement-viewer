@@ -1,7 +1,7 @@
 {
   "appid": "534380",
   "name": "Dying Light 2 Stay Human: Reloaded Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg?t=1771419211",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg?t=1772550031",
   "achievements": {
     "ACH_29": {
       "name": "A Friend in Need...",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/72e792b704a6bdd8356693662ba48ebb2d22c2fb.jpg",
       "hidden": false,
       "group": "Dying Light 2 Stay Human: Bloody Ties",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACH_40": {
       "name": "Death From Afar",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/424b2722315a63eb37492eb9980ca1c8ecf70915.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.8"
     },
     "ACH_64": {
       "name": "True Champion",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/67f7d67205852f2df33afe1d20fcd2336a005c58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "ACH_27": {
       "name": "You Never Forget Your First...",
