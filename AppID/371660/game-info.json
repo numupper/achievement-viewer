@@ -1,7 +1,7 @@
 {
   "appid": "371660",
   "name": "Far Cry® Primal",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg?t=1772611636",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg?t=1772640435",
   "achievements": {
     "FCPrimal_Ach_22": {
       "name": "And Stay Down",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/db2984fc51cde6d6574aa6a5abf1f69852e126a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "FCPrimal_Ach_32": {
       "name": "Bullseye",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/2f9a2cd6a86b78bf60966f40c7a7559aa96dadbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "FCPrimal_Ach_13": {
       "name": "Here Kitty",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/a1423354ac6720e8274865c3a04aad8715e9f4b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "FCPrimal_Ach_34": {
       "name": "Sic 'Em",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/aadb05da3a1b164487c618ce650945d8e8166cbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.1"
     },
     "FCPrimal_Ach_11": {
       "name": "To Ash",

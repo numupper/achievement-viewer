@@ -1,7 +1,7 @@
 {
   "appid": "3059520",
   "name": "F1® 25",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059520/37f833ca5bd3d5c3eec2b411131f3e00f580bbe7/header.jpg?t=1767801592",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059520/37f833ca5bd3d5c3eec2b411131f3e00f580bbe7/header.jpg?t=1772639973",
   "achievements": {
     "ach_a_matter_of_perspective": {
       "name": "A Matter of Perspective",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/87c553d6697b854aac5439a56285aa5ab5bb7113.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "ach_prepare_to_drive": {
       "name": "Prepare to Drive",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/0e6a3a40b6a08e0e31bde52372fe4ebb8b3e02a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "ach_research_develop_assemble": {
       "name": "Research, Develop, Assemble",
