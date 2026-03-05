@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2a03672c72341cf1f4d14eaaf647313b31869565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "ACH_DRIFT_DISTANCE_1": {
       "name": "#DriftStarter",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fd8090b7d24503a3a5b268944efa761c3aa9307b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH_TUNING_MASTER_1": {
       "name": "Beginner Mechanic",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/87a042afc4ce89a6eca97535836e75d4cbd2e7e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.9"
     },
     "ACH_FARM_RACE_4": {
       "name": "High-Level",

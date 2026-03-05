@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/97848e702ad336b4e8e5bb132360db72bfe8a37f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "ACHIEVEMENT_BUILDER_OF_CIVILIZATIONS": {
       "name": "Builder of Civilizations",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d2dceec8826386da4c30bc7c8a28541056111a1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "ACHIEVEMENT_BULLS_EYE": {
       "name": "Bull's Eye",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41e907ebe32c4f91255aba9b285863fe948b0356.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "ACHIEVEMENT_CAMPAIGN_BURMESE_COMPLETED": {
       "name": "Cakkavatti",
@@ -1018,7 +1018,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/fda0fa9e03f20cc8d95db283278affa4da2f1c50.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "ACHIEVEMENT_FIRE_WITH_FIRE": {
       "name": "Fire with Fire",
@@ -3070,7 +3070,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b35fc1092273711a640fe243b1d0281045e4bca3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "VIKINGS_VICTORY": {
       "name": "Viking Victory",

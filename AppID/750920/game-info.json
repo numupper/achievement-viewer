@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/78b5f0dd1467200ddc2c89a5ce4457d88c43568c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.6"
+      "percent": "64.5"
     },
     "camouflage": {
       "name": "First Blood",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/c0f8643a7385e1e20917a9b624c4d18faa814930.jpg",
       "hidden": true,
       "group": "Shadow of the Tomb Raider - The Pillar",
-      "percent": "20.7"
+      "percent": "20.6"
     },
     "GoodSamaritan": {
       "name": "Good Samaritan",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/e106541fb34f1fed6971fcc286da8141efd26e17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "HowlLong": {
       "name": "Howl Long",
