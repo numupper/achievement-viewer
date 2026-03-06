@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/90777f92518f8d1361206006407db65612a4a898.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "ARCHEOLOGIST": {
       "name": "Archeologist",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/8c9553d28f2281af498bf662fa620ce912a02c52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "FRIENDLY_FIRE": {
       "name": "Friendly Fire",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6fc264d045fa3d5fcf523ea67d1d5696ec1fe2fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.3"
+      "percent": "67.4"
     },
     "LIGHTNING_ROD": {
       "name": "Lightning Rod ",

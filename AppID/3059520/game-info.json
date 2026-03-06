@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9f4f9220899fcfa3aabfc8327f33ce9b4f3940e5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "31.8"
     },
     "ach_all_systems_go": {
       "name": "All Systems Go",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/bce23245c53beca664b4d25aacb514e6b9e37f73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "ach_frequent_flyer": {
       "name": "Frequent Flyer",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/c2d21b47c630af9b29ef4f6c2c5166428767bf3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "ach_hello_world": {
       "name": "Hello World",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/b63184320d3711e49e243b01dadba6be387f8e88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "ach_in_the_zone": {
       "name": "In the Zone",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/597005a89fb10885870c3d2130c1cd2e28b5326a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.7"
     },
     "ach_license_to_drive": {
       "name": "License to Drive",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/bdc7d1ced4ad299ddf109cb03af54504c5cc7b67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "ach_meet_the_new_boss": {
       "name": "Meet The New Boss",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/357a01e6312e1b061596207f31571ee76358e9bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "ach_net_racer": {
       "name": "Net Racer",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/7c7bebed7392f4d743755ac9fd47da23f60fbd96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.4"
     },
     "ach_one_for_the_team": {
       "name": "One For The Team",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/87c553d6697b854aac5439a56285aa5ab5bb7113.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "ach_prepare_to_drive": {
       "name": "Prepare to Drive",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/0e6a3a40b6a08e0e31bde52372fe4ebb8b3e02a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "ach_research_develop_assemble": {
       "name": "Research, Develop, Assemble",

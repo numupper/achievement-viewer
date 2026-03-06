@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4af6d18bc8a9f6bb632c6a42450017e5e5f08e2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "TROPHY_NAME_HEAD_CHAIN": {
       "name": "10 Up, 10 Down",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/2cf3befa44da3f2ce6b12d85db7bf80176a1dced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.4"
     },
     "TROPHY_NAME_PUZZLE_NO_DAMAGE": {
       "name": "Flawless Gauntlet",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/51fb3664f409bbfacd14242926bd038fc2b5fc21.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "TROPHY_NAME_TOP_CLOCKTOWER_CITY": {
       "name": "I Can See My House From Here!",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/eecee18f37710afd2f9e79f4453b341535dfab67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "TROPHY_NAME_MARCO_POLO": {
       "name": "Marco Polo Returns!",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/fe833bf70be6716957f7f84cc981fde51b95821c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.6"
     },
     "TROPHY_NAME_MARCO_AQUEDUCT": {
       "name": "Marco Po-No",
@@ -856,7 +856,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/86b6c44cf954c1db0e9b8e4be393e98093217a73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "TROPHY_NAME_LAST_BULLET": {
       "name": "Were You Counting?",
@@ -901,7 +901,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b063e4193fd9892c320971cf8e7729d8ba1c08f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "TROPHY_NAME_TOWER_YOGA": {
       "name": "Your Prize",

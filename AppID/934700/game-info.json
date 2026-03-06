@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/e82286b0fb44913591fedd67675e6c5b08d9ccdb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "ach_knock_down": {
       "name": "Apex Predator",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/eb06f433e48465be3a23c78c566593f52eea1064.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.3"
     },
     "ach_bookworm": {
       "name": "Bookworm",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d6a11d886bfff88451e3e77ae7635581cdb8cccf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "ach_break_a_leg": {
       "name": "Break A Leg",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/83fff052f29e0e3d6a6e58b463671c696f3a5a08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.0"
+      "percent": "65.9"
     },
     "ach_well_trained": {
       "name": "Bucket List",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f50f17dbb4a927a4c6b1b4cadbf2ece138be2f8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.3"
     },
     "ach_that_was_close": {
       "name": "Drop The Beat",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d00b8b7cf5f920d2ff51135e75f4355de8ddd5d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "ach_ammo_ran": {
       "name": "Git Gutte!",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/90c29c16ea0b57b2b67d103f15a10059ad729129.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "ach_defensive": {
       "name": "I Got a Zombie Army and You Can't Harm Me",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/f1b8b7082977cf41cb9c9e96133670d5189d8afb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "ach_internet_famous": {
       "name": "Internet Famous",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/713a73608fcbbf7bfcf2927fc6246689691fc414.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     },
     "ach_ayeaye_captain_vixen": {
       "name": "Make it So",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f5357b77f202a34c788a9aa4d4108e74627ad84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "ach_thesacrifice": {
       "name": "Our True Nature",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/27999e830ecf109a1d731a7250785099ee5ef30d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "ach_secrets_of_la": {
       "name": "Sharpest Tool in the Box",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/8cf847f3ef7d75cdc56eb92153332e3d6569a369.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "ach_explorer": {
       "name": "Smorgasbord",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/097a611924ff7746eb444ab69c5a098dbe8fd0f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "ach_strike": {
       "name": "The Direct Approach",

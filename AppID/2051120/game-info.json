@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bc234b1c5750086ff758695d573d6f4efe22de33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "ML_ACHIEVEMENT_40": {
       "name": "A little nest egg",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e3eb786fae89a6fb4117e51b00c12049b5c51521.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "ML_ACHIEVEMENT_02": {
       "name": "Acrobat",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/1979b473c588a0778f54810e78637742a38a4bde.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.2"
     },
     "ML_ACHIEVEMENT_48": {
       "name": "Bel Paese",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2213ac5db7ed794baffad8d722d413703d027515.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "37.9"
     },
     "ML_ACHIEVEMENT_27": {
       "name": "Extreme conditions",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d8d8d8e60054ca98e872cd3b84fa4bed0ade0131.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.4"
+      "percent": "53.3"
     },
     "ML_ACHIEVEMENT_55": {
       "name": "I want to believe",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c4849d72d765266770f8fd1b923548184b4a0c5b.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Alien Encounters Expansion Pack",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "ML_ACHIEVEMENT_44": {
       "name": "Ignition",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/fac610824e0e9fae1fd5263a85f3d6ba61611fe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "ML_ACHIEVEMENT_18": {
       "name": "International license",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/918abd54ee6b4e71135c4886dda09f7c75706ed0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.9"
+      "percent": "75.8"
     },
     "ML_ACHIEVEMENT_06": {
       "name": "Now try online",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0439310249b336a93c3408b24640e47dbbaae0e9.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "ML_ACHIEVEMENT_01": {
       "name": "Rookie",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d0508b348517e2c8157e34fd30b58827dcaab8ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "ML_ACHIEVEMENT_23": {
       "name": "The Scorpion",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/714a266c884a52eb618391de90e3dddb8df3e96b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "ML_ACHIEVEMENT_46": {
       "name": "The Ultimate Race",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/cc76129caf45395873d5fb74c28146fb5a362cd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "ML_ACHIEVEMENT_19": {
       "name": "Well begun…",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4f980cccc3edc3c4bc1df18560979713333a7df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     }
   },
   "platform": null,
