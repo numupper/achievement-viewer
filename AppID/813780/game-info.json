@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/97848e702ad336b4e8e5bb132360db72bfe8a37f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "ACHIEVEMENT_BUILDER_OF_CIVILIZATIONS": {
       "name": "Builder of Civilizations",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d2dceec8826386da4c30bc7c8a28541056111a1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "ACHIEVEMENT_BULLS_EYE": {
       "name": "Bull's Eye",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41e907ebe32c4f91255aba9b285863fe948b0356.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "ACHIEVEMENT_CAMPAIGN_BURMESE_COMPLETED": {
       "name": "Cakkavatti",
@@ -1018,7 +1018,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/fda0fa9e03f20cc8d95db283278affa4da2f1c50.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "ACHIEVEMENT_FIRE_WITH_FIRE": {
       "name": "Fire with Fire",
@@ -1369,7 +1369,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/0e839da4246a639a9665929a74b227ccb54a203f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "ACHIEVEMENT_HUNA_JOIN_ME": {
       "name": "Huna Join Me?",
@@ -1711,7 +1711,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/7b82c8feb266edcabfee01b7a80f025d27a870db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "ACHIEVEMENT_NO_HOJO": {
       "name": "Lone Warrior",
@@ -2224,7 +2224,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/689ce29ba367b58d602d77762c9ea48b82d09902.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "ACHIEVEMENT_POLITICAL_ANIMAL": {
       "name": "Political Animal",
@@ -2503,7 +2503,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/49e701ae896fde83f62d300f184cdcd501b8a709.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "ACHIEVEMENT_SHOGUN": {
       "name": "Shogun",
@@ -2620,7 +2620,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/84bd387f743925720bd1c28761770e5cad1c33fc.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "ACHIEVEMENT_STEPPE_PEOPLE": {
       "name": "Steppe People",
@@ -3070,7 +3070,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b35fc1092273711a640fe243b1d0281045e4bca3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "VIKINGS_VICTORY": {
       "name": "Viking Victory",
@@ -3124,7 +3124,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/ac2d7101d111724c391b919813bb9e329ea1e375.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACHIEVEMENT_WINGMAN": {
       "name": "Wingman",

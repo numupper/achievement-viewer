@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/170091da9b3bfdc3acf3f3f1f0c148535209b64d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ACH_56": {
       "name": "Audiophile",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/c6ce0d34560ac748e4c30faa2035179bf97a6809.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACH_65": {
       "name": "Connoisseur",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/01792b1d43da8cabbe3277f032767d56a84fd22e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.6"
     },
     "ACH_22": {
       "name": "Find Anything Interesting?",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/922eaa1b446fe933eee09e844396c0f355bc2153.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "ACH_24": {
       "name": "Revenants",

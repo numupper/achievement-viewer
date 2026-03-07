@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/240b0701c0324b483745f9a7cb3f322825eb7bc4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "Achievement_08": {
       "name": "Brand Equity",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/344793692c47057b25213950a71a46c7bce8fa46.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.8"
+      "percent": "67.9"
     },
     "Achievement_36": {
       "name": "Fist of the Mountain",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4d4788693a81a35ddf9b84f3f5b84550d34b8f97.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "Achievement_13": {
       "name": "Freelance, but Not for Free",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/673425f550719635a1f4b0a6c0815d99fdd5b0e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "Achievement_22": {
       "name": "Mole Money, Mole Problems",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3cd97eead19624c1387c56aecdc1b6698bd81f3b.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/f432b917f4fc372c96012891e6170312bf35e67f.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.5"
     },
     "Achievement_04": {
       "name": "The Lookbook is the Cookbook",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b910717f8580dcbd7c3f296cc8949e969c92cba7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "Achievement_15": {
       "name": "The Mountain Provides",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/5a0a9edcf8381e374664dea5608faf93787bdfb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "Achievement_21": {
       "name": "Who's the Boss?",

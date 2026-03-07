@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/4323a6c80f401cd929eb9d4be82461cfffc5e29d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "Achievement_GOSCC_37": {
       "name": "Kitted Out",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/5f273ba1b4d2a4aa245951b73faee2ebfef725ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "Achievement_GOSCC_59": {
       "name": "Shroudfane Explorer",

@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/6efa229f4b6763f96b26d019c5cf4faff94dfe98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "ACHIEVEMENT_50": {
       "name": "Contender",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/2cdbe23d2b5c8c25695c3324045e1313e6fa5eec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.2"
     },
     "ACHIEVEMENT_23": {
       "name": "Garage Royalty",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/533a5a3a883474b49123c0ead6ff16ff25298dd2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "ACHIEVEMENT_13": {
       "name": "Just Getting Started",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/d1e7662406c7cd2b1c4c2b973d1431e61ccd4aca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "ACHIEVEMENT_35": {
       "name": "Leisure Cruise",

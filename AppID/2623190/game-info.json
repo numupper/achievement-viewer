@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e8ce384dd94b4a0cbbb1d24050b73dda9e653682.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "Brother_Eliminator": {
       "name": "Eliminator, Dark Brotherhood",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/35791bb6e182dbc81b2f79d830b30288c90d3788.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "Main_LocatedTheShrineOfDragon": {
       "name": "Located the Shrine of Dagon",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/f0b72ea7abff1565963be5279e04852f496b0074.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     }
   },
   "platform": null,
