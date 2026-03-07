@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/b21008e4812cf74eac15bc40f6a5c3dfd571a825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.5"
     },
     "NEW_ACHIEVEMENT_1_28": {
       "name": "Besties",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/fc1fdfc2f91a4ad2ea7ef7dc74440ecf46ba066d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.2"
     },
     "NEW_ACHIEVEMENT_1_10": {
       "name": "Blood Debt",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/83d7ae5f73dabcfd6aa3827bc29c538f36f9e2a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.7"
     },
     "NEW_ACHIEVEMENT_2_6": {
       "name": "Dark Odyssey",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/c0da874e04ce0c91e2525adc2682b49e9f6e123f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.5"
     },
     "NEW_ACHIEVEMENT_1_24": {
       "name": "Full Gufa",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/f29caddf5e76ef8337090da30b978f76da70adc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.8"
+      "percent": "66.7"
     },
     "NEW_ACHIEVEMENT_1_20": {
       "name": "How it's Going",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/08c25a07568705d4b3197b16182c8a63a8dfb5bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.2"
     },
     "NEW_ACHIEVEMENT_2_10": {
       "name": "No Kratos, No Scry",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/023c658f4861fa953eb6d338d63acae2f7b28026.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.4"
     },
     "NEW_ACHIEVEMENT_2_0": {
       "name": "Ready for Commitment",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/762c44572257b9d00391bbbe066328773506a197.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "NEW_ACHIEVEMENT_1_12": {
       "name": "Root of the Problem",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/a11ac44c28e39113045ff691486dc7405fa1057e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.8"
+      "percent": "66.7"
     },
     "NEW_ACHIEVEMENT_2_8": {
       "name": "Scry Me a River",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/c4644281972470405f58160e7dfcd7a74a3dd62e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     },
     "NEW_ACHIEVEMENT_1_5": {
       "name": "Spit Shine",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/78542c4ca375edc4d368145defb5451a41545beb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "NEW_ACHIEVEMENT_2_13": {
       "name": "Understood the Assignment",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2322010/a1c3eaa1b4c9863dabbc1dd286f322a76db6640b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     }
   },
   "platform": null,
