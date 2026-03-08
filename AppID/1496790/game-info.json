@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/c4389eee2a93c1c02934c6e6fa9a6fb81c5ba5fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "TIME_TRIALS_1": {
       "name": "Bat Out of Hell",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/26039d1622756156a06bad3fce795b152f66d75e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "GOTHAM_MURALS": {
       "name": "Claiming the Mural High Ground",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f9b2ac34c81b7efc7478830c00dad304337be74c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "CRIME_FIGHTER_2": {
       "name": "Not On My Watch",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/7e30dea01d6511da559055ed0484a1f89cecf17c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "ALL_SHOWDOWN": {
       "name": "Showdown Sovereign",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/a39b8faaa4254b90cde1ba8e45898a538ae8b68c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.9"
     },
     "DEFEAT_COO_1": {
       "name": "Talonted",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f4b2622adbc355669d6291a52f30ba21a81554d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "AC1_HA_STARLABS": {
       "name": "The Cold, the Bad and the Ugly",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/ffba0fd048a4af6a6fc47f8c8fc372e82378d5cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "FREEZE_1": {
       "name": "To the Victor Go the Spoils",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1467ca5b9f49f11938b0fc249645742e17073118.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.8"
     },
     "HARLEY_3": {
       "name": "Working Hard or Harley Working?",

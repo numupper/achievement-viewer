@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.6"
     },
     "TROPHY_USE_JOB_CREST": {
       "name": "Crest Bearer",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "TROPHY_CLEAR_LEVEL200_ON_CHAOS": {
       "name": "Cycle of Darkness",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.6"
+      "percent": "70.5"
     },
     "TROPHY_MISSION_SUFFERING_OF_FOOL": {
       "name": "Led by the Nose",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.7"
     },
     "TROPHY_UNLOCKED_LIBERATOR": {
       "name": "Path of the Liberator",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "TROPHY_MISSION_FRAUGHT_JOURNEY": {
       "name": "Terminus of Fate",
