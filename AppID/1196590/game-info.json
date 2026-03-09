@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/eaad88e2ea5be5313f4272a5157ad31ecbad4386.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "48": {
       "name": "Doll Collector",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/5db1765f022078cb7f49b876c8657ef5c8a962eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "5": {
       "name": "Fish Out of Water",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/77af01750896351615749300261533c376cb8247.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.8"
+      "percent": "78.9"
     },
     "44": {
       "name": "Frugal Father",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/37bbf9524e947355bf91826a09e4db3008593e07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.4"
+      "percent": "66.5"
     },
     "20": {
       "name": "Goooaaal!",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/138de7bfe1302ef2c7c10468e38cd2444f3becc7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "30": {
       "name": "Leader of the Pack",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/ae8f35770222900ab5ab8e00a50c221cbc785978.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "36.9"
     },
     "28": {
       "name": "Medium Rare",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/ea7abf273b64c777875a072c3faaa53f7e45da24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.8"
+      "percent": "76.9"
     },
     "16": {
       "name": "Petty Thief",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/e9b20ee7208428ed9d30a865cd06f6bed5df6725.jpg",
       "hidden": false,
       "group": "Resident Evil Village - Winters’ Expansion",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "51": {
       "name": "Serene Teen",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/57c19ddcb9536a4d1a7c4d2dc9fcdea16fec04b2.jpg",
       "hidden": false,
       "group": "Resident Evil Village - Winters’ Expansion",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "7": {
       "name": "Temporary Measures",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/faa9972fca0e8068acb42b895a1c78e97dd9f91c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     },
     "9": {
       "name": "The Root of the Matter",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/0bca31fd2955786daec415b6e7205821eb2f6fa3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.5"
+      "percent": "58.4"
     },
     "31": {
       "name": "Timber",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/a461ad8d1733923f8a525e7af2836fc7477ff246.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.4"
     },
     "13": {
       "name": "Universe's Best Dad",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/b737b1741920b0634adc438c93e8c13d84f2803e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.5"
     },
     "38": {
       "name": "Veteran Gunsmith",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/eb42b3d483ae8ca7d592e532dbee5adc352d0812.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "55": {
       "name": "Village of Blood",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/524e9f990b19c66526b21c9874701e4bf9ec3ea8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     }
   },
   "platform": null,

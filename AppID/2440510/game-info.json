@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/289fe3bccb3a93ca423fe4cfefa6364187d6a450.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.0"
+      "percent": "56.1"
     },
     "ACHIEVEMENT_28": {
       "name": "Clean Driving",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/6efa229f4b6763f96b26d019c5cf4faff94dfe98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "ACHIEVEMENT_50": {
       "name": "Contender",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/2cdbe23d2b5c8c25695c3324045e1313e6fa5eec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.2"
     },
     "ACHIEVEMENT_23": {
       "name": "Garage Royalty",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/533a5a3a883474b49123c0ead6ff16ff25298dd2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "ACHIEVEMENT_13": {
       "name": "Just Getting Started",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/3369aa7aa0a92184cbcadbf4cca65e70ff61dfb6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.8"
     },
     "ACHIEVEMENT_16": {
       "name": "Legendary Builder",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/d1e7662406c7cd2b1c4c2b973d1431e61ccd4aca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "ACHIEVEMENT_35": {
       "name": "Leisure Cruise",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/02fc884fccf144d51510724ec52a83b73990bdc2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACHIEVEMENT_2": {
       "name": "On the House",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/eeb0bea45b5ec35e3353458c5a114fe9be417264.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "ACHIEVEMENT_15": {
       "name": "Pro Builder",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2440510/65269f7ca7659900a59f4400502571e5c9cd8660.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "ACHIEVEMENT_57": {
       "name": "Running on Fumes",

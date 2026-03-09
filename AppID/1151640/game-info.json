@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/7ec4a9bed1bc7d1edbf73ddde28120c221169873.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "NEW_ACHIEVEMENT_3_10": {
       "name": "All Acquisition machines killed",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/b64d5ef15ccfc3d393d76e5ec7b16c56bd91b8f7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "NEW_ACHIEVEMENT_4_14": {
       "name": "Crashed the Eclipse network",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/4e423409f74cb1c8a6c707cd686347dd3fd1b6a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "NEW_ACHIEVEMENT_3_19": {
       "name": "First Tallneck Overridden",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/a9050944cfc94f280c31056b05116a8eb86438db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "NEW_ACHIEVEMENT_4_9": {
       "name": "Followed Rost's teachings",

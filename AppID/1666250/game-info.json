@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/2b69a8e2606df51b90eab251a5b29d9d1a165068.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "ACHIEVEMENT_01": {
       "name": "Grand Opening",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/7c4fc26ee8eb68b549b22b0f19c72915b337b8b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "ACHIEVEMENT_50": {
       "name": "Guest Stars",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/706548653b2b5b7f0ca359e384df936c35353be9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "ACHIEVEMENT_30": {
       "name": "King of District 1",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/ab76ad589bd8dc6700381c7aefb9567033344380.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "ACHIEVEMENT_35": {
       "name": "King of District 6",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/984f35ffc4a4f2fa8bbe33d99a767283b7e0b87e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ACHIEVEMENT_47": {
       "name": "Mobile Infantry",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/04f2e9ae25ef1e8c103ac91d44354c576ed73251.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.4"
+      "percent": "84.5"
     },
     "ACHIEVEMENT_39": {
       "name": "Perfect Chemistry",
