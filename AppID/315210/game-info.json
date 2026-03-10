@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/accac438f48d123887f654a4137c72c92fb86255.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "MISSIONCOMPLETE01": {
       "name": "Act of War",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/964daf35eebf1ac8a80ba3336f23ebbb699c446c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "RPG10": {
       "name": "All Sorts of Fun",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/086da72a9d7527736dc3e8ece2ec7f5711c85faa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "RIDDLER03": {
       "name": "Blaze of Glory",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6e0a99f4656c2d5bd1ff776564fb6bfcc6489259.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "RPG04": {
       "name": "Captain Boomerang! Agent of Oz",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/e6d82fe600fcf2b1ffd9b1e20656a89bcdf4503c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "RPG13": {
       "name": "Choice of Evils",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/89d01c1872fb3dc7a54f3069afab58931ba275e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "CINE01": {
       "name": "Cleaning Out the Closet",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/45b0323ad900ffea55bbdcb85d1b9c98b983e47a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.5"
     },
     "BRANCH07": {
       "name": "Combine and Conquer",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/e64d00a8dfff30ba7ca8928b5cc2b8e37930eb48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "CINE05": {
       "name": "Death Blooms",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/8e323584936f78307bae1b77ba8a307b32e82edc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "CINE10": {
       "name": "Endgame",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/3baf64df139812c73f6311628ea9363d0b8240c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "RPG15": {
       "name": "Forces In Motion",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6ab2e886bfb8d05fc895c765bd58962b6ff3b5f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.2"
+      "percent": "58.3"
     },
     "RPG14": {
       "name": "Grand Experiment",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/e69b805b8f8dffd9ac387f46191f2c20fe78bfdb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "RPG02": {
       "name": "Harleen the Queen",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/06552c151d8783fc3304cbcaca343d81f8492461.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "EXPLORE01": {
       "name": "History Repeats",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/95646a22b5450a5c133392ff00f238438294dadd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.0"
+      "percent": "65.1"
     },
     "MISSIONCOMPLETE04": {
       "name": "Into the Angry Planet",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/05500c7ba0b4a3a0620091c8af1d1a8056ceb4fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "MISSIONCOMPLETE03": {
       "name": "Killin' Time",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/414369ddab8e83ffb16937c31d48324af4b9cd81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "RPG03": {
       "name": "King For A Day",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/b5b85bbdc69abe845758b1c09fb276f5f96a6405.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "BRANCH04": {
       "name": "Managing People",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/980999c2a39be525005046d464b80ff65d022ef8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "RPG17": {
       "name": "Number the Dead",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/bff87d2a6ee5eb7f3f66dba0eea9e52c14e39829.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "RPG06": {
       "name": "The Chosen One",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/3456c1329891affdf789a470de9c7e463d71dd17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "MISSIONCOMPLETE05": {
       "name": "The Final Frontier",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/87840187fd2938bd0c14f68cb7d468811a41d901.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "RPG07": {
       "name": "Trial by Blood",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/994bb54de878ed0a3594fcd818256c85b4ed34da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.4"
+      "percent": "78.5"
     },
     "RIDDLER01": {
       "name": "Turn and Turn Again",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/f45b0d71db2e4d65b3c9383db3716ef8d59fe7f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "CINE04": {
       "name": "Walled In",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/7444bec75a253f35a0ef6760ab468f773a11d699.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "BRANCH02": {
       "name": "War Machine",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/c4608f8b26ade04b0e5af79e447e3eb503f80055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "BRANCH05": {
       "name": "Your World is Mine!",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/a36754204739f31d089bb6c514b7df86a63e3c37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     }
   },
   "platform": "Epic Games",

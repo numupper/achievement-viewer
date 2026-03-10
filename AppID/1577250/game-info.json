@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/c9aa1599dffbf5ad3a23d3fa3753b98a544a9943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.6"
     },
     "TOOLS_OF_CONSECRATION": {
       "name": "Tools of Consecration",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/494be3553c3a9fd7c8ed8e15ba6cd1731ba6d286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.9"
+      "percent": "69.8"
     }
   },
   "platform": null,

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/115c38ddf7cee127ee8dd48d2ec99792ba3bcd4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.3"
     },
     "BIZARREYETBONAFIDE": {
       "name": "Bizzare Yet Bonafide",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/03c72d29de73daa966b276da91fa3a8e00930d58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.2"
     },
     "ACT10": {
       "name": "Chapter 10",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/8ca8b15499692c9275a4f4baea347db2293f05dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.4"
     },
     "ACT6": {
       "name": "Chapter 6",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/5b96a28c0d45ac5b4084077248b85008924c89e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.7"
     },
     "ACT8": {
       "name": "Chapter 8",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/7b23b53835419a327956f7123a1ffb1bcb02d5c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.1"
     },
     "ACT9": {
       "name": "Chapter 9",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/23f2a891538766bcb2456ffcd54025eaecb49f3c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.1"
     },
     "NOBODYSFOOL": {
       "name": "Nobody's Fool",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/380be9809f4d6443559e5ef9ccba4d7a85c4c24a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "PROLOGUE": {
       "name": "Prologue",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/187ad3e46b3f86a485c655613f5d276372a75f9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.3"
+      "percent": "73.2"
     },
     "REACTIONIST": {
       "name": "Reactionist",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/540fa7bd03ed585db977edabbd18291251c63b7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "FINALGIRL": {
       "name": "The Final Girl",

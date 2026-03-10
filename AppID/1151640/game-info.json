@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/214026938b66a998d38efaf9360952ec324a012e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "NEW_ACHIEVEMENT_3_2": {
       "name": "3 Strikes From Above",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/7ec4a9bed1bc7d1edbf73ddde28120c221169873.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "NEW_ACHIEVEMENT_3_10": {
       "name": "All Acquisition machines killed",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/b64d5ef15ccfc3d393d76e5ec7b16c56bd91b8f7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "NEW_ACHIEVEMENT_4_14": {
       "name": "Crashed the Eclipse network",

@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a4d02d01f2f27d842f744401835b4ac25fc51b5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.7"
     },
     "TROPHY_NAME_FINISH_UHARD": {
       "name": "Charted! - Crushing",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a36a159f97c560fb56c7f8a3aeba7f67780dfcaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "TROPHY_NAME_FINISH_NORMAL": {
       "name": "Charted! - Moderate",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/6df1aaff3537ee392ba24d023c30eac9a0267cca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.4"
     },
     "TROPHY_NAME_FINISH_SPEEDRUN": {
       "name": "Charted! - Speedrun",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/1d261ee730c463e5bb970c08c8c8591ad4b47db3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.6"
     },
     "TROPHY_NAME_COMBAT_NO_KILL": {
       "name": "Ghost in the Cemetery",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/e822bbfb842393dbe8c4adf2d1f4532c61e37f87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     },
     "TROPHY_NAME_GRENADE_VEHICLE": {
       "name": "Here, Catch!",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/89aac935e8ee251b7b1f17926808ed395a13cdbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.6"
+      "percent": "64.5"
     },
     "TROPHY_NAME_ROPE_SWING_CHAIN": {
       "name": "Jungle Gym",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a278e25f9222f77934806cfc9a13a82928cec75d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "TROPHY_NAME_JOURNAL_ENTRY_ALL": {
       "name": "Lost Art of Journaling",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/eecee18f37710afd2f9e79f4453b341535dfab67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "TROPHY_NAME_MARCO_POLO": {
       "name": "Marco Polo Returns!",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b29dc1af4a98161d103bdfdef8ee8f612bbd7301.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "TROPHY_NAME_DOLPHINS": {
       "name": "On Porpoise",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/f10e6c086ce8e5d12179ca768e60fd6a94648525.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "TROPHY_NAME_COVER_FIRE": {
       "name": "Stay and Pray",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/fd56bdf6c945532d0acb9b9af5cf9868b10c0603.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.3"
     },
     "TROPHY_NAME_COMBO_BUDDY_TAKEDOWN": {
       "name": "Wingman",

@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/c3605e97210da9f9b3781f575a6fe411e3956a03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "FC6_Ach_8": {
       "name": "Co-Dependent",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/4dc9b26322ae9fa4afe09bb3d800642ac765a17f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "FC6_Ach_50": {
       "name": "Glorious Leader",
@@ -793,7 +793,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/c5ce2c264ed1adf327112b93650b1a8b9374503d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "FC6_Ach_45": {
       "name": "Toxic Influence",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/87df8478db249bf0fb38329a0a9a19089ca10a9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.5"
     }
   },
   "platform": null,

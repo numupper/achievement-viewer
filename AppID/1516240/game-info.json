@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1516240/695ed0a51ed6c88845489454b2ab460bfa06c394.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "62.9"
     },
     "Achievement_30": {
       "name": "Choking Hazard",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1516240/bed4952f76d09312b5b6223cdc1fe2c7d595d55e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.1"
     },
     "Achievement_27": {
       "name": "I scream",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1516240/a19acbe9dc7449cfa5716ab6cbcb1b4ec4bd4644.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.7"
     }
   },
   "platform": null,

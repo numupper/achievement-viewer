@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/c9af62e2b00c68ff9e208236387948b3fac5a2ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "MP_ACHIEVEMENT_SCORESTREAK_KILLS": {
       "name": "Calling It In",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/8fb0ad92366001171102d55dd37e86040465796a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.7"
     },
     "CP_ACHIEVEMENT_CP_NIC_REVOLUCION": {
       "name": "End of the Line",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/c44299446b52f83cd9634d36753db4398bbf0f72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.4"
     },
     "ZM_SILVER_START": {
       "name": "Entamaphobia",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9d14c6520c8fc35cc254ab0c015dc10b7acc3626.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "CP_ACHIEVEMENT_EXPLOSIVE_FINIISH": {
       "name": "Explosive Finish",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/a4ae739f9c2526acac6f58c3b04ad35af7534e3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.7"
     },
     "MP_ACHIEVEMENT_MATCH_WINS": {
       "name": "Go the Distance",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/875a7579765931b3118745a0be5e8c509b3b197e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "CP_ACHIEVEMENT_BODY_SHIELD": {
       "name": "Keep Your Friends Close...",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/3e12a39fa3f94f6e88c16a63b274fe50dd1c3e6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.6"
     },
     "MP_ACHIEVEMENT_ELIMINATIONS": {
       "name": "The Fixer",
