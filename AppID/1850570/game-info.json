@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "042": {
       "name": "A Baby Blessing",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/38116b23fb77301c9227b3670cf5e093397f32ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.9"
+      "percent": "75.0"
     },
     "005": {
       "name": "BB...",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.3"
     },
     "012": {
       "name": "Bring Back My Baby",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "061": {
       "name": "Building Bridges",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "42.0"
     },
     "051": {
       "name": "God Particle Go-Getter",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "062": {
       "name": "Homo Faber",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.2"
+      "percent": "79.3"
     },
     "023": {
       "name": "Master Builder",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "021": {
       "name": "The Automation Revolution",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.8"
     },
     "057": {
       "name": "Trail-Blazer",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.3"
     },
     "050": {
       "name": "Well-Traveled",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     }
   },
   "platform": "Epic Games",

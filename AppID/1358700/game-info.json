@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.3"
+      "percent": "74.4"
     },
     "TROPHY_DLC2_MAX_INTIMACY_UAST": {
       "name": "I'll Never Forget",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "TROPHY_DLC3_DEFEAT_LIGHT_OF_ORDER": {
       "name": "On the Way to a Brighter Future",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.8"
     },
     "TROPHY_FIRST_ANIMA_FRAGMENT": {
       "name": "Seeker of Power",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "TROPHY_MISSION_REMEMBER": {
       "name": "Shared Recollections",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "TROPHY_MISSION_EARTH_MEMORIES": {
       "name": "The Earth's Light",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     }
   },
   "platform": null,

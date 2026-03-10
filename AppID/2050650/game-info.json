@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4dfca94f2e53fe4d16af133db09f83ab70ecc97d.jpg",
       "hidden": true,
       "group": "Resident Evil 4 - Separate Ways",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "8": {
       "name": "Grilled Big Cheese",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/621ce042b455448574962e36ccc00fbe01d564b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.9"
+      "percent": "72.0"
     },
     "25": {
       "name": "Gun Fanatic",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4df28bc86b11dcde5da964ac22837013ae32f577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.1"
+      "percent": "82.2"
     },
     "14": {
       "name": "Never Heard It Coming",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/8e0ccd739b03fdd5fdc6ffe718b1ffb8d37a7b83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "63.1"
     },
     "32": {
       "name": "Peerless Agent",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/76f67106f522273ff371462cb5da97747b003137.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.6"
     }
   },
   "platform": null,

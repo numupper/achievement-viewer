@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/91ca56f54b312eb744fc14ae7ad2029414572c1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "AchievementTantID": {
       "name": "401(K.O.)",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/5de8bc882947c4492e3a58c9b976d16d1502c834.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "AchievementCastleRenovationID": {
       "name": "Forgotten Sorority",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/08acb75234c963fa6c256dd7ad1374e6ac79da12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "AchievementWarRoomID": {
       "name": "Rogue Guild",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/2f475bacc8bdffad75b4318207e46323a1a745b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "AchievementPortalsID": {
       "name": "Shadow Syndicate",

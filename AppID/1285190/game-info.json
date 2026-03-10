@@ -1,7 +1,7 @@
 {
   "appid": "1285190",
   "name": "Borderlands 4",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/86b8ff3b7216de9f98bf72d3e476e07a91438f3c/header_alt_assets_1.jpg?t=1772749646",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/86b8ff3b7216de9f98bf72d3e476e07a91438f3c/header_alt_assets_1.jpg?t=1773047677",
   "achievements": {
     "Achievement_38": {
       "name": "Achievement_38",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/9b29ef3b04f47d6337e523797761079c93040edc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "Achievement_23": {
       "name": "Widely Beloved Mascot",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/1d3db29e2b60427b6564fc46838ebd973d26299b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     }
   },
   "platform": null,

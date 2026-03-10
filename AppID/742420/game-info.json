@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/834f367fa9489d998cea96ce2aff52fbbf8be9e7.jpg",
       "hidden": false,
       "group": "Saints Row - A song of Ice and Dust",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "get_betrayed": {
       "name": "Et tu?",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/5229f39fa0150c745f9829a7783fb88096b5a686.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "complete_mission_1": {
       "name": "First F#@!ing Day",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4376fee358a75972dc043ae31b9f836507a942a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.9"
+      "percent": "87.8"
     },
     "staggered_by_vending_machine": {
       "name": "Food for Thought",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.0"
     },
     "empire_tier_4": {
       "name": "Masters of Santo Ileso",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/05bc1cba6d4ee1ae9f05e2e050df44f8fc4aba81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "32.8"
     }
   },
   "platform": null,

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/edac2443959f6ffe6c7966e93471b6f330187760.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "63.1"
     },
     "Achievement_GOSCC_a11": {
       "name": "At the Precipice",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/75d8d6b54ff1e9cf8a675d7efa454e44586f40de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "Achievement_GOSCC_a53": {
       "name": "Blood, Sweat, and Tears",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fede16ba4ca521f82893eff519a23cb7d5cab7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "Achievement_GOSCC_a41": {
       "name": "Cobra Cal",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e0093335c680d62119cbdba25d0a4150fe943d09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.6"
     },
     "Achievement_GOSCC_a48": {
       "name": "Gambler",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/479b4513bc6fe88e72250b45be1e1e8b5a4c1e4f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.0"
+      "percent": "74.1"
     },
     "Achievement_GOSCC_a40": {
       "name": "Greezy Money",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/c013ca687279a61bde0c8e023f1363fe84b217e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "Achievement_GOSCC_a49": {
       "name": "Intergalactic Geographic",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a077ca775783da78147f0cc778b1ade9ae700109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "Achievement_GOSCC_a34": {
       "name": "It's a Trap",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/3b0b6435db2caa0cbcc57a0793f0c952c6e9fc04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "Achievement_GOSCC_a8": {
       "name": "Out of Bedlam",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/463f479d0a561e55fe61cec124dcf0f5fa2c631f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "Achievement_GOSCC_a33": {
       "name": "Skywalker",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/f3563e3c2ab55e83a0e2c760cbe3bff0fad72849.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.9"
     },
     "Achievement_GOSCC_a5": {
       "name": "Survivors, We Adapt",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/d788ab673247db409aa8517cb06db09edecf2abc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.8"
     },
     "Achievement_GOSCC_a52": {
       "name": "The Jedi Path",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/b5599a4da151d8f43a3ba0a507c9f3a24cadbf93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "63.1"
     },
     "Achievement_GOSCC_a32": {
       "name": "They're Probably Fine",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a4780878a48ac43d940ea91983240dab4794b354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "Achievement_GOSCC_a10": {
       "name": "Tragedy",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a714a09f573343114e3baba8c75df8cb037ad569.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "Achievement_GOSCC_a38": {
       "name": "Who Gives a Puck",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fcc94b77e3c8f048110604eb77e2856bb04a3a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.2"
     },
     "Achievement_GOSCC_a16": {
       "name": "You've Got A Friend",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/143e3498dd38775b582ca330284eebb349b0260f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     }
   },
   "platform": "EA",
