@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/20e3894f5bf319cfacd11457d8e2005ace441b78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "ACH_Finale": {
       "name": "Finale",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2ccbb1f77c9ea04e44b6e9e364a0b0d6b3755c40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "ACH_S8MaxPoints": {
       "name": "Maxed Out",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/38bdb44bba695febdbe2f331042bc8b0e9ddd47e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.6"
     },
     "ACH_S8AllSilver": {
       "name": "Silver Trophy",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/5b0feb4a0044733aacaff384851b7636f1aa4bdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "ACH_CollectAll": {
       "name": "The Collector",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/1188f92bc0b8f3cb86b185e8f93bf9d9ba560879.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     }
   },
   "platform": "Epic Games",

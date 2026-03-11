@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/4a868d9db1d859c4c77f29c6a1522df872a4c9e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.5"
     },
     "ACH_E4_Coll1": {
       "name": "A New Perspective",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/60a91d20379f29638cec6f7a20cc53eadcae96db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "ACH_E5_Coll6": {
       "name": "Boundaries",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/143b27be7eb0a69bcb756c5ad9bf5c41673cfaf1.jpg",
       "hidden": true,
       "group": "Life is Strange 2 - Episode 2",
-      "percent": "28.5"
+      "percent": "28.6"
     },
     "ACH_E2_Coll2": {
       "name": "Family Business",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/7b9d7667c173f37e668142be19d39bbe30d43691.jpg",
       "hidden": true,
       "group": "Life is Strange 2 - Episode 5",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "ACH_E4_Coll2": {
       "name": "Lone Wolf",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/9d79b47ff9bc82ff26a89308d491a8f6d4a2504a.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "ACH_E5_DrawSequ": {
       "name": "Out Of Ink",

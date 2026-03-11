@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/1bde8ff0e54b9cfb6b29cab697e5402a1bb640b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "ACH_RED_BULL_WINNER": {
       "name": "DESERT WINGS Winner",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/4e3b33adaa6d289cf1607102705702132b70c96c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "ACH_FIRST_CAR": {
       "name": "First Car",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/c52cae00df319dc14e9f2c5f675b05278143cfee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.7"
     },
     "ACH_FIRST_SxS": {
       "name": "First SxS",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/bf2c0d812b844ddd82f65480a8a646c9cf292947.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.1"
     },
     "ACH_HARD_DRIVER": {
       "name": "Hard Driver",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1839940/e650143d7fc82866fa317bc846fc8accf868de3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "ACH_VTECHED": {
       "name": "V-TEC’ed",
