@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/30565d4b55266911a3bbce88f5809bb6c8b7c804.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "Animal_ManyBirth": {
       "name": "Baby Boom",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/f49c2a25c269617f6e62e8a0ae8ac0f9b8f8d044.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "Franchise_FirstFranchise": {
       "name": "Franchise Zoo",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/0a47401454761897bb46966aa77a062faabcca9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.5"
+      "percent": "79.6"
     },
     "Game_Startup": {
       "name": "Welcome to Planet Zoo",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/7de4921d37ab1016b826b98fce8c2ce54428e5d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.4"
+      "percent": "85.3"
     },
     "Animal_ManyHighWelfare": {
       "name": "Wow, that's a lot!",
