@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/1b1d4e4d9eb2ce3b912effc4bbf3fbf1b77cc282.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "Release_Velociraptor": {
       "name": "Clever girl",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/ded3cdae27bcfeaba4589a8de3a7d6d43f8a1270.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "CompleteInGenDatabase": {
       "name": "I read your book",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/648350/6e2c65bbbef13277e8fe49ea989aac601b9df15d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.6"
+      "percent": "73.5"
     },
     "Cretaceous_CarnivoreOnly": {
       "name": "You'll never look at birds the same way!",

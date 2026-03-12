@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8ddaa6c8362f5b2ed33559e618a14b4dd9f6e09e.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "AchievementGoatQueenID": {
       "name": "Goat Queen",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/1fb55ca4e56eb89831f2763779dd8a22008599c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "AchievementBecomeHumanID": {
       "name": "San Angora: Become Human",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.2"
     },
     "AchievementMultiverseIntroCartID": {
       "name": "This Took Half My Life",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/40e969fb4dec43e36a900cb2e78a45352c355a95.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "12.6"
+      "percent": "12.7"
     },
     "AchievementTrinketID": {
       "name": "Try Hard 2",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c68de3aa791593a54362fbdc0a7871a96317e0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "AchievementMultiverseInstinctID": {
       "name": "Wow, Such Instincts",

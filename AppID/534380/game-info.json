@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/170091da9b3bfdc3acf3f3f1f0c148535209b64d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "ACH_56": {
       "name": "Audiophile",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/c6ce0d34560ac748e4c30faa2035179bf97a6809.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.4"
     },
     "ACH_65": {
       "name": "Connoisseur",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/1a085a9bb435967f0a987ac5eadacf5cf25d3df5.jpg",
       "hidden": false,
       "group": "Dying Light 2 Stay Human: Bloody Ties",
-      "percent": "26.6"
+      "percent": "26.5"
     },
     "ACH_39": {
       "name": "Night Hunter",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/914067d5b237d4aa8d80cbc4e121b21e3c26c958.jpg",
       "hidden": true,
       "group": "Dying Light 2 Stay Human: Bloody Ties",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "ACH_28": {
       "name": "Oh, So This Is How It Works!",

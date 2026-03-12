@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "2033_gunman": {
       "name": "Gunman",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "2033_pathoanatomist": {
       "name": "Pathoanatomist",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/286690/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "2033_tonic_man": {
       "name": "Tonic Man",
