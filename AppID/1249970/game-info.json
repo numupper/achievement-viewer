@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/d0e8d2103bef56a88c0b678c79228901e65372c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "ACHIEVEMENT_42": {
       "name": "Blood is thicker than water",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/4bce63ef5fe6e55912e6a93deeba2f682a4cc0bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "ACHIEVEMENT_14": {
       "name": "Deep impact",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/08dbcc7911a012f9d868bb62a4a7e5934be11a3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "ACHIEVEMENT_31": {
       "name": "Face off",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/567f0ee414a40e25d4182373e1493148221937a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "ACHIEVEMENT_34": {
       "name": "GPS coordinator",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/4c7da292c2a45de193ed5a272676d31cdc33ba34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "ACHIEVEMENT_1": {
       "name": "Not just a pretty face",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/12581e0b0cf2d8164d9a9456edf07802cfab906b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "ACHIEVEMENT_3": {
       "name": "Quick learner",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/14f8b5569b8dbcced543bed92ef90c202251ae79.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "ACHIEVEMENT_40": {
       "name": "What brakes? ",

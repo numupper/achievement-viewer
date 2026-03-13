@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/bd87e391e963e562ca12f7864a69a033643cea4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "EquipFirstTrinket": {
       "name": "Evening the Odds",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/d7c74c00eaf65de307bc9c3c600edcd918fec6f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "Kiki4thWallBreak": {
       "name": "Run, Shaman, Run…",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/55fb1df8169f04a97a9738b2fc579e093efb69a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     }
   },
   "platform": null,

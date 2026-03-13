@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c6b83f1f700638153d8265ca27db9bb235c4be46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "ACH_CLUB_UNION_UNDER": {
       "name": "#Union Underground",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/35a272cb06899cd3d1fa41b298c63f067ef9b18b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.7"
     },
     "ACH_FEEl_TRAVELED_3000": {
       "name": "Adventure Seeker",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b65bc12e13aa98a4a33382e75b05e92585766d81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "ACH_PURCHASE_CAR_3": {
       "name": "Connoisseur",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/76bd77434a971285868c8c5ad93f1e53d7fd9f9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "ACH_LEADERBOARD": {
       "name": "Initiation",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/06453f41d66faa6d5e41ce6ba4641204024bbb16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "ACH_PURCHASE_CAR_4": {
       "name": "Legendary Collector",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5ce66d9284014f5c0a248614f262429eb4d9c22f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "ACH_ELITE_2": {
       "name": "Master",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/9dde5f218882f4b84ee3a0b0c90e26e823690ac4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.3"
     },
     "ACH_FARM_RACE_1": {
       "name": "On Your Mark",

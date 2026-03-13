@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/0153fbd703ab09abcb37b78bd78bf9978280666a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "MP_ACHIEVEMENT_SQUAD_WIPES": {
       "name": "Party Patrol",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/650300dcec1393402140c0ecc27b05727e92ab4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
     }
   },
   "platform": null,

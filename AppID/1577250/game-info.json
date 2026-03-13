@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/d8685b2a97843831bede2a813f0ea2dfc36c66f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "SCAVENGER": {
       "name": "Scavenger",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/066d3b7bc3b17fbc6f684b010fb4e60f39e8f4b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.2"
+      "percent": "72.3"
     },
     "THE_GREAT_ESCAPE": {
       "name": "The Great Escape",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/c9aa1599dffbf5ad3a23d3fa3753b98a544a9943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.6"
     },
     "TOOLS_OF_CONSECRATION": {
       "name": "Tools of Consecration",

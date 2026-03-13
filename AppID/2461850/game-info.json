@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/4243f46135a95ec23d8e02f89f13f8d952914d38.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "Ch6_DefeatGothi": {
       "name": "End the Tyranny",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/2eda4d9355d70add3248fd003f5236e9709cc5d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.1"
     },
     "Collect_Faces": {
       "name": "Glimpses of the Gods",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0fcb17d333330d3b156f94d5d6c02d2b994528bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "Photo_Mode": {
       "name": "Worth a Thousand Words",
