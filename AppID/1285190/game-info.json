@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4d4788693a81a35ddf9b84f3f5b84550d34b8f97.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "Achievement_13": {
       "name": "Freelance, but Not for Free",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/16cca5cf5e2f9b06bf830a9889e4518070f63a42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/528e2c390a04bc3f81b96a660231bc43dca5aa73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "16.1"
     },
     "Achievement_27": {
       "name": "Long Live the Queen",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/7b2f9f99c576342085d0b25a03e2b554cc473825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.3"
     },
     "Achievement_35": {
       "name": "Ordon't You Glad I Didn't Say Eridium",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3cd97eead19624c1387c56aecdc1b6698bd81f3b.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/afc95e9686033038e5dff7af56268c79c6bab420.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "Achievement_18": {
       "name": "Pop Out",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/f432b917f4fc372c96012891e6170312bf35e67f.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "Achievement_04": {
       "name": "The Lookbook is the Cookbook",

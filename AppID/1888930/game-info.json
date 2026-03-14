@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/b7bd56d29b2c8b5983e3876b94d03a59bbf1691a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "0cb661f85a2415f9": {
       "name": "Endure and Survive",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/b41fb3ac79465599a7f3ed8619a90f12d639a40e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "8e2d13fc783f696f": {
       "name": "Getting to Know You",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/faf62c6d0de399cdf612e7098edae9eaf4839122.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "09a57ae84324b621": {
       "name": "Look for the Light",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/0466f5de466f0a51128e4e8882ab8edd93e13180.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.3"
+      "percent": "67.4"
     },
     "33d7ce435071bec5": {
       "name": "Sharpest Tool in the Shed",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/c3dec52295820ec02bffc1407035a0e66a6878e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "49.1"
     }
   },
   "platform": null,

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4af6d18bc8a9f6bb632c6a42450017e5e5f08e2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "TROPHY_NAME_HEAD_CHAIN": {
       "name": "10 Up, 10 Down",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/77ad9fd132c8a2cb3da7d5227e3f450d7a1242d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "TROPHY_NAME_ENEMY_DROP_GRENADE": {
       "name": "Butterfingers",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8a0b66fa4efb358f0c73af1180731ca9a0226f4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "TROPHY_NAME_TLL_PLATINUM": {
       "name": "Don't Ruin The Moment",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4e5fd129fb6efcd1ed8ef6e4ed6fbcaf8a312d65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "TROPHY_NAME_FAST_LOCKPICK": {
       "name": "Fingersmith",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4c5b3738ecdbdd266f59207dfc97c54620aca942.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "TROPHY_NAME_HEADSHOT_LOW": {
       "name": "Head of the Class!",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8084e4551039e5355f0658b63113d5899ed3f2c9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "TROPHY_NAME_VERTICAL_TAKEDOWN": {
       "name": "I Thought I Heard Something",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/6e24c19d7186c5cd0759ea3052160dd837bdc421.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "TROPHY_NAME_FROM_THE_HIP": {
       "name": "Itchy Trigger Finger",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/9ae04048941811af58e021109b0f8758087a08d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "TROPHY_NAME_JEEP_SUICIDE": {
       "name": "Let's Not Get Caught",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/159819d10d605124df3a5f8445b071f35386e9d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "TROPHY_NAME_SWORD_FIGHT": {
       "name": "Swordmaster",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/76dd936d9e96c4d3aae7fb594f6377762a1a1447.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "TROPHY_NAME_HEADSHOT_HIGH": {
       "name": "You Have a Head for this Business",

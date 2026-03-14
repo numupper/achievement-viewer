@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fede16ba4ca521f82893eff519a23cb7d5cab7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "Achievement_GOSCC_a41": {
       "name": "Cobra Cal",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e0093335c680d62119cbdba25d0a4150fe943d09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.6"
     },
     "Achievement_GOSCC_a48": {
       "name": "Gambler",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/463f479d0a561e55fe61cec124dcf0f5fa2c631f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "Achievement_GOSCC_a33": {
       "name": "Skywalker",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/d788ab673247db409aa8517cb06db09edecf2abc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.8"
     },
     "Achievement_GOSCC_a52": {
       "name": "The Jedi Path",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a714a09f573343114e3baba8c75df8cb037ad569.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "Achievement_GOSCC_a38": {
       "name": "Who Gives a Puck",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/143e3498dd38775b582ca330284eebb349b0260f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     }
   },
   "platform": "EA",

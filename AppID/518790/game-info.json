@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "ach_044": {
       "name": "It's Something",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4ee99adf8b2a3da28ab64c47b1f7562a90481f17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.4"
     },
     "ach_028": {
       "name": "Jack Of All Trades",
@@ -883,7 +883,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
       "hidden": true,
       "group": "theHunter: Call of the Wild™ - Vurhonga Savanna",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "ach_017": {
       "name": "Novice Marksman",

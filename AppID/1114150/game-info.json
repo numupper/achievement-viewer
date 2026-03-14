@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c6b83f1f700638153d8265ca27db9bb235c4be46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "33.0"
     },
     "ACH_CLUB_UNION_UNDER": {
       "name": "#Union Underground",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/35a272cb06899cd3d1fa41b298c63f067ef9b18b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "ACH_FEEl_TRAVELED_3000": {
       "name": "Adventure Seeker",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c680367a8a7e537e1a84430eb043323f10ec5653.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "ACH_SPEED_LEAGUE_BETS_30": {
       "name": "Bet Lover",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b65bc12e13aa98a4a33382e75b05e92585766d81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "ACH_PURCHASE_CAR_3": {
       "name": "Connoisseur",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/76bd77434a971285868c8c5ad93f1e53d7fd9f9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "ACH_LEADERBOARD": {
       "name": "Initiation",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/06453f41d66faa6d5e41ce6ba4641204024bbb16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "ACH_PURCHASE_CAR_4": {
       "name": "Legendary Collector",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5ce66d9284014f5c0a248614f262429eb4d9c22f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH_ELITE_2": {
       "name": "Master",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/9dde5f218882f4b84ee3a0b0c90e26e823690ac4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "ACH_FARM_RACE_1": {
       "name": "On Your Mark",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/046d65034648f91b69cfb45bd53b216ce0f9d11a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.2"
     },
     "ACH_LEADERBOARD_50": {
       "name": "Professional",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/77ab481e21cae0a3ccbb82444b79ee60c6fd3b31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     }
   },
   "platform": null,

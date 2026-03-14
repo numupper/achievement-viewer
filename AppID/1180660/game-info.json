@@ -1,7 +1,7 @@
 {
   "appid": "1180660",
-  "name": "Tell Me Why",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/header.jpg?t=1747155575",
+  "name": "Game 1180660",
+  "icon": "",
   "achievements": {
     "Achievement33": {
       "name": "A New Chapter",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1180660/6c36710b6266ea6537074c6d0e8d23c1c88f8154.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "Achievement34": {
       "name": "Lock-Up And Go",

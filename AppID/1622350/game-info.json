@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/9ba813c44c16542904b862b70ace23333d61a89f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.0"
     },
     "APEX": {
       "name": "Apex Predator",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/510b68e6b1ccb85e9bb03d9c27aa1943e4ea48d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.4"
+      "percent": "75.3"
     },
     "ESCAPE": {
       "name": "Escape Artist",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/bdfa4e3393688cce6e7c968e4bcc4fb48f968415.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "56.9"
     },
     "FOREVERHOME": {
       "name": "Forever Home",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/0585e02ae3047bb15c32be5b1e5b3b4ce3abd347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "50.9"
     },
     "MILK": {
       "name": "Got Milk?",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/2279e343e47471327b8bbf9f88704ca7315a7f99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "NOISY": {
       "name": "Noisy Nelly",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/784b7b249910b3715ca3e9ae01775cb77064017a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "BUTTERFLY": {
       "name": "Pretty Fly for a Butterfly",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1622350/c7a55d4fb4f5200b64d6c09dcc35c23231862153.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.0"
     },
     "REMBRANDT": {
       "name": "Rembrandt",
