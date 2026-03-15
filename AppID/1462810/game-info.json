@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/54c69c5fcc582abcf47aef91417b141ee5def506.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "ACHIEVEMENTS_08": {
       "name": "Climbing the Ranks",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/58bb92345388b4e05f4dc7651581c29d64398b90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "ACHIEVEMENTS_02": {
       "name": "First Victory",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/3b6b7a67edea029f956e462f33e20fcb0714b98b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "ACHIEVEMENTS_31": {
       "name": "Force of Nature",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/265304b21355f454aedf7375ae2bbf9316e8cd62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "ACHIEVEMENTS_39": {
       "name": "Smart Move",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/b3599c58f137dc966feda3bfebdbfff1860f02a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "51.2"
     },
     "ACHIEVEMENTS_21": {
       "name": "Stepping Up",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/c374cb5de89b9efae863936634b194e6a87bdeb5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "ACHIEVEMENTS_34": {
       "name": "Tourist",

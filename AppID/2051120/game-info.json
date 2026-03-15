@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d6d8e7e3e9dc7e1e1778ffdd011331d238531d75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "ML_ACHIEVEMENT_04": {
       "name": "Drifting teacher",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2213ac5db7ed794baffad8d722d413703d027515.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "ML_ACHIEVEMENT_27": {
       "name": "Extreme conditions",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bd3172f7d8d9a31e63cf9f6b39958a412892cce9.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Expansion Pack",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "ML_ACHIEVEMENT_21": {
       "name": "I'm in charge here!",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/fac610824e0e9fae1fd5263a85f3d6ba61611fe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "ML_ACHIEVEMENT_18": {
       "name": "International license",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/434f370b74038b2e433d40e6fbf0fead26511229.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "ML_ACHIEVEMENT_05": {
       "name": "Like lightning!",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d5a523c96cdcafe63f94605d7e5ad4b510d62d76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "ML_ACHIEVEMENT_13": {
       "name": "Look, Mom! No track!",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/20947d0126afe5da2eb10493db03b214c0403511.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "ML_ACHIEVEMENT_43": {
       "name": "Mission complete",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/918abd54ee6b4e71135c4886dda09f7c75706ed0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.9"
+      "percent": "76.0"
     },
     "ML_ACHIEVEMENT_06": {
       "name": "Now try online",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e32df1ef551af186913547ae35d17198bac1703f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "ML_ACHIEVEMENT_54": {
       "name": "Out of this world",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/aa58a2e778950e4f52eeded7f264393cb621dac5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "ML_ACHIEVEMENT_49": {
       "name": "Pizza, pasta, and engines",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/5d0f42d9492b659fd8efe04ad7a3469c9c337b8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "ML_ACHIEVEMENT_38": {
       "name": "Spoiled for choice",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/b78910634524bfab6e4d9d56e757ce9c53daa0bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ML_ACHIEVEMENT_22": {
       "name": "The Octopus",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d0508b348517e2c8157e34fd30b58827dcaab8ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "ML_ACHIEVEMENT_23": {
       "name": "The Scorpion",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4f980cccc3edc3c4bc1df18560979713333a7df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.4"
     }
   },
   "platform": null,

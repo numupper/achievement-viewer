@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/a5586fd867471b1fbdde8f70d83aa415b6eae3cf.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "ACHIEVEMENT_ALEXANDRA_THE_GREAT": {
       "name": "Alexandra the Great",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/a5ec8bfee8c11c1e4f8f82aa59c3e92b2974e597.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACHIEVEMENT_ARE_YOU_NOT_ENTERTAINED": {
       "name": "Are You Not Entertained?",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4b91a4f77bd00353810706ef53fae1c335172488.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - The Mountain Royals",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "POMPEII_ASSYRIAN_VICTORY": {
       "name": "Assyrian Victory",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c3b3cc4956b5255219c09f5da88d2d0c837e3eb7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "51.8"
+      "percent": "51.9"
     },
     "POMPEII_BABYLONIAN_VICTORY": {
       "name": "Babylonian Victory",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/952bece8f6a13d66f583e94ead117680e1b1a255.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "ACHIEVEMENT_CHAIN_REACTION": {
       "name": "Chain Reaction",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/17f911069f44e91eacb2fbd8f93cf050ce41b279.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "CHINESE_VICTORY": {
       "name": "Chinese Victory",
@@ -712,7 +712,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/92563326377d080886310fb6ee384cbfcbb7d7db.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Battle for Greece",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ACHIEVEMENT_NO_CASTLE_AGE": {
       "name": "Cuman Flush",
@@ -883,7 +883,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/f5f11cc64d081491fd3b28c12a87bb5b7f3af639.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "ACHIEVEMENT_CAMPAIGN_MONTEZUMA_COMPLETED": {
       "name": "Emperor of Tenochtitlan",
@@ -973,7 +973,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/413c0b47232cff2b8926b467e3a5e1e19dfb06f9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "ACHIEVEMENT_FAST_FOOD": {
       "name": "Fast Food",
@@ -1036,7 +1036,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4067f9433903a6be01d9e5aeb37f73b192147400.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "ACHIEVEMENT_FIRST_CITIZEN": {
       "name": "First Citizen",
@@ -1135,7 +1135,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/065848209f3b8ec70ff48bec7a9878809ce2a26d.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Victors and Vanquished",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_GAME_OVER_YURY": {
       "name": "Game's Over Yury",
@@ -1144,7 +1144,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/57e788a07b907dd36a00e0647b42ca8541fc64e4.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - The Mountain Royals",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_GENERATIONAL_AMBITIONS": {
       "name": "Generational Ambitions",
@@ -1297,7 +1297,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/2bacdaf69a8262af26fc592d2941f9de0326de81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "POMPEII_HITTITE_VICTORY": {
       "name": "Hittite Victory",
@@ -1351,7 +1351,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/67c27fbaeb08f84b24e5f3f781651b6367793911.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "ACHIEVEMENT_HOWDY_NEIGHBOR": {
       "name": "Howdy Neighbor",
@@ -1396,7 +1396,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3ddd98384b8dd35ff7eb7de69c5c823886945cce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "ACHIEVEMENT_NO_GUNS": {
       "name": "I Ain't 'Fraid of No Guns",
@@ -1477,7 +1477,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/64cd31b50bb477f4b46d4249665e13a072a6b895.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "ACHIEVEMENT_CAMPAIGN_INSPIRING_POET": {
       "name": "Inspiring Poet",
@@ -1657,7 +1657,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/702fffd598a50b4713d2bc274cc65d4a0b45a610.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ACHIEVEMENT_LANDSLIDE": {
       "name": "Landslide Election",
@@ -1765,7 +1765,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/7743b184a7b5dc50b3c683c2181aabe39c6d8135.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "MAGYARS_VICTORY": {
       "name": "Magyar Victory",
@@ -1846,7 +1846,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/a8e14cca720d4ff47e3b5dedc65bb5e5df3657f0.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ACHIEVEMENT_MARATHONOMACHOS": {
       "name": "Marathonomachos",
@@ -1945,7 +1945,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c51236f24d1472c2c835647d0328950a4d09e1ea.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "ACHIEVEMENT_CAMPAIGN_BATTLE_FOR_GREECE_COMPLETED": {
       "name": "Nemesis",
@@ -2062,7 +2062,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/18022140fe5d49574522ce14fb54f27fd87efc52.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "ACHIEVEMENT_NUMBERS_BEAT_EVERYTHING": {
       "name": "Numerous As the Grains of Sand",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2359,7 +2359,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c0f4bf3603d399e428257f54b706fad13292eecf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ACHIEVEMENT_EASIEST_AI": {
       "name": "Rest in Peace",
@@ -2413,7 +2413,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b352418d975e1b8fb20ffbc71dd3a63a33c0d538.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "ACHIEVEMENT_ALARIC_SPEED_RUN": {
       "name": "Rome Was Destroyed in One Day",
@@ -2449,7 +2449,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/5873f0aef965ae8db6ffb6e9842eb9ca102c37e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "ACHIEVEMENT_SAXON_REVENGE": {
       "name": "Saxon Revenge",
@@ -2467,7 +2467,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/47e89b11118d24592089d9d0a488e09fd548f89e.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "ACHIEVEMENT_SEEDS_OF_THEIR_OWN_DESTRUCTION": {
       "name": "Seeds of Their Own Destruction",
@@ -2548,7 +2548,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/df0c5240d504511a5dd6e3766ea705ebbe8d2439.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Lords of the West",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "ACHIEVEMENT_SING_GODDESS_THE_WRATH_OF_ALEXANDER": {
       "name": "Sing, Goddess, the Wrath of Alexander",
@@ -2557,7 +2557,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/264987d4242c72cdd5e70e6624f87aae445b58ee.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Alexander the Great",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "SLAVS_VICTORY": {
       "name": "Slavic Victory",
@@ -2989,7 +2989,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/77a6b6983509cdca67fcee98139b48b15aaba075.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "TUPI_VICTORY": {
       "name": "Tupi Victory",
@@ -3097,7 +3097,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1dd93140bfe0e259ae6599dfdf05b3a3d8e8a28b.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "ACHIEVEMENT_WEI_MARCH_ON_OUR_STOMACHS": {
       "name": "Wei March on Our Stomachs",
@@ -3133,7 +3133,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/692530f3676cb0691b45a7b0651d75f191836fd9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "ACHIEVEMENT_MODERATE_AI": {
       "name": "With Moderation",

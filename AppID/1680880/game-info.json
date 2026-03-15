@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.5"
     },
     "STEALTH": {
       "name": "Barely There",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     },
     "LOCATION_HUNDRED": {
       "name": "Explorer: Trailblazer",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.5"
     },
     "MAGIC_FLOWER": {
       "name": "Help Me Out Here",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.5"
     },
     "LEAPFROG": {
       "name": "Leapfrogger",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.7"
+      "percent": "58.6"
     },
     "CHAPTER_05_CLEAR": {
       "name": "Might and Main",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/b2c4907302ef49459272ac8ac98d25529a0f18bf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "SUBCON_DANCE": {
       "name": "Moves",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/b2c4907302ef49459272ac8ac98d25529a0f18bf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.7"
     },
     "CAMP": {
       "name": "Outdoorsperson",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "CHAPTER_02_CLEAR": {
       "name": "Stuck",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/b2c4907302ef49459272ac8ac98d25529a0f18bf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.9"
+      "percent": "79.8"
     },
     "CHAPTER_07_CLEAR": {
       "name": "The Hue of Blue",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.6"
     },
     "CHALLENGE_TEN": {
       "name": "Through the Eyes of Another: Seer",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.5"
+      "percent": "72.4"
     },
     "JUSTCOUNTER": {
       "name": "Tit for Tat",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "MAGIC_IVY": {
       "name": "Wildfire",

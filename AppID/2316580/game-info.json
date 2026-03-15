@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/9574c10ca28813d09277427a0d4d40170252b855.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "43.8"
     },
     "CompleteAllCombatTrials": {
       "name": "A Warrior's Way",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/f34ea344f8beb796749187ed4a9180a22383a67c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.6"
+      "percent": "73.5"
     },
     "BeginTheJourney": {
       "name": "Hear my Plea",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/af0c43ac5c70c52bed8ea61ada430b8d391376e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "Kill3Enemies1Tornado": {
       "name": "I am the Sun",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/2f87251413db4cf2ea85fce953a44eca32a10edd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "UpgradeAllAbilities": {
       "name": "Shaman of All Trades",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/b2cdf0beacf59b0a4010232fe01937454a50027b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "CollectAllTrinkets": {
       "name": "The Art of Trinketry",

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/edac2443959f6ffe6c7966e93471b6f330187760.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.1"
+      "percent": "63.0"
     },
     "Achievement_GOSCC_a11": {
       "name": "At the Precipice",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/da1f798223982f30df4c336230fc11ee2e01802f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.5"
+      "percent": "70.4"
     },
     "Achievement_GOSCC_a17": {
       "name": "Catch!",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fede16ba4ca521f82893eff519a23cb7d5cab7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.0"
     },
     "Achievement_GOSCC_a41": {
       "name": "Cobra Cal",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/f91ea8630b59ea500878402171efe902cd031c9b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "Achievement_GOSCC_a7": {
       "name": "For the Path",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e0093335c680d62119cbdba25d0a4150fe943d09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.6"
+      "percent": "55.5"
     },
     "Achievement_GOSCC_a48": {
       "name": "Gambler",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/479b4513bc6fe88e72250b45be1e1e8b5a4c1e4f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.1"
+      "percent": "74.0"
     },
     "Achievement_GOSCC_a40": {
       "name": "Greezy Money",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a077ca775783da78147f0cc778b1ade9ae700109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "Achievement_GOSCC_a34": {
       "name": "It's a Trap",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/29b82e11986b16f0feef9938088b201781099381.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.2"
     },
     "Achievement_GOSCC_a35": {
       "name": "Max Capacity",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/c5a7621c6e58a58b932e90aef3640e0e3cb9a1cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "37.9"
     },
     "Achievement_GOSCC_a44": {
       "name": "Road House",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/463f479d0a561e55fe61cec124dcf0f5fa2c631f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "Achievement_GOSCC_a33": {
       "name": "Skywalker",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/05c4791f895dc41920fbba66f9b57cde9809e776.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.0"
     },
     "Achievement_GOSCC_a9": {
       "name": "Tanalorr Bound",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/d788ab673247db409aa8517cb06db09edecf2abc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "Achievement_GOSCC_a52": {
       "name": "The Jedi Path",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/0f4968223805f436af23df4d582cea5b011d0ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.3"
     },
     "Achievement_GOSCC_a29": {
       "name": "There Is No Try",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/b5599a4da151d8f43a3ba0a507c9f3a24cadbf93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.1"
+      "percent": "63.0"
     },
     "Achievement_GOSCC_a32": {
       "name": "They're Probably Fine",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e3e33ae4b4701c80bb674114787ddcb61d2922cd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.7"
     },
     "Achievement_GOSCC_a19": {
       "name": "This Is Canon",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a4780878a48ac43d940ea91983240dab4794b354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "Achievement_GOSCC_a10": {
       "name": "Tragedy",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a714a09f573343114e3baba8c75df8cb037ad569.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.0"
     },
     "Achievement_GOSCC_a38": {
       "name": "Who Gives a Puck",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fcc94b77e3c8f048110604eb77e2856bb04a3a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.1"
     },
     "Achievement_GOSCC_a16": {
       "name": "You've Got A Friend",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/143e3498dd38775b582ca330284eebb349b0260f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     }
   },
   "platform": "EA",
