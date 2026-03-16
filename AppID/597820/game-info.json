@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/d205b4baf2f11b6acc610a7d353069cc38e39d6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "ACH_CONSCIOUS": {
       "name": "Conscious",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/10d4ea07562ca30a44ace895c62595b512dc0130.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "ACH_END_OF_THE_RAINBOW": {
       "name": "End of the Rainbow",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/635f043384c779c4f22385d6de268b671435a677.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "ACH_PARAGON": {
       "name": "Paragon",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/5bf7b8f84da093d2d3dc915f87ad8980f0e91ceb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "ACH_STARSTRUCK": {
       "name": "Starstruck",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/a2f963d194c3bf96e8e7eaa0c4033bf6c6a374ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.5"
+      "percent": "78.4"
     },
     "ACH_THE_DRAGON": {
       "name": "The Dragon",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/337440ad94e4ba66f8117408eae32bda90ae1256.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "ACH_ZOO_DO": {
       "name": "Zoo-do",
