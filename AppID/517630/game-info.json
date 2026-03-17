@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/91a213806f51f0b101717da67d533c147219c3e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "ach_b3": {
       "name": "A Nightmare On Kusi Street",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/810b6338f8488aec37b9345241d93d55af8650a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "ach_complete_campaign_tropical_storm": {
       "name": "Bring It Down!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/ea763c5fb926b217e734771546063f9a04285bf5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "ach_aoc_tier": {
       "name": "Chaos Milestone",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/77feb1f03d7efc77dbf6c78a8fe86a90829ab8d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "ach_c8": {
       "name": "Hover or Die",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/a0ae3490ce0052048b88a6638c03514aecafa193.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "ach_retooler_booster_only": {
       "name": "Lift Off",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/c22326ebc7e0d16991f402e3fdd4191d1129022d.jpg",
       "hidden": false,
       "group": "Just Cause™ 4: Los Demonios",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ach_c6": {
       "name": "Skitchin'",

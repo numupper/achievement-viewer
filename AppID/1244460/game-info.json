@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/df360deeaa37311163a3886bca480cb1c679413e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.4"
     },
     "DestroyJeepByDriving": {
       "name": "Insurance Claim",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/c9a04ddadccc81195e6c35f19569c43f56026328.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "BoughtADinosaurFromMarketplace": {
       "name": "Pleasure doing business with you",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/d68510ff7a52f4175eb15981473ae4d45ba3bda2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "ReachWelfareLevelTen": {
       "name": "Veterinary Wonder",
