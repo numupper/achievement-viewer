@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/66fe47bf162b180fc6f5aa9c72c3c6891a78dda3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.3"
     },
     "CH2_S2A_F_BIRD": {
       "name": "Bird Spotting",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/1ecec62f666ee51eef4e1e1603cfd0b53711bb18.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.7"
     },
     "CH4_COLLECT": {
       "name": "Emotional Archeologist",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/ef4d99264c26c3e4e79b9a2cee0e73ebab270f43.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "CH1_S3C_C_BC": {
       "name": "Officer Fish",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/1823de40b4a844af456dd48e1a916aab42517a00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "CH2_S2E_C_GUMMY": {
       "name": "Pro Tip",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/f9102079a8786ddd1afe23d1eacbb245e3d28c5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.2"
     },
     "CH5_S2C_C_BC": {
       "name": "Some Kind of Fight",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/933de7ff4b18ac07d12543e0967b6e560e378907.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.4"
     },
     "CH2_S2G_C_BUTTON": {
       "name": "Time For Something New",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/7b0f1b154a0d834d8a608fcf5c428abbe058d925.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "62.8"
     },
     "CH5_S5A_C_DIVER": {
       "name": "You're a Helldiver Now",

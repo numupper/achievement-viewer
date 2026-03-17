@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/b0e0a5c5f24d0b831baac3d7b14fd35598ee4343.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ACH_FTUE": {
       "name": "Builder",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/27e3242eb580be553c2217dad9d77645305e02ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     }
   },
   "platform": null,
