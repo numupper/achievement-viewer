@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/46e89da08176a051f6a3a660a87ddd27a45be84c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.0"
+      "percent": "74.1"
     },
     "DESTROY_MONUMENT": {
       "name": "Dethroner",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/d2edac5f69d3de516956ec78b83e09a2bd4d294b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "RELEASE_HOT_AIR_BALLOON": {
       "name": "Pup's Odyssey",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/fe8514e43fd12c13685019b3d73033142412ce35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.7"
+      "percent": "73.8"
     },
     "MAKE_SECRET_SOUP": {
       "name": "Secret Soup",

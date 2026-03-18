@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/250620/d38dad23688c9ea4771bddf8ea7fd42d515d88ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "Drawings02": {
       "name": "Cave Drawings",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/250620/87b6691faa0fb18400fa412d393d8d94727c4d83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "DrawingsAll": {
       "name": "Collected all drawings",

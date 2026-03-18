@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/713cf9d3629f97da9e500d053baa64a56cd949fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "35.8"
     },
     "CH3_S2A_C_DOLLAR": {
       "name": "Ethan's Dollar",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/69d5c83085a08a23394a159178c6b725c43b004a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "42.9"
     },
     "CH4_S1A_F_JELLY": {
       "name": "Exactly 731",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/1eeb32c6a6d898885bc5d40b877e1f8f72c24577.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "51.8"
     },
     "CH2_S2F_F_SAD": {
       "name": "Found Dog!",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/41e766570edfcf6c888bcf3aca9d294af6a705c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     },
     "CH5_S2D_C_GUITAR": {
       "name": "Guitar Strings",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/ea0a64d5e4dd8c7b7efd4db39ea132667666aeb7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "CH4_S1B_C_ROSE": {
       "name": "Pressed Rose",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/ff319ef07e6630db752c9e60e9d0b7f2f20b6ce2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.3"
     },
     "CH2_COMPLETE": {
       "name": "Something You Build",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/5c820c6ab926c6c9a85ed36eaf69e5464d9e6796.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.4"
     },
     "CH5_COMPLETE": {
       "name": "The Only Promise is The Adventure",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/dc31a5e15370f7b8dc499e7835a144906bfe1c00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.8"
+      "percent": "46.7"
     },
     "CH3_S2C_C_VDISH": {
       "name": "Valkyrie's Dish",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/52ec745d0385acac39a5895b397e627dcdb649ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.3"
     }
   },
   "platform": null,

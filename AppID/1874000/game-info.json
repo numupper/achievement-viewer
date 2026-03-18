@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/4d0f580b8897b5afbdbb10b3bd8d4d6e8ae95d45.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.0"
     },
     "2": {
       "name": "A Trick of the Light",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/3033904d3be3ba40dce211f431a5e3408cfe947a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.1"
     },
     "11": {
       "name": "Archival Footage",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/66dd4f84fbcac711c0f7be4d1670c966bf00aa51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.7"
     },
     "14": {
       "name": "Art Restoration",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/6369f5b17f0acd27f11920acdfaf41a809d59fce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.4"
     },
     "13": {
       "name": "Bay or Bae",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/98551907acb4454585142156868b7292d6a8b143.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.5"
     },
     "3": {
       "name": "Bullet, Proof",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/25b6e6b376526206c4f25953542f043e0fc1f751.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "66.5"
     },
     "28": {
       "name": "Clue Me In",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/d1a6a7446f9183a552ec266abe63d98b729c73b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.6"
+      "percent": "57.9"
     },
     "5": {
       "name": "Face to Façade",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/6f2d32d5623b502462ebf805888d40be7f78cbd8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "61.5"
     },
     "7": {
       "name": "Fade to White",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/9040fc427f7785765f807b402aa4b9cca5fc21ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "59.8"
     },
     "30": {
       "name": "Favor Saver",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/a9ff54f3712fdd4cff3acb9dcac4752865b21e65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.0"
     },
     "18": {
       "name": "Frame Fatale",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/5aad36ee102520126dc10d0b58a8e541b15e0c38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "26.9"
     },
     "35": {
       "name": "Heavy Petting",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/db063c4338baf12d1ae77f65e43cabd95738e4c7.jpg",
       "hidden": true,
       "group": "Life is Strange: Double Exposure Ultimate Upgrade",
-      "percent": "13.9"
+      "percent": "13.7"
     },
     "16": {
       "name": "Home Sweet Home",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/f418b39e405961702d745f3957b3506c7818a4a4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.4"
+      "percent": "58.6"
     },
     "22": {
       "name": "It's Complicated",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/b01a252abb76984b1ff1b7ab51633040596d9932.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.4"
     },
     "15": {
       "name": "Loyal Flush",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/f33f1e26066187a7da336d8eb51c16d15a26307c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.2"
     },
     "34": {
       "name": "Nothing Lasts Fur-Ever",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/5ba170f43de36b4d128415fd083496044fe32dda.jpg",
       "hidden": true,
       "group": "Life is Strange: Double Exposure Ultimate Upgrade",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "20": {
       "name": "Only Eyes for the Bad Boy",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/969a6179199e51c8aefcf5f926ca31bcda5b1c14.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "26": {
       "name": "Page Turner",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/95fe5507db9a13b335aa25863be21a2509f36fd7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "58.6"
     },
     "27": {
       "name": "Patronizing (The Good Kind)",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/9e7a6e6909b28e180ab76572d665b686a83346e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.8"
     },
     "32": {
       "name": "Platypus Genius",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/5fc6fb04f01a9ff1b9cc47240e4e188429fb861c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "31": {
       "name": "Putting the \"Cap\" in \"Caper\"",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/ac60e6059060438e153b76a533b3392d51b18283.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.4"
     },
     "21": {
       "name": "Romantically Disentangled",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/7ccb51cfefac0b73b1149b3115b2111af36ebe29.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "6": {
       "name": "Selfie Care",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/abeffa09913b8138f12656a08736e95e2f404a05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.1"
     },
     "1": {
       "name": "Split Decision",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/884f8d7010ba8d677173fa382b1c613d9d63071a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.5"
+      "percent": "77.1"
     },
     "9": {
       "name": "Tempest Fugit",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/687320ff72adcf5a6165b05cc9a905f1b4478952.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.6"
+      "percent": "57.9"
     },
     "17": {
       "name": "The Mail Gaze",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/7dc2518fda8905ad03af68a0c518c811bc33f8e4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.8"
+      "percent": "77.4"
     },
     "29": {
       "name": "Thinking Outside the Box",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/5bafbb8eb2606568d4e5638e604c5b0a47c067bb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.4"
     },
     "25": {
       "name": "Thirst Trip",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/5aa408cccfe0c00346726e0dc3f674cb4d861587.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.3"
     },
     "10": {
       "name": "Viewfinding",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/581c4d449318806743603db70e35cff6829d92a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.7"
     }
   },
   "platform": null,

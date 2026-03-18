@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/df360deeaa37311163a3886bca480cb1c679413e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "DestroyJeepByDriving": {
       "name": "Insurance Claim",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/c9a04ddadccc81195e6c35f19569c43f56026328.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "BoughtADinosaurFromMarketplace": {
       "name": "Pleasure doing business with you",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/8dd193bab2002bb6538c1994532c91d03e2972f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.6"
     },
     "ReleaseMosasaurus": {
       "name": "That's No Tadpole",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/d68510ff7a52f4175eb15981473ae4d45ba3bda2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "ReachWelfareLevelTen": {
       "name": "Veterinary Wonder",
