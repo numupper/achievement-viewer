@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/44259d2a535871235160b7f3c55687e8ed6cf864.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.0"
     },
     "ACHIEVEMENT_019": {
       "name": "Explosive Ending",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/874d805925155c8015e89b93f98c92ac373ada00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "ACHIEVEMENT_097": {
       "name": "Friend of Ford",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/40bd40a79905f8993d11d2596cd71387cd718d64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "ACHIEVEMENT_061": {
       "name": "Project Dagger",

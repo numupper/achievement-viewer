@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/b0e0a5c5f24d0b831baac3d7b14fd35598ee4343.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "ACH_FTUE": {
       "name": "Builder",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/3f406e96cb081e72552944856c05b17eaf8e828e.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "ACH_ARTHOUSE_18": {
       "name": "Rescuer",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/27e3242eb580be553c2217dad9d77645305e02ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     }
   },
   "platform": null,

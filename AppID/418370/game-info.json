@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/90ade599117c7a4de71bc2e27144351c4f3bb34f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "ACHIEVEMENT_29": {
       "name": "Be Kind, Please Rewind",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/8ce92df6ffcf3d81e5c885a19dc567fbb297289f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "ACHIEVEMENT_12": {
       "name": "Behind Closed Doors",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/143a7ac86c81bb8b3e5f447a595d4496938647f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.7"
     },
     "ACHIEVEMENT_08": {
       "name": "Just A Memory Now",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/5cd0c5fc5f54f6f25eaa1d0b652a233e1404ff48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.4"
     },
     "ACHIEVEMENT_47": {
       "name": "One Instinct: Survival",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/e30e7d7b0ea08cec9b4b17f71827dc7185f72af1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.7"
     },
     "ACHIEVEMENT_28": {
       "name": "Out Before Dessert",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/90ac104163bc28e4503e866da4a155fc775baba0.jpg",
       "hidden": false,
       "group": "End Of Zoe",
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "ACHIEVEMENT_41": {
       "name": "Ratcatcher",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/ec29e6ac1504d8e40487a1e15af5ad5acca142a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ACHIEVEMENT_01": {
       "name": "She's Alive",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/4636f22e594bf6c4c32503195fa756d4d9426f7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.1"
+      "percent": "54.2"
     },
     "ACHIEVEMENT_10": {
       "name": "The Nightmare's Finally Over",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/0762688d84fc5a665637aca0594fcfb0eda33348.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.8"
+      "percent": "59.9"
     },
     "ACHIEVEMENT_05": {
       "name": "You Better Start Running",
