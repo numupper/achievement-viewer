@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/520eaa4021bf7ec7126b64b2931a7ef00d0ca471.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "FCPrimal_Ach_15": {
       "name": "Endangered",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/5befe7e72c95c95d3c4be9de8c37d51a2df8bfb5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "FCPrimal_Ach_16": {
       "name": "Good Boy",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/2f9a2cd6a86b78bf60966f40c7a7559aa96dadbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "FCPrimal_Ach_13": {
       "name": "Here Kitty",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/8ba10036fcada262a3442ae4fc4423f6f6b077b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "FCPrimal_Ach_3": {
       "name": "Liberator",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d2bc61f5196f4a3b0bfc4f686adda51a448a7f29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "FCPrimal_Ach_23": {
       "name": "Skewered",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/0a7d479051acf3ff48d2ff94b358d99aff31bc57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "FCPrimal_Ach_7": {
       "name": "Spiritual Advisor",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/82e601d7b0afa6820c68589eec197340deb6e5a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.1"
     },
     "FCPrimal_Ach_18": {
       "name": "Subdivisions",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/31c6f754a65618ca6568f7494f891b4c4e01195c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "FCPrimal_Ach_55": {
       "name": "SURVIVAL OF THE FITTEST",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1f68213e7960d313257f2facbd8cdbb320a01333.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "FCPrimal_Ach_4": {
       "name": "Uncaged",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/c72b07d23104c151878472ee2516acb3e527855b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     }
   },
   "platform": "Ubisoft Connect",

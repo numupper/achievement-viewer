@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "LOCATION_FIFTY": {
       "name": "Explorer: Pathfinder",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "48.8"
     },
     "LOCATION_HUNDRED": {
       "name": "Explorer: Trailblazer",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/b2c4907302ef49459272ac8ac98d25529a0f18bf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "CAMP": {
       "name": "Outdoorsperson",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1680880/2a511730603354e44305243c5bd7ca6936f0b53b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "CRAFT_FIRST": {
       "name": "Tinkerer",

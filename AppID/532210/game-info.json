@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/5c04458aaeba96e4ce4a38ab82a24e50a606f89d.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 4",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "ACH_E2_AllCollectibles": {
       "name": "A Private Journey",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/aba8da43042e6214eba092224cc0fcef98597920.jpg",
       "hidden": true,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "ACH_E4_AllCollectibles": {
       "name": "Archivist",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/2e3d1c3e5b3fbadc32d91f58a06e946a19ccad99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ACH_E2_DrawSequ": {
       "name": "Draw The Line",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/aefea5b47acdd9799c634a3cf6e79fd36748b636.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 2",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "ACH_E2_FinishEp": {
       "name": "Free Spirits",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/c9549462c9fad45d79f69329b003c0d2c0e21161.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 2",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ACH_E5_FinishEp": {
       "name": "Homeward Bound",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/7b9d7667c173f37e668142be19d39bbe30d43691.jpg",
       "hidden": true,
       "group": "Life is Strange 2 - Episode 5",
-      "percent": "21.6"
+      "percent": "21.5"
     },
     "ACH_E4_Coll2": {
       "name": "Lone Wolf",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/72e912744fa979baa3ec6a2700a1c1467113e334.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ACH_E5_Coll4": {
       "name": "Remorseful",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/7f67941844cb3558aa7708f14e3e59687cf3c8fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "ACH_E3_Coll2": {
       "name": "Train Of Thought",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/f8fc26ecd238db862d80e9a06bf4302f9ea00bdb.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "ACH_WolfPack": {
       "name": "Wolf Pack",

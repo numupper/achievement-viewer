@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/80ccf11e6597a17b99b54b6bb7cef0abae919a03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "AchEvt_CoolInACrysis": {
       "name": "Cool In A Crysis",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a0186f34bd02fe6ebe09c9a19c3da6d9f528538e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "AchEvt_CrysisControlled": {
       "name": "Crysis Controlled",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/f60496643c5d37d49e973011f336977ffd294891.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "AchEvt_EasyDarlin": {
       "name": "Easy Darlin'",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/7f323573ca43f22c677d638798c8694b73972a6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.7"
     },
     "AchEvt_EveryOccasion": {
       "name": "Something For Every Occasion",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/803c7aa3e2b7363d41487658439091c97908ff62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "AchEvt_SpecialForces": {
       "name": "Special Forces",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/58863a789ecf8dfb39dae042d1413a688a9f2f52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "AchEvt_Strickland": {
       "name": "Strickland Would Be Proud",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/69b7c9ba75d7671ee9d0a5ed6d1deb5261a8e491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "AchEvt_TeamRaptor": {
       "name": "Team Raptor",

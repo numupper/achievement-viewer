@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7ecf8f5387dd1fb2e358caf32b156bb071e8e8e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "empire_tier_5": {
       "name": "A Golden Age",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Saints Row - The Heist and the Hazardous",
-      "percent": "12.8"
+      "percent": "12.9"
     },
     "use_pinata_stick_on_pinata_bomb": {
       "name": "Fiesta Time",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Saints Row - The Heist and the Hazardous",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "unlock_all_vehicle_specials": {
       "name": "Heard You Like Wheels",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f7ade00487d6ca39a690847d7976a36e8a969190.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "first_building_placed": {
       "name": "Landlord",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/2fe9be47ca4711e6a9c6537a71720d8b3107fcfe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "tourist_finale": {
       "name": "Living the Dream",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4279c9cc2182674111774b200deb0805b422233f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "empire_tier_3": {
       "name": "Power Players",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/a4c102d10566e154a539fb791a2af8ee69886b71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "prank_coop_partner": {
       "name": "Prankster",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Saints Row - The Heist and the Hazardous",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "beat_loyalty_missions": {
       "name": "Quality Time",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "dustfaire_complete_mission_3": {
       "name": "Rod Warrior",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/7c9d0b6589346cb3c15eeaa159ef7df0536bddec.jpg",
       "hidden": false,
       "group": "Saints Row - A song of Ice and Dust",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "buy_1_thing_from_every_store": {
       "name": "Shopping Spree",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/9f41b50a93bc4234016483ba2de36881727b5dbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "purchase_2_emotes": {
       "name": "Smooth Moves",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ff69d9489ad1bd496aa4d701597411352d02139f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "kill_enemy_with_tetherd_object": {
       "name": "Wrecking Ball",

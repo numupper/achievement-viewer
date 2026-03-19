@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/edac2443959f6ffe6c7966e93471b6f330187760.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.3"
     },
     "Achievement_GOSCC_a11": {
       "name": "At the Precipice",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/75d8d6b54ff1e9cf8a675d7efa454e44586f40de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.3"
     },
     "Achievement_GOSCC_a53": {
       "name": "Blood, Sweat, and Tears",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/da1f798223982f30df4c336230fc11ee2e01802f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.0"
+      "percent": "69.9"
     },
     "Achievement_GOSCC_a17": {
       "name": "Catch!",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e0093335c680d62119cbdba25d0a4150fe943d09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "54.8"
     },
     "Achievement_GOSCC_a48": {
       "name": "Gambler",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/60edd4fe2b9baa27df31875c7348da2b767f18d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "Achievement_GOSCC_a21": {
       "name": "Get Down From There",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/dfb40505a69d46ee8156c1352e740bb8c4c29038.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "Achievement_GOSCC_a47": {
       "name": "Growth Spurt",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/29e798c5feb75df9b8960ddc39840ba09e57fa43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "Achievement_GOSCC_a14": {
       "name": "Han Slowlo",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a077ca775783da78147f0cc778b1ade9ae700109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.1"
     },
     "Achievement_GOSCC_a34": {
       "name": "It's a Trap",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/29b82e11986b16f0feef9938088b201781099381.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.7"
     },
     "Achievement_GOSCC_a35": {
       "name": "Max Capacity",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a96126fede09a0319e520686e84a557796914109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "Achievement_GOSCC_a23": {
       "name": "Mirror Match",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/fc5eac5ee6c3ed84cc94eb4fe1709b7392671fa1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.1"
     },
     "Achievement_GOSCC_a39": {
       "name": "Perk of the Job",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/fff318418da1f5a538505a54903aa5a88f3c84a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.7"
+      "percent": "82.6"
     },
     "Achievement_GOSCC_a46": {
       "name": "Skoova Diving",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/463f479d0a561e55fe61cec124dcf0f5fa2c631f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "Achievement_GOSCC_a33": {
       "name": "Skywalker",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/2a2540d6a067149dc855a65e9ca2eace87719ce6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.8"
+      "percent": "52.7"
     },
     "Achievement_GOSCC_a25": {
       "name": "Slam Dunk",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/ba712dcdafe11d53141d91e5f1081fe96972e457.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "Achievement_GOSCC_a15": {
       "name": "So Uncivilized",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/d788ab673247db409aa8517cb06db09edecf2abc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.1"
     },
     "Achievement_GOSCC_a52": {
       "name": "The Jedi Path",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/43cbb4421e2f810316f27973b40291b5212eedb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "Achievement_GOSCC_a4": {
       "name": "The Past Made Present",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/0f4968223805f436af23df4d582cea5b011d0ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.8"
+      "percent": "66.7"
     },
     "Achievement_GOSCC_a29": {
       "name": "There Is No Try",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a4780878a48ac43d940ea91983240dab4794b354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "Achievement_GOSCC_a10": {
       "name": "Tragedy",

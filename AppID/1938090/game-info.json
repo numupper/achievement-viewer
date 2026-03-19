@@ -1,7 +1,7 @@
 {
   "appid": "1938090",
   "name": "Call of Duty®",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/06107605348820087bb51ca89ed620c22fe559aa/header.jpg?t=1773245433",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/06107605348820087bb51ca89ed620c22fe559aa/header.jpg?t=1773859543",
   "achievements": {
     "jup_sp_141ready": {
       "name": "141 Ready",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/75586b721d50005f9c2082439b10f16621ce8b61.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "sat_mp_frontlineoffensive": {
       "name": "Frontline Offensive",
@@ -811,7 +811,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/a4575b08d37675a9fbc262d209c654dadca9807f.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "sat_mp_maximumoverdrive": {
       "name": "Maximum Overdrive",

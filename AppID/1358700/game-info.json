@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "TROPHY_DLC1_TALKED_TO_BAHAMUT": {
       "name": "Bahamut's Admonition",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "TROPHY_USE_JOB_CREST": {
       "name": "Crest Bearer",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.1"
     },
     "TROPHY_MISSION_REMEMBERING_HOME": {
       "name": "Duty's Course",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "TROPHY_UNLOCKED_ALL_JOB": {
       "name": "Jack-of-All-Trades",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "TROPHY_DLC2_SUMMON_MONSTER": {
       "name": "Monster Summoner",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "TROPHY_DEFEAT_USAB": {
       "name": "No Escape",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "TROPHY_UNLOCKED_ASSASSIN": {
       "name": "Path of the Assassin",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "TROPHY_DLC1_UNLOCKED_EVOKER": {
       "name": "Path of the Evoker",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "TROPHY_DLC3_ACQUIRED_GUN": {
       "name": "Pull the Trigger",

@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/0092b3f0e694005fd25123c05062226644e88990.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.4"
+      "percent": "53.3"
     },
     "ach_gauss_dungeon_introductory": {
       "name": "Empire of Thorns",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/b299b19e97d99a3c5d18da42431a7bfa86f049ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "65.8"
     },
     "ach_character_level_2": {
       "name": "Leave Humanity Behind",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/4305fe5064792619cccade09d891ab789c1d9694.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.5"
+      "percent": "65.4"
     },
     "ach_accolades_class_2": {
       "name": "Outrider, First Class",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/d4ce4e43ef37d245f83f2ba2b2e786981b54dbe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.0"
     },
     "ach_harvest_locations": {
       "name": "Prospector",

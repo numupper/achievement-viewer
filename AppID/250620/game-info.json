@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/250620/d38dad23688c9ea4771bddf8ea7fd42d515d88ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "Drawings02": {
       "name": "Cave Drawings",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/250620/87b6691faa0fb18400fa412d393d8d94727c4d83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "DrawingsAll": {
       "name": "Collected all drawings",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/250620/f165da45ff6983e00c75b337876def58cb5b4b36.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "Drawings01": {
       "name": "House Drawings",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/250620/87798995a5e58511e5faf891e314dc6972eca18c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "DrawingsDLC": {
       "name": "Prologue Drawings",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/250620/ead8e63f41ef8486e47a624f57fdbec810d29d9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     }
   },
   "platform": "Epic Games",

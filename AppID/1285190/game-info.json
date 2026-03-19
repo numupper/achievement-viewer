@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/58785c8cfca8f343dffb09275edaaa2f0ab33bce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.5"
     },
     "Achievement_26": {
       "name": "As If Moved by an Occult Hand",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/240b0701c0324b483745f9a7cb3f322825eb7bc4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.2"
     },
     "Achievement_08": {
       "name": "Brand Equity",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c69ef3048fd3fd0bf60f4613c808ef2bb90d4b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "Achievement_16": {
       "name": "Churn the Burn",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c22d44aa3605dfffd2645ddae7ef86ec09007ede.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "Achievement_00": {
       "name": "Crimson Rising",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "41.9"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4d4788693a81a35ddf9b84f3f5b84550d34b8f97.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.2"
     },
     "Achievement_13": {
       "name": "Freelance, but Not for Free",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/174280b6f5d869028d94f9c2dda3e0af56464cec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "Achievement_03": {
       "name": "Gear Five!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/468a0dbf44b8b90e70a7258c9b0122c441f6dc9f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "Achievement_28": {
       "name": "Howling on the Moon",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/528e2c390a04bc3f81b96a660231bc43dca5aa73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.2"
     },
     "Achievement_27": {
       "name": "Long Live the Queen",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/673425f550719635a1f4b0a6c0815d99fdd5b0e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.4"
     },
     "Achievement_22": {
       "name": "Mole Money, Mole Problems",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3cd97eead19624c1387c56aecdc1b6698bd81f3b.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/631aa5608bae7533f4b2b1b90c5a3c09bee8929d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.3"
+      "percent": "75.2"
     },
     "Achievement_11": {
       "name": "Reverse Abduction",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/02e90dbf3edb76faf79cb12c5ba867ac8b39000e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "Achievement_33": {
       "name": "Rift Incompatible",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/f432b917f4fc372c96012891e6170312bf35e67f.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.0"
+      "percent": "1.9"
     },
     "Achievement_04": {
       "name": "The Lookbook is the Cookbook",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b910717f8580dcbd7c3f296cc8949e969c92cba7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.2"
     },
     "Achievement_15": {
       "name": "The Mountain Provides",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3e20c4f19361b30a70d90a0e33024078f1532dbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "Achievement_14": {
       "name": "Unfaded",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/13fb54c84e197796a4915cb233a17e26b8edfec7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "Achievement_17": {
       "name": "Useful Citizen",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/5a0a9edcf8381e374664dea5608faf93787bdfb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "Achievement_21": {
       "name": "Who's the Boss?",
