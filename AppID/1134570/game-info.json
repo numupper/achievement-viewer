@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1134570/2dafce94323c343bd8cbd2e3eca337cdcb795c14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.9"
     },
     "ach_erase_the_past": {
       "name": "Erase the past",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1134570/bc23b09675a39b365711224e867e983fa8e77c70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     }
   },
   "platform": null,
