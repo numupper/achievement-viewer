@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b9eee125f351f8461e6ac3e516eb70ee99c86fcb.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "ACHIEVEMENT_ADMIRABLE_ADMIRAL": {
       "name": "Admirable Admiral",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/bc3c230685c02d364a6219b7a11a78b8bf96ab20.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Victors and Vanquished",
-      "percent": "1.0"
+      "percent": "0.9"
     },
     "ACHIEVEMENT_AGILE_AS_A_SPARROW": {
       "name": "Agile as a Sparrow",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/daff6ca00a85590362b2acaa4eb72ff1fa0d01a2.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "10.7"
+      "percent": "10.6"
     },
     "ACHIEVEMENT_BON_VOYAGE": {
       "name": "Bon Voyage",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d2dceec8826386da4c30bc7c8a28541056111a1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "39.1"
+      "percent": "39.0"
     },
     "ACHIEVEMENT_BULLS_EYE": {
       "name": "Bull's Eye",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1aee762915379a4ccaaed3383d3d7624eb94c7c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "ACHIEVEMENT_CAMPAIGN_PERSIANS_COMPLETED": {
       "name": "Call Me Ismail",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/99efd434828ee47d63bb4f4ebc987220af55106f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "ACHIEVEMENT_CASTLE_OF_DOUBT": {
       "name": "Castle of Doubt",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/9ede239dc1aedb7c3f0e02648aab63654f5118cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "ACHIEVEMENT_EXPEDITED_DELIVERY": {
       "name": "Expedited Delivery",
@@ -982,7 +982,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/fc639726d0f12c3174f23e68dae667b78f67392b.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "ACHIEVEMENT_FASTER_THAN_A_SPEEDING_CANNONBALL": {
       "name": "Faster Than a Speeding Cannonball",
@@ -1441,7 +1441,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1a0528d9027e41d29c76eb62d3ee7fada2289048.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_I_WONDER_WHY_I_DID_THAT": {
       "name": "I Wonder Why I Did That?",
@@ -2692,7 +2692,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/e100894aab41bd36c6a9b1814c3570c2c4146b9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     },
     "ACHIEVEMENT_THE_BEST_DEFENSE": {
       "name": "The Best Defense...",
@@ -2872,7 +2872,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/17132c99d83a22c2ef6fce0175c1508a08ae0251.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "ACHIEVEMENT_THE_WONDER": {
       "name": "The Wonder, the Wonder, Noooooo...",
@@ -3106,7 +3106,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4e83184568e37d65ed9b66020a3b77a7a6144f25.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "WEI_VICTORY": {
       "name": "Wei Victory",

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d7fd4be2332acdccfcd8f77cb02175a3b6638b86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "Achievement_GOSCC_41": {
       "name": "Armaments Azure",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/6aab04ca99c7d7caf76e1894ca98209d3a6c4db9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "Achievement_GOSCC_21": {
       "name": "Diplomat",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d9482acdbfbbf6682339d8c2087be76418fb16ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.0"
+      "percent": "67.1"
     },
     "Achievement_GOSCC_20": {
       "name": "Family Business",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d1d89ddcc18d78aff99a2ec3dfff7cd91cb6b0e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.7"
     },
     "Achievement_GOSCC_24": {
       "name": "Out of Time",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/0a99d6017be7f812c0f62fc52f5f3662e1b09f6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "Achievement_GOSCC_46": {
       "name": "Periapt Viridian",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/d5b6c111232c7f84df8f30eea28a4d82450eeb16.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "Achievement_GOSCC_26": {
       "name": "Scholar",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/5f273ba1b4d2a4aa245951b73faee2ebfef725ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "Achievement_GOSCC_59": {
       "name": "Shroudfane Explorer",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/8e6a711e4653142f2961623db6f4710575565165.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "Achievement_GOSCC_49": {
       "name": "Soldier",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/533ee7cd035537cbc33d8681efb8a5ce3e58952b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "Achievement_GOSCC_62": {
       "name": "Tip of the Spear",
