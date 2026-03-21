@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/9a41079a29cd01a8ed52525b87e200283f3a4e7c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "Achievement_GOSCC_10": {
       "name": "Fastball",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/b7faf2e69c640f46704cd8b4df0ce1c3cfb143aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "Achievement_GOSCC_28": {
       "name": "Foothold",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/de6b1f37fadce06c388edb02457fd87c68209f61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.0"
     },
     "Achievement_GOSCC_50": {
       "name": "Jack Of All Trades",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/b69d1649a9385a6950873e56edbddf6108d375ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.3"
     },
     "Achievement_GOSCC_44": {
       "name": "Kitted Out",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/cc0cbc028b93cad690990d9b366662d247f06c62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "Achievement_GOSCC_27": {
       "name": "Liberation",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/590f042b3e90aa30b4159643eafa00d24668b58a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.0"
+      "percent": "71.9"
     },
     "Achievement_GOSCC_43": {
       "name": "Peak Condition",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/c2f1c7739a37591144923f41e8212600b43c0cf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "Achievement_GOSCC_6": {
       "name": "Pinpoint Shot",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/2ad9c55f74eae40000d8d98e7d7c9c01dc8c17c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "Achievement_GOSCC_52": {
       "name": "Terraformer",
