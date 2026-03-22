@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/437995cc4b176fafcabae7c15d9d1c47495f15bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.7"
     },
     "12_CompleteLevel_AbyssLabor": {
       "name": "Abyss Levoire",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/01424fdb8fc6ac3ceab415f8a84fbd3a1833cca3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "35_CompleteQuest_Digger": {
       "name": "Beep!",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/011bc02b3ccee12bd3d60774de7ed02915ca6a5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "11_KillCharacter_Behemoth": {
       "name": "Behemoth",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/c8009bd93ca48c5d247f7e1d2e2a8038538fd250.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "33_CompleteQuest_Enya": {
       "name": "Beyond Fate",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/8a797b96f7063ba0f4cba6bf3df3877f10de2ac3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "02_Activate_FirstCamp": {
       "name": "Camp Preparation",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/ec813e87e978bc705927371553509a5a5f17a95d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.0"
+      "percent": "74.1"
     },
     "18_Ending_LostMemory": {
       "name": "Cost of Lost Memories",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/4878f6ff0b14e910bbf70cd83b1ecde4d429ca39.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.4"
+      "percent": "53.5"
     },
     "14_KillCharacter_Marionette_Kill": {
       "name": "Karakuri",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/091d59c772a6253a7ccfdae43f324e1500dd514b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.7"
     },
     "25_KillCharacter_AllNative": {
       "name": "Naytiba Researcher",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/c945185b5331a92b34fcbe84d483380c96abb22e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "22_Acquire_AllRecords": {
       "name": "Records Collector",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/046f3dece50939998e49450193f076c652e6a09f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "40_CharKill_BurstSkill": {
       "name": "Relentless Destroyer",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/f85d4cc8f54baece3d7087555a41d5212fa08b11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.5"
     },
     "10_KillCharacter_Tachy_Kill": {
       "name": "Tachy",

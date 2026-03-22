@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/11c39a54d0da705b54a1f315bf24899b397b284d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "AC1_HA_BREAK_BUFFS": {
       "name": "Element of Surprise",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/49411a8f4352e68999ea790123cd0a66b54ddcf8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "SECRET_CACHE": {
       "name": "Gotham City Confidential",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/3fbd4b966dce50cecb34fc7afecb1d879d012140.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "FREEZE_1_5": {
       "name": "Quartzer Life Crisis",

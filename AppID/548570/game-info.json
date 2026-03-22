@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/b8f3897073907f25bb96d0bf7da71c6768c6e191.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "ACHIEVEMENT_050": {
       "name": "Dozing",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/874d805925155c8015e89b93f98c92ac373ada00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "ACHIEVEMENT_097": {
       "name": "Friend of Ford",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/16eacde86b9831fcd9a2819461aeec892f7663a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.1"
+      "percent": "76.2"
     },
     "ACHIEVEMENT_008": {
       "name": "Overly driven",

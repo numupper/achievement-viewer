@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/8f207e813b9b74fc183ce560b302d31c9736a98e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "ACH_TOTAL_POINTS_1": {
       "name": "#ToTheTop",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c6b83f1f700638153d8265ca27db9bb235c4be46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "33.0"
     },
     "ACH_CLUB_UNION_UNDER": {
       "name": "#Union Underground",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/35a272cb06899cd3d1fa41b298c63f067ef9b18b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "ACH_FEEl_TRAVELED_3000": {
       "name": "Adventure Seeker",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/052ac6dab72485cb6146ba22171bbbca65b31f48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.7"
     },
     "ACH_SPEED_LEAGUE_WIN_CARS": {
       "name": "Car in the Bag",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/19a9d60440d6d1e054ade61709333e2041910b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "ACH_DUEL_1": {
       "name": "Dueling Beginner",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/81b19930e546e0c455f6a95fa83ada4b92bd1f9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "ACH_FEEl_TRAVELED_1500": {
       "name": "Exploration Beginner",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/aad704fc6d8f6ddd490ae34c78380536cc2a3a43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.9"
     },
     "ACH_AIR_TIME": {
       "name": "Flight Rookie",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/a77cd72d4d1cccb28fdfb6fa6fbc99c60a9716df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "ACH_CHASE_4": {
       "name": "Invincible",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5592b74b186355f31b43b7aa07dc933b05e42e91.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ACH_AIR_TIME_2": {
       "name": "Master of the Skies",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/046d65034648f91b69cfb45bd53b216ce0f9d11a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.2"
     },
     "ACH_LEADERBOARD_50": {
       "name": "Professional",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2eb456961dfe1552889beb88ba68e099dc2f70d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "1.8"
     },
     "ACH_TUNING_MASTER_3": {
       "name": "Rebuild Legend",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b29dd77c435a78251ba0c8d4faf5f207ff6163bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.8"
+      "percent": "46.7"
     },
     "ACH_SPEED_2": {
       "name": "Speed Master",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/76358e2915765b3e0a6557ca4a931e801b9228a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.6"
     },
     "ACH_SPEED_LEAGUE_BETS_10": {
       "name": "Thrilling",
