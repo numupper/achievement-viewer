@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/4279c9cc2182674111774b200deb0805b422233f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "empire_tier_3": {
       "name": "Power Players",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "dustfaire_complete_mission_3": {
       "name": "Rod Warrior",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/daa0891c196968d38ac0a873d56fb6e960cf19c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "route_66_attractions": {
       "name": "Tourist",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/32acf1e4c5942b7b4897ab78ef76ee9b019dc519.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "43.9"
     },
     "fully_complete_a_building": {
       "name": "Work Ethic",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ff69d9489ad1bd496aa4d701597411352d02139f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "kill_enemy_with_tetherd_object": {
       "name": "Wrecking Ball",
