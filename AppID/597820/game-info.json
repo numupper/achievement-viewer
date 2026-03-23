@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/f4a2763dd90aae242c9976296b0d3efa1fab041f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "ACH_ANGLER": {
       "name": "Angler",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/77a813c330237f7c5962d83ebbf6f4c379cdd5dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.7"
     },
     "ACH_KNEEL": {
       "name": "Kneel",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/08167b8b930ca3ee5950c3d7a126f48830cca75e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "ACH_KNOCKOUT": {
       "name": "Knockout!",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/d75b6ddce2732f9823cf1b414816bac9d2db6523.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "ACH_MARINER": {
       "name": "Mariner",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/0ec31aa054df4dc6834e0c061b4c882bcac296fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "ACH_PEW_PEW": {
       "name": "Pew Pew!",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/3bf7aa2db7eb909d7ea598701dc23da203bd573f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "ACH_RODEO": {
       "name": "Rodeo",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/0e2fee509322197f02e05ba96bd86dbb747c95f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.2"
     },
     "ACH_SHOWOFF": {
       "name": "Show-off",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/8aec973fc0a3d97bea1e627135e26c6d0412cabf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "ACH_STICK_IT_TO_THEM": {
       "name": "Stick it to Them",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/3aaa03298ff1d7a7acbdaceffda8f4129ebb774e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "ACH_THUGS": {
       "name": "Thugs",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/7203c061b4254362fbc428c8ff6c2a734e7eedee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "19.9"
     },
     "ACH_WUNGFU_MASTER": {
       "name": "Wung-fu Master",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/597820/44e19405e762c2c542cd852add6b5cad09cc65ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     }
   },
   "platform": null,

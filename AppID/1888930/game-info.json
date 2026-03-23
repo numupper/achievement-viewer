@@ -1,6 +1,6 @@
 {
   "appid": "1888930",
-  "name": "The Last of Us™ Part I",
+  "name": "The Last of Us™ Parte I",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg?t=1750959031",
   "achievements": {
     "0461a39547e3a2a3": {
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/4b5978edf62e94781f90e680e1ce9e1660f5f284.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "0cc86a431a4a8154": {
       "name": "It Can't Be For Nothing",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/ab8564f6a79d68aaf0d76ab2dbf9a461d668cd3f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "628588a6ffd82ada": {
       "name": "Left Hanging",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/20a869a7a25d05fc819cee35859798035a0ee7b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "61.2"
     },
     "2143304396bed9b2": {
       "name": "Self-Help",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/c3dec52295820ec02bffc1407035a0e66a6878e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     }
   },
   "platform": null,

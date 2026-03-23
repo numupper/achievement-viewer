@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/72bf7b68f268142bc089fd8ac1e65c538b6cdd29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "ACHIEVEMENT_BLOCKADE_BREAKER": {
       "name": "Blockade Breaker",
@@ -1621,7 +1621,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41ead156897ce088f426b5da5f81cee9acd96bda.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "ACHIEVEMENT_CAMPAIGN_WU_COMPLETED": {
       "name": "King of the Southlands",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "49.6"
+      "percent": "49.7"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2368,7 +2368,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/79383871d008a8a5374e0eb23b928f9922ee1aea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "ACHIEVEMENT_OOF_NICE": {
       "name": "Rhapsody of the Bohemians",
@@ -2449,7 +2449,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/5873f0aef965ae8db6ffb6e9842eb9ca102c37e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "ACHIEVEMENT_SAXON_REVENGE": {
       "name": "Saxon Revenge",
@@ -3178,7 +3178,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/de8a08ff0301d805b102ba1744ab1866731d50e8.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "POMPEII_YAMATO_VICTORY": {
       "name": "Yamato Victory",

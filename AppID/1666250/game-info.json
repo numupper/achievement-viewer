@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/458b1a156317e47b8f88f25e22ad8aa38c42f0a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "33.0"
     },
     "ACHIEVEMENT_06": {
       "name": "Around the Clock",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/663267ba797b6463eb4ffe8f1b4a0a34e5e54969.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ACHIEVEMENT_13": {
       "name": "Bar Brawler",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1666250/04f2e9ae25ef1e8c103ac91d44354c576ed73251.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.4"
+      "percent": "84.5"
     },
     "ACHIEVEMENT_39": {
       "name": "Perfect Chemistry",
