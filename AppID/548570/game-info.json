@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/44259d2a535871235160b7f3c55687e8ed6cf864.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.0"
     },
     "ACHIEVEMENT_019": {
       "name": "Explosive Ending",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/c6c39e7a5b15d8851d06422ffcaa8a03beb5ddfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "ACHIEVEMENT_059": {
       "name": "Ground Control",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/669f6f58609ae6ce9a6267576ba5e66246012664.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     },
     "ACHIEVEMENT_045": {
       "name": "Hangtime",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/40bd40a79905f8993d11d2596cd71387cd718d64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "ACHIEVEMENT_061": {
       "name": "Project Dagger",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/548570/45c3f8641f70a4972f5b7d3c200d7eb9f004a97c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.7"
+      "percent": "71.6"
     },
     "ACHIEVEMENT_102": {
       "name": "Veritas Bonetower",

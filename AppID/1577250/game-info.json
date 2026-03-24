@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/0bf3639e4042a149c54802a110f79b1f88609c6e.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "ENLIGHTENED": {
       "name": "Enlightened",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/0cae161a2150aff6da563883fe79475d526c7452.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "ICARUS": {
       "name": "Icarus",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/2ef3bee16497286866c134d3beff470d43ca21a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.1"
     },
     "LIGHT_AT_THE_END_OF_THE_TUNNEL": {
       "name": "Light at the End of the Tunnel",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/066d3b7bc3b17fbc6f684b010fb4e60f39e8f4b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.2"
+      "percent": "72.1"
     },
     "THE_GREAT_ESCAPE": {
       "name": "The Great Escape",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/494be3553c3a9fd7c8ed8e15ba6cd1731ba6d286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.7"
     }
   },
   "platform": null,

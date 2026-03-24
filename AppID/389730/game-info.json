@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/87d7017e1c3ec8fce28aba1fd9ff45109907ec68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "TK_ACH_09": {
       "name": "Cool!",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/d595b7eb004697647080dc647f6ea069827dd3ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "TK_ACH_41": {
       "name": "Crushing Impact!",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/2d49b2a8e8f5eddb7729e837d2bc56b233b10c1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.6"
     },
     "TK_ACH_21": {
       "name": "Don't Take It Personally",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/3e105fbc82737831849d6fdd7a927ea9424988fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.5"
+      "percent": "75.4"
     },
     "TK_ACH_23": {
       "name": "Excellent",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/e695ddd5a2ad2eeb491c81323bca7ffc92e24c75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.5"
     },
     "TK_ACH_20": {
       "name": "Fear My Wrath",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/6b2493f57ed3cc07595f8133607e348031ccd0c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "TK_ACH_35": {
       "name": "Hot-Blooded Fighter",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/c6063ff132d297297cf23266214bf0e7947026be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "TK_ACH_43": {
       "name": "Please Don't Tell My Father",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/e963a314234d84c089f95d005cc254f05db0fb6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "TK_ACH_31": {
       "name": "Stun Gun!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/b8d5ffe102e8967588bd8a15b32804dad4ec215c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "TK_ACH_01": {
       "name": "Yeah! I Did It!",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/b24b400afe082b64af85a385b83084aa69697d59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     },
     "TK_ACH_11": {
       "name": "You Think You're Tougher Than Me?",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/55a905f37a6603b80ed8345cf6c6e3fa5e4eec63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "35.9"
     }
   },
   "platform": null,

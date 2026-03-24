@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/bf6c4e438e8bd696080cf0834206b31df62fd725.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "ACT1": {
       "name": "Chapter 1",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/c55da16f8b93cb6907c9659e41a1140e6e2c2305.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "TRUTHISOUTTHERE": {
       "name": "The Truth is Out There",
