@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/19e8fdf6035f333b0ec6854e4304fa68165df42e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "Achievement_05": {
       "name": "Catch-A-Ride",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/9a794c7cf5d8666e069000332b7f36ac6b8edf7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.3"
     },
     "Achievement_01": {
       "name": "Good Hunter",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/631aa5608bae7533f4b2b1b90c5a3c09bee8929d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.2"
+      "percent": "75.1"
     },
     "Achievement_11": {
       "name": "Reverse Abduction",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/02e90dbf3edb76faf79cb12c5ba867ac8b39000e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "Achievement_33": {
       "name": "Rift Incompatible",

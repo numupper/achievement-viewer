@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/5706696465de3ea09cb16522e765255d4bfab4f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.1"
     },
     "Animal_Albino": {
       "name": "Ghost",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/ebe9c9bd28c4c4410b235801c1fdf27e524eae73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.0"
     },
     "Campaign_AllGold": {
       "name": "Gold Career",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/52bd229637430547ce3112fd9ae70f7c33ed742e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.6"
     },
     "Franchise_Loans": {
       "name": "Loaner",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/cd2e459e0571c90a6ebfbaa20a3cf06a2aacb34d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     }
   },
   "platform": null,

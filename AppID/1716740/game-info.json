@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/aa8bf611e64e79f8b06fc4d6c34af5c83d00108b.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "30": {
       "name": "Fixer",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/801d10e13c52337dd0a1bb0ef427a9cedfac447c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.1"
     },
     "3": {
       "name": "Into the Unknown",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/4f61316f6d9016c5119da16cd332059dcaa77287.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "32": {
       "name": "Life Begets Life",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/274fa290160c8470b95dab57fa615c55cd13718f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "39.1"
     },
     "50": {
       "name": "Reach for the Stars",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/eb061ede6a64e4b12a8fdf1237d0fb99fe9e0d92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "21": {
       "name": "The Best There Is",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/316c8776f18987759190bf9b1a2aa1c856811c8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "38": {
       "name": "The Family You Choose",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/aaaea06c0e6b41b63e77c2e26eb91e716c77ec23.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "52": {
       "name": "The Promised, Broken",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/b300be03e799cc45608dfec5c960003595d6049e.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "28": {
       "name": "The Stars My Destination",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/76423c13c08e939f18faa081ac1779cf99c33ed0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.6"
     },
     "9": {
       "name": "Unearthed",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/b9c941c70517bf01fc012b412d341e1d4825152b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "22.0"
     },
     "51": {
       "name": "What Remains",

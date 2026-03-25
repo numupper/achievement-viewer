@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/89d01c1872fb3dc7a54f3069afab58931ba275e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "CINE01": {
       "name": "Cleaning Out the Closet",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/980999c2a39be525005046d464b80ff65d022ef8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "RPG17": {
       "name": "Number the Dead",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/87840187fd2938bd0c14f68cb7d468811a41d901.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.3"
     },
     "RPG07": {
       "name": "Trial by Blood",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/c4608f8b26ade04b0e5af79e447e3eb503f80055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "BRANCH05": {
       "name": "Your World is Mine!",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/a36754204739f31d089bb6c514b7df86a63e3c37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.6"
     }
   },
   "platform": "Epic Games",

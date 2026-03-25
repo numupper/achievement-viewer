@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/WITH_STYLE_BW.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.3"
     },
     "ACH.TAUNT_CAMERA": {
       "name": "Asking for Trouble",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/620/BREAK_OUT_BW.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.6"
     },
     "ACH.NOT_THE_DROID": {
       "name": "Scanned Alone",

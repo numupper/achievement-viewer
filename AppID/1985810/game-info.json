@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/829e38af7da0b512f8eaed6c89de91cd3068e966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.4"
     },
     "CP_ACHIEVEMENT_CP_GER_STAKEOUT": {
       "name": "Brick in the Wall",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7ebad2ac02d47077a5fd4419153fd770038e404e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "ZM_SILVER_WW": {
       "name": "Carpe D.I.E.M.",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9d14c6520c8fc35cc254ab0c015dc10b7acc3626.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "CP_ACHIEVEMENT_EXPLOSIVE_FINIISH": {
       "name": "Explosive Finish",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/ca940806ca30750a38d27d9a2bdd93a8cfd1e0f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.1"
     },
     "CP_ACHIEVEMENT_CP_SIDEMISSION_TAKEDOWN": {
       "name": "Operation Chaos",
