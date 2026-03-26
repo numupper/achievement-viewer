@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/accac438f48d123887f654a4137c72c92fb86255.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "MISSIONCOMPLETE01": {
       "name": "Act of War",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/964daf35eebf1ac8a80ba3336f23ebbb699c446c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "RPG10": {
       "name": "All Sorts of Fun",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/77517502c82f263e8c0e9c229aa454900e85bfb6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "CINE09": {
       "name": "Blackest Night",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/086da72a9d7527736dc3e8ece2ec7f5711c85faa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "RIDDLER03": {
       "name": "Blaze of Glory",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6e0a99f4656c2d5bd1ff776564fb6bfcc6489259.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "RPG04": {
       "name": "Captain Boomerang! Agent of Oz",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/89d01c1872fb3dc7a54f3069afab58931ba275e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     },
     "CINE01": {
       "name": "Cleaning Out the Closet",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/45b0323ad900ffea55bbdcb85d1b9c98b983e47a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "BRANCH07": {
       "name": "Combine and Conquer",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/3baf64df139812c73f6311628ea9363d0b8240c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.3"
     },
     "RPG15": {
       "name": "Forces In Motion",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6ab2e886bfb8d05fc895c765bd58962b6ff3b5f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.2"
     },
     "RPG14": {
       "name": "Grand Experiment",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/95646a22b5450a5c133392ff00f238438294dadd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "65.0"
     },
     "MISSIONCOMPLETE04": {
       "name": "Into the Angry Planet",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/884e829c78713c635d49f834a0d1582a67004e18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "RPG01": {
       "name": "Level Up",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/980999c2a39be525005046d464b80ff65d022ef8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "RPG17": {
       "name": "Number the Dead",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/87840187fd2938bd0c14f68cb7d468811a41d901.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "RPG07": {
       "name": "Trial by Blood",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/f45b0d71db2e4d65b3c9383db3716ef8d59fe7f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "CINE04": {
       "name": "Walled In",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/7444bec75a253f35a0ef6760ab468f773a11d699.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.5"
     },
     "BRANCH02": {
       "name": "War Machine",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6a2a15363a365ad11906074e93c96e961ec1eae1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "BRANCH03": {
       "name": "Welcome to the Jungle!",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/c4608f8b26ade04b0e5af79e447e3eb503f80055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "BRANCH05": {
       "name": "Your World is Mine!",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/a36754204739f31d089bb6c514b7df86a63e3c37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     }
   },
   "platform": "Epic Games",

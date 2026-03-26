@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/ffb3cd0e0db7dfcc9e344474f29110ba10bc036b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "Achievement_7": {
       "name": "Blood in the Streets",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/bda29ea6f893debedd1566d7ad45b8181652ff8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.3"
     },
     "Achievement_29": {
       "name": "Combination Shock",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/b6785381914a6b0660a216909930f6f59a2243b9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "Achievement_50": {
       "name": "Scavenger Hunt",
