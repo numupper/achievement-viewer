@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2a03672c72341cf1f4d14eaaf647313b31869565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "ACH_DRIFT_DISTANCE_1": {
       "name": "#DriftStarter",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/204035edce5589cfb7b399281418f947d53f197c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "ACH_TOTAL_POINTS_3": {
       "name": "#King",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/5406df1e920609f623edf932d1c54a0da38da1b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "ACH_CLUB_SAVAGE": {
       "name": "#Savage",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/f61a3335788bef57ffc9e80ca1d854edd93c6c8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "ACH_CLUB_WILD_JUNIORS": {
       "name": "#Wild Juniors",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c17b3733778e0636277da68ebca3b1936a6a489b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "ACH_LEADERBOARD_500": {
       "name": "Ambitious Beginner",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/80b1e8e5c1b26a6451a4d24f3c06da583f1b87a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "ACH_CHASE_3": {
       "name": "Conqueror",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ed2889a752796e0476ebcd227c812078d2d08bd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "ACH_LEADERBOARD_100": {
       "name": "Elite Racer",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fc2933b9302273ee100b19bc74b36a4df6f038c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "ACH_JDUN": {
       "name": "Finally!",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b3b781b88d274ddc91dfc5d7107383815a35e470.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.8"
+      "percent": "82.9"
     },
     "ACH_PURCHASE_CAR": {
       "name": "First Step",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b29dd77c435a78251ba0c8d4faf5f207ff6163bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.8"
     },
     "ACH_SPEED_2": {
       "name": "Speed Master",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/dbbf41d3242415ef67bb43e796c7096fdf76e5c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "ACH_SPEED_1": {
       "name": "Speedy Maneuver",
