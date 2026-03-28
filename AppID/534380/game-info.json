@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/9ee5065a16d316f76a11af6003e36219f42f02da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "ACH_8": {
       "name": "Debris and Ashes",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/0970476023bbd702020e081978157c69bd280eb0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACH_51": {
       "name": "Don't Look Up",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/99496b303350836492a9777800e38c888b090a17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.8"
     },
     "ACH_10": {
       "name": "Known Associate",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/482cbacf3df73c2115a0419748715fd90112f1e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "ACH_57": {
       "name": "Street Art Aficionado",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/36c54186cd42e5bc70a841e159e53b5bf31790ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     }
   },
   "platform": null,

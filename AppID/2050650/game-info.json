@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4dfca94f2e53fe4d16af133db09f83ab70ecc97d.jpg",
       "hidden": true,
       "group": "Resident Evil 4 - Separate Ways",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "8": {
       "name": "Grilled Big Cheese",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/621ce042b455448574962e36ccc00fbe01d564b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.7"
+      "percent": "72.6"
     },
     "25": {
       "name": "Gun Fanatic",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/ed11710da2164e8cc36fef07cc9ee1f5d76485c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.1"
+      "percent": "78.0"
     },
     "18": {
       "name": "Hope You Like Thrill Rides!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4f0337b70addaa497932893dfece919d44973399.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "64.8"
     },
     "17": {
       "name": "Overkill",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/65dafcb1012422f4a789a4f7b971085a73e1831f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.5"
     },
     "24": {
       "name": "Raider",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/97d0cdafa9a1eaf686ae2b0ce3572b22d4038e2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.7"
+      "percent": "73.6"
     },
     "45": {
       "name": "The Perfect Mission",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/151ad0786db8f25e1c684801dcf0e6935c620303.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "9": {
       "name": "Wave Goodbye, Right Hand",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/1a195eb790393fd6a54bd9f2d1d01e8c31dc6b64.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.7"
     },
     "16": {
       "name": "You Talk Too Much!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/76f67106f522273ff371462cb5da97747b003137.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.3"
     }
   },
   "platform": null,

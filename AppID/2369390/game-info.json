@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/743b2d615428cc95402796e650e9182a9fec23e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "FC6_Ach_17": {
       "name": "Beginner's Luck",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/c3605e97210da9f9b3781f575a6fe411e3956a03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "FC6_Ach_8": {
       "name": "Co-Dependent",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/eaef1c5f6a071fc68c8b910b25d3237629abe064.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "FC6_Ach_10": {
       "name": "Finders Keepers!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/9ac0da79f135fa03c87b82504442256cbe2bb220.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "FC6_Ach_33": {
       "name": "Heated Conflict",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/c6deabb2c24ab9e9e4962838e34930a5d292fc5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.7"
     },
     "FC6_Ach_87": {
       "name": "Heavenly Father",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/601a35fdd73de4a6d39313161a4bccfe309f1f86.jpg",
       "hidden": false,
       "group": "Far Cry® 6 DLC 1 Vaas: Insanity",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "FC6_Ach_81": {
       "name": "Non-Profit",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/f2bb06d3d1719f35b93a552e994302d4c755db66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "FC6_Ach_86": {
       "name": "Parables",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/2fe0627f86fd7cd391d7e799a2814a76045a226a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "FC6_Ach_75": {
       "name": "Vanity Project",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/980c12e795a1c9f58737433c4f03a500c3aebb42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "FC6_Ach_5": {
       "name": "Voz del Pueblo",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/87df8478db249bf0fb38329a0a9a19089ca10a9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     }
   },
   "platform": null,

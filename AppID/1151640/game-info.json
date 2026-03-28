@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/ad685ac1e4c4c8fbc8d13cac87562310216637cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "NEW_ACHIEVEMENT_5_5": {
       "name": "5 Machine Types Repaired",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/e5e3d9bea5d9856fdf9ca3265d4890ac98e45412.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "NEW_ACHIEVEMENT_5_13": {
       "name": "All Frozen Wilds Skills",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/7b37afd18f8b16c87930aa3c0b1a72144c7506eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "NEW_ACHIEVEMENT_5_7": {
       "name": "Killed 10 Frostclaws",

@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c69ef3048fd3fd0bf60f4613c808ef2bb90d4b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "Achievement_16": {
       "name": "Churn the Burn",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/344793692c47057b25213950a71a46c7bce8fa46.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.8"
+      "percent": "67.7"
     },
     "Achievement_40": {
       "name": "Find Me in the Rift",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/12e04ce2d3637bf52572a00e809d625c75d745eb.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "Achievement_36": {
       "name": "Fist of the Mountain",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.0"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/bb57a895961a96fb0d72c8dbc5caa730374fe681.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.0"
+      "percent": "0.5"
     },
     "Achievement_41": {
       "name": "Hearthwarming",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/fdab85bd7448ccfd7ab1554ff07ccf535ee45505.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.0"
+      "percent": "1.4"
     },
     "Achievement_28": {
       "name": "Howling on the Moon",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/16cca5cf5e2f9b06bf830a9889e4518070f63a42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "Achievement_44": {
       "name": "Hull Frozen Over",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b5fc0901f2cc72d8bd4a3495728a2515b5b7a4a4.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.0"
+      "percent": "0.6"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4815e27ff0d420f53e92368dbb5c0496b478cf64.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.0"
+      "percent": "0.8"
     },
     "Achievement_27": {
       "name": "Long Live the Queen",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/1111c9f84dcda34d8af81a9b2df68589787acc58.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.5"
     },
     "Achievement_39": {
       "name": "Looking for Work at the Top of the World",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/7b2f9f99c576342085d0b25a03e2b554cc473825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "Achievement_35": {
       "name": "Ordon't You Glad I Didn't Say Eridium",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3cd97eead19624c1387c56aecdc1b6698bd81f3b.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d7adac5f0fbf76f0d252e63d606d1867661a3f67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.8"
     },
     "Achievement_12": {
       "name": "Shoot the Moon",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/49cf0cd399ebc58159ec8d63d1cd9128cd2cdc07.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.0"
+      "percent": "1.1"
     },
     "Achievement_37": {
       "name": "The Demon's Domain",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/f432b917f4fc372c96012891e6170312bf35e67f.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "Achievement_04": {
       "name": "The Lookbook is the Cookbook",

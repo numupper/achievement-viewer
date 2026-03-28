@@ -1,7 +1,7 @@
 {
   "appid": "3321460",
-  "name": "红色沙漠",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/60deed54212e33f60b20686ec1f18d3f776ec973/header_schinese.jpg?t=1774506236",
+  "name": "Crimson Desert",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1774506236",
   "achievements": {
     "BattlefieldWarlord": {
       "name": "Battlefield Conqueror",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/93d03a8d684ee0a2aa55cae660b209da11418a78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "42.0"
     },
     "SiegeMaster": {
       "name": "Master of Artillery",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/155a1cdfd1d3d740ac932d7654d60213c21f4089.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "NoviceAdventurer": {
       "name": "Novice Adventurer",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/9c663d35bef6c1851a0646efc4c8ff69d2f43ff9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.2"
+      "percent": "73.7"
     },
     "SceneryPilgrim": {
       "name": "Pilgrim of Wonders",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/c987f556550056815e778a3bb6ae40792bb443b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "PailuneseGuardian": {
       "name": "Protector of Pailune",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/19446c5736708aee5d9e0302ba222c92e60382f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "3.4"
     },
     "ConfidentReturnee": {
       "name": "Proud Returnee",

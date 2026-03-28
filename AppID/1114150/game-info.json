@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c17b3733778e0636277da68ebca3b1936a6a489b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ACH_LEADERBOARD_500": {
       "name": "Ambitious Beginner",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/80b1e8e5c1b26a6451a4d24f3c06da583f1b87a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "ACH_CHASE_3": {
       "name": "Conqueror",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ed2889a752796e0476ebcd227c812078d2d08bd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "ACH_LEADERBOARD_100": {
       "name": "Elite Racer",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b3b781b88d274ddc91dfc5d7107383815a35e470.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.9"
+      "percent": "82.8"
     },
     "ACH_PURCHASE_CAR": {
       "name": "First Step",

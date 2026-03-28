@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/575d79069a2aba58da1b1ea4d619f42aacd07ee7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.5"
     },
     "ach_finisher": {
       "name": "Coup de Grâce",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/5cace711f3107cf0dd9d34197aaf28526bf2bce9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "ach_mind_over_monster": {
       "name": "Humanity Distilled",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/c5547fa8ff05c9fb5f1d790734e1153c78eb9ce0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "ach_revival_tour": {
       "name": "I Am the Resurrection",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4ca3aa9e39d1b8df5735f2e14f29907ef96cd69c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "ach_skilled_up": {
       "name": "Stacking the Deck",

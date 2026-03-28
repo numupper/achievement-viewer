@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/c5400a16ec6325999373364ff96578b11a1a7588.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ach_one_of_a_kind": {
       "name": "One Of A Kind",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/e371dcddbff65d64aab6ae2e7c876c4d1e493dd9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "ach_the_first_of_many": {
       "name": "The First Of Many",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/98d7fa445e2cea6b64532ca99076fff8af3194e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "ach_tough_choices": {
       "name": "Tough Choices",

@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a36a159f97c560fb56c7f8a3aeba7f67780dfcaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "TROPHY_NAME_FINISH_NORMAL": {
       "name": "Charted! - Moderate",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/72e33764889a7169f4614234b3d0affe4239192a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.9"
+      "percent": "79.8"
     },
     "TROPHY_NAME_PICK_LOCKS": {
       "name": "Five Finger Discount",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8c7beda9550977f60835eba6284b93cfa59f3ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.7"
     },
     "TROPHY_NAME_ARMORED_MELEE": {
       "name": "Hitting a Brick Wall",
