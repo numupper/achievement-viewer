@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/b36090ad7402a1a65c6b4c937e00f983ef8edd23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "40": {
       "name": "Artisan",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/f450203ae7d6269858ca566603a90a6b9a7384a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.0"
     },
     "41": {
       "name": "Bookworm",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/ce1b16ebd8d323b36cae719c19178bcc551bb825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.1"
     },
     "2": {
       "name": "Four Lords",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/77af01750896351615749300261533c376cb8247.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.1"
+      "percent": "79.0"
     },
     "44": {
       "name": "Frugal Father",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/0010b1220db8840558616cd7ce4a7acfd5a3602f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.0"
     },
     "10": {
       "name": "Great Dad",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/e8682ff3d9afd23b4b1dcd94107f5edb813eb212.jpg",
       "hidden": false,
       "group": "Resident Evil Village - Winters’ Expansion",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "37": {
       "name": "Gunsmith",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/1bf2bde31cae6247a9217c6772c35d1e6ac5c6c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "74.9"
     },
     "36": {
       "name": "Heretic",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/034cead1e5c710d54ca9c62d331295e26d0792a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     },
     "53": {
       "name": "It's Starting to Grow on Me",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/bbcf3ff969de02f320f5da912d7a945516ddd300.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "47": {
       "name": "Legendary Cowboy",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/7a1959268c41aa5b128bedf28689c6f77532c544.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "74.9"
     },
     "32": {
       "name": "Photographer",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/58eff0d2972d225255224accb7404227dd8f919c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "56": {
       "name": "River of Blood",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/e9b20ee7208428ed9d30a865cd06f6bed5df6725.jpg",
       "hidden": false,
       "group": "Resident Evil Village - Winters’ Expansion",
-      "percent": "4.3"
+      "percent": "4.2"
     },
     "51": {
       "name": "Serene Teen",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/8eb45c9178ace6bf4f4e6e3f002227d7ce4d8882.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.6"
     },
     "3": {
       "name": "That Sucked!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/faa9972fca0e8068acb42b895a1c78e97dd9f91c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     },
     "9": {
       "name": "The Root of the Matter",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1196590/eb42b3d483ae8ca7d592e532dbee5adc352d0812.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "55": {
       "name": "Village of Blood",

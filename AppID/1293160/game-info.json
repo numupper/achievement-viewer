@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.7"
+      "percent": "74.6"
     },
     "Conduit": {
       "name": "Conduit",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "46.9"
     },
     "DarkWater": {
       "name": "Dark Water",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.3"
     },
     "FamishedFeline": {
       "name": "Famished Feline",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     },
     "IKnowthePiecesFit": {
       "name": "I Know the Pieces Fit",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/7455ab21a45a178226cdb9d11e6f62ebe9df031d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "LeftBehind": {
       "name": "Left Behind",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.3"
+      "percent": "58.2"
     },
     "PuzzlingOutthePast": {
       "name": "Puzzling Out the Past",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "SpiritWalking": {
       "name": "Spirit Walking",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.1"
     },
     "TheHound": {
       "name": "The Hound",

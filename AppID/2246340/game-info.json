@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/36d8f5cae3bd53a2476caefbd5708f9a0488e0d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "MEDAL_004": {
       "name": "Bringer of Harmony",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/574063ea25cfc4a4451ba34b92b07ff25ecdc76a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "MEDAL_013": {
       "name": "East to West, A Hunter Never Rests",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/d8340c5dd41dbd19426412a7ef4c8e2b53439c2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "MEDAL_028": {
       "name": "Established Hunter",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/c4afd395d932230d1dfc7e0fa9d993b84eb35b87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "MEDAL_027": {
       "name": "Ride-or-die Companion",

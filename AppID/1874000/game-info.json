@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/25b6e6b376526206c4f25953542f043e0fc1f751.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.6"
+      "percent": "66.7"
     },
     "28": {
       "name": "Clue Me In",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/9040fc427f7785765f807b402aa4b9cca5fc21ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "60.1"
     },
     "30": {
       "name": "Favor Saver",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/884f8d7010ba8d677173fa382b1c613d9d63071a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.1"
+      "percent": "77.2"
     },
     "9": {
       "name": "Tempest Fugit",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874000/581c4d449318806743603db70e35cff6829d92a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     }
   },
   "platform": null,

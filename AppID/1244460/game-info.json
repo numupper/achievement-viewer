@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/c4e582474a175e721c15100c2a1137cd8f2df6fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "ReleaseAnIndo": {
       "name": "This is a Modern Prehistoric Marvel",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/ed1c9b3a3e8c866f9275694163a9c54303dbe468.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.5"
     }
   },
   "platform": null,
