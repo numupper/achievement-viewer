@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/8e323584936f78307bae1b77ba8a307b32e82edc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.0"
     },
     "CINE10": {
       "name": "Endgame",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/06552c151d8783fc3304cbcaca343d81f8492461.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "EXPLORE01": {
       "name": "History Repeats",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/b5b85bbdc69abe845758b1c09fb276f5f96a6405.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.5"
     },
     "BRANCH04": {
       "name": "Managing People",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/8d7f9672c7a7b58344460c811a09267b1baf13ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "RPG18": {
       "name": "Need to Know",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/3456c1329891affdf789a470de9c7e463d71dd17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "MISSIONCOMPLETE05": {
       "name": "The Final Frontier",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/112d73b32d076d4ae712b24411c177eeab2ef915.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "RPG09": {
       "name": "The Venom Connection",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/da063a8f7f22a6da66e6f0a9882f952ca3562c3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "CINE07": {
       "name": "Thunderstruck!",

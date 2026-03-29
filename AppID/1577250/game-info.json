@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/90777f92518f8d1361206006407db65612a4a898.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "ARCHEOLOGIST": {
       "name": "Archeologist",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/4890515d7d332efbf0f030072b90fb5822041895.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "CALM_WATERS": {
       "name": "Calm Waters",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/8c9553d28f2281af498bf662fa620ce912a02c52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "27.9"
     },
     "FRIENDLY_FIRE": {
       "name": "Friendly Fire",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/5b7a9d75fc25f53776af77263d8fc5d897b48f4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "HISTORIAN": {
       "name": "Historian",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6fc264d045fa3d5fcf523ea67d1d5696ec1fe2fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.2"
+      "percent": "67.1"
     },
     "LIGHTNING_ROD": {
       "name": "Lightning Rod ",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/902f60c6a0b2832749e1fe92c94768b02b20fb5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.6"
     },
     "RESOURCEFUL": {
       "name": "Resourceful",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/1f6a7b91a8bcfe0d0ae372078937053e074b3033.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.3"
+      "percent": "81.2"
     },
     "ROOT_CANAL": {
       "name": "Root Canal ",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/cff5dd78632a88df303d0e28d7f3db7e97607236.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.8"
+      "percent": "52.7"
     },
     "STALWART_PSYCHOSIS": {
       "name": "Stalwart Psychosis",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/a561f93b9f76e3e59da631295bdd14c8afe5f7b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.7"
     },
     "THE_COMMENCEMENT": {
       "name": "The Commencement",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/066d3b7bc3b17fbc6f684b010fb4e60f39e8f4b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.0"
     },
     "THE_GREAT_ESCAPE": {
       "name": "The Great Escape",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/8dc97efd5ad159c8b54f77c378c5b60af7b6f4b8.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "5.4"
+      "percent": "5.3"
     },
     "THE_HOWLING_DARK": {
       "name": "The Howling Dark",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/7740afe2122c8e5bc22766faa7977fcce2b85588.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "THE_RITUAL": {
       "name": "The Ritual",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/68746103539a618ebf896e5a5aa9d363485460a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "YOU_HAVE_CHOSEN_WISELY": {
       "name": "You have chosen... Wisely",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/b59cc7f516ce45c51f7c4e6cb53bc5f6a1f27822.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "YOUR_WEEKEND_RETREAT_BEGINS": {
       "name": "Your Weekend Retreat Begins!",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/494be3553c3a9fd7c8ed8e15ba6cd1731ba6d286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.6"
     }
   },
   "platform": null,

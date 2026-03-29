@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/2de81ed07969b70578b2d44f9a0ea54b8fea510b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "ach_anger_management": {
       "name": "Anger Management",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d6a11d886bfff88451e3e77ae7635581cdb8cccf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "ach_break_a_leg": {
       "name": "Break A Leg",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b024d0576ab4722b40daf5e7f68ab9fa11109c01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "ach_a_day_in_the_beach": {
       "name": "Dr. Reed, I Presume?",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/81490edf4903c43798e0ec209cebf633d1122736.jpg",
       "hidden": true,
       "group": "Dead Island 2 - SoLA",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "ach_her_name_was_lola": {
       "name": "Friends Like These",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d00b8b7cf5f920d2ff51135e75f4355de8ddd5d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "ach_ammo_ran": {
       "name": "Git Gutte!",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/087df6ca08de24a37555e05c36aa8516fbb00280.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "ach_survival_of_the_fittest": {
       "name": "Max Headroom",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f5357b77f202a34c788a9aa4d4108e74627ad84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "ach_thesacrifice": {
       "name": "Our True Nature",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b01a91e8f132aea5e24061b7defc3065894ff3b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "ach_whoops_did_i_do_that": {
       "name": "Three's a Crowd",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4cfa8826c5b530153deb443a365a98abf794641b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "ach_welcome_to_hell_a": {
       "name": "Welcome To Hell-A",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b9854c0b9225393539c817ac7a3653d852c71c2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     }
   },
   "platform": null,

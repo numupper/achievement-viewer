@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/32d36c4ebe4530ebf6f48040b2ee598e5073ae56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "DESERT_STORM": {
       "name": "Desert Storm",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/393080/dd962b20061e49bbc70325d05d7d7fbd4c7343d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "WEAPON_MASTER_ACH": {
       "name": "Weapon Master",

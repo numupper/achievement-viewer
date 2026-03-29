@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/20c268d63df045ac8f1b0301093a9a67791bb9a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "ach_double_dutch": {
       "name": "Double Dutch",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/9b4ca9420b58577423498652d5e8c09e6b8c43b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "ach_just_better": {
       "name": "Just Better",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/8201b05487b2bf0ed75ba4d5ef404fe155d24a07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "ach_laser_focus": {
       "name": "Laser Focused",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/4d74170444d616b99345bff7ff919bf9274fee23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "ach_tremendous_trio": {
       "name": "Tremendous Trio",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/a8d16f51e8e8f61576e37459b6d97331f5cb29f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "ach_true_fan": {
       "name": "True Fan",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2488620/9b4a472095a9138426a4e934d848633ce50b1f5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     }
   },
   "platform": null,

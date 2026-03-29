@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/3f3926393f280acd0d11a50973b691e3322e9cee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "84.0"
+      "percent": "83.9"
     },
     "ACH_ARTHOUSE_14": {
       "name": "Board maker",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/b0e0a5c5f24d0b831baac3d7b14fd35598ee4343.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "ACH_FTUE": {
       "name": "Builder",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/9495130a5bfceb01118de84e180844172453e095.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.2"
     },
     "ACH_ARTHOUSE_20": {
       "name": "Illuminator",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/c246731e7b07cf96172ddd20031327c679ff3635.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "ACH_ARTHOUSE_06": {
       "name": "Infiltrator",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544360/ab8615ca6063a3bdd1003558d4cf5946af773a7e.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ACH_ARTHOUSE_02": {
       "name": "Pathfinder",

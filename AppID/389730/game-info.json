@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/8510c6452a07aeefbceba3bfe74282710037f4fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "TK_ACH_13": {
       "name": "I Can't Accept This Fate",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/c6063ff132d297297cf23266214bf0e7947026be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "TK_ACH_43": {
       "name": "Please Don't Tell My Father",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/389730/55a905f37a6603b80ed8345cf6c6e3fa5e4eec63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "35.9"
     }
   },
   "platform": null,
