@@ -12,16 +12,16 @@
     "earned_time": 1774004920
   },
   "trophy_003": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1774539579
   },
   "trophy_004": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1774618695
   },
   "trophy_005": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1774622670
   },
   "trophy_006": {
     "earned": false,
@@ -68,8 +68,8 @@
     "earned_time": 0
   },
   "trophy_017": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1774283067
   },
   "trophy_018": {
     "earned": false,
@@ -93,7 +93,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 18,
-    "progress": 3
+    "progress": 5
   },
   "trophy_023": {
     "earned": true,
@@ -103,7 +103,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 42,
-    "progress": 4
+    "progress": 14
   },
   "trophy_025": {
     "earned": false,
@@ -112,8 +112,8 @@
     "progress": 0
   },
   "trophy_026": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1774102471
   },
   "trophy_027": {
     "earned": true,
@@ -129,7 +129,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 50000,
-    "progress": 4345
+    "progress": 24921
   },
   "trophy_030": {
     "earned": true,
@@ -144,8 +144,8 @@
     "earned_time": 0
   },
   "trophy_033": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1774616928
   },
   "trophy_034": {
     "earned": false,
@@ -159,15 +159,15 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 3,
-    "progress": 0
+    "progress": 2
   },
   "trophy_037": {
     "earned": false,
     "earned_time": 0
   },
   "trophy_038": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1774615892
   },
   "trophy_039": {
     "earned": false,
@@ -221,23 +221,23 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 200,
-    "progress": 34
+    "progress": 105
   },
   "trophy_052": {
     "earned": false,
     "earned_time": 0,
     "max_progress": 500,
-    "progress": 9
+    "progress": 95
   },
   "trophy_053": {
     "earned": false,
     "earned_time": 0,
     "max_progress": 2000,
-    "progress": 128
+    "progress": 1904
   },
   "trophy_054": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1774716496,
     "max_progress": 80,
     "progress": 11
   }
