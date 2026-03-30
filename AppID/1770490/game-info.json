@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/be8557e91a6a1cc30dac02e65b994787144c3794.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.4"
+      "percent": "83.5"
     },
     "ACHIEVEMENT_04": {
       "name": "Challenger",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/8859f60b6cd548f056fcd9b0b72d2ded9d620b70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "ACHIEVEMENT_02": {
       "name": "Every pup is the best pup",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a5be3425a8a4849995eb06b4a00d43c8d7f6e47b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "ACHIEVEMENT_01": {
       "name": "First Victory",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/16d672a826d8255f877ef4646fe9d7b29ffcd60f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.8"
+      "percent": "88.9"
     },
     "ACHIEVEMENT_13": {
       "name": "Hero's journey",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/ce0cb3844e9d270ed5c3661a881ac5f37a8721d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACHIEVEMENT_10": {
       "name": "Just getting started",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/5d8563e3c12df28ca971e9834d78648b1757cdae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.7"
     },
     "ACHIEVEMENT_05": {
       "name": "Win with Friends",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bc234b1c5750086ff758695d573d6f4efe22de33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ML_ACHIEVEMENT_40": {
       "name": "A little nest egg",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/891d69b0d2a5859768739301f3942ae0f1fbdccb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "ML_ACHIEVEMENT_10": {
       "name": "Drift champ",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/2213ac5db7ed794baffad8d722d413703d027515.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "38.0"
     },
     "ML_ACHIEVEMENT_27": {
       "name": "Extreme conditions",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d8d8d8e60054ca98e872cd3b84fa4bed0ade0131.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.4"
     },
     "ML_ACHIEVEMENT_55": {
       "name": "I want to believe",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/bd3172f7d8d9a31e63cf9f6b39958a412892cce9.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Expansion Pack",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "ML_ACHIEVEMENT_21": {
       "name": "I'm in charge here!",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/d769195ea8c1b86ff38b604604db5dd96b28ded9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "ML_ACHIEVEMENT_12": {
       "name": "Immortal",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c456ccc62cd9cd9686a155b7ccbe40597b7214c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "ML_ACHIEVEMENT_42": {
       "name": "Magic trick",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/f6f59da97a0bce2582e866a779a207df3b9c8d5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "ML_ACHIEVEMENT_09": {
       "name": "Masterful!",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/918abd54ee6b4e71135c4886dda09f7c75706ed0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.8"
+      "percent": "75.9"
     },
     "ML_ACHIEVEMENT_06": {
       "name": "Now try online",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e32df1ef551af186913547ae35d17198bac1703f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "ML_ACHIEVEMENT_54": {
       "name": "Out of this world",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/0439310249b336a93c3408b24640e47dbbaae0e9.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "ML_ACHIEVEMENT_01": {
       "name": "Rookie",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/60ff038cc024f75606690375f9626415e7e971be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "ML_ACHIEVEMENT_31": {
       "name": "Shopping time!",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/6699da481cd669d7356a990a4f5c832f0f48e490.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.8"
     },
     "ML_ACHIEVEMENT_17": {
       "name": "Solo",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/22dc1720ab88b8d6d2cae3802008f067ebcd75b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "ML_ACHIEVEMENT_32": {
       "name": "Spendthrift",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/69336cb06d28d6b122ac337d96959c5d00465ffe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ML_ACHIEVEMENT_33": {
       "name": "Spin the wheel",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/5d0f42d9492b659fd8efe04ad7a3469c9c337b8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "59.1"
     },
     "ML_ACHIEVEMENT_38": {
       "name": "Spoiled for choice",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/714a266c884a52eb618391de90e3dddb8df3e96b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ML_ACHIEVEMENT_46": {
       "name": "The Ultimate Race",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/f5dc35510e634a78de1ef9e57e9f2e62e9e321a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.6"
+      "percent": "73.7"
     },
     "430": {
       "name": "Click on door 430 five times",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/c8860ac2c3032027f3816ea2da8d418a62882051.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "tuesday": {
       "name": "Commitment",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/a933c619968cab388c0aa6d3f296b1f7f6ccc578.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "welcomeback": {
       "name": "Welcome back!",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/5936f812a14912779532a8664cdba12835b7a641.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.3"
+      "percent": "68.4"
     },
     "nojump": {
       "name": "You can't jump",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/77d8930cf8dd49d855cc6e2bbfee22a5c36e187c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.2"
+      "percent": "84.3"
     }
   },
   "platform": null,

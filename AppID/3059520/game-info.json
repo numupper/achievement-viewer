@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9f4f9220899fcfa3aabfc8327f33ce9b4f3940e5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.0"
     },
     "ach_all_systems_go": {
       "name": "All Systems Go",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9e6927a163f3a50b9aa9b7773444b0d16b9b5ca2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.4"
     },
     "ach_first_steps": {
       "name": "First Steps",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/bce23245c53beca664b4d25aacb514e6b9e37f73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "ach_frequent_flyer": {
       "name": "Frequent Flyer",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/597005a89fb10885870c3d2130c1cd2e28b5326a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.7"
     },
     "ach_license_to_drive": {
       "name": "License to Drive",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/fe6935581648194b25ba3b77052cef9af19350e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "ach_newcomer": {
       "name": "Newcomer",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/7c7bebed7392f4d743755ac9fd47da23f60fbd96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.5"
     },
     "ach_one_for_the_team": {
       "name": "One For The Team",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9c0f225ea85ee420df139a19509fe1c9d008a818.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "ach_on_top_form": {
       "name": "People's Hero",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/b1757928564eea84667b82515ee28fc2fafd8fbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.4"
+      "percent": "74.3"
     },
     "ach_race_fanatic": {
       "name": "Race Fanatic",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/0e6a3a40b6a08e0e31bde52372fe4ebb8b3e02a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "ach_research_develop_assemble": {
       "name": "Research, Develop, Assemble",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/b3beedf7d53d82b31ce7dbf67bd530d30718b138.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "ach_seasoned_strategist": {
       "name": "Seasoned Strategist",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/0111e49e69b7f98344448165f8b174ce8eaae11b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "ach_top_driver": {
       "name": "Top Driver",

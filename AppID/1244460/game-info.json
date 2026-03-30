@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/b8e038a8d3d9b1cf67559b99b7e7b3e72661f35a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "ThirdStoryLocationCompleted": {
       "name": "Pennsylvania Done",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/c4e582474a175e721c15100c2a1137cd8f2df6fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "ReleaseAnIndo": {
       "name": "This is a Modern Prehistoric Marvel",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/63b2e1c9b9a2776de30a3a4954e13867b096e1c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "ReleaseAGeneticallyModifiedDinosaur": {
       "name": "This One is Special",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244460/ed1c9b3a3e8c866f9275694163a9c54303dbe468.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.4"
     }
   },
   "platform": null,

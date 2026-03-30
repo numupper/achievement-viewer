@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/a3bfe1fd18af52ac1c16defd0195fb73412ed06d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "Main_DeliveredDaedricArtifact": {
       "name": "Delivered Daedric Artifact",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/03e425aae4c46c64a513b7f092826be629aae194.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "Isles_Madman": {
       "name": "Madman, Shivering Isles",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/bbef4bd08a398d8d8b9de093d506d24a53028b7e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "Thief_Prowler": {
       "name": "Prowler, Thieves Guild",

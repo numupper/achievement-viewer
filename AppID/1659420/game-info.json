@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/e822bbfb842393dbe8c4adf2d1f4532c61e37f87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.3"
+      "percent": "68.4"
     },
     "TROPHY_NAME_GRENADE_VEHICLE": {
       "name": "Here, Catch!",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8c7beda9550977f60835eba6284b93cfa59f3ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "TROPHY_NAME_ARMORED_MELEE": {
       "name": "Hitting a Brick Wall",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8084e4551039e5355f0658b63113d5899ed3f2c9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "TROPHY_NAME_VERTICAL_TAKEDOWN": {
       "name": "I Thought I Heard Something",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4204f86a6338335dc3640949514c2e58d371332e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "TROPHY_NAME_JEEP_JUMP_TIME": {
       "name": "Stunt It!",

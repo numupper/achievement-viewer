@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/dc7985a995c66159731688b05c8dd4649afb5c7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "ACH_S8Exit": {
       "name": "Completed It.",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/70bd6c7f0982a2afe6e31e54a704b9960c63b8eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "ACH_TurnBallBlack": {
       "name": "Did That Work? -- No!",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/3aa73a46a899741df12fc01f75ceead9b2c2786f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "ACH_S8AllMasterRoom": {
       "name": "Hopefully that's all of them!",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2256ce7b293f24366f924e3ce3b003cc2b99bee0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "ACH_S8AllCubes": {
       "name": "Master Of The Collectables",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/2ccbb1f77c9ea04e44b6e9e364a0b0d6b3755c40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "ACH_S8MaxPoints": {
       "name": "Maxed Out",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/219b8d237adba593f30f68a15a3a45e612017dab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "ACH_S8AllPuzzleRooms": {
       "name": "Phew!",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/0d0855ef812bca00c1ff5609ff0798e0da6fc334.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.3"
+      "percent": "89.2"
     },
     "ACH_Sector2": {
       "name": "Sector 2",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/ede655f7f6b404464c548aefb6eba56fa266a827.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.6"
+      "percent": "71.7"
     },
     "ACH_Sector4": {
       "name": "Sector 4",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/40b91a29e635454d4f9bc51f1b998013ddcf3c9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "40.0"
     },
     "ACH_Sector7": {
       "name": "Sector 7",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/93366cb635628e72a685c51164bd4cead7433600.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "ACH_CrushEnemy": {
       "name": "Squished",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1564220/5b0feb4a0044733aacaff384851b7636f1aa4bdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "ACH_CollectAll": {
       "name": "The Collector",

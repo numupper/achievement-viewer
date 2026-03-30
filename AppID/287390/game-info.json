@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.3"
     },
     "antibiotic": {
       "name": "Antibiotic",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.6"
     },
     "back_to_the_past": {
       "name": "Back to the Past",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.9"
     },
     "cest_la_vie": {
       "name": "C'est la vie",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "max": {
       "name": "Cheers!",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.9"
+      "percent": "69.0"
     },
     "commando": {
       "name": "Commando",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.3"
     },
     "derailed": {
       "name": "Derailed",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "developer": {
       "name": "Developer",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.3"
     },
     "engineer": {
       "name": "Engineer",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "66.0"
     },
     "ever_vigilant": {
       "name": "Ever Vigilant",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "forest_guardian": {
       "name": "Forest Guardian",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "freedom": {
       "name": "Freedom!",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.6"
+      "percent": "55.8"
     },
     "heil_reich": {
       "name": "Hail Reich!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "invisible_intruder": {
       "name": "Invisible Intruder",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "invisible_savior": {
       "name": "Invisible Savior",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "mouse": {
       "name": "Mouse",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.4"
     },
     "no_shooting_allowed": {
       "name": "No shooting allowed",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "nowayout": {
       "name": "No Way Out",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "patron_of_the_arts": {
       "name": "Patron of the Arts",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "published": {
       "name": "Published",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "rabbit": {
       "name": "Rabbit",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "redemption": {
       "name": "Redemption",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "reunion": {
       "name": "Reunion",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.5"
     },
     "revelation": {
       "name": "Revelation",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.3"
+      "percent": "50.4"
     },
     "revenge": {
       "name": "Revenge",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "scram": {
       "name": "Scram",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "secret": {
       "name": "Secret",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "shadow": {
       "name": "Shadow",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.4"
     },
     "soldier": {
       "name": "Soldier",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.7"
     },
     "spartan": {
       "name": "Spartan 2034",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "survival": {
       "name": "Survivor 2034",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "testcomplete": {
       "name": "Test Complete",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "sunsetofhope": {
       "name": "The Sunset of Hope",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "through_fire": {
       "name": "Through the Fire",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "veteran": {
       "name": "Veteran",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.8"
+      "percent": "73.9"
     },
     "within_a_hair_of_death": {
       "name": "Within a Hair of Death",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/287390/955747179aab607d0be0e276cd824f46b2034263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.7"
+      "percent": "66.9"
     }
   },
   "platform": null,

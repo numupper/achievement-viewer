@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/1310fcead95aab953460d7da43f988fa8a7e5359.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "BattleRageArts": {
       "name": "(That's how a true champion fights!)",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0f72003f0c4729d770815aab2ce6bfc07ba540e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "MyReplayTips": {
       "name": "(This one's in the bag!)",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a4d942a68e2a2aa88d2c4254b9ea67fcaa199f20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.4"
     },
     "FloorBreak": {
       "name": "...",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/9242252153a6ac942eb36ccb1b098e6392e98a46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.1"
+      "percent": "62.2"
     },
     "AllClear": {
       "name": "A fight is about survival.",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/8049bef5b0e0e88f2e5549d058e7eeea79a8a14b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "WinGhostPlayer": {
       "name": "All is vanity.",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/00724e9374dd6a5f4363fb9366a56ec9500b1c1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.7"
+      "percent": "74.8"
     },
     "WallBreak": {
       "name": "Come on, just try and kill me.",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a8434cf6a44193958ad4d9058c9c08dc4c807340.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "StoryModeClearACT1": {
       "name": "Come, humanity! Unleash the dogs of war! ",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/4c92de877e980bb69a1ed2590c609cbb5e3b4d28.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "StoryModeClearKazuya": {
       "name": "Despair",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/47fedbe562a104e2b2edbb8f5bcd27e3c4adc570.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "PracticeCombo": {
       "name": "Do you want to learn Marshall Arts?",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/cdf47558c9fb4ca707331cdad69628d974f55875.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "OnlineBattle10wins": {
       "name": "Excellent!",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/78d61596ac6181803dd40017d7d970011e22580e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.7"
+      "percent": "68.8"
     },
     "HeatSmash": {
       "name": "Fear my wrath.",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0aaf72f21b2fcdf0137e78c2f8709a40229e06b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.0"
+      "percent": "73.1"
     },
     "AQClear": {
       "name": "Get ready for the next battle!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/56c8a31a1cbca88f48fc91e0f131b33586d1b58c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "WinDiscGhostBoss": {
       "name": "Godfather",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/92d7717dbb5f63c9a3058f25b36500f188f9ca7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "TresureHunt": {
       "name": "How do you take your coffee?",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/bd170fa4d156201b380173d0c592e0bb1f550924.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "Promote1st": {
       "name": "I aspire to greater heights!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/26df242d1f86d428706b947c2e86be28ac4848e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.3"
     },
     "Hit30Chain": {
       "name": "I would do well to follow your example.",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/78c4cf59eb0bc01bed92ed8a373b5fbca0e18a67.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "PlayerMatchWin": {
       "name": "I'll give you a rematch anytime, guv.",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/e26bcdedac88a31f113412a8245955595973ab86.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "StoryModeClearACT12": {
       "name": "I'll live on, together with my sins.",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/428158d78b9c066a0b2f3ec0a9a5147c29cfdcdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.7"
     },
     "RankMatchWin": {
       "name": "Just relax. You can do it.",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/7ec7c67a0933fe19f96866d7f8a2562c34768261.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.0"
+      "percent": "87.1"
     },
     "MagicBall": {
       "name": "My moves are way faster than yours.",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/92b41300618ac23af39876995737437965ede6b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "Practicedamage": {
       "name": "No pain, no gain!",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b8d64231d9671f273f569a5efaf1a9ba3ae02aa8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.1"
+      "percent": "83.2"
     },
     "RageDamage": {
       "name": "Now it's time to destroy you.",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/f070deb2d94ce93a563b82e172c022a590b44cf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.4"
     },
     "BattleGreat": {
       "name": "Outstanding!",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/67b53f8a13147ea97259bd4ce03c9c85046044f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.7"
+      "percent": "77.8"
     },
     "GroupMatchWin": {
       "name": "Please don't tell my father.",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b69a5fb3ddfb3a6416f26370322edf60b8b13ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "EpisodeClear10": {
       "name": "Power isn't everything.",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/eef0bdca57bb220adbefefdda7200933488384f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.3"
     },
     "WallBound": {
       "name": "Sorry for getting rough back there.",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/daeb42bdfe1fb6472951cd10d8aa89eb89e21763.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.9"
     },
     "BattlePerfect": {
       "name": "That was too easy!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/73b07759a629e7d3ac756d657a5de13d7367cb5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.3"
+      "percent": "80.4"
     },
     "AQWinGhost": {
       "name": "The fists reveal the fighter.",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/85230f12142d9aa142469c3329fff79262af5a3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "Promote3rd": {
       "name": "There's no way you can stop me.",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b5f598ee6653e1586db8daacd3bab72c52e46979.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "EpisodeClear5": {
       "name": "This should be fun.",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/7f31562645e15508cbc32b7923384dbdd5f08ce3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.8"
+      "percent": "82.9"
     },
     "HeatBurst": {
       "name": "What a rush!",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0b3e3519eafa309e6240ef573e03069b964bb4d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "64.0"
     },
     "HeatTechnique": {
       "name": "Your fate is already decided.",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/c89440d4418906fc944e5c7d71cbd7673fb8024d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.3"
     },
     "Customize": {
       "name": "You're in for it now!",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/5e8a8b827216f64b45a51102f1c1c12956a5ec75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "71.0"
     }
   },
   "platform": null,

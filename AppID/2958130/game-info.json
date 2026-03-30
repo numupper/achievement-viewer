@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4a97924012609f8673599522badefa0507f282aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "FinishtheCampaign": {
       "name": "Extinction? No!",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/4eed8b2e540dcac1842f9801d78113903a31ff18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "Gen5Juvenile": {
       "name": "Fifth Iteration",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/b04dfd57e6bf8551a9007bc814694a59e39ac7ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "JWDatabase50": {
       "name": "If You Knew Enough...",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/e4fa04d475289dc4c07d3b164368622378febb4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.4"
     },
     "BuildLagoon": {
       "name": "Include That In The Brochure",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/21d40d99ab6fa8ef1e481c9afdba74f968e5d278.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.0"
+      "percent": "53.9"
     },
     "JurassicDiffNusaTenggara": {
       "name": "Indonesian Legend",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/961dcbeca1375262b301b92dc301f33bdc01d629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "JurassicDiffDolomites": {
       "name": "Scaled the Mountain",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2958130/c17079545cbda052bd2dfe387b338b5c1f89dcc8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "CompletePark5Objectives": {
       "name": "Twenty-Seven Foot Neck",

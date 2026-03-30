@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/c16dfb886ad9f82c02d01d5ace93e0fc0f54f037.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "_autoGenTrophy_0074": {
       "name": "Champion of the Kami",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/04a8495e82238812982a07407d80dc0c4f1e1bcb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "_autoGenTrophy_0065": {
       "name": "Elegy for Kazumasa",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1d443a32a95de5b7834a0c398bf2693eb491acd2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "_autoGenTrophy_0025": {
       "name": "Haunting Precision",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/81c09625d2cc4c6c3fbe53b9b51cca333b9976f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.4"
+      "percent": "65.3"
     },
     "_autoGenTrophy_0049": {
       "name": "Mass Eviction",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/a3ec12bcf7cd72639303a6cd21fb5c053e903a8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.6"
+      "percent": "71.5"
     },
     "_autoGenTrophy_0060": {
       "name": "Out of the Past",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/65812262f8b8dba988ee8c984063d689b90bc2ac.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.4"
     },
     "_autoGenTrophy_0017": {
       "name": "Teller of Tales",

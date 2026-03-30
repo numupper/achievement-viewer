@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6e0a99f4656c2d5bd1ff776564fb6bfcc6489259.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "RPG04": {
       "name": "Captain Boomerang! Agent of Oz",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/89d01c1872fb3dc7a54f3069afab58931ba275e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     },
     "CINE01": {
       "name": "Cleaning Out the Closet",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/8e323584936f78307bae1b77ba8a307b32e82edc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "CINE10": {
       "name": "Endgame",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/06552c151d8783fc3304cbcaca343d81f8492461.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.6"
     },
     "EXPLORE01": {
       "name": "History Repeats",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/b5b85bbdc69abe845758b1c09fb276f5f96a6405.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "BRANCH04": {
       "name": "Managing People",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/8d7f9672c7a7b58344460c811a09267b1baf13ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "RPG18": {
       "name": "Need to Know",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/980999c2a39be525005046d464b80ff65d022ef8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "RPG17": {
       "name": "Number the Dead",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/3456c1329891affdf789a470de9c7e463d71dd17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "MISSIONCOMPLETE05": {
       "name": "The Final Frontier",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/112d73b32d076d4ae712b24411c177eeab2ef915.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "RPG09": {
       "name": "The Venom Connection",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/da063a8f7f22a6da66e6f0a9882f952ca3562c3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "CINE07": {
       "name": "Thunderstruck!",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/87840187fd2938bd0c14f68cb7d468811a41d901.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "RPG07": {
       "name": "Trial by Blood",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/c4608f8b26ade04b0e5af79e447e3eb503f80055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "BRANCH05": {
       "name": "Your World is Mine!",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/a36754204739f31d089bb6c514b7df86a63e3c37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     }
   },
   "platform": "Epic Games",
