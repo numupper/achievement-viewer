@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/400cf4a6206334b6c85c36230837fdf9a0d8d1b7.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "AchievementINirvanaID": {
       "name": "Beauty, Mindfulness and Meditation",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9516aa55bd976f040e5a6ad0adcd87319a1c5a86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "AchievementRoomUpdateID": {
       "name": "Private Club",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b281d401a1890bee4838b80c400a1145fb4299ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "AchievementMultiverseTrinketsID": {
       "name": "Try Hard With a Vengeance",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/648a1c8791d66d139c2d95ebe6a66e3a303999fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "AchievementGatorID": {
       "name": "What a Waste of Money",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f419fb069a2150e1355f1d02ea03f452155d94c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "AchievementApocVehicleCollectiblesID": {
       "name": "Wheels of Fortune",

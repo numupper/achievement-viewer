@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/5c04458aaeba96e4ce4a38ab82a24e50a606f89d.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 4",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "ACH_E2_AllCollectibles": {
       "name": "A Private Journey",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/9950d9b3296b68520925c30ab5ba8bf18205f2d6.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 2",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "ACH_E3_FinishEp": {
       "name": "Adrift",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/aba8da43042e6214eba092224cc0fcef98597920.jpg",
       "hidden": true,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "ACH_E4_AllCollectibles": {
       "name": "Archivist",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/45f5ff82e511c1ed78d7f940f5eb518d1fc699b6.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 2",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "ACH_BearGang": {
       "name": "Bear Aware",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/2bb3dc29e929869682da1a84fb4dc261278a1c09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "ACH_Supporter": {
       "name": "Bonus Miles",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/60a91d20379f29638cec6f7a20cc53eadcae96db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "ACH_E5_Coll6": {
       "name": "Boundaries",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/143b27be7eb0a69bcb756c5ad9bf5c41673cfaf1.jpg",
       "hidden": true,
       "group": "Life is Strange 2 - Episode 2",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "ACH_E2_Coll2": {
       "name": "Family Business",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/e69562e369aa575061aa62c53bc0baca650094d1.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACH_E4_Coll6": {
       "name": "Heaven & Hell",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/bcc2cf9469d290ce81e0fc73c13f1467b4a6f402.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH_E3_Coll6": {
       "name": "One Of Us",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/9d79b47ff9bc82ff26a89308d491a8f6d4a2504a.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "ACH_E5_DrawSequ": {
       "name": "Out Of Ink",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/7036a22547fe28c610c36d7d7acf603cccffa5b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "ACH_E5_Coll3": {
       "name": "She Wolf",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/c3ea965e149805240afdd62de1a0f43a18d5644a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "ACH_E2_Coll6": {
       "name": "Small Town Blues",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/7e90c28e38f2616f7aa776f1a7ed00296f09317a.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 2",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "ACH_E5_Coll2": {
       "name": "The Age Of Reason",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/a002606918d1e9ea5cf35de52ef96a17d2cceacb.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "ACH_E5_Coll1": {
       "name": "The Magic Place",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/f8fc26ecd238db862d80e9a06bf4302f9ea00bdb.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "ACH_WolfPack": {
       "name": "Wolf Pack",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/0caaeff426ca88a25225e4bbb568563a691c06d9.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "6.2"
+      "percent": "6.3"
     }
   },
   "platform": null,

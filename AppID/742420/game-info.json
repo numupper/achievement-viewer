@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/f7ade00487d6ca39a690847d7976a36e8a969190.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "first_building_placed": {
       "name": "Landlord",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/367d978d3e90cc95e8abcd3b935f566389b63521.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "collect_high_amount_hero_props": {
       "name": "The Collector",

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/d065bbed847d5cf3bf927716d08beac7e9526abb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "NEW_ACHIEVEMENT_2_10": {
       "name": "Adrift",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/5fcb751c607af3fc57bcc685075d6b3bf9216ebc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.1"
     },
     "NEW_ACHIEVEMENT_3_07": {
       "name": "Apex Predator",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/ebfc4090043111268095f2d50999b6e4b12efc60.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.2"
     },
     "NEW_ACHIEVEMENT_1_12": {
       "name": "Operator",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/25e2e594da683a71ba85c081977b1e0d22ea36f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "NEW_ACHIEVEMENT_1_8": {
       "name": "Shapeshifter",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/815749e03718c7b9afb24dfeed075bcf3f8e645d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "NEW_ACHIEVEMENT_1_15": {
       "name": "Tee One Up",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/4daad056f9f095de01db737e328a7251520bfb6a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     }
   },
   "platform": null,
