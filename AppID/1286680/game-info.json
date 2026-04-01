@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/1476d588239ab46713ff89f4865372485cff1e77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.7"
     },
     "Achievement_12": {
       "name": "Body Unsnatcher",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/43e4f52371797598da02bc1e8f96bf3d23be7ee1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "Achievement_39": {
       "name": "Bunker Mastered",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/77b881edba009e2dc626d9f7684bc882534e0848.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.9"
+      "percent": "68.0"
     },
     "Achievement_18": {
       "name": "So Much for That Guy",

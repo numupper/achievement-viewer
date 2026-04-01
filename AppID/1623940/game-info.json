@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/7c4fe842d83bfc0e130ecff68d34167c8e00177d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.3"
     },
     "BOOKREAD": {
       "name": "Book worm",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/7754fbc28007c4306e64b3b13483ffd0d98425df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.7"
     },
     "JUMPEDONMUSHROOMS": {
       "name": "Bouncy",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/6db2374d3b5be14a769a6050de1974be1bfc7a69.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.3"
+      "percent": "74.2"
     },
     "COLLECTOR": {
       "name": "Collector",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/37a9534d02c808a2b933a10851472e68d7e63b37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     },
     "PROPERFUNERAL": {
       "name": "Proper burial",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/73c41cee9abc5f0da35fdbd05d473a442261b392.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "FINDSKOGSRAFIG": {
       "name": "Skogsrået Figurine",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623940/15687ba2e1550f68eab0974a211173a0d29c280a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.7"
     },
     "FINDTRICKSTERFIG": {
       "name": "Troll Figurine",

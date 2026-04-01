@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a4d02d01f2f27d842f744401835b4ac25fc51b5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.7"
     },
     "TROPHY_NAME_FINISH_UHARD": {
       "name": "Charted! - Crushing",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/3761ae3819b6671f765501be2d81bc52ba606f35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.7"
     },
     "TROPHY_NAME_FINISH_HARD": {
       "name": "Charted! - Hard",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/e822bbfb842393dbe8c4adf2d1f4532c61e37f87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     },
     "TROPHY_NAME_GRENADE_VEHICLE": {
       "name": "Here, Catch!",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8c7beda9550977f60835eba6284b93cfa59f3ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.7"
     },
     "TROPHY_NAME_ARMORED_MELEE": {
       "name": "Hitting a Brick Wall",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8084e4551039e5355f0658b63113d5899ed3f2c9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.1"
     },
     "TROPHY_NAME_VERTICAL_TAKEDOWN": {
       "name": "I Thought I Heard Something",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/89aac935e8ee251b7b1f17926808ed395a13cdbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.6"
+      "percent": "64.5"
     },
     "TROPHY_NAME_ROPE_SWING_CHAIN": {
       "name": "Jungle Gym",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4204f86a6338335dc3640949514c2e58d371332e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "TROPHY_NAME_JEEP_JUMP_TIME": {
       "name": "Stunt It!",

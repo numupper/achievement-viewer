@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "TROPHY_MISSION_REMEMBERING_HOME": {
       "name": "Duty's Course",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "TROPHY_DLC2_DEFEAT_UGUA": {
       "name": "Interdimensional Interference",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.4"
+      "percent": "59.5"
     },
     "TROPHY_DLC2_SUMMON_MONSTER": {
       "name": "Monster Summoner",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "TROPHY_DLC2_UNLOCKED_BLUE_MAGE": {
       "name": "Path of the Blue Mage",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "TROPHY_DLC1_GET_RAT_TAIL": {
       "name": "Rat Tail",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "TROPHY_DLC3_UNLOCKED_GAMBLER": {
       "name": "Take a Chance",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "TROPHY_MISSION_WIND_MEMORIES": {
       "name": "The Wind's Light",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "TROPHY_FULL_UPGRADE_SPECIAL_EFFECT": {
       "name": "True Potential",
