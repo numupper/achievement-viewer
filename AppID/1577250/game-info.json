@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/6fc264d045fa3d5fcf523ea67d1d5696ec1fe2fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.0"
     },
     "LIGHTNING_ROD": {
       "name": "Lightning Rod ",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/8950cfceca46ace582e8feb7baf64b169b3c06aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "SELF_HELP": {
       "name": "Self-help",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/c9aa1599dffbf5ad3a23d3fa3753b98a544a9943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.4"
     },
     "TOOLS_OF_CONSECRATION": {
       "name": "Tools of Consecration",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577250/af6bcd071772f252b59f023299db37b69aeae128.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "UNMASKED": {
       "name": "Unmasked",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/af812b7974d8b23d1915e5ea622efbed250ebbae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "TROPHY_NAME_JEEP_QUICK_KILL": {
       "name": "4x4x4",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a4d02d01f2f27d842f744401835b4ac25fc51b5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "TROPHY_NAME_FINISH_UHARD": {
       "name": "Charted! - Crushing",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/3761ae3819b6671f765501be2d81bc52ba606f35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "TROPHY_NAME_FINISH_HARD": {
       "name": "Charted! - Hard",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/e822bbfb842393dbe8c4adf2d1f4532c61e37f87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.3"
+      "percent": "68.4"
     },
     "TROPHY_NAME_GRENADE_VEHICLE": {
       "name": "Here, Catch!",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8c7beda9550977f60835eba6284b93cfa59f3ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "TROPHY_NAME_ARMORED_MELEE": {
       "name": "Hitting a Brick Wall",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/8084e4551039e5355f0658b63113d5899ed3f2c9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "TROPHY_NAME_VERTICAL_TAKEDOWN": {
       "name": "I Thought I Heard Something",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/89aac935e8ee251b7b1f17926808ed395a13cdbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.5"
+      "percent": "64.6"
     },
     "TROPHY_NAME_ROPE_SWING_CHAIN": {
       "name": "Jungle Gym",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a1367081b4051628eabf48a3974d68c5089679f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "TROPHY_NAME_JEEP_COMBO": {
       "name": "Make an Entrance",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/da73c5541d4d475c79ef4a036a547eff29c4b8a9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "TROPHY_NAME_NO_KILL_CHOPPER": {
       "name": "Right Under Your Nose",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/d4a17d11bf44bda4ad896bfbeeeeef9cd5831b05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "66.0"
     },
     "TROPHY_NAME_TOY_GUN_TARGETS": {
       "name": "Still Got It!",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/4204f86a6338335dc3640949514c2e58d371332e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "TROPHY_NAME_JEEP_JUMP_TIME": {
       "name": "Stunt It!",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/159819d10d605124df3a5f8445b071f35386e9d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "TROPHY_NAME_SWORD_FIGHT": {
       "name": "Swordmaster",
@@ -784,7 +784,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a8517f92833d9655f5ed85bc80020c0e38068866.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.7"
     },
     "TROPHY_NAME_DAMAGE_VARIETY": {
       "name": "The Sampler",
@@ -901,7 +901,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b063e4193fd9892c320971cf8e7729d8ba1c08f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "TROPHY_NAME_TOWER_YOGA": {
       "name": "Your Prize",

@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/df02a22b10aceb82c43284420aa94b2c1850e653.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "StoryEnd": {
       "name": "Go Home",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/8ae65de9d32bd04a9b7be724eacc05d870b28142.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "SwanseaDeath": {
       "name": "The Good Ending",

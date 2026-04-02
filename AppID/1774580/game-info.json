@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/da1f798223982f30df4c336230fc11ee2e01802f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.4"
+      "percent": "69.3"
     },
     "Achievement_GOSCC_a17": {
       "name": "Catch!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/f91ea8630b59ea500878402171efe902cd031c9b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.1"
+      "percent": "81.0"
     },
     "Achievement_GOSCC_a7": {
       "name": "For the Path",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/43e192dbbd48f3d14aad4b8e4c808b5b6cc5514f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "51.0"
     },
     "Achievement_GOSCC_a22": {
       "name": "One With the Force",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/05c4791f895dc41920fbba66f9b57cde9809e776.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.6"
     },
     "Achievement_GOSCC_a9": {
       "name": "Tanalorr Bound",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/43cbb4421e2f810316f27973b40291b5212eedb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.8"
     },
     "Achievement_GOSCC_a4": {
       "name": "The Past Made Present",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/0f4968223805f436af23df4d582cea5b011d0ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.0"
     },
     "Achievement_GOSCC_a29": {
       "name": "There Is No Try",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/b5599a4da151d8f43a3ba0a507c9f3a24cadbf93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.7"
+      "percent": "61.6"
     },
     "Achievement_GOSCC_a32": {
       "name": "They're Probably Fine",

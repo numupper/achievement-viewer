@@ -1,7 +1,7 @@
 {
   "appid": "850190",
   "name": "Goat Simulator 3",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/8d86157e7fb48b963d95879e81b97ff9f7b619d5/header.jpg?t=1773922767",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/8d86157e7fb48b963d95879e81b97ff9f7b619d5/header.jpg?t=1775052433",
   "achievements": {
     "AchievementRedactedID": {
       "name": "[REDACTED]",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/400cf4a6206334b6c85c36230837fdf9a0d8d1b7.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "AchievementINirvanaID": {
       "name": "Beauty, Mindfulness and Meditation",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b93d2d9bc54bf96c605954a71af6566fc5cb1629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "AchievementContainerPartyID": {
       "name": "Club Mohair",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/58aeca72225eed093a277c8a66363d75b3b631e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "AchivementMultiverseDrPhilgorID": {
       "name": "Dr. Pheelsgood",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/5de8bc882947c4492e3a58c9b976d16d1502c834.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "AchievementCastleRenovationID": {
       "name": "Forgotten Sorority",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/816e7e8f32d32ec6c3cf8e664c2a47c178a91436.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "AchievementMultiverseKnowledgeStoneID": {
       "name": "Goat Got Brains",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9516aa55bd976f040e5a6ad0adcd87319a1c5a86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "AchievementRoomUpdateID": {
       "name": "Private Club",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/bc6054c754747e368947f4bdd77f6966e7bb3e0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "61.0"
     },
     "AchievementBoulderID": {
       "name": "Raider of the Lost Parking Garage",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/7612310a5241717db342558f94c99eb17250c4ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "AchievementStratosphereID": {
       "name": "Reach the Stratosphere",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/6c3ed6b81b23a3180ec0d4eaf1198c5d415e920c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.2"
     },
     "AchievementWhaleID": {
       "name": "Real Buoy",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/67db180dbf277f005e0579279f8ee39ccf29716c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "AchievementMultiverseTrojanGoatID": {
       "name": "So Aerodynamic",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "AchievementMultiverseIntroCartID": {
       "name": "This Took Half My Life",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b281d401a1890bee4838b80c400a1145fb4299ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "AchievementMultiverseTrinketsID": {
       "name": "Try Hard With a Vengeance",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/648a1c8791d66d139c2d95ebe6a66e3a303999fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "AchievementGatorID": {
       "name": "What a Waste of Money",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f419fb069a2150e1355f1d02ea03f452155d94c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "AchievementApocVehicleCollectiblesID": {
       "name": "Wheels of Fortune",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/4a96d0de2a9656fcee6a58c64aafcf3f1ce061ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "AchievementBaywatchID": {
       "name": "Who Baywatches the Baywatch?",

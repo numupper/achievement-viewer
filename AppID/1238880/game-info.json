@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238880/939ff6f13768049166d2168051deccd524086290.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "Achievement_GOSCC_9": {
       "name": "From Their Cold, Dead Hands",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238880/df1d46565d01ec3b1ea810ddd45aa1ef20a00a30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "Achievement_GOSCC_45": {
       "name": "Mechanical Trigger Finger",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238880/cfc7c2f0e0c5030d1e1f24d157bae841b7db8a3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     }
   },
   "platform": null,

@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/6aab04ca99c7d7caf76e1894ca98209d3a6c4db9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "Achievement_GOSCC_21": {
       "name": "Diplomat",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/7b986846a3157bb0103b62869dba939e701da9d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "Achievement_GOSCC_55": {
       "name": "Master of Carmine",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/7829abed005807c2b1a97fd28d20946c9e8b7cbb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "Achievement_GOSCC_1": {
       "name": "Unforeseen",
