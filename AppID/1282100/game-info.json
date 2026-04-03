@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.7"
+      "percent": "65.8"
     },
     "Obtain_Water_Harp_Item": {
       "name": "Carnage in C-Minor",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "59.1"
     },
     "Obtain_Melee_Weapons_A": {
       "name": "Edgelord",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.6"
     },
     "Upgrade_Standard_Weapon_A": {
       "name": "Good, but Could be Better!",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "Defeat_Tal_Ratha": {
       "name": "Madman's Paradise",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.9"
     },
     "DLC2_Obtain_Archetype": {
       "name": "Master of Elements",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Remnant II® - The Awakened King",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "DLC2_Complete": {
       "name": "Requiem of the Forgotten Kingdom",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "Obtain_Scrap_B": {
       "name": "Scrap Hoarder",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Remnant II® - The Dark Horizon",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "Upgrade_Boss_Weapon_A": {
       "name": "The Ultimate Weapon",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.2"
     },
     "Obtain_Archetype_Level": {
       "name": "Top Performer",

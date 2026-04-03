@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/3a0a5b6d4bd33f25d23730c9d42f4b906ad00d7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "Thief_Guildmaster": {
       "name": "Guildmaster, Thieves Guild",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/633fd2bd7c2b892f6e0afc01949b2a51a9c61d1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "Arena_Hero": {
       "name": "Hero, Arena",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/b55265843847b53d156eed30ff1cd1bf5be004a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.1"
     },
     "Mage_Magician": {
       "name": "Magician, Mages Guild",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/ef2bd94f494fc411932873d80c5b6a8c20a5395f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "Brother_Slayer": {
       "name": "Slayer, Dark Brotherhood",

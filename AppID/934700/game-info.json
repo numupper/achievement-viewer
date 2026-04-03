@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/e82286b0fb44913591fedd67675e6c5b08d9ccdb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.6"
     },
     "ach_knock_down": {
       "name": "Apex Predator",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/4fe970b6ef78f96bf17e1187e91b497d734765fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "ach_fetch_me_a_tisha": {
       "name": "Can't Handle the Truth",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a4d9951b0fc2c2056c6447b280e139ecbba14300.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "ach_impressive_aim": {
       "name": "Donk!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/11b6acf405470f6f5b981033f6c3859ac817097e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "50.1"
     },
     "ach_the_vcla": {
       "name": "Go, Bobcats!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f5357b77f202a34c788a9aa4d4108e74627ad84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "ach_thesacrifice": {
       "name": "Our True Nature",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b01a91e8f132aea5e24061b7defc3065894ff3b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "ach_whoops_did_i_do_that": {
       "name": "Three's a Crowd",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b9854c0b9225393539c817ac7a3653d852c71c2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     }
   },
   "platform": null,

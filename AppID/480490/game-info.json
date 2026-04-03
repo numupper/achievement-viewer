@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/01e20c95c02d249262fe245993ae1560f42a255c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "NEW_ACHIEVEMENT_1_30": {
       "name": "Abandon Ship",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/78a68c2d4ff3090b99fa0c9349538162a80779cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "NEW_ACHIEVEMENT_2_11": {
       "name": "Black Market",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/1a8bb7198f6da6cb6c0f10ae5e79c3c3846ee1e2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "NEW_ACHIEVEMENT_1_21": {
       "name": "Cold Dead Hands",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/3f8ca43b83578f2377944a2005190efc3b7556df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.5"
     },
     "NEW_ACHIEVEMENT_3_09": {
       "name": "Contract Fulfilled",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/7eecfb2f3497214c39f1069e7aa08b2b17034fdb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "Deprogramming",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/f08be82ed40a3b912a4474700a004dbd55008c62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "NEW_ACHIEVEMENT_1_16": {
       "name": "Escape Velocity",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/e15bc2cf7fa3dec37f05750da5f3965eff1ba7ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "NEW_ACHIEVEMENT_2_6": {
       "name": "Facsimile",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/1a3b42d09dcab2d04db7893d663fbb08c7f170fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.1"
     },
     "NEW_ACHIEVEMENT_3_01": {
       "name": "Galaxy Brain",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/11fe3f508df023333cd6036a9d211e9185f60155.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.6"
     },
     "NEW_ACHIEVEMENT_1_2": {
       "name": "I and It",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/1c7f81cef2bef448a10b3d64cc7adf049451d93b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "NEW_ACHIEVEMENT_3_06": {
       "name": "I’m Your Biggest Fan",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/d22b6a1ee63563d5201d91438bd2cbe56305ad7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "NEW_ACHIEVEMENT_1_10": {
       "name": "Know Thy Self",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/25528589375cba0af9e3488ac7c490fcbefea051.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "NEW_ACHIEVEMENT_1_5": {
       "name": "Mimic Massacre",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/823041d2faba92e856954268aa0ae09caeebafa4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "NEW_ACHIEVEMENT_1_24": {
       "name": "Missing Persons",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/a110125d1269be7aa522c370b121ab5f4821c8e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.5"
     },
     "NEW_ACHIEVEMENT_1_25": {
       "name": "Press Sneak",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/9a8056ffa0e632aea9d1bb9170f0740de1da0dc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "28.9"
     },
     "NEW_ACHIEVEMENT_1_31": {
       "name": "Self-Incriminating",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/480490/3da28ecac9126252e9918a34eabdb6a029673fbc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "NEW_ACHIEVEMENT_2_5": {
       "name": "This Never Happened",

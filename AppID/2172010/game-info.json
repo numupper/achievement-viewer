@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "TRP_OMEN": {
       "name": "An Omen?",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "TRP_CARNIVAL": {
       "name": "Carnival of Solitude",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "TRP_DRAG": {
       "name": "Drag Me Through Hell",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "TRP_FATAL": {
       "name": "Fatal Destination",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.7"
+      "percent": "88.8"
     },
     "TRP_SHINING": {
       "name": "It’s Shining",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.6"
     },
     "TRP_ASH": {
       "name": "Nightmare on Ash Street",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "TRP_SELFIE": {
       "name": "One Hour Selfie",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "TRP_HOST": {
       "name": "Our Host",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "57.1"
     },
     "TRP_SEMATARY": {
       "name": "Patient Sematary",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "TRP_SAW": {
       "name": "Saw That Coming",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "TRP_TALKTOEM": {
       "name": "Talk to eM",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "TRP_CABIN": {
       "name": "The Cabin in the Blackwoods",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "TRP_FATEFUL": {
       "name": "The Fateful Descent",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "TRP_PSYCHOPATH": {
       "name": "The Psycho Path",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.7"
     },
     "TRP_WOLFMAN": {
       "name": "The Skillful Wolf Man",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "TRP_TALETWO": {
       "name": "The Tale of The Two Sisters",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "TRP_CALLS": {
       "name": "When a Psycho Calls",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "TRP_WRONGONE": {
       "name": "You Let The Wrong One In!",

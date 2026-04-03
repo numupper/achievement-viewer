@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4ffa755c0cd0328d2a4df71b6fb2f50ce640abf9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "ACHIEVEMENT_042": {
       "name": "Bond Maniac",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/bba3cf1669c35b0733fa90e1c5df340ce7213e5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.5"
     },
     "ACHIEVEMENT_046": {
       "name": "Bug Hunter",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/7b24d51c6c0b5614994a40cd2bf9e6673cb424ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.5"
     },
     "ACHIEVEMENT_004": {
       "name": "Game Over",

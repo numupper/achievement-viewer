@@ -1,7 +1,7 @@
 {
   "appid": "813780",
-  "name": "Game 813780",
-  "icon": "",
+  "name": "Age of Empires II: Definitive Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1771627286",
   "achievements": {
     "ACHIEVEMENT_90_KG": {
       "name": "90kg Over 300 Meters",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c3b3cc4956b5255219c09f5da88d2d0c837e3eb7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "POMPEII_BABYLONIAN_VICTORY": {
       "name": "Babylonian Victory",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/223d66164181a5782ff44f87c24dcca6eb4c123b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.4"
     },
     "BURGUNDIANS_VICTORY": {
       "name": "Burgundian Victory",
@@ -883,7 +883,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/f5f11cc64d081491fd3b28c12a87bb5b7f3af639.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "ACHIEVEMENT_CAMPAIGN_MONTEZUMA_COMPLETED": {
       "name": "Emperor of Tenochtitlan",
@@ -2062,7 +2062,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/18022140fe5d49574522ce14fb54f27fd87efc52.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "50.5"
+      "percent": "50.6"
     },
     "ACHIEVEMENT_NUMBERS_BEAT_EVERYTHING": {
       "name": "Numerous As the Grains of Sand",
@@ -2206,7 +2206,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/cfe0644c217baec9b7f46c9dfeebd581bbc10c25.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "ACHIEVEMENT_PLEBEIAN_PRESERVER": {
       "name": "Plebeian Preserver",
@@ -2881,7 +2881,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d838a5c7c78c4f88ac5b79f0744d2a6fb4c68002.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "ACHIEVEMENT_NO_WONDER_LEFT_BEHIND": {
       "name": "The Wonder, the Wonder, the...Oh, Never Mind",
