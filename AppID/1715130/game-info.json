@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/f26e09c304bea3fa92a591c9e9c8fa4ea3dae1c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "AchEvt_Choke": {
       "name": "Choke Hold",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/86219b719676f6e5a135dd74e4fb4aa7c0748fb5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "AchEvt_CloseEncounter": {
       "name": "Close Encounter",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/80ccf11e6597a17b99b54b6bb7cef0abae919a03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "AchEvt_CoolInACrysis": {
       "name": "Cool In A Crysis",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/9292d6b363956cb39ac232b7949e0dded671caf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "AchEvt_ImAMarine": {
       "name": "I'm A Marine, Son!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/eaf6b4cb70f353c9d238f86bad498ed4dea1052f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "AchEvt_LongDistance": {
       "name": "Long Distance Relationship",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/fdb4ff27e9e040ff234062f1900492776877500c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "AchEvt_NoFlyZone": {
       "name": "No Fly Zone",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/8ca6f92eeb20aebcbfbc1e5d6e3918f718158b39.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.8"
     },
     "AchEvt_OneCarefulOwner": {
       "name": "One Careful Owner",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/89d004a081a0ad0cbb7c72ed485f16027e60eea6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "AchEvt_ProAircraft": {
       "name": "Pro-Aircraft",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/7f323573ca43f22c677d638798c8694b73972a6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "AchEvt_EveryOccasion": {
       "name": "Something For Every Occasion",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/db7eff5d852ffc3bbd6276defa17dfe38ec3b209.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.6"
     },
     "AchEvt_BusterOfTanks": {
       "name": "Tank Buster",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/69b7c9ba75d7671ee9d0a5ed6d1deb5261a8e491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "AchEvt_TeamRaptor": {
       "name": "Team Raptor",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/fa79654dcfadb888584bca9a88da9dcca4ceaf9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "AchEvt_VeryStrangeReadings": {
       "name": "Very Strange Readings",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/b044fcf86912d91befb02a3e6c41f8953d1a1487.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.7"
+      "percent": "44.8"
     },
     "AchEvt_WeaponsMaster": {
       "name": "Weapons Master",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/22ae60ddbb9d1d0f6934df5fe538eb20a3cd8df1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.7"
     },
     "AchEvt_YouOnYourOwn": {
       "name": "You're On Your Own",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/269acfe935e1d68538ead0fc3bdaf921dc26675a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.2"
     }
   },
   "platform": null,

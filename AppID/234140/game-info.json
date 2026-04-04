@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/9cd5fd6bf72c73c30da3383781183a28e60d7270.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "TRP_BOMB_SPECIALIST": {
       "name": "Bomb Specialist",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/5d9f574c59f4a47962345c95da5ca6528d983423.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "TRP_THE_FALLEN": {
       "name": "The Exiled",

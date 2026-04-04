@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/d151d27561b4d823c80de0f919b89618062e9be4.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Riot Bundle",
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "SPEND_20000": {
       "name": "Big Spender",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/415d5e38b68401ac58452ab208b588a8b2a049cf.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "FINISH_RIOT_MODE": {
       "name": "Instigator",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/146fc3d2e209b6585cac6a4c2f1af182f22f14cc.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "PRINT_WEAPON": {
       "name": "Paper Jams",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/961811a1e0bc96eebfca8d09751fc76ddec1b9b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "45.9"
     },
     "LOCK_UNDER_7SEC": {
       "name": "Quick Pick",

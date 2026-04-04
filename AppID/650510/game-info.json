@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/868fa3bd637560556e2e12a59f4bfeb57b580620.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "ACHIEVEMENT_DERAILED": {
       "name": "Derailed",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/c40f7831ff0a69b030a0e64d4ff1164a51e5777b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.7"
     },
     "ACHIEVEMENT_NEXTMISSION": {
       "name": "nEXt Mission",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/3cdf3dd053f5b5350c37a454cc0b7d664d6809de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.2"
     },
     "ACHIEVEMENT_SURELOCK": {
       "name": "Sure Lock",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/be7b9e471ecd88ae6246b9c62e7f392cdc53ea0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "ACHIEVEMENT_THEGOODRESCUER": {
       "name": "The Good Rescuer",
