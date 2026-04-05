@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/18fd38df3b32380aae784715f5dcd63528cfbffb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "ConqueroroftheAbysses": {
       "name": "Conqueror of the Abysses",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/84c2fa89c144fc147e3a0da1f342e588c351aa48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "ExpertExplorer": {
       "name": "Expert Explorer",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/40334f1caf8253b49bc393c9829124179419713f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "1.1"
     },
     "UltimateWeaponCollector": {
       "name": "Grand Collector of Arms",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/501e9286d71c9e43f0cd64a635b3283f5a6e3151.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "1.1"
     },
     "HonorarySovereign": {
       "name": "Lord of Honor",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/93d03a8d684ee0a2aa55cae660b209da11418a78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "51.7"
     },
     "SiegeMaster": {
       "name": "Master of Artillery",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/732775acff20d36fe99c965fb1278ad4d6cadc3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "Swordmaster": {
       "name": "Master of Swords",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/2a7e919ca92781c9e048f5e483a0a1522b11994c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "GreatWeaponMaster": {
       "name": "Master of Two-Handed Weapons",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/9c663d35bef6c1851a0646efc4c8ff69d2f43ff9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.8"
+      "percent": "76.2"
     },
     "SceneryPilgrim": {
       "name": "Pilgrim of Wonders",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/19446c5736708aee5d9e0302ba222c92e60382f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "10.8"
     },
     "ConfidentReturnee": {
       "name": "Proud Returnee",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/532674601897d1273817bacba77238970e46efc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "UnbreakableFighter": {
       "name": "Relentless Warrior",

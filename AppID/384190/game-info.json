@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/384190/0317b81bbc448c2bc1afd8ab21235aeeb6ac24a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.8"
+      "percent": "59.7"
     },
     "ACH_COLLECTOR": {
       "name": "Collector",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/384190/f726b8970a1ae4ef8450783abddedbf35d54eb5d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.7"
     },
     "ACH_ECOSYSTEM": {
       "name": "Ecosystem",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/384190/17cfe852ed09dacb62560c2b1f2ab6913fe8bd21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "35.9"
     },
     "ACH_JETSTREAM": {
       "name": "Jetstream",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/384190/2eadb4a660f2945654f2effa7c0f0ea46af37581.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "ACH_ZENMASTER": {
       "name": "Zen Master",

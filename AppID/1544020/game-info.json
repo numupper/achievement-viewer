@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/d151d27561b4d823c80de0f919b89618062e9be4.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Riot Bundle",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "SPEND_20000": {
       "name": "Big Spender",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/0e0015c1c2061a3b7b3c13a76250dc1ea7c228f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "FIND_ALL_DATA_DRIVES": {
       "name": "Information Overload",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/415d5e38b68401ac58452ab208b588a8b2a049cf.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "FINISH_RIOT_MODE": {
       "name": "Instigator",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/bad2f9f86227ac4a4da4b8f95c11e99aa742bf07.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "FINISH_GAME_HARDCORE_PLUS": {
       "name": "Lifer",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/2f1194e3001350d733867eda8870b07b1be39b6b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "FINISH_DLC4": {
       "name": "One Last Job",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/146fc3d2e209b6585cac6a4c2f1af182f22f14cc.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "PRINT_WEAPON": {
       "name": "Paper Jams",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/961811a1e0bc96eebfca8d09751fc76ddec1b9b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "LOCK_UNDER_7SEC": {
       "name": "Quick Pick",

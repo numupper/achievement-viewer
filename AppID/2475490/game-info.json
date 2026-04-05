@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/df02a22b10aceb82c43284420aa94b2c1850e653.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "StoryEnd": {
       "name": "Go Home",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/c4ed16da0332152e5a3a95889e17c0d32ac62db0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.8"
+      "percent": "75.7"
     },
     "StoryStart": {
       "name": "I Hope This Hurts",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/8ae65de9d32bd04a9b7be724eacc05d870b28142.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "SwanseaDeath": {
       "name": "The Good Ending",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2475490/1a615238ef054f3d23333554600ad0fbe5f84b38.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "UseMouthwash": {
       "name": "The Name Of The Game",

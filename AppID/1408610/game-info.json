@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/8195db18e37131a09483c8edb2d6208979230a15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACHIEVEMENT_001": {
       "name": "Fish Just Got Reel",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/06af75b125580f6e42211cffc554c98e82d37ab4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "ACHIEVEMENT_035": {
       "name": "Fish upon a Star",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/1abe31ca609d9dc0520c2a73dddd93730540a2f4.jpg",
       "hidden": false,
       "group": "Update 6",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "ACHIEVEMENT_019": {
       "name": "Lake Me up Before You Go Go",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/15de49e08f343f311f512281cca4a52d9f128b6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.2"
     },
     "ACHIEVEMENT_016": {
       "name": "School's Out for Summer",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1408610/d64aa83ca473b8cbd6b8c313b16dad08aa1f8c10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "ACHIEVEMENT_045": {
       "name": "Snap Happy",

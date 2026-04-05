@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1049410/6bf99db222eb0709160e7fd75a3328a00e27ad5c.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "UploadDream": {
       "name": "Dream Sculptor",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1049410/7ac31f29f9c82c1af0a8620ae02c336d52dcca37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "BreakSodaCan": {
       "name": "Sugar Crash",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1049410/9164307b2c58ca9eedc101d09b352b650ca68347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "VaguelyActivated": {
       "name": "Vaguely Activated Achievement",

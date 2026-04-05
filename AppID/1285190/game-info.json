@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c69ef3048fd3fd0bf60f4613c808ef2bb90d4b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "Achievement_16": {
       "name": "Churn the Burn",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/eb1304eb25014827b0ec36eb07ddca7727376ec7.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.2"
+      "percent": "0.5"
     },
     "Achievement_29": {
       "name": "Everything Breaks",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/12e04ce2d3637bf52572a00e809d625c75d745eb.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.2"
+      "percent": "0.6"
     },
     "Achievement_36": {
       "name": "Fist of the Mountain",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4d4788693a81a35ddf9b84f3f5b84550d34b8f97.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "Achievement_13": {
       "name": "Freelance, but Not for Free",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/174280b6f5d869028d94f9c2dda3e0af56464cec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "Achievement_03": {
       "name": "Gear Five!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/9a794c7cf5d8666e069000332b7f36ac6b8edf7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "Achievement_01": {
       "name": "Good Hunter",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/bb57a895961a96fb0d72c8dbc5caa730374fe681.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "1.1"
+      "percent": "1.9"
     },
     "Achievement_41": {
       "name": "Hearthwarming",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/fdab85bd7448ccfd7ab1554ff07ccf535ee45505.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "2.1"
+      "percent": "3.0"
     },
     "Achievement_28": {
       "name": "Howling on the Moon",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b5fc0901f2cc72d8bd4a3495728a2515b5b7a4a4.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "1.1"
+      "percent": "2.0"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4815e27ff0d420f53e92368dbb5c0496b478cf64.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "1.4"
+      "percent": "2.3"
     },
     "Achievement_27": {
       "name": "Long Live the Queen",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/1111c9f84dcda34d8af81a9b2df68589787acc58.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.4"
     },
     "Achievement_39": {
       "name": "Looking for Work at the Top of the World",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/9a8c9251fc71e90b135be7c437a7b63a7102651f.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "Achievement_02": {
       "name": "Master of Death and Dance",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d7adac5f0fbf76f0d252e63d606d1867661a3f67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.1"
     },
     "Achievement_12": {
       "name": "Shoot the Moon",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/49cf0cd399ebc58159ec8d63d1cd9128cd2cdc07.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "1.8"
+      "percent": "2.6"
     },
     "Achievement_37": {
       "name": "The Demon's Domain",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/f432b917f4fc372c96012891e6170312bf35e67f.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.5"
+      "percent": "2.8"
     },
     "Achievement_04": {
       "name": "The Lookbook is the Cookbook",

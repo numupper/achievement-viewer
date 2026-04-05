@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.4"
     },
     "AllThatsLeftUnsaid": {
       "name": "All That's Left Unsaid",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.0"
+      "percent": "86.9"
     },
     "Insightful": {
       "name": "Insightful",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.7"
     },
     "Thunderstruck": {
       "name": "Thunderstruck",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "Unforgiven": {
       "name": "Unforgiven",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.5"
     }
   },
   "platform": null,

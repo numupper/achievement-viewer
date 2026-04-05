@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409160/bdd67cea3bb399f4a2a43c9768a476999630cf7a.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "lights": {
       "name": "In The Shadows",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409160/d544589f37e65090ffb31d065fad9d44049e29be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     }
   },
   "platform": null,

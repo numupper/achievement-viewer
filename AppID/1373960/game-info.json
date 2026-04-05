@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.5"
     },
     "Item_beforeBatz": {
       "name": "Anecdote",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "LakePuzzle_FrogDeath": {
       "name": "Desire for a kiss",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "Game_CutHand": {
       "name": "John of Damascus",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "Station_DestoyAllBox": {
       "name": "Meticulousness",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "Dog_Pray": {
       "name": "Piety",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "Pray_forDying": {
       "name": "Tribute to the deceased",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1373960/e7d1507cb406d4b3277f17f4f8bed649fb85847b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     }
   },
   "platform": null,

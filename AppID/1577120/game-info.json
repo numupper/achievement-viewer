@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/e324b6f1ed60205f5d72cdeb9e843a98c24dee7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "ACT4": {
       "name": "Chapter 4",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/2f07b19349b8264c0e923320576eef633f6b004d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "ACT5": {
       "name": "Chapter 5",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/5c6a2bd01c8b6c812d555e08cd1ebaf0ac733364.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "ACT7": {
       "name": "Chapter 7",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/5b96a28c0d45ac5b4084077248b85008924c89e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "ACT8": {
       "name": "Chapter 8",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/7b23b53835419a327956f7123a1ffb1bcb02d5c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "ACT9": {
       "name": "Chapter 9",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/90d2ecf8868468d6035be2b71aff42e6e21b9392.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "EPILOGUE": {
       "name": "Epilogue",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/cba6f442615e47fe951e0c5bceb8fa15ec61e306.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "ROUGHNIGHT": {
       "name": "Rough Night",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/b79560986126c8a7b2b2bdba9203374ee7e8863a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "WHATSTHIS": {
       "name": "What's This?",
