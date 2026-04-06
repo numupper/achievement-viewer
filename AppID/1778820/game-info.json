@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/0aaf72f21b2fcdf0137e78c2f8709a40229e06b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.9"
+      "percent": "73.0"
     },
     "AQClear": {
       "name": "Get ready for the next battle!",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b8d64231d9671f273f569a5efaf1a9ba3ae02aa8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.0"
+      "percent": "83.1"
     },
     "RageDamage": {
       "name": "Now it's time to destroy you.",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/daeb42bdfe1fb6472951cd10d8aa89eb89e21763.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.7"
+      "percent": "61.8"
     },
     "BattlePerfect": {
       "name": "That was too easy!",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b5f598ee6653e1586db8daacd3bab72c52e46979.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "EpisodeClear5": {
       "name": "This should be fun.",

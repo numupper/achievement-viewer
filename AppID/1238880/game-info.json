@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238880/476f6e109ef7b0252071b616c01ae59b39daca0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "Achievement_GOSCC_20": {
       "name": "Almost an Expert",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238880/0cdfc87f3b5c392e5fc50c0363581faf503047c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "Achievement_GOSCC_17": {
       "name": "Damn Thing Doesn't Work",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238880/939ff6f13768049166d2168051deccd524086290.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "Achievement_GOSCC_9": {
       "name": "From Their Cold, Dead Hands",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238880/08d5fde40a62fd12d13f8ef3d87084f5755a5657.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "Achievement_GOSCC_56": {
       "name": "Test Your Mettle",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238880/b69a37d5479ef4ffcd1ec438084de43556bb1b40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "Achievement_GOSCC_14": {
       "name": "You Tazed Him, Bro!",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238880/cfc7c2f0e0c5030d1e1f24d157bae841b7db8a3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     }
   },
   "platform": null,

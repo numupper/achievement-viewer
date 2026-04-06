@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/538ebdcf982f50fef900834892ad577c7e8e8f69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "ZM_SILVER_CRAFT": {
       "name": "Craftwork",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7db20ce0331d8eb81e48a887cb7c21768b23ec1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "DOA_ACHIEVEMENT_DUNGEONDIVER": {
       "name": "Dungeon Diver",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9be90da14b0ea3b404fa85ddbb8f24025c7c1338.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "MP_ACHIEVEMENT_VEHICLE_KILLS": {
       "name": "Mean Machine",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/56798126182d1f6d580974f86978e73abb20a6e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "CP_ACHIEVEMENT_CP_SIDEMISSION_TUNDRA": {
       "name": "Operation Red Circus",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/909354647600dfd3cc7e03bf05a12c8601043347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.4"
     },
     "DOA_ACHIEVEMENT_FIDOLINA": {
       "name": "Reunited with Fidolina",

@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/5fcd4b1bc0f1132d8d5c10fa874d91fca0d2f959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "Achievement_GOSCC_a31": {
       "name": "Cleaning Up",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/7d0b64f8ab7a4f8d0325aaa57977643dcbc55ff3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "Achievement_GOSCC_a43": {
       "name": "Hey, Luke At Us",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a96126fede09a0319e520686e84a557796914109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "Achievement_GOSCC_a23": {
       "name": "Mirror Match",
