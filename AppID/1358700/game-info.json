@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "TROPHY_USE_JOB_CREST": {
       "name": "Crest Bearer",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.2"
     },
     "TROPHY_UNLOCK_ALL_JOB_BONUS": {
       "name": "Polymath",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "TROPHY_MISSION_WIND_MEMORIES": {
       "name": "The Wind's Light",

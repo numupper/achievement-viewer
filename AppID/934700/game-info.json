@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/b024d0576ab4722b40daf5e7f68ab9fa11109c01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "ach_a_day_in_the_beach": {
       "name": "Dr. Reed, I Presume?",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/c5547fa8ff05c9fb5f1d790734e1153c78eb9ce0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "ach_revival_tour": {
       "name": "I Am the Resurrection",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/ac6ba1b7ec8a6fc88ecac59640821dddbee58ab4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "ach_blueprinted": {
       "name": "Perks of the Job",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/500907995ed66f22e6a6c4626c2cff25911b9820.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.3"
     },
     "ach_star_performance": {
       "name": "Personal Assistant Personally Assisted",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/28b9a30db2033b8d5bb3e6f9cd54d8f23711f9c4.jpg",
       "hidden": false,
       "group": "Dead Island 2 - SoLA",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "ach_well_known_survivor": {
       "name": "Rising Star",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/a807c8ac8ccb31ea88a1e364c7b1d11c9a384288.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "ach_investigator": {
       "name": "Sole Survivor",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/42efca0358ce8528496fdf6e1dd25ed93bb634a8.jpg",
       "hidden": false,
       "group": "Dead Island 2 - Haus",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ach_weapon_wrangler": {
       "name": "Variety is the Spice of Death",

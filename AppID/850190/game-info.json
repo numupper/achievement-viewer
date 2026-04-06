@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/bd41fbf298b2e4f7c6b9624e6691b8dfc3d56169.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "AchievementShrinkHouseID": {
       "name": "A Center for Ants?",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b93d2d9bc54bf96c605954a71af6566fc5cb1629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "AchievementContainerPartyID": {
       "name": "Club Mohair",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/52b18688db5cdcd82161619e9948da6d9d76bf6e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.2"
     },
     "AchievementApocArenaTrialsID": {
       "name": "Crash Course",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/58aeca72225eed093a277c8a66363d75b3b631e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "AchivementMultiverseDrPhilgorID": {
       "name": "Dr. Pheelsgood",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/5de8bc882947c4492e3a58c9b976d16d1502c834.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "AchievementCastleRenovationID": {
       "name": "Forgotten Sorority",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e46456268611a13c5a3f9d0275e67bb67649df41.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "AchievementMultiverseBeatDLCID": {
       "name": "It's All a Simulation",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/843e4258ad8d6abb5685e47090e35f361e20d475.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "AchievementApocTrinketsID": {
       "name": "Live Free and Try Hard",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/78f44882c466a9e0a7b3935472a4ebc5f42e96f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "AchievementBossID": {
       "name": "New Goat Order",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/7612310a5241717db342558f94c99eb17250c4ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "AchievementStratosphereID": {
       "name": "Reach the Stratosphere",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/6c3ed6b81b23a3180ec0d4eaf1198c5d415e920c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "AchievementWhaleID": {
       "name": "Real Buoy",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/08acb75234c963fa6c256dd7ad1374e6ac79da12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "AchievementWarRoomID": {
       "name": "Rogue Guild",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/1fb55ca4e56eb89831f2763779dd8a22008599c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.1"
     },
     "AchievementBecomeHumanID": {
       "name": "San Angora: Become Human",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/2f475bacc8bdffad75b4318207e46323a1a745b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "AchievementPortalsID": {
       "name": "Shadow Syndicate",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/67db180dbf277f005e0579279f8ee39ccf29716c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "AchievementMultiverseTrojanGoatID": {
       "name": "So Aerodynamic",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "AchievementMultiverseIntroCartID": {
       "name": "This Took Half My Life",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/4a96d0de2a9656fcee6a58c64aafcf3f1ce061ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "AchievementBaywatchID": {
       "name": "Who Baywatches the Baywatch?",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/10ad059cd6eae47443a3ff89bd762ed3d75eaa96.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "2.4"
+      "percent": "2.3"
     },
     "AchievementMultiverseDeepStoneID": {
       "name": "You Mined Too Greedily and Too Deep",
