@@ -32,16 +32,16 @@
     "earned_time": 0
   },
   "ach_feeling_special": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775571230
   },
   "ach_first_of_many": {
     "earned": false,
     "earned_time": 0
   },
   "ach_first_steps": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775569992
   },
   "ach_following_orders": {
     "earned": false,
@@ -88,8 +88,8 @@
     "earned_time": 0
   },
   "ach_master_planner": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775567839
   },
   "ach_meet_the_new_boss": {
     "earned": true,
@@ -112,8 +112,8 @@
     "earned_time": 1755523728
   },
   "ach_on_top_form": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775574447
   },
   "ach_one_for_the_team": {
     "earned": false,
@@ -136,8 +136,8 @@
     "earned_time": 0
   },
   "ach_research_develop_assemble": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775567411
   },
   "ach_seasoned_strategist": {
     "earned": false,
@@ -172,8 +172,8 @@
     "earned_time": 0
   },
   "ach_the_owner's_manual": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775564294
   },
   "ach_time_lord": {
     "earned": false,
