@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/8343d211a9f1e964e276b3c925d443d49ba92886.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "Isles_Aspirant": {
       "name": "Aspirant, Shivering Isles",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e10b05502fe14acb4496ede7448aff8fb8dafe49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "Thief_Footpad": {
       "name": "Footpad, Thieves Guild",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e96535c4166084a08ff5e4af1474c2ae92846a0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "Mage_MasterWizard": {
       "name": "Master-Wizard, Mages Guild",

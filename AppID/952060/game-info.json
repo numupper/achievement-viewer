@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/a1492559f78d4318100e3a4a5187ecdcbeba39b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.9"
+      "percent": "69.7"
     },
     "NEW_ACHIEVEMENT_1_6": {
       "name": "Basic Chemistry",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/02554e1f258a8790054d18fc69173f5d4cff2f34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.6"
+      "percent": "89.5"
     },
     "NEW_ACHIEVEMENT_1_22": {
       "name": "Bookworm",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/7da621ef9c4915eafeb73d805853af42d8c4525f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "NEW_ACHIEVEMENT_1_28": {
       "name": "Conqueror",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/61fa63632c7348335e2c9c573666417eb7f48184.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "NEW_ACHIEVEMENT_1_5": {
       "name": "Dominator",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/9b7f96c75dba8fafd0bf680a690c880625103648.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "NEW_ACHIEVEMENT_1_17": {
       "name": "Electric Slide",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/cb6bdef66499595bb193cedd4bb8b88ada011997.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "NEW_ACHIEVEMENT_1_3": {
       "name": "Escape from the City",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/a315900681a591c2cf1d6750f7d86c2b05137d26.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.0"
+      "percent": "73.9"
     },
     "NEW_ACHIEVEMENT_1_1": {
       "name": "First Escape",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/58734fbde49946584ca5794090b67ca8af110774.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "94.5"
+      "percent": "94.4"
     },
     "NEW_ACHIEVEMENT_1_8": {
       "name": "Get Organized",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/617e2de9c68146ba24cf99f96c1c888f298549f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.8"
+      "percent": "82.7"
     },
     "NEW_ACHIEVEMENT_1_23": {
       "name": "Goodbye, Charlie!",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/95ff11492ba0eb08c3ed6f301357db7e4d8f872f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Gunsmith",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/01244af4bb4f2142b10cc29173aff7a5c7661ccf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.2"
+      "percent": "80.1"
     },
     "NEW_ACHIEVEMENT_1_20": {
       "name": "Hello, Charlie!",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/f54023a25b6f4d04d7305dc6e142e35f4be65d7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.2"
+      "percent": "76.0"
     },
     "NEW_ACHIEVEMENT_1_4": {
       "name": "I Don't Feel So Good",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/65366cfa74e2ebb3976800327c35c410c44d19f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.1"
+      "percent": "71.0"
     },
     "NEW_ACHIEVEMENT_1_31": {
       "name": "I Might Need These Later!",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/3a429f9c0901b84d44ea27881996aaae489fe90d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "NEW_ACHIEVEMENT_1_15": {
       "name": "I Need a Hero",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/81c52c4671b8cbe2fd1c008b79db32e75eb89d90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.8"
+      "percent": "68.7"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "Jill Valentine",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/3048907aeb66cdc6c5a4facd3a1433f0aec77d5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.4"
     },
     "NEW_ACHIEVEMENT_1_30": {
       "name": "Minimalist",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/7cffa82e0f553e6a1a2eda17f5928b8b936496a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.6"
     },
     "NEW_ACHIEVEMENT_1_9": {
       "name": "Nemesis Down",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/efbfbf2db2a32bb7c9a78984eeb1388ece22ca82.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.5"
     },
     "NEW_ACHIEVEMENT_1_19": {
       "name": "Nemesis Down!!!",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/303bb2981a559de630e87c6c2a8f0cf99c7252db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.7"
     },
     "NEW_ACHIEVEMENT_1_18": {
       "name": "Nemesis Down!?",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/57f16eebd6508dac2960c542c2139dec157543de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.0"
     },
     "NEW_ACHIEVEMENT_1_10": {
       "name": "Nemesis Down?",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/ec0a7336b03f8e81d90a645b29d14e675e7c94d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.6"
+      "percent": "74.4"
     },
     "NEW_ACHIEVEMENT_1_11": {
       "name": "Power Stones",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/e7cc02b815c16483bf91df59b06d213c752fb0ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "45.8"
     },
     "NEW_ACHIEVEMENT_1_25": {
       "name": "RE: Master of Unlocking",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/9844b2acd6863a226cf3ca71e85cfea8b42cd603.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.5"
     },
     "NEW_ACHIEVEMENT_1_29": {
       "name": "Sensational Work!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/8c30824cd8912734e56573f755c17b4ceb854178.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "NEW_ACHIEVEMENT_1_2": {
       "name": "Somebody to Lean On",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/79f1faeca602133ed4b886ac4441d3729447b512.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "NEW_ACHIEVEMENT_1_26": {
       "name": "Survivor",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/23b9bd04ccb19b16d7cc74c4a120313388ad1a0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.5"
     },
     "NEW_ACHIEVEMENT_1_12": {
       "name": "The Carlos Express",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/419c5b15944f6c998126023b6bda7e2e4c073ff2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.9"
+      "percent": "71.7"
     },
     "NEW_ACHIEVEMENT_1_16": {
       "name": "The Pursuer",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/463ddb939ea81d146a62e23281e89495d6a574c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.2"
     },
     "NEW_ACHIEVEMENT_1_21": {
       "name": "Two For One Deal",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/1d483de0bccc96eda8fe26cfd122e3fc91753624.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.5"
+      "percent": "71.4"
     },
     "NEW_ACHIEVEMENT_1_27": {
       "name": "Veteran",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/952060/45034e4a2cef5652455de2e5be82b438fd14aecc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     }
   },
   "platform": null,

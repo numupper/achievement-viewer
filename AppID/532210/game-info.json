@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/2bb3dc29e929869682da1a84fb4dc261278a1c09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "ACH_Supporter": {
       "name": "Bonus Miles",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/e69562e369aa575061aa62c53bc0baca650094d1.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "ACH_E4_Coll6": {
       "name": "Heaven & Hell",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/532210/0caaeff426ca88a25225e4bbb568563a691c06d9.jpg",
       "hidden": false,
       "group": "Life is Strange 2 - Episode 3",
-      "percent": "6.3"
+      "percent": "6.4"
     }
   },
   "platform": null,

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/3d0cce8bf8bd4d788158d3725b2f96c561e28c87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "64.0"
     },
     "Achievement_14": {
       "name": "At the Top of All Things",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/1476d588239ab46713ff89f4865372485cff1e77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.7"
     },
     "Achievement_12": {
       "name": "Body Unsnatcher",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/4aa9ed032f702e0c8a28eb934cc74f1a5405d315.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "Achievement_41": {
       "name": "Champion of Tall Fish Tales",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/0ecfb823644e7983f6eb8343e66de2ecf81d9537.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "Achievement_2": {
       "name": "Hero Protagonist",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/7c4502e555870e122d96737d1bc91a6a310ddcef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "Achievement_23": {
       "name": "Put the RNG in Orange",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1286680/213c2439b67be0276382577bd262285cc9a94b1f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     }
   },
   "platform": null,

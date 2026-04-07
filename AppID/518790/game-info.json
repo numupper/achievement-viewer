@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "ach_164": {
       "name": "Better put this back up",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "ach_032": {
       "name": "Call Of The Wild",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "ach_163": {
       "name": "Heavy Weight",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "ach_154": {
       "name": "Hubris",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "ach_044": {
       "name": "It's Something",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/4ee99adf8b2a3da28ab64c47b1f7562a90481f17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.2"
     },
     "ach_028": {
       "name": "Jack Of All Trades",
@@ -712,7 +712,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/f3118b4dbd8ba8d781129e717e1b3ae81c085c06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "ach_005": {
       "name": "Jäger Arc",
@@ -1306,7 +1306,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/051d7457a01861cccb48b65b74f90a08587eca00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "ach_069": {
       "name": "Trapper",
@@ -1414,7 +1414,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bc56da5be0c60214ad71ea9bfc89770389a6a811.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "ach_038": {
       "name": "Wildlife Paparazzi",

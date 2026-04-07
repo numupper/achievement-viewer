@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/6823e3d3d85c75c4d2b90993d23e701b628846f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.7"
     },
     "ACHIEVEMENT_48": {
       "name": "Calling all cars",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a6b5c703652701294507a42684016b63e235e000.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.5"
     },
     "ACHIEVEMENT_35": {
       "name": "Keeping up with the car dashy one",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/a69d18b77591c4a77187ac03801a68822b4e8de6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "ACHIEVEMENT_11": {
       "name": "Look, no hands!",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/c7d3631f47037907d51637924737d1534fc51b08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "26.9"
     },
     "ACHIEVEMENT_23": {
       "name": "Unstoppable",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1249970/9254af348779b7fdd923735b0d0c4180597bcd6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "0.8"
     }
   },
   "platform": "Online Fix",

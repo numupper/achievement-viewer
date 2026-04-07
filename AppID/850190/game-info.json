@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/23383422bb8a46535dfcdcb92f3a81ae50094008.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "AchievementBananaLickerID": {
       "name": "Cannibanana",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8ddaa6c8362f5b2ed33559e618a14b4dd9f6e09e.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "AchievementGoatQueenID": {
       "name": "Goat Queen",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/304f6cf02d88d437307cf6354c0b49b1f49b19ed.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "AchievementMultiverseBrokenRelicsID": {
       "name": "Lousy References",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/542c12d7ce6e1ed24d6731619066d010c7eb67ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "AchievementInteriorDesignID": {
       "name": "Secret Society",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c68de3aa791593a54362fbdc0a7871a96317e0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "AchievementMultiverseInstinctID": {
       "name": "Wow, Such Instincts",
