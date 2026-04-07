@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/0bff8cd444e5977e9e791625c527b3301c13de13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "66.0"
     },
     "ACHIEVEMENT_CRUSHER": {
       "name": "Crushing Victory",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/3e1e6d0c0aa34c118e04a31d71b3f551d80bd52e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "ACHIEVEMENT_FAREWELL": {
       "name": "Farewell",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/be7b9e471ecd88ae6246b9c62e7f392cdc53ea0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "ACHIEVEMENT_THEGOODRESCUER": {
       "name": "The Good Rescuer",
