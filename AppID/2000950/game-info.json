@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/04528c0b368c3010caf4425447a7a1ad22e5febb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.6"
     },
     "SMOKEOUT": {
       "name": "Circus Tour",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/7babc085a7fb4cc56349c138f871c15c62615210.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "CINDERBLOCK": {
       "name": "Companion Block",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/2d5e41eb0b45cb497f8afe1391c803b2673a458d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.1"
     },
     "DODGEBULLET": {
       "name": "Dodged a Bullet",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/ef34a143f919170fc37e63d67de616d7635e3ca7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.9"
     },
     "DRIVERSED": {
       "name": "Driver's Ed",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/b3f5754ccdcc5090a7cef477eb1d262186447e9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "35.1"
     },
     "GOLDENPATH": {
       "name": "Golden Path",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/5d2e18da750e88777a2d62c7cc55f8289030dbf3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.7"
     },
     "SMOKEDIRECT": {
       "name": "Good Effect on Target",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/8045d5c99b42ea6a0e25498ce3a4be4bf5a2d689.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.9"
     },
     "BARKOVSPIT": {
       "name": "Got Something on Your Face",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/30cfe81a70743c8bfd83ceb3097104e50caf6f8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.8"
     },
     "HANGTIME": {
       "name": "Hang Time",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/119b5623df717ccc50d7a65d1555763c08229faf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.4"
     },
     "HOTSWAP": {
       "name": "Hot Swap",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/cffa0e2dadbed7c5a9f081f3d267461a9dc12a68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.5"
     },
     "PICKLES": {
       "name": "Liberation",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/231b9eabe8c6a740427b088bd7b96904eea6f5ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.4"
     },
     "LIGHTSOUT": {
       "name": "Lights Out",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/43448f3da1ed4fcfa528ae31cfa6f8802a625adb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "11.1"
     },
     "PILOTKILL": {
       "name": "Long Way Down",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/dab56f1770f462913b64681a9852c43a5ee51cf0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "24.0"
     },
     "LOVEFROMABOVE": {
       "name": "Love from Above",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/63580b2febb3466efbdcabb660d2ae1873e774fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "38.1"
     },
     "FOGFRAG": {
       "name": "Nothing but Net",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/779ea3a117ee864e16b071eb0ee76531435fe511.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.5"
     },
     "VETFINISH": {
       "name": "Out of the Fire",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/0748e18b06644ad8d414433d34600a26d7ac25cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.4"
     },
     "PITSTOP": {
       "name": "Pit Stop",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/4a1418287def367d8737dad7f319c9a07ea1480a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "33.3"
     },
     "PLAYDEAD": {
       "name": "Play Dead",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/974fc42603172f950622c521a36002cdff1f7bbc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.6"
     },
     "BOOM": {
       "name": "Press [BOOM] to Defuse",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/f4cf8ca09eeabdb2db22ef3036d1ea7af93e51fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.7"
     },
     "FINISH": {
       "name": "Tea Time",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/3bb45f738e76e8e33451ab3d5b5f3c6a38cdfd69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "41.4"
     },
     "NOFRIENDLYFIRE": {
       "name": "Trigger Discipline",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/6df3e17677973dd1bba04e1249eae31076881183.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "26.0"
     },
     "TUNNELRAT": {
       "name": "Tunnel Rat",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/bf4e05fef21b7c6d26980fe3b7d028951e0bd8fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.8"
     },
     "TWOBIRDS": {
       "name": "Two Birds",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/c7e8ae6a7488d25fcb1ea4fc7b8e2f168c3a5618.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "7.0"
     },
     "WALLHAX": {
       "name": "Wall Hax",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/31d57794a7ec7281ae83c9c08bf8ac05da5dc67d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.5"
     },
     "WARONFORE": {
       "name": "Warheads on Foreheads",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/23ff71f583f8b60708a20b5b861b78b5a94e294a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.8"
     },
     "OWNTHENIGHT": {
       "name": "We Own the Night",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/94004b2a9c518be40cd68ea1c5d8c6829a86bd9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.9"
     },
     "WILDFIRE": {
       "name": "Wild Fire",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/7446e1c4cfed6f483f399451d2fab04e0a89729a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "2.0"
     }
   },
   "platform": null,

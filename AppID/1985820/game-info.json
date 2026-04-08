@@ -167,7 +167,7 @@
     },
     "MP_HELLO_THERE": {
       "name": "Hello There",
-      "description": "Join a clan in Multiplayer.",
+      "description": "Start the Campaign.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/debca0105b58e514a6af78cb76ec70a5ca36a90f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/f011fa7b8e83ff3afcbc62867cb86c6047a7a33c.jpg",
       "hidden": false,
