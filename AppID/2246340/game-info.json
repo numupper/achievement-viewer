@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/052f951b040d30efbf486c89bf2ec9b9b3dbe31c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "52.8"
     },
     "MEDAL_020": {
       "name": "A Prize Held High",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/7a16fa794c94366ead1c92e89af7bcde59e1a7b9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "MEDAL_012": {
       "name": "A Step Toward Mutual Understanding",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/6785ea433d6b40c856910be0249925ad29d28552.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.1"
+      "percent": "79.0"
     },
     "MEDAL_019": {
       "name": "Hit 'Em Where It Hurts!",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/b6002a1fd001522c62b5af34200d17d28f545ad4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.5"
     },
     "MEDAL_044": {
       "name": "Monster Slayer",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/60e978d88f926de044dff21fdb24646d68f6cf50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.9"
+      "percent": "73.8"
     },
     "MEDAL_049": {
       "name": "Newly Forged Bonds",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/c4afd395d932230d1dfc7e0fa9d993b84eb35b87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.4"
     },
     "MEDAL_027": {
       "name": "Ride-or-die Companion",

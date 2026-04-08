@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0a77a773edc19f2e7bdd3ba65e2900307bbca4fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "DarkRot_Complete": {
       "name": "Dark Rot Complete",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/a4a90c1b085cbf2531cf4befd5d36cdf12e4e605.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "Ch4_DefeatIlltauga": {
       "name": "Returned to the Earth",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/f2dd2e425d0275a1894db11437a3745e47867f00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "53.0"
     },
     "New_Narrator": {
       "name": "Seeing Things Differently",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0547b76f52ec3935a3d978cedb06e14bf04c610c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "Ch3_LakeEmpty": {
       "name": "The Hidden World",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/4f58c9bbbee3587146c50900e1954e00e39a1442.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "Ch2_ArenaBattleComplete": {
       "name": "The Man in the Middle",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0fcb17d333330d3b156f94d5d6c02d2b994528bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.7"
     },
     "Photo_Mode": {
       "name": "Worth a Thousand Words",

@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/0c8c588cbbbf94f3170e075d8e3218b81d07e9ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "65.0"
     },
     "GRP_MELEE_KILL": {
       "name": "In Striking Distance",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/0e0015c1c2061a3b7b3c13a76250dc1ea7c228f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "FIND_ALL_DATA_DRIVES": {
       "name": "Information Overload",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/497937b143eb65291d0c339b7c525ee01affb06a.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "KILL_BIOBOT": {
       "name": "Keep Fighting",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/bad2f9f86227ac4a4da4b8f95c11e99aa742bf07.jpg",
       "hidden": false,
       "group": "The Callisto Protocol™ - Final Transmission",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "FINISH_GAME_HARDCORE_PLUS": {
       "name": "Lifer",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1544020/2f1194e3001350d733867eda8870b07b1be39b6b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "FINISH_DLC4": {
       "name": "One Last Job",

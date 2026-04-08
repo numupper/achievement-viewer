@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/3151861f9bc97ab96831c630593131b85b96b582.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "d8be398c779c55da": {
       "name": "Don't Go",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/fbe2f1d6808223f31c670524d4779d083e3b5c5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.3"
+      "percent": "74.4"
     },
     "5d6eea83aff89166": {
       "name": "Geared Up",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/b41fb3ac79465599a7f3ed8619a90f12d639a40e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "8e2d13fc783f696f": {
       "name": "Getting to Know You",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/4b5978edf62e94781f90e680e1ce9e1660f5f284.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "0cc86a431a4a8154": {
       "name": "It Can't Be For Nothing",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/88036fd16144cc8b78e1bac6689271c9325d08ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "b1c7582cb4bdbe80": {
       "name": "Nobody's Perfect",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/20a869a7a25d05fc819cee35859798035a0ee7b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "61.2"
     },
     "2143304396bed9b2": {
       "name": "Self-Help",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/0466f5de466f0a51128e4e8882ab8edd93e13180.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.5"
     },
     "33d7ce435071bec5": {
       "name": "Sharpest Tool in the Shed",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/c3dec52295820ec02bffc1407035a0e66a6878e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     }
   },
   "platform": null,

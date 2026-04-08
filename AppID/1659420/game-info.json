@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/3761ae3819b6671f765501be2d81bc52ba606f35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "TROPHY_NAME_FINISH_HARD": {
       "name": "Charted! - Hard",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/2cf3befa44da3f2ce6b12d85db7bf80176a1dced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "TROPHY_NAME_PUZZLE_NO_DAMAGE": {
       "name": "Flawless Gauntlet",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/f0db1120ead0dd090a57906026017d5bdc9847db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "TROPHY_NAME_HEADSHOT_ROPE": {
       "name": "Hangman's Bullet",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/e822bbfb842393dbe8c4adf2d1f4532c61e37f87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.4"
     },
     "TROPHY_NAME_GRENADE_VEHICLE": {
       "name": "Here, Catch!",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/89aac935e8ee251b7b1f17926808ed395a13cdbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.6"
     },
     "TROPHY_NAME_ROPE_SWING_CHAIN": {
       "name": "Jungle Gym",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/76dd936d9e96c4d3aae7fb594f6377762a1a1447.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "TROPHY_NAME_HEADSHOT_HIGH": {
       "name": "You Have a Head for this Business",

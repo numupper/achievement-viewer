@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/830ee08e01cfa98f62d391ab2888584cc03a759b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "CompleteAct2": {
       "name": "A Fear Within",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/bcfbfbdd6b1c06e0699e62b954e2d4887b8c297c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "CompleteAllReflections": {
       "name": "Know Thyself",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/55fb1df8169f04a97a9738b2fc579e093efb69a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     }
   },
   "platform": null,

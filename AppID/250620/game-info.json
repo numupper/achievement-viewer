@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/250620/6a6845e9e4390bb7aded2531254c68e118685170.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "GameCompleted": {
       "name": "Completed Among the Sleep",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/250620/82af63a7cd0cb397a66d93e978db2b76a2634084.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "Drawings03": {
       "name": "Forest Drawings",

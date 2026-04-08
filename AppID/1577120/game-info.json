@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/03c72d29de73daa966b276da91fa3a8e00930d58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.4"
     },
     "ACT10": {
       "name": "Chapter 10",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/8ca8b15499692c9275a4f4baea347db2293f05dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.6"
     },
     "ACT6": {
       "name": "Chapter 6",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/5b96a28c0d45ac5b4084077248b85008924c89e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "ACT8": {
       "name": "Chapter 8",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/90d2ecf8868468d6035be2b71aff42e6e21b9392.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "EPILOGUE": {
       "name": "Epilogue",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/380be9809f4d6443559e5ef9ccba4d7a85c4c24a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "PROLOGUE": {
       "name": "Prologue",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/a5e1f61cfd9aa39d68137722fafe4c187ea781e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     }
   },
   "platform": null,
