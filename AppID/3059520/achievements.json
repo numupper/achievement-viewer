@@ -16,8 +16,8 @@
     "earned_time": 1755867299
   },
   "ach_brand_buddy": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775752548
   },
   "ach_brand_loyalty": {
     "earned": false,
@@ -80,8 +80,8 @@
     "earned_time": 0
   },
   "ach_locked_in": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775750571
   },
   "ach_lucrative_alliance": {
     "earned": false,
@@ -160,8 +160,8 @@
     "earned_time": 0
   },
   "ach_talk_of_the_paddock": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775752548
   },
   "ach_teamwork_dream_work": {
     "earned": false,
