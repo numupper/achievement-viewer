@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/61971b79fdbf4525a3fd43fa8fc0bcb1d8835bde.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.2"
     },
     "_autoGenTrophy_0072": {
       "name": "Blood on Your Hands",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/486164f538dc5e58a3e8d27bc08571eab6d1dd58.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.8"
     },
     "_autoGenTrophy_0035": {
       "name": "Favor of the Kami",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/b25e0e863e5c8078c760b97cfb010b7fa2c994a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "_autoGenTrophy_0048": {
       "name": "Securing Sanctuary….",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/e89693b037c12959852c5bbfaddce60947df7e9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "_autoGenTrophy_0057": {
       "name": "Self-Actualized",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/8b2bc9f9b4e99a656998ead686493c4db98de452.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "_autoGenTrophy_0052": {
       "name": "Transcendence",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5cf9122fe2d8b27fe710a5fa89c3ac8c6a04efe3.jpg",
       "hidden": true,
       "group": "Update 4",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "_autoGenTrophy_0056": {
       "name": "True Understanding",

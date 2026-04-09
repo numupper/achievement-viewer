@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/12b9d8220b6ac201e161d30909d546809da7c752.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "jup_ob_andsoitbegins": {
       "name": "And So It Begins",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/e14c24d4c3ac2da4e0f8e0ddc95f6c9915157487.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "jup_ob_backfromthedead": {
       "name": "Back From The Dead",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5bacfd37aeea95085777427a261c9d7f2adcaf87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "jup_sp_fullsweep": {
       "name": "Elevator Out of Order",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/163bfb9b15e76930e8a0d106ede1f8bcb8f58542.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "jup_sp_frequentflier": {
       "name": "Frequent Flyer",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/3f9381cb41da9c2e4b24a5e6fb32f90b73ad8210.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "jup_sp_boundandmagged": {
       "name": "No Such Thing as Too Many",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a30021f0d6fda48d4dd8fc9f50046e16decdff9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "jup_sp_thatsonewaytodoit": {
       "name": "That's One Way to Do It...",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/44a82e1078c17d36d24bb43868d36ef6e15bb294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "jup_sp_yourtaxdollarsatwork": {
       "name": "Your tax dollars at work",

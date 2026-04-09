@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/479b4513bc6fe88e72250b45be1e1e8b5a4c1e4f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.9"
+      "percent": "73.0"
     },
     "Achievement_GOSCC_a40": {
       "name": "Greezy Money",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/0f4968223805f436af23df4d582cea5b011d0ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.2"
     },
     "Achievement_GOSCC_a29": {
       "name": "There Is No Try",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/4a0eb08787f2fce555fb686c048545da803bd90b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "Achievement_GOSCC_a18": {
       "name": "They Never Saw It Coming",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e3e33ae4b4701c80bb674114787ddcb61d2922cd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "Achievement_GOSCC_a19": {
       "name": "This Is Canon",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a4780878a48ac43d940ea91983240dab4794b354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "Achievement_GOSCC_a10": {
       "name": "Tragedy",

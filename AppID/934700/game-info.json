@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/eb06f433e48465be3a23c78c566593f52eea1064.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "ach_bookworm": {
       "name": "Bookworm",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d00b8b7cf5f920d2ff51135e75f4355de8ddd5d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "ach_ammo_ran": {
       "name": "Git Gutte!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/d8e4057e76f4c74771382fd11309ea4f716496b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "ach_jumbo_keyring": {
       "name": "Jumbo Keyring",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/e4a3399ab80f193308562cfd718231ee81811af1.jpg",
       "hidden": true,
       "group": "Dead Island 2 - Haus",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "ach_get_to_the_chopper": {
       "name": "Like Riding a Bike",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/713a73608fcbbf7bfcf2927fc6246689691fc414.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "ach_ayeaye_captain_vixen": {
       "name": "Make it So",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/934700/7f5357b77f202a34c788a9aa4d4108e74627ad84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "ach_thesacrifice": {
       "name": "Our True Nature",

@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/9476cba260592e170d4b92febffc2647357a91a3.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ACHIEVEMENT_CAMPAIGN_ELCID_COMPLETED": {
       "name": "El Campeador",
@@ -1297,7 +1297,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/2bacdaf69a8262af26fc592d2941f9de0326de81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "POMPEII_HITTITE_VICTORY": {
       "name": "Hittite Victory",
@@ -3133,7 +3133,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/692530f3676cb0691b45a7b0651d75f191836fd9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "ACHIEVEMENT_MODERATE_AI": {
       "name": "With Moderation",

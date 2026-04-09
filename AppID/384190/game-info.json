@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/384190/f726b8970a1ae4ef8450783abddedbf35d54eb5d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.8"
     },
     "ACH_ECOSYSTEM": {
       "name": "Ecosystem",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/384190/17cfe852ed09dacb62560c2b1f2ab6913fe8bd21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "ACH_JETSTREAM": {
       "name": "Jetstream",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/384190/63beee378239283a2a2b844cba5acc741e451363.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.8"
     },
     "ACH_LEVIATHAN": {
       "name": "Leviathan",

@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/9ae82485d298f55e9ecd3e369f8f6deaba937e6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.7"
     },
     "Campaign_AllBronze": {
       "name": "Career Complete",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/38e4e6c4f55962f333fe947c1500c4c256a7563a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "49.7"
     },
     "Campaign_AnySilver": {
       "name": "Silver Award",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/e839c14a49cea4421e50a6ac97ae28e61915d4f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "Game_ZoopediaComplete": {
       "name": "Zoologist",

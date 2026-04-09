@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/c22d44aa3605dfffd2645ddae7ef86ec09007ede.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "Achievement_00": {
       "name": "Crimson Rising",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/39c189d959346ed60f8d4b801133c7dc97b56f32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "Achievement_30": {
       "name": "Glucose Guardian",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/bb57a895961a96fb0d72c8dbc5caa730374fe681.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "Achievement_41": {
       "name": "Hearthwarming",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/49cf0cd399ebc58159ec8d63d1cd9128cd2cdc07.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "Achievement_37": {
       "name": "The Demon's Domain",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3e20c4f19361b30a70d90a0e33024078f1532dbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "Achievement_14": {
       "name": "Unfaded",

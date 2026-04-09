@@ -1,7 +1,7 @@
 {
   "appid": "359550",
   "name": "Tom Clancy's Rainbow Six Siege",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/9cd4916829692d67ecd00465a1546799148f8ddd/header_alt_assets_19_spanish.jpg?t=1774459715",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/ac4f6daf0d8afee2754e9964077a9a7d5bdb8ab8/header_alt_assets_20.jpg?t=1774459715",
   "achievements": {
     "RB6X_Ach_44": {
       "name": "Accessorizing",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359550/b19e52d9f89c726e50ade31c27e7fce8cde31494.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "RB6X_Ach_40": {
       "name": "Bang!",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359550/1f6c6c9145f2a2bcdc4d88db415548f9074e7e35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "RB6X_Ach_39": {
       "name": "Overachiever",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/359550/60658d76504a8dbd3e74a8fa2ec7a697fe03c8a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "RB6X_Ach_29": {
       "name": "Room Cleared",
