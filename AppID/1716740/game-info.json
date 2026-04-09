@@ -1,7 +1,7 @@
 {
   "appid": "1716740",
   "name": "Starfield",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1775574589",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1775743548",
   "achievements": {
     "13": {
       "name": "A Legacy Forged",
@@ -45,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/8c851d0cf1391eaff008aea2896d42984f02e559.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/de9937fb64f519bad2769b506ed4cb756d7127d0.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "29": {
       "name": "Boots on the Ground",
@@ -80,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/74e2d0ebec1d5521c36464a840a1271d3d33c5da.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/e1c2e4b91a8b89a280ed26c56e04671c9257c413.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "34": {
       "name": "Cyber Jockey",
@@ -116,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/606d0af1af6e0fe69ddad0c5d7fcfcec4494c0cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.3"
+      "percent": "74.2"
     },
     "48": {
       "name": "Elite",
@@ -161,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/4dbf80594c09345ef248bc1c588fe022a137b82a.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "61": {
       "name": "Five of a Kind",
@@ -205,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/8bb0bdf19acdfbf607fa3913942ae5b3e2c53d0f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/0ac8d4eb3fc86ab6330809cccecfac1bd6503d4b.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "5": {
       "name": "Further Into the Unknown",
@@ -222,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/03937d3930f19b16e4c95311842385c7d662e7ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/d6a7bad4c1efce5998f84f23d1caf8091b636aaf.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "18": {
       "name": "Guilty Parties",
@@ -239,7 +243,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/a8d832831dab83c2c1652a260da8fb0f3e7340ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/eab696b51214641a65621ffbe9083995df58d117.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "6": {
       "name": "High Price to Pay",
@@ -283,7 +288,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/f76be6862cd582785d534e35ff411592ab39e4a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/0741311319853797a6c22b2707d18feb7cb752a8.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "70": {
       "name": "Incursion Exterminator",
@@ -291,7 +297,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/2d48b02dcfd940902f7d0069281bf9329b60b8e1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/06452aabefa14dd84803ef2a4f5035167c8561c1.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "69": {
       "name": "Incursion Fighter",
@@ -299,7 +306,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/5e3bc439baef66cc19dbb28d1deac7e29ba58a8d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/21581aaf95fe22debe9269dc6e6039b56cde33f2.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "25": {
       "name": "Industrialist",
@@ -325,7 +333,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/54ad1879f13feb2030a843e2cc423c61e878e461.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/09313c85a0b6b16c98e15c209b59ccc75ec605c8.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "35": {
       "name": "Jacked In",
@@ -342,7 +351,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/f085b3fd63afccedd84a7ebb93d65291c3f33892.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/e7b3d23e680b39426564e16eed3c277c86d0f5ee.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "22": {
       "name": "Legacy's End",
@@ -359,7 +369,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/5d7fe0506d7b427ea1d9f06bfcce57caa830c158.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/5d181dd574a5f64d2c0bd9640f0617d31956abbd.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "32": {
       "name": "Life Begets Life",
@@ -376,7 +387,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/35fd84ec5745e3483f2681c9de72b0a83c260ca5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/2b871504713e7ba0c9f3178ba3e1dd3218530e82.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "80": {
       "name": "Master of Magnetism",
@@ -384,7 +396,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/3f3530d128e29b64b0976a85023bef1ebfe0076a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/e9b991ca48617e97b7fd58f194e469d9ee2a0bb4.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "10": {
       "name": "One Giant Leap",
@@ -410,7 +423,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/e9ff49c2ca4768b5d6c7bd8b401145719a258029.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/2c1ee42eba10a993954732d11e26f35138288052.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "31": {
       "name": "Privateer",
@@ -427,7 +441,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/f580ccc7bd6d47a51fcd2a68410be5af942c1f5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/436b5187634c686c0376f8fb129d70599578997d.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "50": {
       "name": "Reach for the Stars",
@@ -462,7 +477,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/f619653a52f3232c7e0ed29fed9ff141cb3e9b0b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/64c679770355b9e01747272c1cb4f49362bad01d.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "33": {
       "name": "Rock Collection",
@@ -533,7 +549,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/ec9b6f83cd3d0551ee719d8ce489a2e703d24804.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/1748ff0bfabccc08c6d00d9e4e995dd37cb53fbc.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "27": {
       "name": "Stellar Cartography",
@@ -578,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/316c8776f18987759190bf9b1a2aa1c856811c8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "38": {
       "name": "The Family You Choose",
@@ -641,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/5484e4d405bd3e45aa6950e247e66a8a29933deb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "77": {
       "name": "They’re Not Toys!",
@@ -649,7 +666,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/3f38eafd1dc2c259de2672500a843b74f4798bd1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/9e5bd4f9ed0e002b961eaefb0e0a6d7cbb7b20da.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "42": {
       "name": "Thirst for Knowledge",
@@ -666,7 +684,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/5d08f5dafc36029b6ae55934dfea8ae3c9c3625a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/7e21a8187623bfe6a853ce9e71ede9ac853e3d18.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "75": {
       "name": "Top Tier",
@@ -674,7 +693,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/8afc8fca0c9ba72e3d278b0380759c35838d9553.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/6a6bb6e35f760c7b3654dab609f02f770141aac0.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "47": {
       "name": "Traveler",

@@ -1,7 +1,7 @@
 {
   "appid": "518790",
   "name": "theHunter: Call of the Wild™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/d4530ad1a7b55624f37a2ffff7eede1e4a5d4a8d/header_alt_assets_27.jpg?t=1775570625",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/d4530ad1a7b55624f37a2ffff7eede1e4a5d4a8d/header_alt_assets_27.jpg?t=1775735343",
   "achievements": {
     "ach_124": {
       "name": "A Match for the Widowmaker",
@@ -1225,7 +1225,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/f3118b4dbd8ba8d781129e717e1b3ae81c085c06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.5"
     },
     "ach_002": {
       "name": "The Scandinavian Mile",
@@ -1234,7 +1234,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bb3a84276dab0cc574c8f90e8baf817d8f305436.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.2"
     },
     "ach_153": {
       "name": "The Slam of Glory",
@@ -1261,7 +1261,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/bb3a84276dab0cc574c8f90e8baf817d8f305436.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "ach_050": {
       "name": "This Is Not A Zombie Game",
