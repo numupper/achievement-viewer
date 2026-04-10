@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e17fcace5546edd7cd00901e13e4b24bf1b47d6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "ACHR10": {
       "name": "Cryptozoologist",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e539102e76b24bffc04c4d3cdcf29c7784aaa4cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "ACHH10": {
       "name": "Mastermind",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/10049685f640607f6c41826aabef9d87210b4c86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.1"
     }
   },
   "platform": "Epic Games",

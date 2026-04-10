@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/23cf5e477d50aad12c1933b1f9001090ff1276c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "SP_COULDNT_DO_IT_WITHOUT_YOU": {
       "name": "Couldn't Have Done it Without You",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/6d74e5849a1d53d81340922838bebef8e4320a0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.5"
     },
     "SP_GOTTA_TRY_THEM_ALL": {
       "name": "Gotta Try Them All!",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/f011fa7b8e83ff3afcbc62867cb86c6047a7a33c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "ZM_HOT_TEMPERED": {
       "name": "Hot Tempered",

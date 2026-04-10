@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/05e291f79ba4c4651a071a94c17d970b62929c87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.5"
+      "percent": "75.4"
     },
     "Achievement_16": {
       "name": "Aerial Assassin",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/621c3c6d8543213e562da9353d8e3f86788cb98a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "Achievement_37": {
       "name": "Skeet Shoot",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/6c82043bc4f8c9218f774e543de5c09438a5e0f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.5"
     },
     "ACHIEVEMENT_74": {
       "name": "The Whole Story",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/8870/4ae0bf11842a42b1399028425ef4391780e11812.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.3"
     },
     "ACHIEVEMENT_77": {
       "name": "Twofer",

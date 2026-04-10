@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b34abbb1319cf9b1347f5ed9b53f1e22e43a64bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "ACHIEVEMENT_A_HERO_COMES": {
       "name": "A Hero Comes; He Gains Renown",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/96966bc1af16bc20b456ae85a36bbcc8b832105c.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "ACHIEVEMENT_A_MOST_CONVENIENT_DEATH": {
       "name": "A Most Convenient Death",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c8a447407a01b8c36706d58e42794402571784dd.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "BERBERS_VICTORY": {
       "name": "Berber Victory",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/72bf7b68f268142bc089fd8ac1e65c538b6cdd29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "ACHIEVEMENT_BLOCKADE_BREAKER": {
       "name": "Blockade Breaker",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d2dceec8826386da4c30bc7c8a28541056111a1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "ACHIEVEMENT_BULLS_EYE": {
       "name": "Bull's Eye",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41e907ebe32c4f91255aba9b285863fe948b0356.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "ACHIEVEMENT_CAMPAIGN_BURMESE_COMPLETED": {
       "name": "Cakkavatti",
@@ -784,7 +784,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/650a08e3b40e52b9f42fe358df5630b32cada0c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "ACHIEVEMENT_CAMPAIGN_ETHIOPIAN_COMPLETED": {
       "name": "Destroyer of Axum",
@@ -1036,7 +1036,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4067f9433903a6be01d9e5aeb37f73b192147400.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "ACHIEVEMENT_FIRST_CITIZEN": {
       "name": "First Citizen",
@@ -1090,7 +1090,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3c7f57ff7c7d1f1c914ab9d7630cc6a0398abf6e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "ACHIEVEMENT_FRIEND_OF_ARTEMSIA": {
       "name": "Friend of Artemisia",
@@ -1342,7 +1342,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/dab0cc5503496b3df835634d43c3c3494b8654fa.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "ACHIEVEMENT_HOT_N_SPICY": {
       "name": "Hot & Spicy",
@@ -1396,7 +1396,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3ddd98384b8dd35ff7eb7de69c5c823886945cce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "ACHIEVEMENT_NO_GUNS": {
       "name": "I Ain't 'Fraid of No Guns",
@@ -1459,7 +1459,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/715658c89781f7693cf63448ccbe457643f03a3c.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "INCAS_VICTORY": {
       "name": "Inca Victory",
@@ -1891,7 +1891,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/6b61f8de191637341d54c2bcbd5afb7032a311ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "ACHIEVEMENT_MEDIEVAL_SLASHER": {
       "name": "Medieval Slasher",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "49.8"
+      "percent": "49.9"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2449,7 +2449,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/5873f0aef965ae8db6ffb6e9842eb9ca102c37e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "ACHIEVEMENT_SAXON_REVENGE": {
       "name": "Saxon Revenge",
@@ -2503,7 +2503,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/49e701ae896fde83f62d300f184cdcd501b8a709.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "ACHIEVEMENT_SHOGUN": {
       "name": "Shogun",
@@ -2926,7 +2926,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/3a15cc0872628368dd71d18c15bc50bcfbd9cff3.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "ACHIEVEMENT_TOLERANT_PIETY": {
       "name": "Tolerant Piety",

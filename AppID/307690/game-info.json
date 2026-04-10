@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/cbee008e43af19638df50f9b25f8816b788390e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "ACHIEVEMENT_26": {
       "name": "Event Planner",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/2a69e6a90f9a4227036260a8d78bdcdd255f110c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "ACHIEVEMENT_51": {
       "name": "Pet Cemetery",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/2d6d208e531da91e5f02a6cc99bbbca362a82a97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "ACHIEVEMENT_09": {
       "name": "Stuntman",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/307690/dc46bb0a12657aacd4b07f024d3a69e6a497080d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     }
   },
   "platform": null,
