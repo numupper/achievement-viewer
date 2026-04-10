@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/f7c5717848403c03bef382f09728fb1479241170.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "NEW_ACHIEVEMENT_1_19": {
       "name": "Beneath the Surface",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/22d7c25d3fa29cd6c010a41d87267ced9f4cd7cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "65.0"
     },
     "NEW_ACHIEVEMENT_2_8": {
       "name": "Little Horn",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/1c95363f47b5e099c85e6ed01c14cca080675e90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "NEW_ACHIEVEMENT_2_19": {
       "name": "The Seven Grades",

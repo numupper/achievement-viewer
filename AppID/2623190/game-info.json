@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/8343d211a9f1e964e276b3c925d443d49ba92886.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "Isles_Aspirant": {
       "name": "Aspirant, Shivering Isles",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e10b05502fe14acb4496ede7448aff8fb8dafe49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "Thief_Footpad": {
       "name": "Footpad, Thieves Guild",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/4220a4ad6d410e43ac38ad79b0eafcc82beb2187.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "Isles_HonoredMadman": {
       "name": "Honored Madman, Shivering Isles",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e96535c4166084a08ff5e4af1474c2ae92846a0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "Mage_MasterWizard": {
       "name": "Master-Wizard, Mages Guild",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/5de6ad85f93332dc25939db95cb7a783886a3213.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "Arena_PitDog": {
       "name": "Pit Dog, Arena",

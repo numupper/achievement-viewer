@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/829e38af7da0b512f8eaed6c89de91cd3068e966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.5"
     },
     "CP_ACHIEVEMENT_CP_GER_STAKEOUT": {
       "name": "Brick in the Wall",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/4b5f91e904377b7da087d98dbdfca525db6f465f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "CP_ACHIEVEMENT_FIRING_RANGE": {
       "name": "Firing Range",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/6fdd487db739348129a3fadd35f2830228608b2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "CP_ACHIEVEMENT_CP_NAM_ARMADA": {
       "name": "Fracture Jaw",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/9be90da14b0ea3b404fa85ddbb8f24025c7c1338.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "MP_ACHIEVEMENT_VEHICLE_KILLS": {
       "name": "Mean Machine",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/909354647600dfd3cc7e03bf05a12c8601043347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.3"
     },
     "DOA_ACHIEVEMENT_FIDOLINA": {
       "name": "Reunited with Fidolina",

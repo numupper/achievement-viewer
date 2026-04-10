@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TROPHY_DLC2_CLEAR_RAID_DUNGEON": {
       "name": "Challenger of the Rift",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "TROPHY_DLC1_MISSION_CORNELIAS_HOPE": {
       "name": "Cornelia's Hope",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "TROPHY_USE_JOB_CREST": {
       "name": "Crest Bearer",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "TROPHY_UNLOCKED_ADVANCED_JOB": {
       "name": "Dark Crystal, Warrior's Heart",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.5"
     },
     "TROPHY_DLC1_EQUIPPED_FOUR_OR_BETTER_RANK_ACCESSORY": {
       "name": "Decked Out",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.2"
     },
     "TROPHY_MISSION_REMEMBERING_HOME": {
       "name": "Duty's Course",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "TROPHY_DLC2_GAVE_MAGICPOT_ELIXIR": {
       "name": "Elixir Please!",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "TROPHY_UNLOCKED_CYCLIC_WARRIOR": {
       "name": "His Name Is Garland",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.3"
     },
     "TROPHY_DLC2_DEFEAT_UGUA": {
       "name": "Interdimensional Interference",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "TROPHY_UNLOCKED_ALL_JOB": {
       "name": "Jack-of-All-Trades",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.5"
+      "percent": "70.4"
     },
     "TROPHY_MISSION_SUFFERING_OF_FOOL": {
       "name": "Led by the Nose",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "TROPHY_DEFEAT_USAB": {
       "name": "No Escape",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "TROPHY_UNLOCKED_BREAKER": {
       "name": "Path of the Breaker",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "TROPHY_UNLOCKED_NINJA": {
       "name": "Path of the Ninja",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "TROPHY_UNLOCKED_PALADIN": {
       "name": "Path of the Paladin",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.1"
     },
     "TROPHY_DLC1_UNLOCKED_SUMMONER": {
       "name": "Path of the Summoner",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.1"
     },
     "TROPHY_UNLOCK_ALL_JOB_BONUS": {
       "name": "Polymath",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "TROPHY_COMPLETE_SUB_MISSION": {
       "name": "Strangers' Memories",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "40.8"
     },
     "TROPHY_MISSION_FIRE_MEMORIES": {
       "name": "The Fire's Light",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.5"
     },
     "TROPHY_DLC2_USED_DIMENSION_BRINGER": {
       "name": "The Laws of the Universe Are In Chaos!",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "TROPHY_DLC1_CLEAR_TRIALS_OF_THE_DRAGON_KING": {
       "name": "The Triumphant",
@@ -712,7 +712,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "TROPHY_MISSION_WATER_MEMORIES": {
       "name": "The Water's Light",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.4"
     },
     "TROPHY_MISSION_WIND_MEMORIES": {
       "name": "The Wind's Light",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.0"
+      "percent": "47.9"
     },
     "TROPHY_FULL_UPGRADE_SPECIAL_EFFECT": {
       "name": "True Potential",
