@@ -1,5 +1,5 @@
 {
-  "last_updated": 1775880725,
+  "last_updated": 1775910629,
   "total_games": 274,
   "games": [
     {
@@ -61093,8 +61093,8 @@
           "earned_time": 1775752548
         },
         "ach_brand_loyalty": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1775903598
         },
         "ach_circuit_king": {
           "earned": false,
@@ -61213,24 +61213,24 @@
           "earned_time": 1775567411
         },
         "ach_seasoned_strategist": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1775903598
         },
         "ach_sign_on_the_dotted_line": {
           "earned": false,
           "earned_time": 0
         },
         "ach_signature_success": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1775904002
         },
         "ach_smooth_driver": {
           "earned": false,
           "earned_time": 0
         },
         "ach_sponsor_sleuth": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1775904264
         },
         "ach_talk_of_the_paddock": {
           "earned": true,
