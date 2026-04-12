@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/3e1e6d0c0aa34c118e04a31d71b3f551d80bd52e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "ACHIEVEMENT_FAREWELL": {
       "name": "Farewell",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/650510/63ceff5a2e715723679886ae89d17e93c3d4d1a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "ACHIEVEMENT_QUICKDRAW": {
       "name": "Quick Draw",
