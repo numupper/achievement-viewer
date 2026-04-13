@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/ea5c569bff76c238080edaac18f056bbcb40f8ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "Arena_Brawler": {
       "name": "Brawler, Arena",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/7a1cdcda90427701fe9c4088ff82107fec1e7be1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "Main_ChampionOfCyrodiil": {
       "name": "Champion of Cyrodiil",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/b178eb82e13b286226ff111e0dbddf97d2254031.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "Main_ClosedAnOblivionGate": {
       "name": "Closed an Oblivion Gate",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e10b05502fe14acb4496ede7448aff8fb8dafe49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "Thief_Footpad": {
       "name": "Footpad, Thieves Guild",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/4220a4ad6d410e43ac38ad79b0eafcc82beb2187.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "Isles_HonoredMadman": {
       "name": "Honored Madman, Shivering Isles",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/a249b5a96a4c3d753d75d03717fb8da1827f41b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "Mage_Journeyman": {
       "name": "Journeyman, Mages Guild",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/e96535c4166084a08ff5e4af1474c2ae92846a0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "Mage_MasterWizard": {
       "name": "Master-Wizard, Mages Guild",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/9ad991ac53ed5833fd3947654199cdb26973f039.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "Brother_Murderer": {
       "name": "Murderer, Dark Brotherhood",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/5de6ad85f93332dc25939db95cb7a783886a3213.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "Arena_PitDog": {
       "name": "Pit Dog, Arena",

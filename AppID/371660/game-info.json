@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/e7a814bb85a97a7420faddbd2cf661926e6ff762.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "FCPrimal_Ach_51": {
       "name": "Apex Predator",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/5f57689c645459b19654a8650efb7d235b77892f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "FCPrimal_Ach_29": {
       "name": "BEES!",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/70b8c97bf73c97ae4a1daf30420fa2c60fe32084.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "FCPrimal_Ach_14": {
       "name": "Big Teddy",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/86a756c428258d6d262be6828e0ce548e7f6178e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "FCPrimal_Ach_6": {
       "name": "Deadeye",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/53c29e25fc2e0a4c3f860902c2889811f599f074.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "FCPrimal_Ach_46": {
       "name": "Good Neighbor",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/250a4e09620cad5413a94ac3176a8e8ef3e90f0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "FCPrimal_Ach_33": {
       "name": "Gotcha",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/8d9088178290779d8afd32b27eca1e7674b4cd3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "FCPrimal_Ach_25": {
       "name": "Inflammable",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/8ba10036fcada262a3442ae4fc4423f6f6b077b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "FCPrimal_Ach_3": {
       "name": "Liberator",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1297fbd5012ca0445ed3c470cf488c94cacbb3bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "FCPrimal_Ach_47": {
       "name": "Mapmaker",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/245b7272566da3cbec4c87e091ebd5785df36b56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "FCPrimal_Ach_8": {
       "name": "Mister Fix-It",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/a1423354ac6720e8274865c3a04aad8715e9f4b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "FCPrimal_Ach_34": {
       "name": "Sic 'Em",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d2bc61f5196f4a3b0bfc4f686adda51a448a7f29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "FCPrimal_Ach_23": {
       "name": "Skewered",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/816a23ba4224874601def57e0205a0177685410c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "FCPrimal_Ach_2": {
       "name": "Spearproof",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/82e601d7b0afa6820c68589eec197340deb6e5a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "FCPrimal_Ach_18": {
       "name": "Subdivisions",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/31c6f754a65618ca6568f7494f891b4c4e01195c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "FCPrimal_Ach_55": {
       "name": "SURVIVAL OF THE FITTEST",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/c72b07d23104c151878472ee2516acb3e527855b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     }
   },
   "platform": "Ubisoft Connect",
