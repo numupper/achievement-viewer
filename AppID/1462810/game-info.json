@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/57c69437710a14372464e4edf0d2590adf04a80f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.4"
     },
     "ACHIEVEMENTS_07": {
       "name": "Keener",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/32d51dc03ac0eaf2b8b51d2ec0b80d61f027abd2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "ACHIEVEMENTS_36": {
       "name": "Stuntman",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/127df4afff2a782788acae1cd53bed013a20affc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "ACHIEVEMENTS_45": {
       "name": "Unforgettable",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1462810/7d1c79994f82843834612414bd94f5ec592f4cc6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "ACHIEVEMENTS_12": {
       "name": "Winner in Sweden",

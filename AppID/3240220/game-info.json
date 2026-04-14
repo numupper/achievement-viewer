@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/54705fbb27c56b0c3e00ff4dbd7b5b8039e45966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.2"
     },
     "ACHR5": {
       "name": "Animal Lover",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2f50a69673ee905a6c3f43fb85e9b1b7d6c26d2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "ACHH8": {
       "name": "Can't Touch This",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/950cc34858acd878b1b8fd91dff79a4e2afea343.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "ACH13": {
       "name": "TP Industries Arms Race",

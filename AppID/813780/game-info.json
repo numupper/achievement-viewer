@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/99efd434828ee47d63bb4f4ebc987220af55106f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "ACHIEVEMENT_CASTLE_OF_DOUBT": {
       "name": "Castle of Doubt",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/04d1de21531eef876113086843e8d6787a8a72aa.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "ACHIEVEMENT_CHARIOTABLE_NUMBERS": {
       "name": "Chariotable Numbers",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/9476cba260592e170d4b92febffc2647357a91a3.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Return of Rome",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ACHIEVEMENT_CAMPAIGN_ELCID_COMPLETED": {
       "name": "El Campeador",
@@ -973,7 +973,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/413c0b47232cff2b8926b467e3a5e1e19dfb06f9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "ACHIEVEMENT_FAST_FOOD": {
       "name": "Fast Food",
@@ -1207,7 +1207,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/285a6dee54e29705234fb8b243dcb97752b70bb7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "ACHIEVEMENT_GREECED_LIGHTNING": {
       "name": "Greece'd Lightning",
@@ -1297,7 +1297,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/2bacdaf69a8262af26fc592d2941f9de0326de81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "POMPEII_HITTITE_VICTORY": {
       "name": "Hittite Victory",
@@ -1315,7 +1315,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/91377faadfda1358fbbfb2cf4a5302d55db9548f.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "ACHIEVEMENT_HOMELESS": {
       "name": "Homeless",
@@ -1603,7 +1603,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/47ee1d5b655273486a9c470e668c9c9322cf8f01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACHIEVEMENT_CAMPAIGN_KHMER_COMPLETED": {
       "name": "King of the Just Laws",
@@ -1972,7 +1972,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/5eb9181b5be31d12612ff4a04fd065a45c002a5e.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "ACHIEVEMENT_NO_QUARTER": {
       "name": "No Quarter",
@@ -2521,7 +2521,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/6766985b57ec37b7c09d0cb242d23a3eabeff236.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "ACHIEVEMENT_SHUING_ENEMIES": {
       "name": "Shu'ing Enemies",
@@ -3133,7 +3133,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/692530f3676cb0691b45a7b0651d75f191836fd9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "ACHIEVEMENT_MODERATE_AI": {
       "name": "With Moderation",
@@ -3169,7 +3169,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c8a447407a01b8c36706d58e42794402571784dd.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "WU_VICTORY": {
       "name": "Wu Victory",
