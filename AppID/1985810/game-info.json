@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/7ebad2ac02d47077a5fd4419153fd770038e404e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "ZM_SILVER_WW": {
       "name": "Carpe D.I.E.M.",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/fd93746a077a431293e22ff677183c9d6b6f5996.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.2"
     },
     "CP_ACHIEVEMENT_CP_RUS_KGB": {
       "name": "Desperate Measures",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/0f413c9adaa604d8ecc32f09f60412dc84178158.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "CP_ACHIEVEMENT_CP_RUS_YAMANTAU": {
       "name": "Echoes of a Cold War",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/ca940806ca30750a38d27d9a2bdd93a8cfd1e0f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "CP_ACHIEVEMENT_CP_SIDEMISSION_TAKEDOWN": {
       "name": "Operation Chaos",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/82166f7a9831c5797aec89ff96f6346ac6e69054.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "ZM_SILVER_PA": {
       "name": "Seal the Deal",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/40f04d2585880d68f5403e78aa192f2000c028d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "ZM_SILVER_UPGRADE": {
       "name": "Socket-to-me",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985810/d2ca12defc3ac8d579a190292feba1f0edc386ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "CP_ACHIEVEMENT_RED_DOOR": {
       "name": "The Red Door",

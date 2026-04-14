@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/364598ecf4456713313b749e96d6e52d90fac9f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.3"
     },
     "ACH_PERK_HUNTER": {
       "name": "All Perked Up",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/2e1e7872a4f54a2cfb152ef6bd6e9b757861c7d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "ACH_CHALLENGER": {
       "name": "New Challengers",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/9f4485b1017165f4089afecc727b02c62932a31f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.3"
     },
     "ACH_BRICKYARDIA_CHAMPION": {
       "name": "Sky Cup Champion",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/88e001274d4e32d58b287af82d46ea93369d55e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "ACH_OUTPERFORMER": {
       "name": "XPerienced",

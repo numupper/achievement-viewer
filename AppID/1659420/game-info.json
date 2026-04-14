@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a4d02d01f2f27d842f744401835b4ac25fc51b5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "TROPHY_NAME_FINISH_UHARD": {
       "name": "Charted! - Crushing",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/40e3cab5eb269661240f088dd11c3d6da5ac9cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "TROPHY_NAME_C4_MULTI": {
       "name": "C-Phoria",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/72e33764889a7169f4614234b3d0affe4239192a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.0"
+      "percent": "79.9"
     },
     "TROPHY_NAME_PICK_LOCKS": {
       "name": "Five Finger Discount",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/b29dc1af4a98161d103bdfdef8ee8f612bbd7301.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "TROPHY_NAME_DOLPHINS": {
       "name": "On Porpoise",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/c3334e3f15efadb8f6ccff34639e44cb73b1a53c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "TROPHY_NAME_BLIND_FIRE": {
       "name": "Run-and-Gunner",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/d4a17d11bf44bda4ad896bfbeeeeef9cd5831b05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.0"
     },
     "TROPHY_NAME_TOY_GUN_TARGETS": {
       "name": "Still Got It!",
@@ -775,7 +775,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/c6069046c16499cd707fcbbc73b6790ae93b17ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "1.8"
     },
     "TROPHY_NAME_JOURNAL_NOTE_1": {
       "name": "Take a Note",
@@ -784,7 +784,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659420/a8517f92833d9655f5ed85bc80020c0e38068866.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.8"
+      "percent": "63.7"
     },
     "TROPHY_NAME_DAMAGE_VARIETY": {
       "name": "The Sampler",

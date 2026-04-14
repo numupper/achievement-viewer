@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/29ab10fa5f3cd86195ba304694c0ff4c80dfbaee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "Animal_ReleaseAny": {
       "name": "Say Goodbye",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/0a47401454761897bb46966aa77a062faabcca9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.7"
+      "percent": "79.6"
     },
     "Game_Startup": {
       "name": "Welcome to Planet Zoo",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/703080/cd2e459e0571c90a6ebfbaa20a3cf06a2aacb34d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     }
   },
   "platform": null,

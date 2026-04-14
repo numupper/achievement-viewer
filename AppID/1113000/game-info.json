@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2b51cf3c6fc6c21a2c53c6da7f7a29a161097633.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "ACHIEVEMENT_041": {
       "name": "A True Bond",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/9f09e42e66868e7993ce4731ef7a3f74556080bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "ACHIEVEMENT_043": {
       "name": "Legend of Inaba",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2c89065bfbe1093acc569741de6894d10908cd60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "ACHIEVEMENT_036": {
       "name": "Moderate Bookkeeper",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/a0c36ea7c30ee95a287180db3871cfd168e2cb33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "25.8"
     },
     "ACHIEVEMENT_045": {
       "name": "Movie Buff",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/f96b71041d8cfaab308d995a6b5a63afafb9ca25.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "ACHIEVEMENT_020": {
       "name": "Tactical Fighter",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e6cc82eae3c961595550f76651938010e1d12c24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "ACHIEVEMENT_003": {
       "name": "The Lounge Is Closed",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/5031592f6fa8f249a3df55284727c5f03a1f41ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     }
   },
   "platform": null,

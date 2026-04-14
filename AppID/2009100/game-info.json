@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/e86e4dfc57d90780c50c87648cfe0a8ea622d65f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "Achievement_GOSCC_66": {
       "name": "Backtracker",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/2d8fb59e71f967e8b2d8c0ee770228b3cc03013d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "Achievement_GOSCC_38": {
       "name": "Best Dressed",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/074365824ad3cdf4945462ca8c9ac16ffbaaa160.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "Achievement_GOSCC_18": {
       "name": "Grand Magnus",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/1d6e75850ae553f421d33848b2715ed18a1d049d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "Achievement_GOSCC_5": {
       "name": "Initiate",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/fd03317ece763b820c4577c4001ddebffbc23479.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "Achievement_GOSCC_56": {
       "name": "Master of Malachite",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/5221119e87b5e2ba1d08bb36fd21f0871c947175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.4"
     },
     "Achievement_GOSCC_44": {
       "name": "Periapt Cerulean",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/ba813c3620d32d415b825b8ec386cae7ccd34732.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "Achievement_GOSCC_60": {
       "name": "Shroudfane Surveyor",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/06e342dd610738376bb3a4150c5fd8601ac9ade3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "27.9"
     },
     "Achievement_GOSCC_11": {
       "name": "The Means to Save It",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2009100/42fffa7fa9f13c2e3e1024399c73c37273c63408.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "22.8"
     },
     "Achievement_GOSCC_6": {
       "name": "Thrada-Kul",

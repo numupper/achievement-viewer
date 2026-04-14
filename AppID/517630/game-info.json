@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/609aaeabd247bec990ecbe7955f17f272a4f8e38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "ach_max_chaos_milestone": {
       "name": "A Whole Army of Chaos",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/810b6338f8488aec37b9345241d93d55af8650a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "ach_complete_campaign_tropical_storm": {
       "name": "Bring It Down!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/ea763c5fb926b217e734771546063f9a04285bf5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.4"
     },
     "ach_aoc_tier": {
       "name": "Chaos Milestone",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/a67bf371e5a4ad99b19d7d17b7b44c38c3c6098a.jpg",
       "hidden": false,
       "group": "Just Cause™ 4: Los Demonios",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "ach_a4": {
       "name": "Doña of Demolition",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/3514a9c139c56e67a283fa235dc2b3bd681d85a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "ach_quest_finale_javi": {
       "name": "Knowledge is Power",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/c22326ebc7e0d16991f402e3fdd4191d1129022d.jpg",
       "hidden": false,
       "group": "Just Cause™ 4: Los Demonios",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ach_c6": {
       "name": "Skitchin'",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/517630/0ca2e1acd73d60f3f4f4c581a74fc6bcf55fa99d.jpg",
       "hidden": false,
       "group": "Just Cause™ 4: Los Demonios",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "ach_b7": {
       "name": "They Came From the Lake",

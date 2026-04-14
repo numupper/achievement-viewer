@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/eefc6f4c620ee889095de003b2dee6a78be955f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.4"
     },
     "AchEvt_ExpeditionTeam": {
       "name": "Expedition Team",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/ba634dcf1eea1e9381847b06aa390064521ab7e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "AchEvt_Zoology": {
       "name": "Zoology",

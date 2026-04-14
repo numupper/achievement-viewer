@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.5"
     },
     "TRP_LODGE": {
       "name": "Lodge Fever",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.2"
     },
     "TRP_SEMATARY": {
       "name": "Patient Sematary",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "TRP_CABIN": {
       "name": "The Cabin in the Blackwoods",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.1"
     },
     "TRP_FATEFUL": {
       "name": "The Fateful Descent",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "49.7"
     },
     "TRP_WOLFMAN": {
       "name": "The Skillful Wolf Man",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "TRP_TALETWO": {
       "name": "The Tale of The Two Sisters",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "TRP_ALLLIVE": {
       "name": "They All Live",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2172010/0ed31e58a17be65d1beffbdafad3a8132cab97c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "TRP_JOSH": {
       "name": "We Need To Talk About Josh",

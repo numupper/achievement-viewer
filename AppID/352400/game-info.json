@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a0e4f96ac7776fdc0b8f9d3c2292880c3a3b65bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "49.9"
     },
     "COMPLETE_STORYEVENT8": {
       "name": "Don't Go Into The Long Grass",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/db23e0b4cecc9b0be95052545dc1606ef6ccf650.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     },
     "COMPLETE_STORYEVENT13": {
       "name": "Is This How You Make Dinosaurs?",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/7b8c099c09a0268d3bdad7a2451ac870df5e4406.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "COMPLETE_STORYEVENT1": {
       "name": "Welcome To Jurassic Park",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/954406423bac4ccae8d122bf00ce88b51a01bd73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.4"
+      "percent": "80.5"
     },
     "NEW_DINOSAUR": {
       "name": "Went And Made A New Dinosaur",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/5c8bca1451c4ef5644c7a29c610f9ffab5c96327.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "ALL_MINIKITS_IN_LEVEL": {
       "name": "We're Out Of A Job…",

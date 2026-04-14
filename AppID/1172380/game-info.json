@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/e3b143c8da841f2020dce3dce17fc18b6045ffe8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "Achievement_GOSCC_24": {
       "name": "Don't Mess with BD-1",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/501ec61e22d739df4d11335a11053eb505cc6d57.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.6"
     },
     "Achievement_GOSCC_33": {
       "name": "Full House",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/173df9d377a6dc906ab625c916ec1c631e7aaccb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "Achievement_GOSCC_15": {
       "name": "Gorgara Falls",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/8676d681b392cac08bea39444c568bb6310d2141.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "Achievement_GOSCC_12": {
       "name": "Happy Go Wookiee",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/421a77c93086e6f06da1db1ffecf3c7a7d27a9c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.6"
     },
     "Achievement_GOSCC_13": {
       "name": "Her Name Was Masana Tide",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/176ad657df8824890e44a48fbca92786d972953b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "Achievement_GOSCC_1": {
       "name": "Kicking Back",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/4e7f2b2e3f1a4eba8361748e19f678b40e77e99d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "Achievement_GOSCC_27": {
       "name": "Not So Fast",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/2fa054194d3e3a28b0dc4b08c4b2bfc027fd365d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.3"
+      "percent": "81.4"
     },
     "Achievement_GOSCC_9": {
       "name": "The Obstacle is the Way",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/894cd70cb828f9de6a2b8670eb4fe827eaf2ebf9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "Achievement_GOSCC_14": {
       "name": "Visiting Alderaan Places",
