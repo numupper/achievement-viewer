@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/945422387abd6a75d4d3cce45e061a4355a0c0c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.9"
     },
     "jup_sp_timeforanewplan": {
       "name": "Dialed In",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/5bacfd37aeea95085777427a261c9d7f2adcaf87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "jup_sp_fullsweep": {
       "name": "Elevator Out of Order",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/1d1e306ac763228d6f1db6f713a127e351cd9614.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "jup_sp_haveyoutriedturningitoff": {
       "name": "Have You Tried Turning it Off and On?",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/3f9381cb41da9c2e4b24a5e6fb32f90b73ad8210.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "jup_sp_boundandmagged": {
       "name": "No Such Thing as Too Many",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/862f0babebba601b6eedceb1af814dd2e4e349eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "jup_sp_hushhush": {
       "name": "Snow Angel",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/a281d5dc2e794b83dd8f5eac8b6134df3e07b3d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     },
     "jup_sp_enjoythelittlethings": {
       "name": "Think She'll Notice?",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/cad18cb8c590be459f718cea0a7b124c790f65a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "jup_ob_writeoff": {
       "name": "Write Off",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3595270/028df17480b314ad34ddaf0d132a1e5355a99dab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     }
   },
   "platform": null,

@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/9242252153a6ac942eb36ccb1b098e6392e98a46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "62.1"
     },
     "AllClear": {
       "name": "A fight is about survival.",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/cdf47558c9fb4ca707331cdad69628d974f55875.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.0"
     },
     "OnlineBattle10wins": {
       "name": "Excellent!",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/78d61596ac6181803dd40017d7d970011e22580e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.7"
     },
     "HeatSmash": {
       "name": "Fear my wrath.",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/56c8a31a1cbca88f48fc91e0f131b33586d1b58c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "WinDiscGhostBoss": {
       "name": "Godfather",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/bd170fa4d156201b380173d0c592e0bb1f550924.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.2"
     },
     "Promote1st": {
       "name": "I aspire to greater heights!",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/7f31562645e15508cbc32b7923384dbdd5f08ce3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.7"
+      "percent": "82.8"
     },
     "HeatBurst": {
       "name": "What a rush!",
