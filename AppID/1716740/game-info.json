@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/de9937fb64f519bad2769b506ed4cb756d7127d0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "29": {
       "name": "Boots on the Ground",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/0ac8d4eb3fc86ab6330809cccecfac1bd6503d4b.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.5"
+      "percent": "0.3"
     },
     "5": {
       "name": "Further Into the Unknown",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/3add3ed68193ed92723e7c1d50078948d0d9e4e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "7": {
       "name": "In Their Footsteps",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/21581aaf95fe22debe9269dc6e6039b56cde33f2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.2"
+      "percent": "0.1"
     },
     "25": {
       "name": "Industrialist",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/09313c85a0b6b16c98e15c209b59ccc75ec605c8.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.2"
+      "percent": "0.1"
     },
     "35": {
       "name": "Jacked In",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/2b871504713e7ba0c9f3178ba3e1dd3218530e82.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.5"
+      "percent": "0.3"
     },
     "80": {
       "name": "Master of Magnetism",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/436b5187634c686c0376f8fb129d70599578997d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "50": {
       "name": "Reach for the Stars",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/224fc26e12eb7238c5c769a5b2ba78f034be47e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.6"
     },
     "58": {
       "name": "The Great Unknown",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/7d6f57ac891f398fe6736c150b14c56587086ed2.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "4.3"
+      "percent": "4.2"
     },
     "57": {
       "name": "The Scaled Citadel",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/b300be03e799cc45608dfec5c960003595d6049e.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "28": {
       "name": "The Stars My Destination",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/7e21a8187623bfe6a853ce9e71ede9ac853e3d18.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "75": {
       "name": "Top Tier",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/6a6bb6e35f760c7b3654dab609f02f770141aac0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "47": {
       "name": "Traveler",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/54bd1a782a4cfff997ca3ac21f0958b4a7095d28.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "53": {
       "name": "Zealous Overreach",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1716740/43540d316c336d0374fee2d2c4b5ed883dad5172.jpg",
       "hidden": false,
       "group": "Starfield - Shattered Space",
-      "percent": "3.3"
+      "percent": "3.2"
     }
   },
   "platform": null,

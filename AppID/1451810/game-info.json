@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/2e1e7872a4f54a2cfb152ef6bd6e9b757861c7d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "ACH_CHALLENGER": {
       "name": "New Challengers",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/88e001274d4e32d58b287af82d46ea93369d55e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "ACH_OUTPERFORMER": {
       "name": "XPerienced",

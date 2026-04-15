@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/58aeca72225eed093a277c8a66363d75b3b631e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "AchivementMultiverseDrPhilgorID": {
       "name": "Dr. Pheelsgood",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/5de8bc882947c4492e3a58c9b976d16d1502c834.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "AchievementCastleRenovationID": {
       "name": "Forgotten Sorority",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ee6b16daadd6c305cd7f89de13795f7e89d915ab.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.7"
     },
     "AchievementHarryPotterID": {
       "name": "Into the Matrix",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/7612310a5241717db342558f94c99eb17250c4ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "AchievementStratosphereID": {
       "name": "Reach the Stratosphere",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/6c3ed6b81b23a3180ec0d4eaf1198c5d415e920c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.3"
     },
     "AchievementWhaleID": {
       "name": "Real Buoy",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/2f475bacc8bdffad75b4318207e46323a1a745b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "AchievementPortalsID": {
       "name": "Shadow Syndicate",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/48839d701d89834d5f628c1dceeb9cbf598f882e.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "AchievementStreakingID": {
       "name": "Streaking",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "AchievementMultiverseIntroCartID": {
       "name": "This Took Half My Life",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/35824916ea6c3d7a1fad171a0b9616455f42b52a.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "AchievementMultiverseLickSanicID": {
       "name": "Ultrasonic Speedy",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a4454b4b3c22a7dfccc515db8bc20c6473ae7b2e.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "AchievementAliensID": {
       "name": "Welcome to Earth",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/648a1c8791d66d139c2d95ebe6a66e3a303999fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "AchievementGatorID": {
       "name": "What a Waste of Money",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/78c65362cf015a3e925d656e3615f2d2a188328a.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "AchievementClownID": {
       "name": "Where is it?",
