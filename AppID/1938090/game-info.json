@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/45c2a452609d0ecc9ea97934c5ae8346ef284b68.jpg",
       "hidden": false,
       "group": "Call of Duty®: Modern Warfare® III - Campaign",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "jup_sp_driveby": {
       "name": "High Wire Act",
@@ -1027,7 +1027,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/a2df9c60fa54552f4e2e65ed5fc959fdccffebf4.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "t10_sp_adrenaline": {
       "name": "Rapid Reflexes",
@@ -1054,7 +1054,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/07a86577058b969642057641ae2806cf88ea8fe7.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 6",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "t10_global_return_king": {
       "name": "Return of the King",
@@ -1171,7 +1171,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/0fda51d7d08e8a7eccc909bc6fe6095d44de0e40.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "sat_wc_capricorn_stealth": {
       "name": "Spectral",
@@ -1279,7 +1279,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/4577bbcf8d72b727347f1adc462c7b6a9763c16c.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 6",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "t10_sp_safehouse_puzzles": {
       "name": "The Puzzles, Mason",

@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/4efa9e7a3ff614b55a91e058bc0ead7da8dca317.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "FC6_Ach_64": {
       "name": "Dear Diary",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/9ac0da79f135fa03c87b82504442256cbe2bb220.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "FC6_Ach_33": {
       "name": "Heated Conflict",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/cab660a81e622237a6d78e45a9dffd97ef557613.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "FC6_Ach_42": {
       "name": "Hit 'n Run",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/8e92d7bc11dbfb50513624568708d796e97d419b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "FC6_Ach_7": {
       "name": "Ninjerilla",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/dc07d5780c1d48a3628cff176ae7b600d605f48a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "FC6_Ach_39": {
       "name": "Not So Tough",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/2fe0627f86fd7cd391d7e799a2814a76045a226a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "FC6_Ach_75": {
       "name": "Vanity Project",
@@ -856,7 +856,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/3df7d695b2f93038e74e30cb9d555951a162f156.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "FC6_Ach_88": {
       "name": "Walking the Path",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2369390/87df8478db249bf0fb38329a0a9a19089ca10a9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.8"
     }
   },
   "platform": null,

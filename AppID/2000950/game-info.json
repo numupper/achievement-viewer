@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/b3f5754ccdcc5090a7cef477eb1d262186447e9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "GOLDENPATH": {
       "name": "Golden Path",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/8045d5c99b42ea6a0e25498ce3a4be4bf5a2d689.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "BARKOVSPIT": {
       "name": "Got Something on Your Face",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/3bb45f738e76e8e33451ab3d5b5f3c6a38cdfd69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.5"
     },
     "NOFRIENDLYFIRE": {
       "name": "Trigger Discipline",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/94004b2a9c518be40cd68ea1c5d8c6829a86bd9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "WILDFIRE": {
       "name": "Wild Fire",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/7446e1c4cfed6f483f399451d2fab04e0a89729a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     }
   },
   "platform": null,
