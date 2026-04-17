@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ac47b75ed4b13a8a11ceaf5cf92087eecff4e61b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "AchievementMultiverseSpaceStoneID": {
       "name": "Appliance in Disguise",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/82f1ba5cc9388a2a6832dfde15fdda6b104ab918.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "AchievementThroneID": {
       "name": "Covert Consortium",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/52b18688db5cdcd82161619e9948da6d9d76bf6e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "AchievementApocArenaTrialsID": {
       "name": "Crash Course",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/43b1277b7924a4ff18b6bf12874bd5a6211fe4ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.7"
     },
     "AchievementRampID": {
       "name": "Daredevil",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b5095809ce7382d0dadfa10ccfad2eed2d6feb27.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "AchievementApocRampsID": {
       "name": "Daredevil of the Wasteland",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c49625b52f8ff1fe41c8617b7a7eaec59c471284.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "1.8"
     },
     "AchievementMultiverseKidneyStoneID": {
       "name": "Gastroscopy",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9dbc37acbacfcd0e14d4152913dce7110a1a3a73.jpg",
       "hidden": false,
       "group": "Goat Simulator 3 – Baadlands: Furry Road",
-      "percent": "1.2"
+      "percent": "1.1"
     },
     "AchievementApocInstinctsID": {
       "name": "Maximus Instinctus",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/08acb75234c963fa6c256dd7ad1374e6ac79da12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "AchievementWarRoomID": {
       "name": "Rogue Guild",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/de62cafba15c42d62f8c5ec92f27797985f6d17e.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "AchievementInstinctID": {
       "name": "You Trusted Your Instincts",

@@ -1027,7 +1027,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/a2df9c60fa54552f4e2e65ed5fc959fdccffebf4.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "0.2"
+      "percent": "0.1"
     },
     "t10_sp_adrenaline": {
       "name": "Rapid Reflexes",
@@ -1054,7 +1054,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/07a86577058b969642057641ae2806cf88ea8fe7.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 6",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "t10_global_return_king": {
       "name": "Return of the King",
@@ -1279,7 +1279,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/4577bbcf8d72b727347f1adc462c7b6a9763c16c.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 6",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "t10_sp_safehouse_puzzles": {
       "name": "The Puzzles, Mason",

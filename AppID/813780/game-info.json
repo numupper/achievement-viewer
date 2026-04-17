@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d2dceec8826386da4c30bc7c8a28541056111a1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "ACHIEVEMENT_BULLS_EYE": {
       "name": "Bull's Eye",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/9ede239dc1aedb7c3f0e02648aab63654f5118cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACHIEVEMENT_EXPEDITED_DELIVERY": {
       "name": "Expedited Delivery",
@@ -1081,7 +1081,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/54fe6d3cebf0e70045d99f98ede527993d864408.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "ACHIEVEMENT_FRANKLY_MY_DEAR": {
       "name": "Frankly My Dear...",
@@ -1639,7 +1639,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/9a0eba170defde7aad469943357c054588191bb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "KOREANS_VICTORY": {
       "name": "Korean Victory",

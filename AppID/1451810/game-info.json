@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/364598ecf4456713313b749e96d6e52d90fac9f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.3"
     },
     "ACH_PERK_HUNTER": {
       "name": "All Perked Up",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/0c61280fdce7837409cb976f6932b61cbda4fd9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "ACH_BB_COLLECT": {
       "name": "Roadshow Ready",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1451810/9f4485b1017165f4089afecc727b02c62932a31f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "ACH_BRICKYARDIA_CHAMPION": {
       "name": "Sky Cup Champion",

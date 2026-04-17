@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/2f4ae59cba22691038ca2ff7a25662e046afab11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.4"
     },
     "crimemaster": {
       "name": "Crime Master",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5b41be28bd09d28dc3b3eec844dbf5ba5b8ce66b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "invisiblespider": {
       "name": "Invisible Spider",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5fd93abea7ce66584fc786d1b1ccb66e0aab8c1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.4"
+      "percent": "70.3"
     },
     "memorylane": {
       "name": "Memory Lane",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b6a2a2262939b49f5904e6294780fb14f5a5698b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.9"
+      "percent": "80.8"
     },
     "nevergiveup": {
       "name": "Never Give Up",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/ee2daa3b4a664fe6f4e34436244968f81c75d2a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "59.8"
     },
     "undertheirnoses": {
       "name": "Under Their Noses",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b33485e71edd52eb00bdab87cf89ec8c62ce9673.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "35.9"
     },
     "undergroundundone": {
       "name": "Underground Undone",
