@@ -44,8 +44,8 @@
     "earned_time": 0
   },
   "2": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776329890
   },
   "20": {
     "earned": true,
@@ -108,8 +108,8 @@
     "earned_time": 0
   },
   "34": {
-    "earned": true,
-    "earned_time": 1776446884
+    "earned": false,
+    "earned_time": 0
   },
   "35": {
     "earned": false,
