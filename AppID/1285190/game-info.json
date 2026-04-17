@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "41.9"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/9a794c7cf5d8666e069000332b7f36ac6b8edf7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "Achievement_01": {
       "name": "Good Hunter",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/bb57a895961a96fb0d72c8dbc5caa730374fe681.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "Achievement_41": {
       "name": "Hearthwarming",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b5fc0901f2cc72d8bd4a3495728a2515b5b7a4a4.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/1111c9f84dcda34d8af81a9b2df68589787acc58.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.5"
     },
     "Achievement_39": {
       "name": "Looking for Work at the Top of the World",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d7adac5f0fbf76f0d252e63d606d1867661a3f67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "Achievement_12": {
       "name": "Shoot the Moon",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/49cf0cd399ebc58159ec8d63d1cd9128cd2cdc07.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "Achievement_37": {
       "name": "The Demon's Domain",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/13fb54c84e197796a4915cb233a17e26b8edfec7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "Achievement_17": {
       "name": "Useful Citizen",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/5a0a9edcf8381e374664dea5608faf93787bdfb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "Achievement_21": {
       "name": "Who's the Boss?",

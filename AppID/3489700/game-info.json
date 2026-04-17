@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/43a91c3b0174a1be23f9e93773e7c6e3445ec529.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.4"
     },
     "37_JustParry": {
       "name": "Agile Gladiator",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/359e03479fd923790adc9b4d48b43a6df9817def.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "15_KillCharacter_Gorgon_Kill": {
       "name": "Demogorgon",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/379a35d671474d300f12bf9be90f3745853b8eaf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "23_Album_AllFish": {
       "name": "Lonely Fisherman",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/65603a6ebd5343bd31861019b765fc16914d3ff6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.7"
     },
     "26_Activate_AllCamp": {
       "name": "Meticulous Explorer",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/b35a50d28a86790e558acaf10a9a4adda8eb235f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.7"
     },
     "16_KillCharacter_Raven_Kill": {
       "name": "Raven",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/b3d9ddf2623431b57f42af0d458b361ca2ee6a50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "38_CharKill_AssassinationSkills": {
       "name": "Silent Executioner",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/936e0f8833e3be9e29aec80bf0f966e4fccb1b0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "08_KillCharacter_Stalker_Kill": {
       "name": "Stalker",

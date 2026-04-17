@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/2d5e41eb0b45cb497f8afe1391c803b2673a458d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "DODGEBULLET": {
       "name": "Dodged a Bullet",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/0748e18b06644ad8d414433d34600a26d7ac25cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "PITSTOP": {
       "name": "Pit Stop",
