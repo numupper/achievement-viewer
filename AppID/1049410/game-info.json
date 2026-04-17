@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1049410/0a1e2d42ab5a71f4d9dfcc0cb0385eb6b119ff0a.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "UploadObject": {
       "name": "Dr. Pierce's Protege",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1049410/9651638aa9914f9f806594338fc1e42641845a55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "59.1"
     },
     "ClickAllBlueprints": {
       "name": "Feeling Blue",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1049410/9164307b2c58ca9eedc101d09b352b650ca68347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "VaguelyActivated": {
       "name": "Vaguely Activated Achievement",

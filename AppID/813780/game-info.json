@@ -1495,7 +1495,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/29e35ddf8b5d7f8743c89b57a1fcd95b36417325.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ACHIEVEMENT_CAMPAIGN_JOANARC_COMPLETED": {
       "name": "Iron Maid",
@@ -1639,7 +1639,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/9a0eba170defde7aad469943357c054588191bb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "19.9"
     },
     "KOREANS_VICTORY": {
       "name": "Korean Victory",
@@ -2593,7 +2593,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/f4e9cba1fdb379c8d35a5f316714593e6a6b59b8.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Victors and Vanquished",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "SPANISH_VICTORY": {
       "name": "Spanish Victory",

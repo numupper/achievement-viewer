@@ -1,7 +1,7 @@
 {
   "appid": "668580",
   "name": "Atomic Heart",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg?t=1764675129",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/94ee54a7aae012d50bd39e4e6460fa0b547d491a/header_alt_assets_2.jpg?t=1776355944",
   "achievements": {
     "playthroughGirsBestFriend": {
       "name": "A Girl's Best Friend",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a62565c7a5573cb81ade405b86c3fb140265bb9d.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "collectAllApples": {
       "name": "Apple Pie",
@@ -107,8 +107,9 @@
       "description": "Find the dolphin figurine in the secret room",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f00f690317ede1ef95fe82d67c3d5839edf653b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f00f690317ede1ef95fe82d67c3d5839edf653b9.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "battleBullsEye": {
       "name": "Bull's Eye!",
@@ -117,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7b53927f24a0017ff1b3111421cc72427ed7c2a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.5"
     },
     "researchCollectAllAudioDiary": {
       "name": "Burning Ears",
@@ -151,8 +152,9 @@
       "description": "Defeat the Second Twin",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d289fec1c218f0b62243b750d6895ca4d1a625.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d289fec1c218f0b62243b750d6895ca4d1a625.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "researchCompleteAllTestSites": {
       "name": "Clean-up",
@@ -161,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c18bf20edd105dee909c20a2b4d73d17e1aebf24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "conquerorOfAnnapurna": {
       "name": "Conqueror of Annapurna",
@@ -195,8 +197,9 @@
       "description": "Collect all of the figurines hidden in the complex",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fd59d1e7b4e0f0cdfc7cb534fc1883d4f3e74be2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fd59d1e7b4e0f0cdfc7cb534fc1883d4f3e74be2.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "playthroughTheater": {
       "name": "Curtain",
@@ -266,32 +269,36 @@
       "description": "Beat CHAR-les",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4221a7fa400a3b769219c96c4e15168ec0c49173.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4221a7fa400a3b769219c96c4e15168ec0c49173.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "LastJump": {
       "name": "Final Burn-down",
       "description": "Destroy all of the infected plants on the submarine",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e8096c4de96a369b6dd481c9f50ec681c69b757.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e8096c4de96a369b6dd481c9f50ec681c69b757.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.1"
     },
     "EasterEggFromFluffy": {
       "name": "Fluffy Easter Egg",
       "description": "Find the secret room with the fluffball",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c027d8aefaa246cdfc965dd8c81c3d6c95540298.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c027d8aefaa246cdfc965dd8c81c3d6c95540298.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "SaveSechinov": {
       "name": "For Chief's a Jolly Good Fellow",
       "description": "Save Sechenov",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78a3021564f091a1afd4df819296ec4e7b2b2620.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78a3021564f091a1afd4df819296ec4e7b2b2620.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "playthroughPavlov": {
       "name": "Freedom Reflex",
@@ -327,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/726306928d59a5cb2d9bc2801226037b4154f770.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.6"
+      "percent": "92.5"
     },
     "Beyond": {
       "name": "Hic Sunt Dracones",
@@ -397,8 +404,9 @@
       "description": "Exterminate the RACCOON boss",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0d9f4534517479b9f572df98096e4cc4db6aa0d6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0d9f4534517479b9f572df98096e4cc4db6aa0d6.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.2"
     },
     "playthroughLordOfTheFlies": {
       "name": "Lord of the Flies",
@@ -432,8 +440,9 @@
       "description": "Fall in the water at Wave and get killed by Morays",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/83a242a747c13b430a4c127cc575b67fa8a14f9d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/83a242a747c13b430a4c127cc575b67fa8a14f9d.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.2"
     },
     "SurvivalMaster": {
       "name": "Master of Survival",
@@ -514,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/61d209294e6c83debaa37a9deb70bd8ac6e73dc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "52.8"
     },
     "killIvy": {
       "name": "Plyusch Rush",
@@ -550,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/9418419b30ed56acb4a4ee3d08306065348649ae.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "researchAnalyzAllMobs": {
       "name": "Scanner",
@@ -566,8 +575,9 @@
       "description": "Open the secret room with observers",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ca090d52845878ddfc6b1af3a386369ed00b5de7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ca090d52845878ddfc6b1af3a386369ed00b5de7.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "killNatasha": {
       "name": "Show's Over",
@@ -585,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f512ccffdf712c5ff30507b378b340a962e10bca.jpg",
       "hidden": false,
       "group": "Atomic Heart - Trapped in Limbo",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "killEzhihaWithoutDamage": {
       "name": "Strike",
@@ -601,8 +611,9 @@
       "description": "Use an industrial press to destroy robots",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/eeffe3f41c82cc1d115559860aad84b0148ffc41.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/eeffe3f41c82cc1d115559860aad84b0148ffc41.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "iLoveThisCasino": {
       "name": "The Casino Isn't Always in the Black",
@@ -611,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fc545da647ee4d662a8fd2480c7d38fe387bd265.jpg",
       "hidden": false,
       "group": "Atomic Heart - Trapped in Limbo",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "craftUpgradeWeapons": {
       "name": "The Great Inventor",
@@ -645,8 +656,9 @@
       "description": "Complete the story DLC",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/95d561eccef845c7673ab0a649f861835e37a81c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/95d561eccef845c7673ab0a649f861835e37a81c.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "playthroughLesnaya": {
       "name": "Tickets, Please!",
@@ -655,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cf322399dd21a288d540a66aa42a5cdade1e484e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.5"
     },
     "battleBoxInBottle": {
       "name": "Time in a Bottle",
@@ -664,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4fe54810441720d9260bb6d812c6383752de6f3d.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "battleTriplePenetration": {
       "name": "Triple Penetration",
@@ -689,8 +701,9 @@
       "description": "Complete Validol's mission peacefully",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c82911f3efaf5776a8dc8770edbfddfeef486611.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c82911f3efaf5776a8dc8770edbfddfeef486611.jpg",
-      "hidden": true,
-      "group": "Update 1"
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "WaterSports": {
       "name": "Water Sports",
@@ -717,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/77c5348598b946982a1fd3bd4de3678045e58250.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "YouReadTheInstructions": {
       "name": "You've Read the Manual!",
@@ -726,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "6.7"
+      "percent": "6.8"
     }
   },
   "platform": null,

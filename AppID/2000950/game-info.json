@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/30cfe81a70743c8bfd83ceb3097104e50caf6f8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "HANGTIME": {
       "name": "Hang Time",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2000950/63580b2febb3466efbdcabb660d2ae1873e774fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "FOGFRAG": {
       "name": "Nothing but Net",

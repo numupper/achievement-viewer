@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/212e44412082228b9f94d29cdaacb8e62f46225a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "Achievement_GOSCC_a6": {
       "name": "Among the Masters",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/5fcd4b1bc0f1132d8d5c10fa874d91fca0d2f959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "Achievement_GOSCC_a31": {
       "name": "Cleaning Up",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/43e192dbbd48f3d14aad4b8e4c808b5b6cc5514f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "Achievement_GOSCC_a22": {
       "name": "One With the Force",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e94f96910a250b24996eeea94982bf553473a5f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "Achievement_GOSCC_a26": {
       "name": "Riposte",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/463f479d0a561e55fe61cec124dcf0f5fa2c631f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "Achievement_GOSCC_a33": {
       "name": "Skywalker",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/f3563e3c2ab55e83a0e2c760cbe3bff0fad72849.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "Achievement_GOSCC_a5": {
       "name": "Survivors, We Adapt",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/05c4791f895dc41920fbba66f9b57cde9809e776.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.9"
     },
     "Achievement_GOSCC_a9": {
       "name": "Tanalorr Bound",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a714a09f573343114e3baba8c75df8cb037ad569.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "Achievement_GOSCC_a38": {
       "name": "Who Gives a Puck",

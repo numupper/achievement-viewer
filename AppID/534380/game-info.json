@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/6d16a91fc08af306bfda4e2ed6aa02d92e108c43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "ACH_44": {
       "name": "Being All Social",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/18b6b9967ada95bd935254a6ed2b0cc176bd9065.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "ACH_21": {
       "name": "Can't You Read the Signs?",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/2324870ab87a52a1337c2b300fbb4be746c24066.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "ACH_31": {
       "name": "Combat Master",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/9ee5065a16d316f76a11af6003e36219f42f02da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "ACH_8": {
       "name": "Debris and Ashes",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/7623d7be94f6d1e5e80e1151190ce8e5a53e852e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "ACH_20": {
       "name": "Don Quixote",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/4ae288a46f9417823553b3d09a350e29ba3aca82.jpg",
       "hidden": false,
       "group": "Dying Light 2 Stay Human: Bloody Ties",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "ACH_13": {
       "name": "Family First",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/9084096be075cc5fdc6d4c211523ce2c7c37f2b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "ACH_2": {
       "name": "First Shot",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/1a085a9bb435967f0a987ac5eadacf5cf25d3df5.jpg",
       "hidden": false,
       "group": "Dying Light 2 Stay Human: Bloody Ties",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "ACH_39": {
       "name": "Night Hunter",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/29b5071f78b68a339612ececf3fbc9f883f1b3aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.6"
+      "percent": "66.5"
     },
     "ACH_5": {
       "name": "On the Trail of the Enemy",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/a59fd0aad5b6a68b6e34a6cd065aec21ae785496.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "ACH_18": {
       "name": "Sancho Panza",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/482cbacf3df73c2115a0419748715fd90112f1e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "36.8"
     },
     "ACH_57": {
       "name": "Street Art Aficionado",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/621a028235ba58c86ddc7b6adf9c6bd073f5f6eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "62.9"
     },
     "ACH_9": {
       "name": "We Will Be Heard!",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/5186528f4b20ae7db778e6ab7211f745fa848294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "42.8"
     },
     "ACH_33": {
       "name": "Who Wants To Be a...",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/534380/59f49d286985526abf38ad9175d265a204f82141.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "ACH_50": {
       "name": "You're Going Down!",

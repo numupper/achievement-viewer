@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/01b90e36400341f0a1b4881d039325cf3cf209d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "JUDGE_FREND_ALL": {
       "name": "A Guy Everybody Knows",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/bd6a41ba9a781810b7aca8820e026356fbf07384.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "JUDGE_GET_ALL_DRONE_PARTS": {
       "name": "Drone Enthusiast",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/2716625e13a4e56b927822d8e04df164845c6d15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "JUDGE_ALL_COMPLETE": {
       "name": "KamuroGo Master",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/2716625e13a4e56b927822d8e04df164845c6d15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "JUDGE_KAMGO_SHOP_ALL": {
       "name": "KamuroGo Socialite",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/b601ee49404b7f904437730ad94c570a216e3f59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "JUDGE_MAIN_STORY_03_HIDDEN": {
       "name": "The Art of Conversation",
