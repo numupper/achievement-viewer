@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.0"
     },
     "MDL_DLC_RTR_EXPLORER": {
       "name": "Explorer",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.9"
+      "percent": "73.8"
     },
     "MDL_HEY_JOE": {
       "name": "Hey Joe",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "35.9"
     },
     "MDL_MAIL_MAN": {
       "name": "Mail Man",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.1"
     },
     "MDL_MAN_OF_HONOR": {
       "name": "Man of Honor",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.3"
+      "percent": "66.2"
     },
     "MDL_ONE_CAREFUL_OWNER": {
       "name": "One Careful Owner",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/50130/4f13bbad4b2a5bc15808b69b47a5402c3fd85121.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "MDL_OUT_FOR_JUSTICE": {
       "name": "Out for Justice",

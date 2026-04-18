@@ -1,7 +1,7 @@
 {
   "appid": "1293160",
-  "name": "The Medium",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/ff6a1eb4fdcfc69e2f89dcdece51817be3a9d319/header.jpg?t=1773944502",
+  "name": "Game 1293160",
+  "icon": "",
   "achievements": {
     "ADangerousMethod": {
       "name": "A Dangerous Method",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.5"
     },
     "Unrepentant": {
       "name": "Unrepentant",

@@ -1,7 +1,7 @@
 {
   "appid": "1627720",
-  "name": "Lies of P",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
+  "name": "Game 1627720",
+  "icon": "",
   "achievements": {
     "LOP_152": {
       "name": "Anguished Guardian",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1627720/6f2c4f6b43304ba5934a36494b82bc9a4392a162.jpg",
       "hidden": true,
       "group": "Lies of P: Overture",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "LOP_120": {
       "name": "Exploring Possibilities",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1627720/6f2c4f6b43304ba5934a36494b82bc9a4392a162.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "LOP_154": {
       "name": "Honor and Revenge",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1627720/6f2c4f6b43304ba5934a36494b82bc9a4392a162.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "42.1"
     },
     "LOP_135": {
       "name": "The Awakened God",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1627720/8c617bdb98c6ccd7d07a89c17a814d9a23998c88.jpg",
       "hidden": true,
       "group": "Lies of P: Overture",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "LOP_130": {
       "name": "The Champion of Evolution",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1627720/8c617bdb98c6ccd7d07a89c17a814d9a23998c88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "LOP_140": {
       "name": "The Story of the One Who Dreamed",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1627720/8c617bdb98c6ccd7d07a89c17a814d9a23998c88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "LOP_121": {
       "name": "The Ultimate Defense Technique",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1627720/8c617bdb98c6ccd7d07a89c17a814d9a23998c88.jpg",
       "hidden": false,
       "group": "Lies of P: Overture",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "LOP_150": {
       "name": "Tracker of Dark Secrets",

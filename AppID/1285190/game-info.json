@@ -1,7 +1,7 @@
 {
   "appid": "1285190",
-  "name": "Borderlands 4",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/d68ae4501e2d5d9d12a19f67d128afed22313170/header_alt_assets_1.jpg?t=1776357461",
+  "name": "Game 1285190",
+  "icon": "",
   "achievements": {
     "Achievement_32": {
       "name": "All Things Vend",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b5fc0901f2cc72d8bd4a3495728a2515b5b7a4a4.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "Achievement_06": {
       "name": "I Earned This",

@@ -1,7 +1,7 @@
 {
   "appid": "518790",
-  "name": "theHunter: Call of the Wild™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/16b89569cc059b88fbb990fc3b1cebf3d7a11680/header_alt_assets_28.jpg?t=1776175310",
+  "name": "Game 518790",
+  "icon": "",
   "achievements": {
     "ach_124": {
       "name": "A Match for the Widowmaker",
@@ -964,7 +964,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/518790/1ebc28631e6ae19f60057df039908b06cc2a090d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.4"
     },
     "ach_070": {
       "name": "Pilgrim",

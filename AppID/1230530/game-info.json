@@ -1,7 +1,7 @@
 {
   "appid": "1230530",
-  "name": "Atlas Fallen: Reign Of Sand",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1230530/header.jpg?t=1755090572",
+  "name": "Game 1230530",
+  "icon": "",
   "achievements": {
     "trophy_36_quest_queens_gift": {
       "name": "A Queen's Tale",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "trophy_07_watchtowers": {
       "name": "Clear Sight",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "trophy_39_dlc_watcher_challenge": {
       "name": "Painstaking Persistence",

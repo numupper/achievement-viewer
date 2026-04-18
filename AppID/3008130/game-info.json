@@ -1,7 +1,7 @@
 {
   "appid": "3008130",
-  "name": "Dying Light: The Beast Restored Land",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/18ed39ae6de4d046974f203f0ea87a677f3c4b38/header.jpg?t=1774625693",
+  "name": "Game 3008130",
+  "icon": "",
   "achievements": {
     "ACH_26": {
       "name": "And Don't Forget to Wash Your Hands",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/fa2dacbbb5ce8a64c1e20d0bc1660f1262a4c91f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACH_24": {
       "name": "Cabinet of Curiosities",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/9ef5c1036f7d70848617ec746a75b0d425ea2102.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "38.0"
     },
     "ACH_8": {
       "name": "Good Samaritan",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/5b0f7db3400353d869cbc7044d536a503b09ed15.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.7"
     },
     "ACH_2": {
       "name": "New Friends",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/40c9ce209e8e636e8f6f061166423717ce3b6c8f.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "ACH_35": {
       "name": "The Nightmare is over",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/5f01089f5c826120e6855910d3806faa276df64a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "ACH_37": {
       "name": "True Survivor",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/b1556dd858dd1a9c033ba64669da7485b45fc984.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "ACH_10": {
       "name": "Ultimate Beast",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/58d59018ff17b0ba49482f145c624c0008e841ac.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "ACH_11": {
       "name": "We're Safe Here!",

@@ -1,7 +1,7 @@
 {
   "appid": "1238000",
-  "name": "Mass Effect™: Andromeda Deluxe Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238000/8c7ff2de01854469c5202e522d8f8c00ab6ad052/header.jpg?t=1756158782",
+  "name": "Game 1238000",
+  "icon": "",
   "achievements": {
     "Achievement_GOSCC_25": {
       "name": "Activation",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/eecd8850cf8e2fdcf2cd791153c924de97499f55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "Achievement_GOSCC_47": {
       "name": "Almost There",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/a961bb27a7254d17aeaf40ce12ff50f7c5eb208f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "Achievement_GOSCC_55": {
       "name": "Cryptographer",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/0e1e47f6844b8f43b0e870dc3a4255b729151fc0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "Achievement_GOSCC_45": {
       "name": "High Performance",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/bd8d605dbd1cb4a8910fb1da68a72d391ea61565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "Achievement_GOSCC_9": {
       "name": "Icebreaker",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/c59fd7f8556d6b9ef61eb80315ab3be75d74028f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "Achievement_GOSCC_34": {
       "name": "World-Shaper",

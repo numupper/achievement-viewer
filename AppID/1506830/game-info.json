@@ -1,7 +1,7 @@
 {
   "appid": "1506830",
-  "name": "FIFA 22",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506830/header.jpg?t=1712678728",
+  "name": "Game 1506830",
+  "icon": "",
   "achievements": {
     "Achievement_GOSCC_18": {
       "name": "Be My Guest",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1506830/cce4baae6f03d5e0bcc99b09150e7245bf956272.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "Achievement_GOSCC_20": {
       "name": "Winning Mentality",

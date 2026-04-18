@@ -1,7 +1,7 @@
 {
   "appid": "1245620",
-  "name": "ELDEN RING",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1767883716",
+  "name": "Game 1245620",
+  "icon": "",
   "achievements": {
     "ACH02": {
       "name": "Age of the Stars",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "ACH12": {
       "name": "Dragonlord Placidusax",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "ACH05": {
       "name": "Shardbearer Radahn",

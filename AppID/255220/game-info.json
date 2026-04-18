@@ -1,7 +1,7 @@
 {
   "appid": "255220",
-  "name": "GRID Autosport",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255220/header.jpg?t=1593617496",
+  "name": "Game 255220",
+  "icon": "",
   "achievements": {
     "16": {
       "name": "A good track record",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/255220/bc84ee11900758a4ae8b5ca1c2a159697f42c631.jpg",
       "hidden": false,
       "group": "GRID Autosport - Touring Legends Pack",
-      "percent": "1.7"
+      "percent": "1.6"
     },
     "24": {
       "name": "Done the Tour",

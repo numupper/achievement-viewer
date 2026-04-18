@@ -1,7 +1,7 @@
 {
   "appid": "234140",
-  "name": "Mad Max",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234140/header.jpg?t=1773442092",
+  "name": "Game 234140",
+  "icon": "",
   "achievements": {
     "TRP_A_THOUSAND_WORDS": {
       "name": "A Thousand Words",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/234140/da1c6a251ae6c5ce1f29d360a04571841474ce1f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.6"
     },
     "TRP_RAZING_LEGEND": {
       "name": "Razing Legend",
