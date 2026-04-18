@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/accac438f48d123887f654a4137c72c92fb86255.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     },
     "MISSIONCOMPLETE01": {
       "name": "Act of War",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/8e323584936f78307bae1b77ba8a307b32e82edc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "CINE10": {
       "name": "Endgame",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/4767ea3ce032af2181c7624002040e7d43314fd2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "CINE03": {
       "name": "Fowl Play",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/f8c22995f6e392bbb7e75e1edfccd3229ae9a20f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "CINE08": {
       "name": "Hell and Back",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/daf075b51e9ff8984a05e1b7f1e351b325ba4eeb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "RPG05": {
       "name": "Lawton's Last Stand",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/bff87d2a6ee5eb7f3f66dba0eea9e52c14e39829.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "RPG06": {
       "name": "The Chosen One",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/87840187fd2938bd0c14f68cb7d468811a41d901.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "RPG07": {
       "name": "Trial by Blood",

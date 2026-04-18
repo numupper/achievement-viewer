@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/19e8fdf6035f333b0ec6854e4304fa68165df42e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "Achievement_05": {
       "name": "Catch-A-Ride",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4c95522df2c63e7bc0e8be9d3df52deb1d401fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "42.0"
     },
     "Achievement_25": {
       "name": "False Idolator",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/9a794c7cf5d8666e069000332b7f36ac6b8edf7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "Achievement_01": {
       "name": "Good Hunter",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/df613500a2e1170f11f98758a762e38519f8165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.2"
     },
     "Achievement_24": {
       "name": "Grassroots Campaigner",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/bb57a895961a96fb0d72c8dbc5caa730374fe681.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "Achievement_41": {
       "name": "Hearthwarming",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/fdab85bd7448ccfd7ab1554ff07ccf535ee45505.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "Achievement_28": {
       "name": "Howling on the Moon",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b5fc0901f2cc72d8bd4a3495728a2515b5b7a4a4.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4815e27ff0d420f53e92368dbb5c0496b478cf64.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "Achievement_27": {
       "name": "Long Live the Queen",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/1111c9f84dcda34d8af81a9b2df68589787acc58.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.6"
     },
     "Achievement_39": {
       "name": "Looking for Work at the Top of the World",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d7adac5f0fbf76f0d252e63d606d1867661a3f67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "Achievement_12": {
       "name": "Shoot the Moon",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/49cf0cd399ebc58159ec8d63d1cd9128cd2cdc07.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "Achievement_37": {
       "name": "The Demon's Domain",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/f432b917f4fc372c96012891e6170312bf35e67f.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "Achievement_04": {
       "name": "The Lookbook is the Cookbook",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/13fb54c84e197796a4915cb233a17e26b8edfec7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "Achievement_17": {
       "name": "Useful Citizen",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/5a0a9edcf8381e374664dea5608faf93787bdfb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "Achievement_21": {
       "name": "Who's the Boss?",
