@@ -1,7 +1,7 @@
 {
   "appid": "1030830",
-  "name": "Game 1030830",
-  "icon": "",
+  "name": "Mafia II: Definitive Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/header.jpg?t=1759852951",
   "achievements": {
     "MDL_A_LESSON_IN_MANNERS": {
       "name": "A Lesson In Manners",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "MDL_DLC_JA_JACKED_JUMPER": {
       "name": "Jacked Jumper",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.7"
     },
     "MDL_DLC_RTR_MASSACRE": {
       "name": "Massacre",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "MDL_PEDAL_TO_THE_METAL": {
       "name": "Pedal to the Metal",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "MDL_THE_PRICE_OF_OIL": {
       "name": "The Price of Oil",

@@ -1,7 +1,7 @@
 {
   "appid": "315210",
-  "name": "Game 315210",
-  "icon": "",
+  "name": "Suicide Squad: Kill the Justice League",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315210/header.jpg?t=1739898445",
   "achievements": {
     "CINE11": {
       "name": "Abandon All Hope",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/964daf35eebf1ac8a80ba3336f23ebbb699c446c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "RPG10": {
       "name": "All Sorts of Fun",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/dc790a227404a312f180eb83351999e86ea82a4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "CINE06": {
       "name": "Blitzkrieg Bop",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6e0a99f4656c2d5bd1ff776564fb6bfcc6489259.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "RPG04": {
       "name": "Captain Boomerang! Agent of Oz",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/e6d82fe600fcf2b1ffd9b1e20656a89bcdf4503c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "RPG13": {
       "name": "Choice of Evils",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/89d01c1872fb3dc7a54f3069afab58931ba275e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "CINE01": {
       "name": "Cleaning Out the Closet",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/e64d00a8dfff30ba7ca8928b5cc2b8e37930eb48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "CINE05": {
       "name": "Death Blooms",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/3baf64df139812c73f6311628ea9363d0b8240c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "RPG15": {
       "name": "Forces In Motion",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/6ab2e886bfb8d05fc895c765bd58962b6ff3b5f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "58.0"
     },
     "RPG14": {
       "name": "Grand Experiment",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/06552c151d8783fc3304cbcaca343d81f8492461.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.5"
     },
     "EXPLORE01": {
       "name": "History Repeats",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/95646a22b5450a5c133392ff00f238438294dadd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.8"
     },
     "MISSIONCOMPLETE04": {
       "name": "Into the Angry Planet",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/b5b85bbdc69abe845758b1c09fb276f5f96a6405.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "BRANCH04": {
       "name": "Managing People",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/7085322382d064e805b2aee96501c99d4d4091eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "RIDDLER06": {
       "name": "Stop Me If You've Heard This One",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/bb751f05b3723e931539553a27f8da45c874a844.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "RIDDLER02": {
       "name": "Their Dark Designs",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/f45b0d71db2e4d65b3c9383db3716ef8d59fe7f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "CINE04": {
       "name": "Walled In",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/315210/7444bec75a253f35a0ef6760ab468f773a11d699.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "BRANCH02": {
       "name": "War Machine",

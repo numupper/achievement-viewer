@@ -1,7 +1,7 @@
 {
   "appid": "638230",
-  "name": "Game 638230",
-  "icon": "",
+  "name": "Journey",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg?t=1729099361",
   "achievements": {
     "ACH_Adventure": {
       "name": "Adventure",

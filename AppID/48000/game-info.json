@@ -1,7 +1,7 @@
 {
   "appid": "48000",
-  "name": "Game 48000",
-  "icon": "",
+  "name": "LIMBO",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg?t=1761819450",
   "achievements": {
     "ACH_5": {
       "name": "Alone in the Dark",

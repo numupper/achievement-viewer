@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/99efd434828ee47d63bb4f4ebc987220af55106f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "ACHIEVEMENT_CASTLE_OF_DOUBT": {
       "name": "Castle of Doubt",
@@ -973,7 +973,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/413c0b47232cff2b8926b467e3a5e1e19dfb06f9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "ACHIEVEMENT_FAST_FOOD": {
       "name": "Fast Food",
@@ -1504,7 +1504,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/50e5398471ac1f30a600aef3184b47d2fbef9ae1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "ACHIEVEMENT_CAMPAIGN_MALAY_COMPLETED": {
       "name": "Island Hopper",
@@ -1738,7 +1738,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/53cd3e40336e7b26c066414dcdea13e8ea183675.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "ACHIEVEMENT_LOST_VIKINGS": {
       "name": "Lost Vikings",
@@ -2206,7 +2206,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/cfe0644c217baec9b7f46c9dfeebd581bbc10c25.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "ACHIEVEMENT_PLEBEIAN_PRESERVER": {
       "name": "Plebeian Preserver",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "50.0"
+      "percent": "50.1"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
