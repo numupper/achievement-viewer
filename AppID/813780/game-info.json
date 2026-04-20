@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/c3b3cc4956b5255219c09f5da88d2d0c837e3eb7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "52.4"
+      "percent": "52.3"
     },
     "POMPEII_BABYLONIAN_VICTORY": {
       "name": "Babylonian Victory",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/72bf7b68f268142bc089fd8ac1e65c538b6cdd29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "ACHIEVEMENT_BLOCKADE_BREAKER": {
       "name": "Blockade Breaker",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/d2dceec8826386da4c30bc7c8a28541056111a1d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "39.4"
+      "percent": "39.3"
     },
     "ACHIEVEMENT_BULLS_EYE": {
       "name": "Bull's Eye",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41e907ebe32c4f91255aba9b285863fe948b0356.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "ACHIEVEMENT_CAMPAIGN_BURMESE_COMPLETED": {
       "name": "Cakkavatti",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/99efd434828ee47d63bb4f4ebc987220af55106f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "ACHIEVEMENT_CASTLE_OF_DOUBT": {
       "name": "Castle of Doubt",
@@ -973,7 +973,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/413c0b47232cff2b8926b467e3a5e1e19dfb06f9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "ACHIEVEMENT_FAST_FOOD": {
       "name": "Fast Food",
@@ -1036,7 +1036,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/4067f9433903a6be01d9e5aeb37f73b192147400.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "ACHIEVEMENT_FIRST_CITIZEN": {
       "name": "First Citizen",
@@ -1189,7 +1189,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b289114f072ae724293bf42c91ff2cbef4f3d708.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "ACHIEVEMENT_FLEMISH_REVOLUTION": {
       "name": "Golden Spurs",
@@ -1207,7 +1207,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/285a6dee54e29705234fb8b243dcb97752b70bb7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "ACHIEVEMENT_GREECED_LIGHTNING": {
       "name": "Greece'd Lightning",
@@ -1297,7 +1297,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/2bacdaf69a8262af26fc592d2941f9de0326de81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "POMPEII_HITTITE_VICTORY": {
       "name": "Hittite Victory",
@@ -1333,7 +1333,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/77658b9f62a58dd6068fffc8948d3390cc8da0cc.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "1.9"
+      "percent": "1.8"
     },
     "ACHIEVEMENT_HORSES_FOR_COURSES": {
       "name": "Horses for Courses",
@@ -1360,7 +1360,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b872ee7ab63933a1d59072f7a87981b3ca1821ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "ACHEVEMENT_HUN_WHAT_ARE_YOU_DOING": {
       "name": "Hun, What Are You doing?",
@@ -1495,7 +1495,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/29e35ddf8b5d7f8743c89b57a1fcd95b36417325.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "ACHIEVEMENT_CAMPAIGN_JOANARC_COMPLETED": {
       "name": "Iron Maid",
@@ -1504,7 +1504,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/50e5398471ac1f30a600aef3184b47d2fbef9ae1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "ACHIEVEMENT_CAMPAIGN_MALAY_COMPLETED": {
       "name": "Island Hopper",
@@ -1540,7 +1540,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/e853dd5dce385abc962e4d6efd6a9411152d6059.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.6"
     },
     "JAPANESE_VICTORY": {
       "name": "Japanese Victory",
@@ -1738,7 +1738,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/53cd3e40336e7b26c066414dcdea13e8ea183675.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "ACHIEVEMENT_LOST_VIKINGS": {
       "name": "Lost Vikings",
@@ -1783,7 +1783,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/56f9f4f6c909140b45751e76899930a9c227c885.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "ACHIEVEMENT_MALEVOLENT_MARAUDER": {
       "name": "Malevolent Marauder",
@@ -1891,7 +1891,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/6b61f8de191637341d54c2bcbd5afb7032a311ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "ACHIEVEMENT_MEDIEVAL_SLASHER": {
       "name": "Medieval Slasher",
@@ -2062,7 +2062,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/18022140fe5d49574522ce14fb54f27fd87efc52.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "ACHIEVEMENT_NUMBERS_BEAT_EVERYTHING": {
       "name": "Numerous As the Grains of Sand",
@@ -2206,7 +2206,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/cfe0644c217baec9b7f46c9dfeebd581bbc10c25.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "ACHIEVEMENT_PLEBEIAN_PRESERVER": {
       "name": "Plebeian Preserver",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2593,7 +2593,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/f4e9cba1fdb379c8d35a5f316714593e6a6b59b8.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Victors and Vanquished",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "SPANISH_VICTORY": {
       "name": "Spanish Victory",
@@ -2602,7 +2602,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/8ffeab553eb796a4daa349c882d03b9b31feaf95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "SPARTANS_VICTORY": {
       "name": "Spartan Victory",
@@ -2692,7 +2692,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/e100894aab41bd36c6a9b1814c3570c2c4146b9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "ACHIEVEMENT_THE_BEST_DEFENSE": {
       "name": "The Best Defense...",
@@ -3016,7 +3016,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41d3dee6d445a44f53fdca0c1c174c8ca13ff44f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "ACHIEVEMENT_UNCHIVALROUS_PRAGMATIST": {
       "name": "Unchivalrous Pragmatist",
@@ -3097,7 +3097,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1dd93140bfe0e259ae6599dfdf05b3a3d8e8a28b.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ACHIEVEMENT_WEI_MARCH_ON_OUR_STOMACHS": {
       "name": "Wei March on Our Stomachs",
@@ -3115,7 +3115,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/8afdf23755a1b6d47e2b789fc06428330ad6aa52.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - The Three Kingdoms",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "ACHIEVEMENT_WHAT_WOULD_ALEXANDER_HAVE_DONE": {
       "name": "What Would Alexander Have Done?",

@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f709d5c02e6739a0b04f37b62ad13ea9b018c53d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "AchievementBatGoatID": {
       "name": "Car Cave",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ee6b16daadd6c305cd7f89de13795f7e89d915ab.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.6"
     },
     "AchievementHarryPotterID": {
       "name": "Into the Matrix",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e46456268611a13c5a3f9d0275e67bb67649df41.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "AchievementMultiverseBeatDLCID": {
       "name": "It's All a Simulation",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a0ae89f7c6f574fbcda55c083f823a877d7c8ed7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     }
   },
   "platform": null,

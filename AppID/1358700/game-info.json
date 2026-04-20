@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "TROPHY_DLC1_TALKED_TO_BAHAMUT": {
       "name": "Bahamut's Admonition",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "TROPHY_DLC2_MISSION_BIG_BRIDGE": {
       "name": "Battle on the Big Bridge",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "TROPHY_DLC2_CLEAR_LEVEL30_ON_RAID": {
       "name": "Deep Delver",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "TROPHY_DLC1_MISION_EBON_MEMORIES": {
       "name": "Hope and Despair",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "32.1"
     },
     "TROPHY_DLC3_DEFEAT_MANIKIN": {
       "name": "Life Imitated",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "TROPHY_DLC1_MISSION_LIGHT_OF_POSSIBILLITY": {
       "name": "Light of Possibility",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.5"
     },
     "TROPHY_FIRST_SOUL_BURST": {
       "name": "Manifestation of the Soul",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "TROPHY_CLEAR_SUB_MISSION": {
       "name": "Memories of the Distant Past",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "TROPHY_DLC2_SUMMON_MONSTER": {
       "name": "Monster Summoner",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.1"
+      "percent": "79.2"
     },
     "TROPHY_DLC3_UNLOCKED_HUNTER": {
       "name": "On the Hunter's Path",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "TROPHY_UNLOCKED_DARK_KNIGHT": {
       "name": "Path of the Dark Knight",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "TROPHY_DLC1_UNLOCKED_EVOKER": {
       "name": "Path of the Evoker",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "TROPHY_UNLOCKED_LIBERATOR": {
       "name": "Path of the Liberator",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "TROPHY_DLC3_DEFEAT_TRANSCENDANT": {
       "name": "Path to Legend",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     },
     "TROPHY_DLC3_ACQUIRED_GUN": {
       "name": "Pull the Trigger",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "TROPHY_COMPLETE_JOB_TREE": {
       "name": "Savant",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "TROPHY_FIRST_ANIMA_FRAGMENT": {
       "name": "Seeker of Power",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "TROPHY_DLC3_DEFEAT_JACK_GARLAND": {
       "name": "The Cycle Ends",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "TROPHY_MISSION_DARK_ELF": {
       "name": "The King of the Dark Elves",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "65.0"
     },
     "TROPHY_DLC3_USE_REPLICATION": {
       "name": "The Technology of Lufenia",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "TROPHY_MISSION_WIND_MEMORIES": {
       "name": "The Wind's Light",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     }
   },
   "platform": null,

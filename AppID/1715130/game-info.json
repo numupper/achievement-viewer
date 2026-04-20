@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/834c08a239781022bb43ebc52db90fc9ee6b599f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "AchEvt_DeltaActOne": {
       "name": "Delta: Act I",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/805f60987cf36aeb808fb8f6926a525e100c197a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "AchEvt_DeltaActThree": {
       "name": "Delta: Act III",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/3432a9ce6fc6186f410f83bdcbdbbe5f9e3bb3e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "AchEvt_FollowingOrders": {
       "name": "Following Orders",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a99cc0719129b7d9b034fb8046ad31f709a3b734.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "AchEvt_ImComingHome": {
       "name": "I'm Coming Home",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/076f48be8026a6927c2cccbe1fb1e7f8f32eef4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "AchEvt_KeenObserver": {
       "name": "Keen Observer",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/d035f30dd8e2d453fec7d1ea9a909ad010fd381c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "AchEvt_LivinUp": {
       "name": "Livin' Up To Your Name",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/eaf6b4cb70f353c9d238f86bad498ed4dea1052f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "AchEvt_LongDistance": {
       "name": "Long Distance Relationship",

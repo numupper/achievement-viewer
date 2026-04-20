@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1180660/8d9f14fb5856c2d2924c7f34c6d59bb4c3053c37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "Achievement01": {
       "name": "Chapter One",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1180660/679ae5db7b078d7da4f33e91caa49c221f3285c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "Achievement43": {
       "name": "Cold Case",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1180660/96c81233e54dddeef876ea3f3877711ad41d8abe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "Achievement03": {
       "name": "Homecoming",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1180660/1f7be02470e7149e675acac5c9f7849ab46c65fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "Achievement38": {
       "name": "Just One Fix",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1180660/e2bcb5406bc047c4019af5d1e391ccb0fe0468dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "Achievement36": {
       "name": "Life Tears Us Apart",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1180660/7b3cd36805bab8e9f68a92035e4e68a61a6ed08c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "Achievement17": {
       "name": "One For The Collection",
