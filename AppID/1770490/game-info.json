@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/b6775557439a1a368be22faa966e8fc1dd9116a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     },
     "ACHIEVEMENT_11": {
       "name": "A sky full of stars",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/97eec619c26c3ac7490770fc3885238ea8b8153c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "ACHIEVEMENT_14": {
       "name": "Collector",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/16d672a826d8255f877ef4646fe9d7b29ffcd60f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.8"
+      "percent": "88.9"
     },
     "ACHIEVEMENT_13": {
       "name": "Hero's journey",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a50de76fc8ea4bbc9724d98d070331305a4ce5d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.2"
     },
     "ACHIEVEMENT_03": {
       "name": "Let’s do it!",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/04346d1c302ef345c8b91d6e01c1327095bac4d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "ACHIEVEMENT_00": {
       "name": "Unstoppable",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/5d8563e3c12df28ca971e9834d78648b1757cdae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "ACHIEVEMENT_05": {
       "name": "Win with Friends",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/3e91255eed134df27d6c91e6595406899cd84e9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.2"
     }
   },
   "platform": null,
