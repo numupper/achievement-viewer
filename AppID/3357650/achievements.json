@@ -64,8 +64,8 @@
     "earned_time": 1776428812
   },
   "24": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776764532
   },
   "25": {
     "earned": true,
@@ -80,8 +80,8 @@
     "earned_time": 1776686679
   },
   "28": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776765674
   },
   "29": {
     "earned": false,
@@ -104,8 +104,8 @@
     "earned_time": 1776690367
   },
   "33": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776756454
   },
   "34": {
     "earned": true,
@@ -132,11 +132,11 @@
     "earned_time": 1776600411
   },
   "8": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776763590
   },
   "9": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776767799
   }
 }
