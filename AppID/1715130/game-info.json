@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/8d8903143ce832c3f91a0177f7ab7b89f9ae6a0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "AchEvt_ItsOnLikeKyong": {
       "name": "It's On Like General Kyong",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/d1356395e3f4b4cc3379798eda4cf8142a29d522.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "AchEvt_PerfectSoldier": {
       "name": "Perfect, Soldier!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/a2fe347eb5e784e8e0a90a91836a44d24a3d140a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "AchEvt_YouKnew": {
       "name": "You Knew, Didn't You?",

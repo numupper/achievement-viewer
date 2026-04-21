@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/b4f423234b489fa2606cffbf4db4571c6559cac3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "Achievement_GOSCC_a42": {
       "name": "A Presence I've Not Felt Since...",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/212e44412082228b9f94d29cdaacb8e62f46225a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "Achievement_GOSCC_a6": {
       "name": "Among the Masters",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/edac2443959f6ffe6c7966e93471b6f330187760.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.9"
     },
     "Achievement_GOSCC_a11": {
       "name": "At the Precipice",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/75d8d6b54ff1e9cf8a675d7efa454e44586f40de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "Achievement_GOSCC_a53": {
       "name": "Blood, Sweat, and Tears",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/5fcd4b1bc0f1132d8d5c10fa874d91fca0d2f959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "Achievement_GOSCC_a31": {
       "name": "Cleaning Up",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fede16ba4ca521f82893eff519a23cb7d5cab7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "Achievement_GOSCC_a41": {
       "name": "Cobra Cal",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e0093335c680d62119cbdba25d0a4150fe943d09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "Achievement_GOSCC_a48": {
       "name": "Gambler",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/dfb40505a69d46ee8156c1352e740bb8c4c29038.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "Achievement_GOSCC_a47": {
       "name": "Growth Spurt",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/07265c68806bb1c98c789e42693efc661711bc75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "Achievement_GOSCC_a20": {
       "name": "I'm a Living Legend",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/994f8b9f7bf6a05cfdcbb68c160f00afc534cee8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "Achievement_GOSCC_a12": {
       "name": "Into the Abyss",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a077ca775783da78147f0cc778b1ade9ae700109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "Achievement_GOSCC_a34": {
       "name": "It's a Trap",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/b3c3dbc65f06646072a84003dec3f3559bf33214.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "Achievement_GOSCC_a45": {
       "name": "Kitted Out",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/29b82e11986b16f0feef9938088b201781099381.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "Achievement_GOSCC_a35": {
       "name": "Max Capacity",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a96126fede09a0319e520686e84a557796914109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "Achievement_GOSCC_a23": {
       "name": "Mirror Match",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/9737f172b7644a6ed522a52ef67fcc98b67bb200.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "Achievement_GOSCC_a30": {
       "name": "Now, This Isn't Podracing",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/43e192dbbd48f3d14aad4b8e4c808b5b6cc5514f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "Achievement_GOSCC_a22": {
       "name": "One With the Force",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/fc5eac5ee6c3ed84cc94eb4fe1709b7392671fa1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "Achievement_GOSCC_a39": {
       "name": "Perk of the Job",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e94f96910a250b24996eeea94982bf553473a5f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "Achievement_GOSCC_a26": {
       "name": "Riposte",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/c5a7621c6e58a58b932e90aef3640e0e3cb9a1cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "Achievement_GOSCC_a44": {
       "name": "Road House",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/463f479d0a561e55fe61cec124dcf0f5fa2c631f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "Achievement_GOSCC_a33": {
       "name": "Skywalker",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/2a2540d6a067149dc855a65e9ca2eace87719ce6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.3"
     },
     "Achievement_GOSCC_a25": {
       "name": "Slam Dunk",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/802c11f66847eddb16ac68bf2568cde4fff7dd89.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "Achievement_GOSCC_a27": {
       "name": "Star Tours",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/f3563e3c2ab55e83a0e2c760cbe3bff0fad72849.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "Achievement_GOSCC_a5": {
       "name": "Survivors, We Adapt",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/05c4791f895dc41920fbba66f9b57cde9809e776.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.9"
     },
     "Achievement_GOSCC_a9": {
       "name": "Tanalorr Bound",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/d788ab673247db409aa8517cb06db09edecf2abc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "Achievement_GOSCC_a52": {
       "name": "The Jedi Path",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/0f4968223805f436af23df4d582cea5b011d0ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.2"
+      "percent": "66.3"
     },
     "Achievement_GOSCC_a29": {
       "name": "There Is No Try",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/4a0eb08787f2fce555fb686c048545da803bd90b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "Achievement_GOSCC_a18": {
       "name": "They Never Saw It Coming",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/b5599a4da151d8f43a3ba0a507c9f3a24cadbf93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.9"
     },
     "Achievement_GOSCC_a32": {
       "name": "They're Probably Fine",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e3e33ae4b4701c80bb674114787ddcb61d2922cd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "Achievement_GOSCC_a19": {
       "name": "This Is Canon",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a714a09f573343114e3baba8c75df8cb037ad569.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "Achievement_GOSCC_a38": {
       "name": "Who Gives a Puck",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fcc94b77e3c8f048110604eb77e2856bb04a3a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     },
     "Achievement_GOSCC_a16": {
       "name": "You've Got A Friend",

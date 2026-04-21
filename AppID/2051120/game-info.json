@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/e3eb786fae89a6fb4117e51b00c12049b5c51521.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "ML_ACHIEVEMENT_02": {
       "name": "Acrobat",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/c4849d72d765266770f8fd1b923548184b4a0c5b.jpg",
       "hidden": false,
       "group": "HOT WHEELS UNLEASHED™ 2 - Alien Encounters Expansion Pack",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "ML_ACHIEVEMENT_44": {
       "name": "Ignition",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/69336cb06d28d6b122ac337d96959c5d00465ffe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "ML_ACHIEVEMENT_33": {
       "name": "Spin the wheel",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/5d0f42d9492b659fd8efe04ad7a3469c9c337b8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "ML_ACHIEVEMENT_38": {
       "name": "Spoiled for choice",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2051120/4f980cccc3edc3c4bc1df18560979713333a7df6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     }
   },
   "platform": null,

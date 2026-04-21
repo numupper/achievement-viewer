@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/8ebaa020a6157d791b7600e9ebd28a18e5ced1f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.4"
+      "percent": "70.5"
     },
     "Achievement_GOSCC_18": {
       "name": "Back At You",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/8c3bc797fdf1b358f981377c63a5739df4e8ed5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "Achievement_GOSCC_28": {
       "name": "Bank Shot",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/055bc8ba2a278bb084721cb77757f0e9dc66db49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "Achievement_GOSCC_29": {
       "name": "Blade Master",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/5923e62f42a99475615847d6fbc98712413eb3d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "Achievement_GOSCC_30": {
       "name": "Cal Got Your Tongue?",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/1cd2f37c2713809527925975198f3507a03ec313.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "Achievement_GOSCC_2": {
       "name": "Collector",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/61018e63e4c35f893d4eacd863ce8f13f2082066.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "Achievement_GOSCC_34": {
       "name": "Data Disk",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/fec7f17f17c3f8bdf21fbfc434af78515dbec608.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "Achievement_GOSCC_39": {
       "name": "Echo Location",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/43a11d7468040675b6eddfcd6ad1a60ed8d5431f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "Achievement_GOSCC_26": {
       "name": "Look Out Below",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/548c5c6f31fd1f859506b72ceecbcf9e944c4363.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "Achievement_GOSCC_31": {
       "name": "Medical Droid",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/9699dcb686c8e98f319ec4741429bbad85f863fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "Achievement_GOSCC_19": {
       "name": "Perfect Timing",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/d065cd309ea42d008649fade61b5275acf1ee947.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.6"
     },
     "Achievement_GOSCC_36": {
       "name": "The Full Glow-Up",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172380/a1d59f75abaf10787a9f75e2db5b0073aae7932c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "Achievement_GOSCC_7": {
       "name": "The Mantis",

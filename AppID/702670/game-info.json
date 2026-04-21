@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/04008e5b9b02625068a06d256c9f9daf42d16781.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "DESTROY_MONITOR": {
       "name": "Disrespecter",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/702670/5919865e1752f7864207d43afba582973544199f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "LOSE_BOSS_FIGHT": {
       "name": "Game Over",

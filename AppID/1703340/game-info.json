@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/3b3bf4913081e9c42bca02ed3cb0192fb5156c1a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "beatgame": {
       "name": "Beat the game",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/f5dc35510e634a78de1ef9e57e9f2e62e9e321a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.7"
+      "percent": "73.6"
     },
     "430": {
       "name": "Click on door 430 five times",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/3919f6470054438a64f5b73d8735f6518823dba6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "speedrun": {
       "name": "Speed run",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/5936f812a14912779532a8664cdba12835b7a641.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     },
     "nojump": {
       "name": "You can't jump",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1703340/77d8930cf8dd49d855cc6e2bbfee22a5c36e187c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.3"
+      "percent": "84.2"
     }
   },
   "platform": null,

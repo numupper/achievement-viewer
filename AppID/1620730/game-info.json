@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "Haze_KillAll_Rage": {
       "name": "All the Rage",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "Mystery_Step01": {
       "name": "Amateur Detective",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "Research_Conspiracy_AllItems": {
       "name": "Conspiracy Theorist",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "22.0"
     },
     "Research_LymbicInvasions_AllItem": {
       "name": "Demonologist",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "Act02_Complete": {
       "name": "Emotional Baggage",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "LymbicSkills_One_AllSpheres": {
       "name": "Emotional Damage",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "TheAPC": {
       "name": "It's Mine Now",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "KillAllEnemies": {
       "name": "Legend of the Phol",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "Conversation_Part02": {
       "name": "Lend an Ear",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "TheCorridor": {
       "name": "Long and (not so) Winding Road",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "GoodDeeds_Step02": {
       "name": "Man of the People",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "Haze_Kill_Tier01": {
       "name": "Rise and Phol",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "Research_AllCategories_AllItems": {
       "name": "Well-Read",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "Visit_AllMaps": {
       "name": "Well-Travelled",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1620730/564e37d044746c5003ea1658da4d70017f010b63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     }
   },
   "platform": null,

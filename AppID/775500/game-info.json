@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/2a96cd0f15d5cbfd4bfcadaca825157aea453f79.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.4"
     },
     "Trophy_Title_51": {
       "name": "Fashion Debut",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/1d6a9da570df0012e1867e53e00043a976b1e626.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.7"
     },
     "Trophy_Title_52": {
       "name": "Fashionista",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/322340c0d318b062823950f57595bb3d178be8eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "63.9"
     },
     "Trophy_Title_48": {
       "name": "Friendship",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/6f5fe821b9e11624da02475f97f27277b657d0c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.4"
     },
     "Trophy_Title_05": {
       "name": "Red Strings for Two",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/b2f514f3a987cd4f15b4b94f598b081c8ae03310.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.5"
     },
     "Trophy_Title_39": {
       "name": "Suppressor of All Enemies",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/f7a6fc4f7ff07c904a881a5f4d41e787c60e3b38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "Trophy_Title_13": {
       "name": "The Strength to Simply Exist",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/181267e77fee59ce36dbb95ca0266fd0cf9de730.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "Trophy_Title_00": {
       "name": "Woven Red Threads",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/8f3c57ccf431fc2c8a5441ad3013df370ca07a22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     }
   },
   "platform": null,

@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/8ca8b15499692c9275a4f4baea347db2293f05dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.5"
     },
     "ACT6": {
       "name": "Chapter 6",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/a5e1f61cfd9aa39d68137722fafe4c187ea781e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.7"
     }
   },
   "platform": null,

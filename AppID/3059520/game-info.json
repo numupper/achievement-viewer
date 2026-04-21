@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9c0f225ea85ee420df139a19509fe1c9d008a818.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "ach_on_top_form": {
       "name": "People's Hero",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/0e6a3a40b6a08e0e31bde52372fe4ebb8b3e02a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "ach_research_develop_assemble": {
       "name": "Research, Develop, Assemble",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/dcdd7caf9310390bb42cc1daa9e5da61c6dceb68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ach_signature_success": {
       "name": "Signature Success",
