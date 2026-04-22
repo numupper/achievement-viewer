@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/91e9161ac30b8c00f47a89cf5e1abde8ec219463.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "complete_all_side_hustles": {
       "name": "Always Be Hustling",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/878bf28f50579702128cc02b7900b81709bc5e29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "everybody_to_level_5": {
       "name": "Gimme Five",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/95c790bbb03ad140764a34e981b6486c15109736.jpg",
       "hidden": true,
       "group": "Saints Row - Doc Ketchums Murder Circus",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "name_the_saints": {
       "name": "Making a Name",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/29ae622c1769ab69b4404d6131c2332de08f3cad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "51.0"
     },
     "get_fired": {
       "name": "Performance Review",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/3232157eea26b27ce1e3cc8221d567df63b23ee3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "disorganized_crime_instaces": {
       "name": "Untouchable",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/742420/ff69d9489ad1bd496aa4d701597411352d02139f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "kill_enemy_with_tetherd_object": {
       "name": "Wrecking Ball",
