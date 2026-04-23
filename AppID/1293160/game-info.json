@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.4"
+      "percent": "78.5"
     },
     "CuttheCrap": {
       "name": "Cut the Crap",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "DevouringDarkness": {
       "name": "Devouring Darkness",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.8"
+      "percent": "72.9"
     },
     "EdgeofSanity": {
       "name": "Edge of Sanity",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.2"
+      "percent": "64.3"
     },
     "FamishedFeline": {
       "name": "Famished Feline",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "63.1"
     },
     "MirrorMirrorontheWall": {
       "name": "Mirror, Mirror on the Wall",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293160/4d7ce9b313977817ddb59fbc69b05d60827254cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.2"
     },
     "PuzzlingOutthePast": {
       "name": "Puzzling Out the Past",

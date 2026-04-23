@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0a77a773edc19f2e7bdd3ba65e2900307bbca4fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.1"
     },
     "DarkRot_Complete": {
       "name": "Dark Rot Complete",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/4bf271377f9da14576b05f494d500d0111c3d4e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "Ch5_DefeatSjavarrisi": {
       "name": "The Storm Calmed",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/0fcb17d333330d3b156f94d5d6c02d2b994528bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.3"
     },
     "Photo_Mode": {
       "name": "Worth a Thousand Words",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2461850/fdf5f6020771e4aa0eae1fe2c0c53d1d1cfc4cf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.5"
     }
   },
   "platform": null,

@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/1a88c44b280d2dfbbd9f749cadfe234477549618.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "COMPLETE_STORYEVENT5": {
       "name": "Decided Not To Endorse Your Park",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/a0e4f96ac7776fdc0b8f9d3c2292880c3a3b65bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "COMPLETE_STORYEVENT8": {
       "name": "Don't Go Into The Long Grass",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/393e66b119d3e67ae781f1016b5fba364339ff33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "HELLO_JOHN": {
       "name": "Hello John!",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/baedbac34cd2fea9e335985c176e6d9ef9a840df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "COMPLETE_STORYEVENT7": {
       "name": "Mommy's Very Angry",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/d353195146b318c1985f646c7b8feab0e8bd865a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "NOT_MACHINE_COMPATIBLE": {
       "name": "Not Machine Compatible",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/9178524fb83ed31e25b0859d9939bc81c7aebde1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "COMPLETE_STORYEVENT3": {
       "name": "Objects In The Mirror",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/1a4c49ffef7adde16ffd615aa66187e787e23bdb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "REASON_TO_FEAR_MAN": {
       "name": "Reason To Fear Man",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/58cfcf175a88e7718fe0508d668204069ec82584.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "REMEMBER_TO_WASH_YOUR_HANDS": {
       "name": "Remember To Wash Your Hands",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/96af3af6a1806581a8c0aa56f14082d39c989a9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     },
     "OUR_FIRST_GENETICALLY_MODIFIED_HYBRID": {
       "name": "We Want To Be Thrilled",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/7b8c099c09a0268d3bdad7a2451ac870df5e4406.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "COMPLETE_STORYEVENT1": {
       "name": "Welcome To Jurassic Park",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/352400/5c8bca1451c4ef5644c7a29c610f9ffab5c96327.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.3"
     },
     "ALL_MINIKITS_IN_LEVEL": {
       "name": "We're Out Of A Job…",

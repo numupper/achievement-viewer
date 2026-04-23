@@ -1,7 +1,7 @@
 {
   "appid": "1938090",
   "name": "Call of Duty®",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/06107605348820087bb51ca89ed620c22fe559aa/header.jpg?t=1775145994",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/06107605348820087bb51ca89ed620c22fe559aa/header.jpg?t=1776875071",
   "achievements": {
     "jup_sp_141ready": {
       "name": "141 Ready",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1938090/02851d42357afdbf422126865cc4b78d166bad34.jpg",
       "hidden": false,
       "group": "Call of Duty®: Black Ops 7",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "noalarmbadsit": {
       "name": "Going Dark",
