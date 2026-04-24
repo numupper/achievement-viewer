@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/1e9352f430ec2c31d1fa1deb5d567e404293aa5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "Achievement_GOSCC_51": {
       "name": "All Clear",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/f429a37ed4e0bb0500715051f7ae46048414936b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "Achievement_GOSCC_31": {
       "name": "Alliance",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/93dc546460672645c5c3b57453d2b9bc8c2f81b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "Achievement_GOSCC_22": {
       "name": "APEX",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/c89c7878eba640a88c35ae0697fcc1978748db52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "Achievement_GOSCC_8": {
       "name": "Mastermind",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/6e7652940cc5bca55459629bb23d530179194bec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "Achievement_GOSCC_11": {
       "name": "Rough Landing",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238000/1254774811f8ecf0adde000916e9e5e7f10b399b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "Achievement_GOSCC_5": {
       "name": "With Our Powers Combined",

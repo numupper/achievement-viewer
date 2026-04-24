@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/bcf77c2c99ad7657bb39d0e6248f6e10c82c4ae7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "MUTUALLYASSURED": {
       "name": "Mutually Assured",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/380be9809f4d6443559e5ef9ccba4d7a85c4c24a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "PROLOGUE": {
       "name": "Prologue",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/e894016990500cfc49fea28640aa4ea3d1f0c15e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.1"
+      "percent": "80.0"
     },
     "YOUREBREATHTAKING": {
       "name": "You're Breathtaking!",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1577120/a5e1f61cfd9aa39d68137722fafe4c187ea781e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     }
   },
   "platform": null,

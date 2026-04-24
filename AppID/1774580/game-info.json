@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/ebcdf182e8b04e1d3a9ecb5cf0eebaca50f3265c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "Achievement_GOSCC_a37": {
       "name": "Caij Match",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/1fede16ba4ca521f82893eff519a23cb7d5cab7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "Achievement_GOSCC_a41": {
       "name": "Cobra Cal",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e0093335c680d62119cbdba25d0a4150fe943d09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "Achievement_GOSCC_a48": {
       "name": "Gambler",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/29e798c5feb75df9b8960ddc39840ba09e57fa43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "Achievement_GOSCC_a14": {
       "name": "Han Slowlo",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/7d0b64f8ab7a4f8d0325aaa57977643dcbc55ff3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.7"
     },
     "Achievement_GOSCC_a43": {
       "name": "Hey, Luke At Us",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a96126fede09a0319e520686e84a557796914109.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "Achievement_GOSCC_a23": {
       "name": "Mirror Match",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/e3b4ebfb24939b8462f2e5bdad82d13cc8de0631.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "Achievement_GOSCC_a1": {
       "name": "Rooftop Duel",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/43cbb4421e2f810316f27973b40291b5212eedb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "Achievement_GOSCC_a4": {
       "name": "The Past Made Present",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/0f4968223805f436af23df4d582cea5b011d0ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.2"
+      "percent": "66.3"
     },
     "Achievement_GOSCC_a29": {
       "name": "There Is No Try",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/a4780878a48ac43d940ea91983240dab4794b354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "Achievement_GOSCC_a10": {
       "name": "Tragedy",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1774580/143e3498dd38775b582ca330284eebb349b0260f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     }
   },
   "platform": "EA",

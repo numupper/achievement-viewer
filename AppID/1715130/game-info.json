@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/2cb91ac6b411280f7a0961d8d896a1595c048b5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.6"
     },
     "AchEvt_NanoNinja": {
       "name": "Nano Ninja",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/16ff4a11df47bc666edadab21b06bb226fe35d14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "AchEvt_MyRifle": {
       "name": "This Is My Rifle",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1715130/ba634dcf1eea1e9381847b06aa390064521ab7e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "AchEvt_Zoology": {
       "name": "Zoology",

@@ -1,7 +1,7 @@
 {
   "appid": "1364780",
   "name": "Street Fighter™ 6",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1773812087",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1776917924",
   "achievements": {
     "ACHIEVEMENT_37": {
       "name": "Actions Speak Louder",
@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/b3b7a085bc66bc2a3c9778bcd2f5b6d088e647d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "ACHIEVEMENT_34": {
       "name": "At Journey's End",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/b8d4ee0fb8ec12de6be3960b93396d2c308e4652.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "ACHIEVEMENT_42": {
       "name": "Fighters' Codex",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/85e5465c99b544756a2f9b5ea60ee735317ce0ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.0"
+      "percent": "83.1"
     },
     "ACHIEVEMENT_3": {
       "name": "First Encounters",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/b414161e1112dad8ea85595108284c1eb509f239.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "ACHIEVEMENT_10": {
       "name": "Fixin' for a Fight",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/c18c60ae3bcc767683862a0d403011131d07ceea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ACHIEVEMENT_12": {
       "name": "Gazing at the Peak",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/73af51ffa60b8486b5c5cd4286e4fbbc21f8fac2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "ACHIEVEMENT_16": {
       "name": "Kickin' it Old School",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/5ee7b1e3ed7d5d81e49ab39580250db9887cc421.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.3"
     },
     "ACHIEVEMENT_22": {
       "name": "Let the Praise Become Your Muscle",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/f0f645c368edc00c4af266b34c75eed26b65a608.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.9"
     },
     "ACHIEVEMENT_33": {
       "name": "Mastery's Bond",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/edc4695bd6857939f825f2f592dd3a74c529ebe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ACHIEVEMENT_40": {
       "name": "Practical Training",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/3ce907d181a6c23f0bb7b25ba4b847252c90d67b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "ACHIEVEMENT_30": {
       "name": "Ready to Dance?",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/d6514b1c2e27f2c263fda5cb0c32448e01d7c5ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "ACHIEVEMENT_2": {
       "name": "So This Is the Battle Hub...",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/fa5c374d64de2ca412030af77861b5d789347703.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.6"
+      "percent": "64.7"
     },
     "ACHIEVEMENT_24": {
       "name": "Spirits of Encouragement",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/cf49371a4253cc436b7a50cbd145cb5eefd7e306.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "ACHIEVEMENT_38": {
       "name": "The Grand Jeté of 100 Battles",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/736981ebab1c868adc4c24b69ff79ad49f6f6d9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.4"
     },
     "ACHIEVEMENT_11": {
       "name": "The Struggle Over Self",
