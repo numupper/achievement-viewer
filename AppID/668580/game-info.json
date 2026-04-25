@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dbbca6d9a3a42101584184c9ba1fd2580a034b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "EndOfDLC3": {
       "name": "And now—CHAR-les",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a62565c7a5573cb81ade405b86c3fb140265bb9d.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "collectAllApples": {
       "name": "Apple Pie",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49d9d0b92aac3d21dd1c7460330b6e0b9360020b.jpg",
       "hidden": false,
       "group": "Atomic Heart - Trapped in Limbo",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "craftFirstWeapon": {
       "name": "Artisan",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7b53927f24a0017ff1b3111421cc72427ed7c2a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "researchCollectAllAudioDiary": {
       "name": "Burning Ears",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d289fec1c218f0b62243b750d6895ca4d1a625.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "researchCompleteAllTestSites": {
       "name": "Clean-up",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/747aab16f7934b56502ad4efaf6faa7c1ac6d242.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "easyWalk": {
       "name": "Don't Mess With the Major",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4221a7fa400a3b769219c96c4e15168ec0c49173.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "LastJump": {
       "name": "Final Burn-down",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78a3021564f091a1afd4df819296ec4e7b2b2620.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "playthroughPavlov": {
       "name": "Freedom Reflex",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6bb9211420662282241f4c50bee988c34c74a83e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "FirstTalkDLC3": {
       "name": "I'm here if you need to talk",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0d9f4534517479b9f572df98096e4cc4db6aa0d6.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "playthroughLordOfTheFlies": {
       "name": "Lord of the Flies",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/83a242a747c13b430a4c127cc575b67fa8a14f9d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "SurvivalMaster": {
       "name": "Master of Survival",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f5166fec3a0b6161cd78b32ed7c22b308c05dcb6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.7"
+      "percent": "67.8"
     },
     "playthroughVDNH": {
       "name": "Quite an Achievement",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ab3cde9af8f5ad256f152dc525481e05341593ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "SecretMeet": {
       "name": "Secret Meeting",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ca090d52845878ddfc6b1af3a386369ed00b5de7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "killNatasha": {
       "name": "Show's Over",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/eeffe3f41c82cc1d115559860aad84b0148ffc41.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "iLoveThisCasino": {
       "name": "The Casino Isn't Always in the Black",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/95d561eccef845c7673ab0a649f861835e37a81c.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "playthroughLesnaya": {
       "name": "Tickets, Please!",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c82911f3efaf5776a8dc8770edbfddfeef486611.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "WaterSports": {
       "name": "Water Sports",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "7.0"
+      "percent": "7.1"
     }
   },
   "platform": null,

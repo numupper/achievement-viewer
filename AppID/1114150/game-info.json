@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/e032729bb3bd1bcf651e7f6018873904851212ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "ACH_CLUB_FALCON": {
       "name": "#Falcon Outlaws",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/c86239c2ef44ae99c68aeff9f391691f771dd39c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "ACH_CLUB_ROAD_RUNNER": {
       "name": "#Road Runner",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fd8090b7d24503a3a5b268944efa761c3aa9307b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "ACH_TUNING_MASTER_1": {
       "name": "Beginner Mechanic",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/ec4c68b6ce4e7ce453f8c286451b4bf657aa71f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "ACH_SPEED_LEAGUE_BETS_50": {
       "name": "Bet Master",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/052ac6dab72485cb6146ba22171bbbca65b31f48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "ACH_SPEED_LEAGUE_WIN_CARS": {
       "name": "Car in the Bag",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/54a859efbf6030dcf12e990372329ea43db106d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "ACH_PURCHASE_CAR_2": {
       "name": "Collector",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/93e17483aebe4afd10daf266b784af7b7c76cb29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "ACH_DUEL_4": {
       "name": "Dueling Legend",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/2db0ee55722a8e40410dad6fb5898aeab2629186.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ACH_ELITE": {
       "name": "Elite Initiation",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/fc2933b9302273ee100b19bc74b36a4df6f038c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "ACH_JDUN": {
       "name": "Finally!",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/262d68f883ab901e241f0fda6c5d542b0227505a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "ACH_AIR_TIME_3": {
       "name": "Flight Master",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/87a042afc4ce89a6eca97535836e75d4cbd2e7e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.1"
+      "percent": "62.2"
     },
     "ACH_FARM_RACE_4": {
       "name": "High-Level",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/9dde5f218882f4b84ee3a0b0c90e26e823690ac4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "ACH_FARM_RACE_1": {
       "name": "On Your Mark",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1114150/b29dd77c435a78251ba0c8d4faf5f207ff6163bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "ACH_SPEED_2": {
       "name": "Speed Master",

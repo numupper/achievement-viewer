@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "MDL_HARD_TO_KILL": {
       "name": "Hard to Kill",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/93ae5f0cdc8d95b0e8abd1aa6f0f386587768856.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.2"
     },
     "MDL_DLC_JA_HYPERSONIC": {
       "name": "Hypersonic",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030830/52f668c9280496f858e6be127918bb3ff3b85cd1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "MDL_TUNED_RIDE": {
       "name": "Tuned Ride",

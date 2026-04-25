@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/b34abbb1319cf9b1347f5ed9b53f1e22e43a64bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "ACHIEVEMENT_A_HERO_COMES": {
       "name": "A Hero Comes; He Gains Renown",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/ab5532a330bd88ecdbb875e57b6261d0374a83d2.jpg",
       "hidden": false,
       "group": "Age of Empires II: DE - Chronicles: Battle for Greece",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "ACHIEVEMENT_AMPHIBIOUS_ASSAULT": {
       "name": "Amphibious Assault",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/a5ec8bfee8c11c1e4f8f82aa59c3e92b2974e597.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACHIEVEMENT_ARE_YOU_NOT_ENTERTAINED": {
       "name": "Are You Not Entertained?",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/937e02619a810f7de3c7e72a732283d87ff8cda9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "ACHIEVEMENT_BIRD_SHOOTING": {
       "name": "Bird Shooting",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/212553af5507838878a54d03a1282303c532d3ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "CELTS_VICTORY": {
       "name": "Celtic Victory",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/1d3246d18169c7b88965eabef4ff0df66e95305a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "ACHIEVEMENT_CHALLENGE_ACCEPTED": {
       "name": "Challenge Accepted",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/17f911069f44e91eacb2fbd8f93cf050ce41b279.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.5"
+      "percent": "0.4"
     },
     "CHINESE_VICTORY": {
       "name": "Chinese Victory",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/543aeb878cfe3a406f089f5923f2903d3eecd08c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "ACHIEVEMENT_CAMPAIGN_SALADIN_COMPLETED": {
       "name": "Custodian of the Holy Land",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/ef97e4e6540a2f33dbff4cc922a42ba54034b938.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Victors and Vanquished",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ACHIEVEMENT_DARE_TO_DIE": {
       "name": "Dare to Die",
@@ -1198,7 +1198,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/ce86cf35cd968ad1bf64e05dfd706aa13cd7ed60.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Lords of the West",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "GOTHS_VICTORY": {
       "name": "Gothic Victory",
@@ -1333,7 +1333,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/77658b9f62a58dd6068fffc8948d3390cc8da0cc.jpg",
       "hidden": false,
       "group": "Age of Empires II: Definitive Edition - Dynasties of India",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ACHIEVEMENT_HORSES_FOR_COURSES": {
       "name": "Horses for Courses",
@@ -1648,7 +1648,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/23326e1700dbbe77ce3b4904e7a4839761d3827a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "POMPEII_LACVIET_VICTORY": {
       "name": "Lac Viet Victory",
@@ -1711,7 +1711,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/7b82c8feb266edcabfee01b7a80f025d27a870db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "ACHIEVEMENT_NO_HOJO": {
       "name": "Lone Warrior",
@@ -1927,7 +1927,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/2952a62cc32889e259717be8544bd9aa4a8fc39d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "ACHIEVEMENT_MORE_DANGER_MORE_GLORY": {
       "name": "More Danger, More Glory",
@@ -2062,7 +2062,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/18022140fe5d49574522ce14fb54f27fd87efc52.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "ACHIEVEMENT_NUMBERS_BEAT_EVERYTHING": {
       "name": "Numerous As the Grains of Sand",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/41031701964e7ae0c5a8f9b17410a88b9fcaabd0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "50.2"
+      "percent": "50.1"
     },
     "ACHIEVEMENT_PROMACHOS": {
       "name": "Promachos",
@@ -2566,7 +2566,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813780/2198aeebb70ac881665bdae0e310dad10a6b4f34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "ACHIEVEMENT_DRAGON_SHIPS": {
       "name": "Smoke on the Water",

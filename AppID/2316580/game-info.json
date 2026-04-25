@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/bdef7ee1d5f0048e61a29f2c624b2c5533b7c224.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.6"
     },
     "CompleteAct1": {
       "name": "A Once Black Sky",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/9574c10ca28813d09277427a0d4d40170252b855.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.7"
     },
     "CompleteAllCombatTrials": {
       "name": "A Warrior's Way",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/f34ea344f8beb796749187ed4a9180a22383a67c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.4"
+      "percent": "73.3"
     },
     "BeginTheJourney": {
       "name": "Hear my Plea",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/af0c43ac5c70c52bed8ea61ada430b8d391376e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "Kill3Enemies1Tornado": {
       "name": "I am the Sun",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/bcfbfbdd6b1c06e0699e62b954e2d4887b8c297c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "CompleteAllReflections": {
       "name": "Know Thyself",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/c3f7bdb306dc86aee5549b5491fb15157c0fc763.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "CompleteCodex": {
       "name": "Lore of the Land",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/d7c74c00eaf65de307bc9c3c600edcd918fec6f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.3"
     },
     "Kiki4thWallBreak": {
       "name": "Run, Shaman, Run…",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/2f87251413db4cf2ea85fce953a44eca32a10edd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "UpgradeAllAbilities": {
       "name": "Shaman of All Trades",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/26f08fe37b91ed39728a81e0e816e8d5a31ae3b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "UnlockAllSpiritPips": {
       "name": "Soulful",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2316580/55fb1df8169f04a97a9738b2fc579e093efb69a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     }
   },
   "platform": null,

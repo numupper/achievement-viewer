@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "DestroyMedicalComputerNodes": {
       "name": "Decrypted",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.0"
     },
     "SolveChess": {
       "name": "En Passant",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "SalvageJunk": {
       "name": "Garbage Collection",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "BuyAmmoFromDepot": {
       "name": "Load ‘em Up!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "CompleteGame": {
       "name": "Look At You, Hacker",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "ConsumeJunkFood": {
       "name": "Look At You, Snacker",

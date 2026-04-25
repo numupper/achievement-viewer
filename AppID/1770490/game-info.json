@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a5be3425a8a4849995eb06b4a00d43c8d7f6e47b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "ACHIEVEMENT_01": {
       "name": "First Victory",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/a50de76fc8ea4bbc9724d98d070331305a4ce5d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.3"
+      "percent": "67.2"
     },
     "ACHIEVEMENT_03": {
       "name": "Let’s do it!",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/04346d1c302ef345c8b91d6e01c1327095bac4d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "ACHIEVEMENT_00": {
       "name": "Unstoppable",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1770490/3e91255eed134df27d6c91e6595406899cd84e9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.2"
     }
   },
   "platform": null,
