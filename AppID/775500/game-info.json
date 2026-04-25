@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/1d6a9da570df0012e1867e53e00043a976b1e626.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.7"
     },
     "Trophy_Title_52": {
       "name": "Fashionista",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/181267e77fee59ce36dbb95ca0266fd0cf9de730.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "Trophy_Title_00": {
       "name": "Woven Red Threads",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/775500/8f3c57ccf431fc2c8a5441ad3013df370ca07a22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     }
   },
   "platform": null,
