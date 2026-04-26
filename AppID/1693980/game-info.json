@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/c2c25ec978eb4ca282670d4f4326d2649fbc27a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "ach03": {
       "name": "All Systems Go",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/6ee4f66c9738fac4cd90ed2aeb6006d09ae55a8b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "ach38": {
       "name": "Front Toward Enemy",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/730197c35ef10b8e0c762b4daf1173b08e403f70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "ach44": {
       "name": "Get Off My Ship!",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/503d7301b6975d7bb948670985991816fbd11af7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.4"
     }
   },
   "platform": null,

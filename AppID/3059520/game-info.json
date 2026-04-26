@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/7b1c6d7b1a579b4e62a156d138923857c25e845f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "ach_circuit_king": {
       "name": "Circuit King",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/5adfb7b523e8c6c75313dbf2b6863dcd2c8cef73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "ach_first_of_many": {
       "name": "First of Many",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/9e6927a163f3a50b9aa9b7773444b0d16b9b5ca2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "ach_first_steps": {
       "name": "First Steps",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/bce23245c53beca664b4d25aacb514e6b9e37f73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "ach_frequent_flyer": {
       "name": "Frequent Flyer",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/4fafd5acca2b7a995d147602e0d700f82ae6598c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "ach_goal_digger": {
       "name": "Goal Digger",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/b63184320d3711e49e243b01dadba6be387f8e88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "ach_in_the_zone": {
       "name": "In the Zone",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/597005a89fb10885870c3d2130c1cd2e28b5326a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.3"
     },
     "ach_license_to_drive": {
       "name": "License to Drive",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3059520/bdc7d1ced4ad299ddf109cb03af54504c5cc7b67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "ach_meet_the_new_boss": {
       "name": "Meet The New Boss",

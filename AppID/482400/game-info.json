@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "DestroyMedicalComputerNodes": {
       "name": "Decrypted",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "CollectRapier": {
       "name": "En Garde!",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "32.1"
     },
     "SolveChess": {
       "name": "En Passant",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "SalvageJunk": {
       "name": "Garbage Collection",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "IonBounceKill": {
       "name": "Goldberg’s Ricochet",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "SolvePuzzles": {
       "name": "Hacking Skillz",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "RepairSubsystemRelay": {
       "name": "Jargon Cypher",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "BuyAmmoFromDepot": {
       "name": "Load ‘em Up!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "CompleteGame": {
       "name": "Look At You, Hacker",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "ConsumeJunkFood": {
       "name": "Look At You, Snacker",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/482400/69cc16a167db28cfcbd06e2592d4175de54b03c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "LeftHealingSuite": {
       "name": "Through The Looking Glass",

@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/39c189d959346ed60f8d4b801133c7dc97b56f32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "Achievement_30": {
       "name": "Glucose Guardian",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/b5fc0901f2cc72d8bd4a3495728a2515b5b7a4a4.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "Achievement_06": {
       "name": "I Earned This",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/4815e27ff0d420f53e92368dbb5c0496b478cf64.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "Achievement_27": {
       "name": "Long Live the Queen",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/3cd97eead19624c1387c56aecdc1b6698bd81f3b.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "Achievement_20": {
       "name": "Pale Blueberry Dot",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1285190/d7adac5f0fbf76f0d252e63d606d1867661a3f67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "Achievement_12": {
       "name": "Shoot the Moon",

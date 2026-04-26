@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2b51cf3c6fc6c21a2c53c6da7f7a29a161097633.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "ACHIEVEMENT_041": {
       "name": "A True Bond",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c694aee24c2c9c276e190c62a50dbfbf64d04057.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "ACHIEVEMENT_002": {
       "name": "A True Man's Stand",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/4d06f507c9fe52530601324b74b9919649316deb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "ACHIEVEMENT_047": {
       "name": "Advantage Mine",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2c89065bfbe1093acc569741de6894d10908cd60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "ACHIEVEMENT_036": {
       "name": "Moderate Bookkeeper",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/cd6c5d8fab3bc7ac7e83cc6a005b801bbc6c2ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.4"
     },
     "ACHIEVEMENT_030": {
       "name": "Seize the Moment",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/2932f047f46812edf1de9157899a91a8adbbd3c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "ACHIEVEMENT_011": {
       "name": "Special Fusion Expert",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/e6cc82eae3c961595550f76651938010e1d12c24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "ACHIEVEMENT_003": {
       "name": "The Lounge Is Closed",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/c551f254724a92bb686fdd632b16dab51bab2188.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "ACHIEVEMENT_012": {
       "name": "The Nose Doesn't Always Know",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1113000/ef2c9a7e2f93dfe78969911256ed30c54d4e1741.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.1"
     },
     "ACHIEVEMENT_034": {
       "name": "The Other Self",

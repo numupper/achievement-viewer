@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/520720/db9bbdd5f1c10b60554e73db79fb5ecf4f198690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "55.1"
     },
     "Achievement002": {
       "name": "Esther",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/520720/d377dbbf9df03bb79e54b69016758bca96b7a1cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.5"
     },
     "Achievement001": {
       "name": "Jakobson",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/520720/82ffcd4d54875574f347fcd76517582777032fdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.5"
     },
     "Achievement009": {
       "name": "Man of the Rocks",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/520720/6122f172bfa5562e5214680aa028ba207df7c0d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.9"
     },
     "Achievement008": {
       "name": "Seanchaidh",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/520720/32c5f1e878494d2c89a483adac6e9a5776bcb2b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "48.2"
     },
     "Achievement005": {
       "name": "Stac an Armin",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/520720/08113eebfab43aa8ff4d5f1a9641e11280136a98.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.8"
     },
     "Achievement006": {
       "name": "Tuir",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/520720/3fb8b6189c353334d3a84ca32671f2e46aa659c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.6"
     }
   },
   "platform": null,

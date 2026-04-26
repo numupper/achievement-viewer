@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/b3b7a085bc66bc2a3c9778bcd2f5b6d088e647d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "ACHIEVEMENT_34": {
       "name": "At Journey's End",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/08cf6f1177d58bb678ea98de211fae4633900fed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.0"
     },
     "ACHIEVEMENT_14": {
       "name": "Dominating Like a Ninja",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/e3809faca55ba42998f3fc04c6fe8be34629d148.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "ACHIEVEMENT_7": {
       "name": "Extreme Combat Training",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/b8d4ee0fb8ec12de6be3960b93396d2c308e4652.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.4"
     },
     "ACHIEVEMENT_42": {
       "name": "Fighters' Codex",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/3543b8872f0d6ec2ae126b6cb352781148ba4495.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "52.8"
     },
     "ACHIEVEMENT_41": {
       "name": "Fighting Fledgling",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/85e5465c99b544756a2f9b5ea60ee735317ce0ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.1"
+      "percent": "83.0"
     },
     "ACHIEVEMENT_3": {
       "name": "First Encounters",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/b414161e1112dad8ea85595108284c1eb509f239.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.6"
     },
     "ACHIEVEMENT_10": {
       "name": "Fixin' for a Fight",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/c18c60ae3bcc767683862a0d403011131d07ceea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "1.8"
     },
     "ACHIEVEMENT_12": {
       "name": "Gazing at the Peak",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/6d16128522dfe28c9f3cf8481ef8f2bb7e87312c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.3"
+      "percent": "82.2"
     },
     "ACHIEVEMENT_23": {
       "name": "Gotta Be Popular! Uwo!",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/65208b8c9d59f002b1b4e5edd077c170dfd9f486.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "22.8"
     },
     "ACHIEVEMENT_28": {
       "name": "Joining the Pack",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/6e65d3e4a0b7a3259db2b4751efe497ca261a766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "ACHIEVEMENT_6": {
       "name": "Jungle-Sized Surprise",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/73af51ffa60b8486b5c5cd4286e4fbbc21f8fac2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "ACHIEVEMENT_16": {
       "name": "Kickin' it Old School",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/54c506f03ee69a677482aeb8c280db90fe32e3b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "ACHIEVEMENT_5": {
       "name": "King of the Ring",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/5ee7b1e3ed7d5d81e49ab39580250db9887cc421.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.2"
     },
     "ACHIEVEMENT_22": {
       "name": "Let the Praise Become Your Muscle",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/f0f645c368edc00c4af266b34c75eed26b65a608.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "40.7"
     },
     "ACHIEVEMENT_33": {
       "name": "Mastery's Bond",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/edc4695bd6857939f825f2f592dd3a74c529ebe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "ACHIEVEMENT_40": {
       "name": "Practical Training",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/3ce907d181a6c23f0bb7b25ba4b847252c90d67b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "ACHIEVEMENT_30": {
       "name": "Ready to Dance?",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/fa5c374d64de2ca412030af77861b5d789347703.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.6"
     },
     "ACHIEVEMENT_24": {
       "name": "Spirits of Encouragement",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/cf49371a4253cc436b7a50cbd145cb5eefd7e306.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "ACHIEVEMENT_38": {
       "name": "The Grand Jeté of 100 Battles",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/736981ebab1c868adc4c24b69ff79ad49f6f6d9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.2"
     },
     "ACHIEVEMENT_11": {
       "name": "The Struggle Over Self",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/8f239b0c2d2da18b487b771fe258aa9b295e3712.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "ACHIEVEMENT_31": {
       "name": "Up on the Big Screen",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1364780/e433714d282dc34dc7829c96e4ce377f5acf4754.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "ACHIEVEMENT_20": {
       "name": "Watching Gets Me PUMPED!",

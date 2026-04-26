@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/fcbb9927b93a80cbd4ee1e6eda698b3b9ee8a41d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "AchievementMovieID": {
       "name": "Certified Fresh",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/816e7e8f32d32ec6c3cf8e664c2a47c178a91436.jpg",
       "hidden": true,
       "group": "Goat Simulator 3 - Multiverse of Nonsense",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "AchievementMultiverseKnowledgeStoneID": {
       "name": "Goat Got Brains",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9516aa55bd976f040e5a6ad0adcd87319a1c5a86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "AchievementRoomUpdateID": {
       "name": "Private Club",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/67db180dbf277f005e0579279f8ee39ccf29716c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "AchievementMultiverseTrojanGoatID": {
       "name": "So Aerodynamic",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f419fb069a2150e1355f1d02ea03f452155d94c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "AchievementApocVehicleCollectiblesID": {
       "name": "Wheels of Fortune",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/4a96d0de2a9656fcee6a58c64aafcf3f1ce061ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "AchievementBaywatchID": {
       "name": "Who Baywatches the Baywatch?",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c68de3aa791593a54362fbdc0a7871a96317e0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "AchievementMultiverseInstinctID": {
       "name": "Wow, Such Instincts",

@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/717e5ad2ed38acf5fbe1a814a738b28124f86432.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "SP_BIRD_OF_PREY": {
       "name": "Bird of Prey",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/54e1333b0dbc1d522b50af3981411d907dc91605.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "MP_BLING_PRO_2": {
       "name": "Bling Pro 2.0",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/f011fa7b8e83ff3afcbc62867cb86c6047a7a33c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.3"
     },
     "ZM_HOT_TEMPERED": {
       "name": "Hot Tempered",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/5a190d387f89f18bd2102541508eeefff87c6f93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "SP_SHELL_BE_RIGHT_MATE": {
       "name": "She'll be Right Mate",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/e4acdca84747d2b9b19449df495bb3496b979ac2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "ZM_THIRST_QUENCHER": {
       "name": "Thirst Quencher",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/ef7ddfd646a4cb6115e49c56516720160451a1d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "SP_TICKET_PLEASE": {
       "name": "Ticket Please",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1985820/7eeb08ccd65fe4104cf0c8b65d9ba7fa4ac6fbce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     }
   },
   "platform": null,
