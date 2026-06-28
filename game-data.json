@@ -1,6 +1,6 @@
 {
-  "last_updated": 1782629520,
-  "total_games": 275,
+  "last_updated": 1782643437,
+  "total_games": 276,
   "games": [
     {
       "appid": "524220",
@@ -14543,8 +14543,8 @@
           "earned_time": 1774088653
         },
         "PailuneseGuardian": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1782502816
         },
         "PuzzleSolver": {
           "earned": false,
@@ -16189,6 +16189,359 @@
         "9": {
           "earned": false,
           "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "2483190",
+      "info": {
+        "appid": "2483190",
+        "name": "Game 2483190",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "ACHIEVEMENT_1": {
+          "earned": true,
+          "earned_time": 1779208760,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_10": {
+          "earned": true,
+          "earned_time": 1779208724,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_11": {
+          "earned": true,
+          "earned_time": 1779208769,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_12": {
+          "earned": true,
+          "earned_time": 1779208718,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_13": {
+          "earned": true,
+          "earned_time": 1779208781,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_14": {
+          "earned": true,
+          "earned_time": 1779208739,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_15": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_16": {
+          "earned": true,
+          "earned_time": 1779208778,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_17": {
+          "earned": true,
+          "earned_time": 1779208733,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_18": {
+          "earned": true,
+          "earned_time": 1779208721,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_19": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_2": {
+          "earned": true,
+          "earned_time": 1779208790,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_20": {
+          "earned": true,
+          "earned_time": 1779208766,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_21": {
+          "earned": true,
+          "earned_time": 1779208763,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_22": {
+          "earned": true,
+          "earned_time": 1779208748,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_23": {
+          "earned": true,
+          "earned_time": 1779208757,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_24": {
+          "earned": true,
+          "earned_time": 1779208796,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_25": {
+          "earned": true,
+          "earned_time": 1779208787,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_26": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 90
+        },
+        "ACHIEVEMENT_27": {
+          "earned": true,
+          "earned_time": 1779208742,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_28": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 8
+        },
+        "ACHIEVEMENT_29": {
+          "earned": true,
+          "earned_time": 1779542176,
+          "max_progress": 100,
+          "progress": 80
+        },
+        "ACHIEVEMENT_3": {
+          "earned": true,
+          "earned_time": 1779208736,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_30": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_31": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_32": {
+          "earned": true,
+          "earned_time": 1781948530,
+          "max_progress": 100,
+          "progress": 99
+        },
+        "ACHIEVEMENT_33": {
+          "earned": true,
+          "earned_time": 1779208730,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_34": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_35": {
+          "earned": true,
+          "earned_time": 1779208775,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_36": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_37": {
+          "earned": true,
+          "earned_time": 1779208712,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_38": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_39": {
+          "earned": true,
+          "earned_time": 1779208772,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_4": {
+          "earned": true,
+          "earned_time": 1779208715,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_40": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_41": {
+          "earned": true,
+          "earned_time": 1779208745,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_42": {
+          "earned": true,
+          "earned_time": 1779294937,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_43": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_44": {
+          "earned": true,
+          "earned_time": 1779372644,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_45": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_46": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_47": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_48": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 92
+        },
+        "ACHIEVEMENT_49": {
+          "earned": true,
+          "earned_time": 1779294920,
+          "max_progress": 100,
+          "progress": 33
+        },
+        "ACHIEVEMENT_5": {
+          "earned": true,
+          "earned_time": 1779208754,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_50": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_51": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_52": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 67
+        },
+        "ACHIEVEMENT_53": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 54
+        },
+        "ACHIEVEMENT_54": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 96
+        },
+        "ACHIEVEMENT_55": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 45
+        },
+        "ACHIEVEMENT_56": {
+          "earned": true,
+          "earned_time": 1779208709,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_57": {
+          "earned": true,
+          "earned_time": 1779208727,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_6": {
+          "earned": true,
+          "earned_time": 1779208751,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_7": {
+          "earned": true,
+          "earned_time": 1779208793,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_8": {
+          "earned": true,
+          "earned_time": 1779208799,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "ACHIEVEMENT_9": {
+          "earned": true,
+          "earned_time": 1779208784,
+          "max_progress": 100,
+          "progress": 0
         }
       }
     },
