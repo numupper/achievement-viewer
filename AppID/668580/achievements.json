@@ -1,246 +1,494 @@
 {
-  "battleAssimilationIsIncomplete": {
-    "earned": true,
-    "earned_time": 1721113908
-  },
-  "battleAvatar": {
-    "earned": true,
-    "earned_time": 1723037892
-  },
-  "battleBelowZero": {
-    "earned": true,
-    "earned_time": 1724317117
-  },
-  "battleBoxInBottle": {
-    "earned": true,
-    "earned_time": 1724138803
-  },
-  "battleBullsEye": {
-    "earned": true,
-    "earned_time": 1722582600
-  },
-  "battleDaredevil": {
-    "earned": true,
-    "earned_time": 1721378977
-  },
-  "battleDivideEtImpera": {
-    "earned": true,
-    "earned_time": 1724142932
-  },
-  "battleFightAgainstDrunkenness": {
-    "earned": true,
-    "earned_time": 1724313823
-  },
-  "battleJohnSilversCrew": {
-    "earned": true,
-    "earned_time": 1724140273
-  },
-  "battleKillByCar": {
-    "earned": true,
-    "earned_time": 1721296800
-  },
-  "battleRedOctober": {
-    "earned": true,
-    "earned_time": 1722535048
-  },
-  "battleTriplePenetration": {
-    "earned": true,
-    "earned_time": 1724314445
-  },
-  "collectAllApples": {
-    "earned": true,
-    "earned_time": 1722071400
-  },
-  "collectAllJelly": {
-    "earned": true,
-    "earned_time": 1720884600
-  },
-  "collectAllWeapons": {
-    "earned": true,
-    "earned_time": 1722946988
-  },
-  "craftAllConsumable": {
-    "earned": true,
-    "earned_time": 1724313584
-  },
-  "craftFirstWeapon": {
-    "earned": true,
-    "earned_time": 1720886550
-  },
-  "craftFiveUniqueWeapons": {
-    "earned": true,
-    "earned_time": 1721555122
-  },
-  "craftMaximumStrength": {
-    "earned": true,
-    "earned_time": 1724317660
-  },
-  "craftUpgradeSkillCategory": {
-    "earned": true,
-    "earned_time": 1722875884
-  },
-  "craftUpgradeWeapons": {
-    "earned": true,
-    "earned_time": 1724223703
-  },
-  "defenderOfNature": {
+  "Beyond": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
-  "iLoveThisCasino": {
+  "CrystalPlatinum": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 11,
+    "progress": 0
   },
-  "cuttingThroughTheWavesOfLimbo": {
+  "DLC4End": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
-  "conquerorOfAnnapurna": {
+  "DeathTerminator": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
-  "conquerorOfChomolungma": {
+  "DemonstrationOfViolence": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
-  "limboSurfer": {
+  "EasterEggFromFluffy": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
-  "easyWalk": {
+  "EndOfDLC3": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
-  "goldenFever": {
+  "EnotDead": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
-  "overKill": {
+  "FirstTalkDLC3": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "GoodbyeOldFriend": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "LastJump": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 11
+  },
+  "LastTwinsDead": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "MobiDik": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "MurenaDead": {
+    "earned": true,
+    "earned_time": 1783251822,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "RaccoonFigurine": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "SaveSechinov": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "SecretMeet": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "SurvivalMaster": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 3,
+    "progress": 0
+  },
+  "ValidolsTasks": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "WaterSports": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "YouReadTheInstructions": {
+    "earned": true,
+    "earned_time": 1783251310,
+    "max_progress": 1,
+    "progress": 0
   },
   "appleSurfer": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 3826,
+    "progress": 0
+  },
+  "battleAssimilationIsIncomplete": {
+    "earned": true,
+    "earned_time": 1721113908,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "battleAvatar": {
+    "earned": true,
+    "earned_time": 1723037892,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "battleBelowZero": {
+    "earned": true,
+    "earned_time": 1724317117,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "battleBoxInBottle": {
+    "earned": true,
+    "earned_time": 1724138803,
+    "max_progress": 3,
+    "progress": 0
+  },
+  "battleBullsEye": {
+    "earned": true,
+    "earned_time": 1722582600,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "battleDaredevil": {
+    "earned": true,
+    "earned_time": 1721378977,
+    "max_progress": 25,
+    "progress": 0
+  },
+  "battleDivideEtImpera": {
+    "earned": true,
+    "earned_time": 1724142932,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "battleFightAgainstDrunkenness": {
+    "earned": true,
+    "earned_time": 1724313823,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "battleJohnSilversCrew": {
+    "earned": true,
+    "earned_time": 1724140273,
+    "max_progress": 3,
+    "progress": 0
+  },
+  "battleKillByCar": {
+    "earned": true,
+    "earned_time": 1721296800,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "battleRedOctober": {
+    "earned": true,
+    "earned_time": 1722535048,
+    "max_progress": 15,
+    "progress": 0
+  },
+  "battleTriplePenetration": {
+    "earned": true,
+    "earned_time": 1724314445,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "collectAllApples": {
+    "earned": true,
+    "earned_time": 1722071400,
+    "max_progress": 114,
+    "progress": 0
+  },
+  "collectAllJelly": {
+    "earned": true,
+    "earned_time": 1720884600,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "collectAllWeapons": {
+    "earned": true,
+    "earned_time": 1722946988,
+    "max_progress": 12,
+    "progress": 0
+  },
+  "conquerorOfAnnapurna": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "conquerorOfChomolungma": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "craftAllConsumable": {
+    "earned": true,
+    "earned_time": 1724313584,
+    "max_progress": 8,
+    "progress": 0
+  },
+  "craftFirstWeapon": {
+    "earned": true,
+    "earned_time": 1720886550,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "craftFiveUniqueWeapons": {
+    "earned": true,
+    "earned_time": 1721555122,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "craftMaximumStrength": {
+    "earned": true,
+    "earned_time": 1724317660,
+    "max_progress": 2,
+    "progress": 0
+  },
+  "craftUpgradeSkillCategory": {
+    "earned": true,
+    "earned_time": 1722875884,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "craftUpgradeWeapons": {
+    "earned": true,
+    "earned_time": 1724223703,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "cuttingThroughTheWavesOfLimbo": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "defenderOfNature": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "easyWalk": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 4,
+    "progress": 0
+  },
+  "goldenFever": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 76,
+    "progress": 0
+  },
+  "iLoveThisCasino": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
   "killBelyash": {
     "earned": true,
-    "earned_time": 1722506730
+    "earned_time": 1722506730,
+    "max_progress": 1,
+    "progress": 0
   },
   "killBelyashWithoutShoot": {
     "earned": true,
-    "earned_time": 1722506730
+    "earned_time": 1722506730,
+    "max_progress": 1,
+    "progress": 0
   },
   "killDew": {
     "earned": true,
-    "earned_time": 1723039001
+    "earned_time": 1723039001,
+    "max_progress": 1,
+    "progress": 0
   },
   "killEzhihaWithoutDamage": {
     "earned": true,
-    "earned_time": 1721552740
+    "earned_time": 1721552740,
+    "max_progress": 1,
+    "progress": 0
   },
   "killEziha": {
     "earned": true,
-    "earned_time": 1721550242
+    "earned_time": 1721550242,
+    "max_progress": 1,
+    "progress": 0
   },
   "killIvy": {
     "earned": true,
-    "earned_time": 1721378860
+    "earned_time": 1721378860,
+    "max_progress": 1,
+    "progress": 0
   },
   "killNatasha": {
     "earned": true,
-    "earned_time": 1722580355
+    "earned_time": 1722580355,
+    "max_progress": 1,
+    "progress": 0
   },
   "killTwins": {
     "earned": true,
-    "earned_time": 1723045257
+    "earned_time": 1723045257,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "limboSurfer": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
+  },
+  "overKill": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughAcademy": {
     "earned": true,
-    "earned_time": 1723041682
+    "earned_time": 1723041682,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughAllGameHardcore": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughChelomey": {
     "earned": true,
-    "earned_time": 1720877515
+    "earned_time": 1720877515,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughGirsBestFriend": {
     "earned": true,
-    "earned_time": 1724224439
+    "earned_time": 1724224439,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughHospital": {
     "earned": true,
-    "earned_time": 1722867300
+    "earned_time": 1722867300,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughLesnaya": {
     "earned": true,
-    "earned_time": 1721210400
+    "earned_time": 1721210400,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughLordOfTheFlies": {
     "earned": true,
-    "earned_time": 1724221785
+    "earned_time": 1724221785,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughPavlov": {
     "earned": true,
-    "earned_time": 1722875961
+    "earned_time": 1722875961,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughReturnToUtopia": {
     "earned": true,
-    "earned_time": 1724254667
+    "earned_time": 1724254667,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughTheater": {
     "earned": true,
-    "earned_time": 1722580773
+    "earned_time": 1722580773,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughVDNH": {
     "earned": true,
-    "earned_time": 1722075000
+    "earned_time": 1722075000,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughVavilov": {
     "earned": true,
-    "earned_time": 1721121108
+    "earned_time": 1721121108,
+    "max_progress": 1,
+    "progress": 0
   },
   "playthroughWeirdScience": {
     "earned": true,
-    "earned_time": 1724136598
+    "earned_time": 1724136598,
+    "max_progress": 1,
+    "progress": 0
   },
   "progress100": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 41,
+    "progress": 40
   },
   "researchAnalyzAllMobs": {
     "earned": true,
-    "earned_time": 1721378280
+    "earned_time": 1721378280,
+    "max_progress": 49,
+    "progress": 0
   },
   "researchAnimalDialogue": {
     "earned": true,
-    "earned_time": 1724313399
+    "earned_time": 1724313399,
+    "max_progress": 3,
+    "progress": 0
   },
   "researchCollectAllAudioDiary": {
     "earned": true,
-    "earned_time": 1723039295
+    "earned_time": 1723039295,
+    "max_progress": 73,
+    "progress": 0
   },
   "researchCompleteAllTestSites": {
     "earned": true,
-    "earned_time": 1723037400
+    "earned_time": 1723037400,
+    "max_progress": 8,
+    "progress": 0
   },
   "researchCorpseDialogue": {
     "earned": true,
-    "earned_time": 1722875400
+    "earned_time": 1722875400,
+    "max_progress": 46,
+    "progress": 0
   },
   "researchFindAllTestSites": {
     "earned": true,
-    "earned_time": 1722944700
+    "earned_time": 1722944700,
+    "max_progress": 8,
+    "progress": 0
   },
   "researchHelloPhone": {
     "earned": true,
-    "earned_time": 1720876923
+    "earned_time": 1720876923,
+    "max_progress": 1,
+    "progress": 0
   },
   "researchLootboy": {
     "earned": true,
-    "earned_time": 1722946567
+    "earned_time": 1722946567,
+    "max_progress": 24,
+    "progress": 0
   }
 }
