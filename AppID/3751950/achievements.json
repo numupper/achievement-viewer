@@ -37,7 +37,8 @@
   "ACObsidian_Ach_16": {
     "description": "Complete every activity in a single location",
     "displayName": "Owned",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784404475
   },
   "ACObsidian_Ach_17": {
     "description": "Kill 10 enemies by hanging them with the rope dart",
@@ -62,7 +63,8 @@
   "ACObsidian_Ach_20": {
     "description": "Kill an enemy with a wall takedown",
     "displayName": "Backs To The Wall",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784398426
   },
   "ACObsidian_Ach_21": {
     "description": "After a perfect parry, perform a total of four takedowns",
@@ -83,7 +85,8 @@
   "ACObsidian_Ach_24": {
     "description": "Captain your own ship (complete Sequence 2, Memory 6)",
     "displayName": "A Poxy Bird",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784403179
   },
   "ACObsidian_Ach_25": {
     "description": "Settle in a new home (complete Sequence 4, Memory 1)",
@@ -128,12 +131,14 @@
   "ACObsidian_Ach_32": {
     "description": "Survive a rogue wave taken from the side",
     "displayName": "Unsinkable",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784403051
   },
   "ACObsidian_Ach_33": {
     "description": "Learn a new shanty",
     "displayName": "Yo Hoâ€¦",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784400313
   },
   "ACObsidian_Ach_34": {
     "description": "Dash ram a ramming Brig",
@@ -173,7 +178,8 @@
   "ACObsidian_Ach_40": {
     "description": "Craft an item",
     "displayName": "Smooth Operator",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784403724
   },
   "ACObsidian_Ach_41": {
     "description": "Spend 50,000 Reales",
