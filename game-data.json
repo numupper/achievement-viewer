@@ -1,5 +1,5 @@
 {
-  "last_updated": 1785908571,
+  "last_updated": 1785957754,
   "total_games": 277,
   "games": [
     {
@@ -137114,7 +137114,7 @@
           "earned": false,
           "earned_time": 0,
           "max_progress": 11,
-          "progress": 1
+          "progress": 5
         },
         "DLC4End": {
           "earned": false,
@@ -137135,8 +137135,8 @@
           "progress": 0
         },
         "EasterEggFromFluffy": {
-          "earned": false,
-          "earned_time": 0,
+          "earned": true,
+          "earned_time": 1785948769,
           "max_progress": 1,
           "progress": 0
         },
