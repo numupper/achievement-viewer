@@ -1,5 +1,5 @@
 {
-  "last_updated": 1786939840,
+  "last_updated": 1786994995,
   "total_games": 277,
   "games": [
     {
@@ -23081,8 +23081,8 @@
           "progress": 0
         },
         "RaccoonFigurine": {
-          "earned": false,
-          "earned_time": 0,
+          "earned": true,
+          "earned_time": 1786985567,
           "max_progress": 1,
           "progress": 0
         },
