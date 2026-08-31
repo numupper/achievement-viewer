@@ -1,5 +1,5 @@
 {
-  "last_updated": 1788126896,
+  "last_updated": 1788161444,
   "total_games": 278,
   "games": [
     {
@@ -23006,7 +23006,7 @@
           "earned": false,
           "earned_time": 0,
           "max_progress": 11,
-          "progress": 5
+          "progress": 7
         },
         "DLC4End": {
           "earned": false,
@@ -23015,8 +23015,8 @@
           "progress": 0
         },
         "DeathTerminator": {
-          "earned": false,
-          "earned_time": 0,
+          "earned": true,
+          "earned_time": 1787992849,
           "max_progress": 1,
           "progress": 0
         },
@@ -23063,8 +23063,8 @@
           "progress": 11
         },
         "LastTwinsDead": {
-          "earned": false,
-          "earned_time": 0,
+          "earned": true,
+          "earned_time": 1787992361,
           "max_progress": 1,
           "progress": 0
         },
